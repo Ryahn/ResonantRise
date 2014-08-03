@@ -240,6 +240,8 @@
 
         <mod authors="Emoniph" description="More magic with a witch's bent!" download="server" url="packs/ResonantRise/files/3.x/witchery-1.7.10-0.20.2.jar" file="witchery-1.7.10-0.20.2.jar" md5="6bc8783c4b6f5d1431f9747de7f0b079" name="Witchery" type="mods" version="0.20.2" website="https://sites.google.com/site/witcherymod/home"/>
 
+        <mod name="YAMPST" version="3-DEV-008" url="packs/ResonantRise/files/3.x/Yampst-Resonant-Rise-3-DEV-008.jar" file="Yampst-Resonant-Rise-3-DEV-008.jar" md5="71638d29952d41140bf81a7a04fb0bc4" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091766" description="YAMPST is an open-source statistics tracking tool for mod packs" authors="bilde2910, Commador" />
+
         
 
         <!-- Client Only -->
