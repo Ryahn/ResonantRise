@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-007</version>
+        <version>3-DEV-008</version>
         <minecraft>1.7.10</minecraft>
         <memory>2048</memory>
         <permgen>256</permgen>
