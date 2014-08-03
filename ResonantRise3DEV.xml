@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-007</version>
+        <version>3-DEV-009</version>
         <minecraft>1.7.10</minecraft>
         <memory>2048</memory>
         <permgen>256</permgen>
@@ -108,7 +108,7 @@
 
         <mod authors="Myrathi" description="lol horsemeat scandal" download="server" version="2.0.0.10" url="packs/ResonantRise/files/3.x/FinndusFillies-1.7.2-universal-2.0.0.10.jar" file="FinndusFillies-1.7.2-universal-2.0.0.10.jar" md5="7d9f579e0d41e920ddf9bc31c2051c1d" name="Finndus Fillies" type="mods" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"/>
 
-        <mod name="Steam Power Mod" version="0.24.0" url="packs/ResonantRise/files/3.x/FlaxbeardsSteamPower-1.7.10-0.24.0.jar" file="FlaxbeardsSteamPower-1.7.10-0.24.0.jar" md5="1387279b7d0373c9f4f0d0fb771fd8d6" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995" description="Adds various steam powered gadgetry. Comes with shotguns and no warranties" />
+        <mod name="Steam Power Mod" version="0.25.0-dev-8" url="packs/ResonantRise/files/3.x/FlaxbeardsSteamPower-1.7.10-0.25.0-dev-8.jar" file="FlaxbeardsSteamPower-1.7.10-0.25.0-dev-8.jar" md5="b7ba312c7ee34a3ffac62f34a1ba7371" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995" description="Adds various steam powered gadgetry. Comes with shotguns and no warranties" />
 
         <mod authors="SirSengir, MysteriousAges" description="Bees, Trees, and Automate-ables." donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" download="server" url="packs/ResonantRise/files/3.x/forestry_1.7.10-2.4.2.31.jar" file="forestry_1.7.10-2.4.2.31.jar" md5="a49893fccc5f951e7b1d1be6096d4789" name="Forestry" type="mods" version="2.4.2.31" website="http://forestry.sengir.net/wiki.new/"/>        
 
@@ -239,6 +239,8 @@
         <mod authors="Calclavia, tgame14, UE Team" name="Universal Electricty API" description="Base for all UE mods." donation="http://universalelectricity.com/" version="4.0.0.9" fileprefix="00000_" url="packs/ResonantRise/files/3.x/universal-electricity-4.0.0.9-api.zip" file="universal-electricity-4.0.0.9-api.zip" md5="c4dc7728c70da6a0ef9d6d51dfac2dd2" download="server" type="mods" website="http://universalelectricity.com/" />
 
         <mod authors="Emoniph" description="More magic with a witch's bent!" download="server" url="packs/ResonantRise/files/3.x/witchery-1.7.10-0.20.2.jar" file="witchery-1.7.10-0.20.2.jar" md5="6bc8783c4b6f5d1431f9747de7f0b079" name="Witchery" type="mods" version="0.20.2" website="https://sites.google.com/site/witcherymod/home"/>
+
+        <mod name="YAMPST" version="3-DEV-008" url="packs/ResonantRise/files/3.x/Yampst-Resonant-Rise-3-DEV-008.jar" file="Yampst-Resonant-Rise-3-DEV-008.jar" md5="71638d29952d41140bf81a7a04fb0bc4" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091766" description="YAMPST is an open-source statistics tracking tool for mod packs" authors="bilde2910, Commador" />
 
         
 
