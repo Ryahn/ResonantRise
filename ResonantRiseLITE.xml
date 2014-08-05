@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.9.2.2-RR-LITE</version>
+    <version>2.9.2.4-RR-LITE</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -126,8 +126,8 @@
          name="Dimensional Anchors" type="mods" version="57.1.96"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" authors="immibis"
          description="Immibis's chunk loaders. Preferred."  />
-	<mod name="EiraIRC" version="mc1.6.4-v1.6.3"
-		 url="packs/ResonantRiseLite/files/mods/eirairc-mc1.6.4-v1.6.3.jar" file="eirairc-mc1.6.4-v1.6.3.jar" md5="56418c20cfc9b55ce48ca633602d97a8" download="server" 
+	<mod name="EiraIRC" version="1.7.0"
+		 url="packs/ResonantRiseLite/files/mods/eirairc-mc1.6.4-v1.7.0.jar" file="eirairc-mc1.6.4-v1.7.0.jar" md5="9b3010e6274a216dbc7fc93970918e45" download="server" 
 		 type="mods" optional="yes" recommended="no"
 		 website="http://www.minecraftforum.net/topic/1964989-" authors="blay09"
 		 description="An IRC Connector that works both on clients and servers independently, with some neat special features." />
@@ -420,12 +420,12 @@
 	
 		<!-- Special Mode Configs -->
 	<mod name="EiraIRC Client Config" version="n/a"
-		 url="packs/ResonantRiseLite/files/config-switches/eira_client_2.8.3.8.zip" file="eira_client_2.8.3.8.zip" md5="ff1dff09d30ff55409fe47eb1f18af5e" download="server"
+		 url="packs/ResonantRiseLite/files/config-switches/eira_client_2.9.2.4.zip" file="eira_client_2.9.2.4.zip" md5="ea774c74e76cf4dab9383c4ad7309602" download="server" 
 		 type="extract" extractto="root" client="yes" server="no"
 		 website="http://resonant-rise.com"
 		 description="Client-specific configs for EiraIRC." />
 	<mod name="EiraIRC Server Config" version="n/a"
-		 url="packs/ResonantRiseLite/files/config-switches/eira_server_2.8.3.8.zip" file="eira_server_2.8.3.8.zip" md5="632f7c55df4a50cecefdffd7906be5f7" download="server" 
+		 url="packs/ResonantRiseLite/files/config-switches/eira_server_2.9.2.4.zip" file="eira_server_2.9.2.4.zip" md5="cb1fd89e17c252af77eaa7b527b775a9" download="server" 
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
