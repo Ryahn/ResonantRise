@@ -352,7 +352,7 @@
          website="http://www.minecraftforum.net/topic/2637187-" authors="Techjar101"
          description="Glorious CYMK wool!" />
 	<mod name="ICBM [wildex999 Fork]" version="1.4.2.386-wx9.003"
-		 url="packs/ResonantRise/files/ICBM-1.4.2.386-wx9.003.jar" file="ICBM-1.4.2.386-wx9.003.jar" md5="955d25d9e57a8b40aeb026a20f6b1dc5" download="server" 
+		 url="packs/ResonantRise/files/mods/ICBM-1.4.2.386-wx9.003.jar" file="ICBM-1.4.2.386-wx9.003.jar" md5="955d25d9e57a8b40aeb026a20f6b1dc5" download="server" 
 		 type="mods" depends="Resonant Engine" optional="yes" recommended="no"
 		 website="https://github.com/wildex999/ICBM/releases" authors="Calclavia, UE Team, wildex999" donation="http://universalelectricity.com/"
 		 description="Blow things up in style. No longer guaranteed to legitimately destroy worlds!" />
