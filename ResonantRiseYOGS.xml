@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.9.2.3-RR-YOGS</version>
+    <version>2.9.2.4-RR-YOGS</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -209,8 +209,8 @@
          name="Dimensional Anchors" type="mods" version="57.1.96"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" authors="immibis"
          description="Immibis's chunk loaders. Preferred."  />
-	<mod name="EiraIRC" version="mc1.6.4-v1.6.3"
-		 url="packs/YogscastCompletePack/files/mods/eirairc-mc1.6.4-v1.6.3.jar" file="eirairc-mc1.6.4-v1.6.3.jar" md5="56418c20cfc9b55ce48ca633602d97a8" download="server" 
+	<mod name="EiraIRC" version="1.7.0"
+		 url="packs/YogscastCompletePack/files/mods/eirairc-mc1.6.4-v1.7.0.jar" file="eirairc-mc1.6.4-v1.7.0.jar" md5="9b3010e6274a216dbc7fc93970918e45" download="server" 
 		 type="mods" optional="yes" recommended="no"
 		 website="http://www.minecraftforum.net/topic/1964989-" authors="blay09"
 		 description="An IRC Connector that works both on clients and servers independently, with some neat special features." />
@@ -351,10 +351,10 @@
          name="HexWool" type="mods" version="0.3.2"
          website="http://www.minecraftforum.net/topic/2637187-" authors="Techjar101"
          description="Glorious CYMK wool!" />
-	<mod name="ICBM" version="1.4.2.386"
-		 url="packs/YogscastCompletePack/files/mods/ICBM-1.4.2.386.jar" file="ICBM-1.4.2.386.jar" md5="edf9ef22aab0105f4a22423b24dc4ca0" download="server" 
+	<mod name="ICBM [wildex999 Fork]" version="1.4.2.386-wx9.003"
+		 url="packs/YogscastCompletePack/files/mods/ICBM-1.4.2.386-wx9.003.jar" file="ICBM-1.4.2.386-wx9.003.jar" md5="955d25d9e57a8b40aeb026a20f6b1dc5" download="server" 
 		 type="mods" depends="Resonant Engine" optional="yes" recommended="no"
-		 website="http://calclavia.com/calclavia-core/" authors="Calclavia, UE Team" donation="http://universalelectricity.com/"
+		 website="https://github.com/wildex999/ICBM/releases" authors="Calclavia, UE Team, wildex999" donation="http://universalelectricity.com/"
 		 description="Blow things up in style. No longer guaranteed to legitimately destroy worlds!" />
 	<mod url="packs/YogscastCompletePack/files/mods/iChunUtil2.4.0.zip" file="iChunUtil2.4.0.zip" md5="6d6decd8d8c36c82743e552f4f1e1d37" download="server"
 		 name="iChunUtil" version="2.4.0"  type="mods"
@@ -393,8 +393,8 @@
     <mod url="packs/YogscastCompletePack/files/mods/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" authors="immibis" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/YogscastCompletePack/files/mods/LogisticsPipes-MC1.6.4-0.7.4.dev.292.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.292.jar" md5="814d0f73d58bda8ccf1edccb10e0f2b5" download="server"
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.292" optional="yes" recommended="no"
+    <mod url="packs/YogscastCompletePack/files/mods/LogisticsPipes-MC1.6.4-0.7.4.dev.293.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.293.jar" md5="400bc03e369a4ff6a9fa70c4b199ef88" download="server"
+         name="Logistics Pipes" type="mods" version="0.7.4.dev.293" optional="yes" recommended="no"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" authors="theZorro266" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
     <mod name="Mad Science" version="1.00.165"
@@ -505,13 +505,13 @@
          name="OpenBlocks" type="mods" version="1.2.9"
          website="http://openmods.info/" authors="Mikee, boq, OpenMods Team"
          description="An amazing open source mode that does amazing things." />
-	<mod name="OpenComponents" version="0.2.0.46"
-		 url="packs/YogscastCompletePack/files/mods/OpenComponents-MC1.6.4-0.2.0.46-universal.jar" file="OpenComponents-MC1.6.4-0.2.0.46-universal.jar" md5="99be7970c553cce828d41fd0dbe10a56" download="server" 
+	<mod name="OpenComponents" version="0.2.0.47"
+		 url="packs/YogscastCompletePack/files/mods/OpenComponents-MC1.6.4-0.2.0.47-universal.jar" file="OpenComponents-MC1.6.4-0.2.0.47-universal.jar" md5="55d1f6a004d9169ae9d113891e92ae1a" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar"
 		 description="Companion interface extension for OpenComputers." />
-	<mod name="OpenComputers" version="1.3.1.516"
-		 url="packs/YogscastCompletePack/files/mods/OpenComputers-MC1.6.4-1.3.1.516-universal.jar" file="OpenComputers-MC1.6.4-1.3.1.516-universal.jar" md5="84481d7af321227b663803b458cbb734" download="server"
+	<mod name="OpenComputers" version="1.3.2.525"
+		 url="packs/YogscastCompletePack/files/mods/OpenComputers-MC1.6.4-1.3.2.525-universal.jar" file="OpenComputers-MC1.6.4-1.3.2.525-universal.jar" md5="7f91098ad25d033a4ee3368c69b5435e" download="server"
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar"
 		 description="Computers for hipsters and bytecode leethaxxors." />
@@ -864,12 +864,12 @@
 	
 		<!-- Special Mode Configs -->
 	<mod name="EiraIRC Client Config" version="n/a"
-		 url="packs/YogscastCompletePack/files/config-switches/eira_client_2.8.3.8.zip" file="eira_client_2.8.3.8.zip" md5="ff1dff09d30ff55409fe47eb1f18af5e" download="server"
+		 url="packs/YogscastCompletePack/files/config-switches/eira_client_2.9.2.4.zip" file="eira_client_2.9.2.4.zip" md5="ea774c74e76cf4dab9383c4ad7309602" download="server" 
 		 type="extract" extractto="root" client="yes" server="no"
 		 website="http://resonant-rise.com"
 		 description="Client-specific configs for EiraIRC." />
 	<mod name="EiraIRC Server Config" version="n/a"
-		 url="packs/YogscastCompletePack/files/config-switches/eira_server_2.8.3.8.zip" file="eira_server_2.8.3.8.zip" md5="632f7c55df4a50cecefdffd7906be5f7" download="server" 
+		 url="packs/YogscastCompletePack/files/config-switches/eira_server_2.9.2.4.zip" file="eira_server_2.9.2.4.zip" md5="cb1fd89e17c252af77eaa7b527b775a9" download="server" 
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
@@ -900,8 +900,8 @@
                  type="mods"
                  website="http://ichun.us/mods/hats/hatstand/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
                  description="Addon for Hats, a Hat Stand block to display hats." />
-		<mod name="Morph" version="0.7.2"
-				 url="packs/YogscastCompletePack/files/mods/Morph-Beta-0.7.2.zip" file="Morph-Beta-0.7.2.zip" md5="1fc85ac98a349532b1a1a05e07077294" download="server"
+		<mod name="Morph" version="0.7.2*"
+				 url="packs/YogscastCompletePack/files/mods/Morph-Beta-0.7.2_nospam.zip" file="Morph-Beta-0.7.2_nospam.zip" md5="201e1d5c06060bb3df858120d97dbd3e" download="server" 
 				 type="mods" optional="yes" recommended="no"
 				 website="http://ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
 				 description="Morph mod, made for ModJam 2. Allows players to acquire the morph skill and turn into other mobs." />
