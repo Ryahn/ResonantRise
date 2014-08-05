@@ -11,4 +11,4 @@ val bone_meal = <item.dyePowder:15>;
 val white_dye = <ore:dyeWhite>;
 
 recipes.addShaped(porc, [[bone_meal, clay, null]]);
-recipes.addShaped(ceramic_dye_white, [[clay, white_dye, null]]);
+recipes.addShaped(ceramic_dye_white * 4, [[clay, white_dye, null]]);
