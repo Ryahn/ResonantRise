@@ -104,7 +104,7 @@
 
         <mod authors="Erasmus_Crowley" description="Helper mod mainly used for SkyBlock type maps to help with SkyBlock maps" download="server"  url="packs/ResonantRise/files/3.x/Ex-Nihilo-1.34.jar" file="Ex-Nihilo-1.34.jar" md5="164240c78fca970c2d3282c10482eec4" name="Ex Nihilo" optional="yes" type="mods" version="1.34" website="http://www.minecraftforum.net/topic/1981778-"/>
 
-        <mod authors="M3gaFr3ak" depends="Applied Energistics 2" description="A massive expansion to Applied Energistics. Store fluids and more." download="server" version="2.1.3" url="packs/ResonantRise/files/3.x/ExtraCells-2.1.3.jar" file="ExtraCells-2.1.3.jar" md5="ee8e3d70a8c07d193edd37a3f054f9fc" name="Extra Cells" type="mods" website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/"/>
+        <!-- <mod authors="M3gaFr3ak" depends="Applied Energistics 2" description="A massive expansion to Applied Energistics. Store fluids and more." download="server" version="2.1.3" url="packs/ResonantRise/files/3.x/ExtraCells-2.1.3.jar" file="ExtraCells-2.1.3.jar" md5="ee8e3d70a8c07d193edd37a3f054f9fc" name="Extra Cells" type="mods" website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/"/> -->
 
         <mod name="ExtraTiC" version="1.7.10-1.0.0.c051d99" url="packs/ResonantRise/files/3.x/ExtraTiC-1.7.10-1.0.0.c051d99.jar" file="ExtraTiC-1.7.10-1.0.0.c051d99.jar" md5="466733e5ff93f9731394aaa2fe7c1f55" download="server" type="mods" optional="yes" website="http://www.minecraftforum.net/topic/1985397-" authors="Glassmaker" description="An Addon mod for Tinker&apos;s Construct and Metallurgy" />
 
