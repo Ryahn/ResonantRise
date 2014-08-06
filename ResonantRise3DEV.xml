@@ -50,7 +50,7 @@
 
         <mod name="Another Ore Bites The Dust" version="2.2.2" authors="ganymedes01" url="packs/ResonantRise/files/3.x/AOBD-2.2.2.jar" file="AOBD-2.2.2.jar" md5="4026c141b1dad08542d2c73cd6ef67e1" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528" description="Ore 2 Dust Super Bridge" />
         
-        <mod name="Applied Energistics 2" version="rv1-alpha-41" file="appliedenergistics2-rv1-alpha-41.jar" md5="e0b638b62e50a901cff6aae612d74dc5" authors="AlgorithmX2" description="Zwip." donation="http://ae2.ae-mod.info/" download="server"  optional="no" type="mods" url="packs/ResonantRise/files/3.x/appliedenergistics2-rv1-alpha-41.jar" website="http://ae2.ae-mod.info/"/>
+        <mod name="Applied Energistics 2" version="rv1-alpha-41" file="appliedenergistics2-rv1-alpha-41.jar" md5="c5ccf91e39c6b722234f1995267ddc1b" authors="AlgorithmX2" description="Zwip." donation="http://ae2.ae-mod.info/" download="server"  optional="no" type="mods" url="packs/ResonantRise/files/3.x/appliedenergistics2-rv1-alpha-41.jar" website="http://ae2.ae-mod.info/"/>
 
         <mod name="Asie Statues Lib" version="10-0.2.7" authors="Asie" url="packs/ResonantRise/files/3.x/AsieLib-1.7.10-0.2.7.jar" file="AsieLib-1.7.10-0.2.7.jar" md5="afaf4ebbb04c34b4be10c965ffa20a7a" download="server" type="mods" website="http://mc.shinonome.ch/doku.php?id=wiki:statues" description="Statues is a Minecraft mod by AUTOMATIC_MAIDEN which adds statues and showcases. Ported primarily due to the fact that MAIDEN's mods are under the GPLv2." />
          
