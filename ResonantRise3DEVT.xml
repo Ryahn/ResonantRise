@@ -80,6 +80,72 @@
 					Witchery
 					"
 			 />
+			 
+		<mod name="Industrial Era" version="n/a"
+			 url="packs/ResonantRise/files/config-switches/zone02.zip" file="zone02.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
+			 type="extract" extractto="root" optional="yes" recommended="no"
+			 website="http://resonant-rise.com"
+			 authors="Velotican"
+			 description="Enables Industrial Era features and mods."
+			 depends="
+					Antiquity,
+					Medieval Era,
+					Another Ore Bites The Dust,
+					BuildCraft,
+					ComputerCraft,
+					DecoCraft,
+					EnderIO,
+					Factorization,
+					Flaxbeard's Steam Power Mod,
+					Gendustry,
+					Greg's Lighting,
+					Immibis' Peripherals,
+					MineFactory Reloaded,
+					OpenBlocks,
+					OpenComponents,
+					OpenComputers,
+					Project Red: Integration,
+					Project Red: Lighting,
+					QuarryPlus,
+					Random Things,
+					Redstone Arsenal,
+					Simply Jetpacks,
+					Steve's Carts,
+					Super Crafting Frame,
+					Thermal Expansion,
+					Tinker's Mechworks,
+					TubeStuff
+					"
+			 />
+			 
+		<mod name="Stellar Dream" version="n/a"
+			 url="packs/ResonantRise/files/config-switches/zone02.zip" file="zone02.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
+			 type="extract" extractto="root" optional="yes" recommended="no"
+			 website="http://resonant-rise.com"
+			 authors="Velotican"
+			 description="Enables the very generous Stellar Dream features and mods."
+			 depends="
+					Antiquity,
+					Medieval Era,
+					Industrial Era,
+					Advanced Genetics Mod,
+					Applied Energistics 2,
+					Ex Nihilo,
+					Extra Utilities,
+					Galacticraft Core,
+					Galacticraft Mars,
+					Infinitubes,
+					Liquid XP,
+					Mekanism,
+					MekanismGenerators,
+					MekanismTools,
+					Modular Forcefield System,
+					Project Red: Mechanical,
+					Remain in Motion,
+					RemoteIO,
+					Steve's Factory Manager
+					"
+			 />
 
 <!-- Core Modset -->			 
 		
