@@ -6,10 +6,8 @@
         <permgen>256</permgen>
         <caseallfiles>upper</caseallfiles> <!-- Load Order mismatch fix -->
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
-        <extraarguments>
-			--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker <!-- Forge ModLoader trigger -->
-			--tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker <!-- LiteLoader trigger as FML library -->
-        </extraarguments>
+        <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
+		<!-- ^ Forge ModLoader trigger, load LiteLoader as a FML library -->
     </pack>
 
 <!-- Backend Java libraries for Forge -->
