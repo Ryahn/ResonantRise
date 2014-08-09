@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-012</version>
+        <version>3-DEV-013</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -195,6 +195,12 @@
              website="https://github.com/Chicken-Bones/ForgeMultipart" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
              authors="ChickenBones"
 			 description="Open source library for facilitation of multiple functional parts in the one block space." />
+			 
+		<mod name="Java 7 Checker" version="1.1"
+			 url="packs/ResonantRise/files/forgelibs/Java7Checker  MC-1.7.10  v1.1.jar" file="Java7Checker  MC-1.7.10  v1.1.jar" md5="df320acb38beec3cf0a2e6b535811d8f" download="server" 
+			 type="mods"
+			 website="http://hardcore-enderdragon.wikia.com/wiki/Home" authors="chylex"
+			 description="Checks for Java 7. Should hopefully help with the fact that 90% of our bug reports are people trying to use Java 6." />
 
     <!-- Eternity Era Mods: Mods Available in all Modes (Alphabetized) -->
 	
@@ -728,7 +734,7 @@
 			 description="Cheap floodlights! \o/" />
 
         <mod name="Hardcore Ender Expansion" version="1.6.2"
-             url="packs/ResonantRise/files/3.x/HEE_1.7.10_pre-release-1.6.2.zip" file="HEE_1.7.10_pre-release-1.6.2.zip" md5="3b0b3368036f91c41a6228fb16cc80ca" download="server"
+             url="packs/ResonantRise/files/3.x/HardcoreEnderExpansion  MC-1.7.10  v1.6.2-pre.jar" file="HardcoreEnderExpansion  MC-1.7.10  v1.6.2-pre.jar" md5="0946170dffa20d77a477d893f0ec7443" download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1066990-" donation="http://www.patreon.com/chylex"
              authors="chylex"
