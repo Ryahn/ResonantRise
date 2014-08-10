@@ -574,7 +574,7 @@
 			 authors="Benimatic (Ben Mazur)"
 			 description="An enchanted forest dimension." />
 
-        <mod name="Universal Electricity Core" version="4.0.0.29" fileprefix="00000_"
+        <mod name="Universal Electricity Core" version="4.0.0.29"
 			 url="packs/ResonantRise/files/3.x/universal-electricity-4.0.0.29-core.jar" file="universal-electricity-4.0.0.29-core.jar" md5="0812937f6cf658172eb375e33b6bbbc7" download="server"
              type="mods"
              website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
@@ -928,7 +928,7 @@
              description="Players of modded Minecraft face many problems: chests are too messy, you need to fit that one pipe onto a block, but it doesn&apos;t look nice that way, there are too many pipes everywhere etc. Refined Relocation is here to make your modded Minecraft life easier! Not another new system, but something that works with existing systems and makes it better." />
 
         <mod name="Remain in Motion" version="2.0.1"
-             url="packs/ResonantRise/files/3.x/RemainInMotion-2.0.1.jar" file="RemainInMotion-2.0.1.jar" md5="367e5a1fd9a6793e683c84b161ce2aba"	download="server"
+             url="packs/ResonantRise/files/3.x/RemainInMotion-2.0.1.jar" file="RemainInMotion-2.0.1.jar" md5="367e5a1fd9a6793e683c84b161ce2aba"  download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://forums.technicpack.net/topic/59545-"
 			 authors="jakj, planetguy"
