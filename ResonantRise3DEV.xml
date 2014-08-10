@@ -574,8 +574,8 @@
 			 authors="Benimatic (Ben Mazur)"
 			 description="An enchanted forest dimension." />
 
-        <mod name="Universal Electricity Core" version="4.0.0.9" fileprefix="00000_"
-			 url="packs/ResonantRise/files/3.x/universal-electricity-4.0.0.9-core.jar" file="universal-electricity-4.0.0.9-core.jar" md5="d18f24314a8edc5150542de794d41ec4" download="server"
+        <mod name="Universal Electricity Core" version="4.0.0.29" fileprefix="00000_"
+			 url="packs/ResonantRise/files/3.x/universal-electricity-4.0.0.29-core.jar" file="universal-electricity-4.0.0.29-core.jar" md5="0812937f6cf658172eb375e33b6bbbc7" download="server"
              type="mods"
              website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
 			 authors="Calclavia, tgame14, UE Team"
@@ -829,12 +829,12 @@
 			 authors="joshie"
              description="If you're looking for me, look under the sea, because that is where you'll find me." />	 
 			 
-        <mod name="Modular Forcefield System" version="4.0.0.18"
+        <!-- <mod name="Modular Forcefield System" version="4.0.0.18"
 			 url="packs/ResonantRise/files/3.x/mffs-4.0.0.18-core.jar" file="mffs-4.0.0.18-core.jar" md5="4bb3855ad97f872578c27c285537fc1c" download="server"
 			 type="mods" depends="Resonant Engine" optional="yes" recommended="no"
 			 website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
 			 authors="Calclavia, based on the original by Thunderdark"
-             description="Calclavia's Forcefield System." />
+             description="Calclavia's Forcefield System." /> -->
 
         <mod name="OpenBlocks" version="1.7.10-1.3-snapshot-430"
              url="packs/ResonantRise/files/3.x/OpenBlocks-1.7.10-1.3-snapshot-430.jar" file="OpenBlocks-1.7.10-1.3-snapshot-430.jar" md5="13fdaa64b4cfef0dd607882081e32760" download="server"
