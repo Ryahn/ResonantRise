@@ -519,22 +519,22 @@
              authors="Mikeemoo"
 			 description="This is required for all OpenMods." />
 
-        <mod name="Project Red: Base" version="4.4.5.44"
-             url="packs/ResonantRise/files/3.x/ProjectRed-Base-1.7.10-4.4.5.44.jar" file="ProjectRed-Base-1.7.10-4.4.5.44.jar" md5="8d0a5c286434f77fb20cfa32fff59d48" download="server"
+        <mod name="Project Red: Base" version="4.4.6.45"
+             url="packs/ResonantRise/files/3.x/ProjectRed-Base-1.7.10-4.4.6.45.jar" file="ProjectRed-Base-1.7.10-4.4.6.45.jar" md5="5bd15b770cf6972d7f997ad777e7109d" download="server"
              type="mods"
 			 website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
 			 authors="Mr_TJP, ChickenBones"
 			 description="RedPower2 Clone" />
 
-		<mod name="Project Red: Compat" version="4.4.5.44"
-             url="packs/ResonantRise/files/3.x/ProjectRed-Compat-1.7.10-4.4.5.44.jar" file="ProjectRed-Compat-1.7.10-4.4.5.44.jar" md5="580b371c352c2570e1dae1233b4c88b7" download="server"
+		<mod name="Project Red: Compat" version="4.4.6.45"
+             url="packs/ResonantRise/files/3.x/ProjectRed-Compat-1.7.10-4.4.6.45.jar" file="ProjectRed-Compat-1.7.10-4.4.6.45.jar" md5="580b371c352c2570e1dae1233b4c88b7" download="server"
              type="mods" depends="Project Red: Base"
 			 website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
 			 authors="Mr_TJP, ChickenBones"
 			 description="RedPower2 Clone" />
 
-		<mod name="Project Red: World" version="4.4.5.44"
-             url="packs/ResonantRise/files/3.x/ProjectRed-World-1.7.10-4.4.5.44.jar" file="ProjectRed-World-1.7.10-4.4.5.44.jar" md5="166ad75201465152bc25f7deb3f7d53b" download="server"
+		<mod name="Project Red: World" version="4.4.6.45"
+             url="packs/ResonantRise/files/3.x/ProjectRed-World-1.7.10-4.4.6.45.jar" file="ProjectRed-World-1.7.10-4.4.6.45.jar" md5="735f4e7d1655085ed97ea08fe2131ad6" download="server"
              type="mods" depends="Project Red: Base"
 			 website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
 			 authors="Mr_TJP, ChickenBones"
@@ -893,22 +893,22 @@
         	 authors="Mikeemoo,cybcaoyibo,SinZ" 
         	 description="Converts many blocks into ComputerCraft peripherals!" />
 
-		<mod name="Project Red: Integration" version="4.4.5.44"
-             url="packs/ResonantRise/files/3.x/ProjectRed-Integration-1.7.10-4.4.5.44.jar" file="ProjectRed-Integration-1.7.10-4.4.5.44.jar" md5="17f076c6b00c38d71304be9ce4deaae8" download="server"
+		<mod name="Project Red: Integration" version="4.4.6.45"
+             url="packs/ResonantRise/files/3.x/ProjectRed-Integration-1.7.10-4.4.6.45.jar" file="ProjectRed-Integration-1.7.10-4.4.6.45.jar" md5="5330128e0b4fd36946bb9152f9d8f0ed" download="server"
              type="mods" depends="Project Red: Base" optional="yes" recommended="no"
 			 website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
 			 authors="Mr_TJP, ChickenBones"
 			 description="RedPower2 Clone" />
 			 
-		<mod name="Project Red: Lighting" version="4.4.5.44"
-             url="packs/ResonantRise/files/3.x/ProjectRed-Lighting-1.7.10-4.4.5.44.jar" file="ProjectRed-Lighting-1.7.10-4.4.5.44.jar" md5="658056955c766bcfed255c0405761369" download="server"
+		<mod name="Project Red: Lighting" version="4.4.6.45"
+             url="packs/ResonantRise/files/3.x/ProjectRed-Lighting-1.7.10-4.4.6.45.jar" file="ProjectRed-Lighting-1.7.10-4.4.6.45.jar" md5="76b68186c7cfef44e1bc80a893afce0b" download="server"
              type="mods" depends="Project Red: Base" optional="yes" recommended="no"
 			 website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
 			 authors="Mr_TJP, ChickenBones"
 			 description="RedPower2 Clone" />
 			 
-		<mod name="Project Red: Mechanical" version="4.4.5.44"
-             url="packs/ResonantRise/files/3.x/ProjectRed-Mechanical-1.7.10-4.4.5.44.jar" file="ProjectRed-Mechanical-1.7.10-4.4.5.44.jar" md5="c7a65762e764d85de9c8f0cd2d868a83" download="server"
+		<mod name="Project Red: Mechanical" version="4.4.6.45"
+             url="packs/ResonantRise/files/3.x/ProjectRed-Mechanical-1.7.10-4.4.6.45.jar" file="ProjectRed-Mechanical-1.7.10-4.4.6.45.jar" md5="05ea3ee3716e6f6ef4fb094b7af55f8f" download="server"
              type="mods" depends="Project Red: Base" optional="yes" recommended="no"
 			 website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
 			 authors="Mr_TJP, ChickenBones"
