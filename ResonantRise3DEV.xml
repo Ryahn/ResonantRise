@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-014</version>
+        <version>3-DEV-015</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -274,14 +274,8 @@
 			 authors="WayOfTime"
              description="Alphonse, not nose piercing." />
 
-        <mod name="Blue Power" version="0.1.589" 
-        	 url="packs/ResonantRise/files/3.x/BluePower-1.7.10-0.1.589-universal.jar" file="BluePower-1.7.10-0.1.589-universal.jar" md5="eb62a74f43bf567ab80a22079be6b903" download="server" 
-        	 type="mods" 
-        	 website="http://bluepowermod.com/" donation="http://bluepowermod.com/"
-        	 description="THE POWER OF BLUE!" />
-
-        <mod name="Botania" version="r1.1-98"
-			 url="packs/ResonantRise/files/3.x/Botania r1.1-98.jar" file="Botania r1.1-98.jar" md5="ab8662fa5c6778d9d27622a18ea23d53" download="server"
+        <mod name="Botania" version="r1.1-100"
+			 url="packs/ResonantRise/files/3.x/Botania r1.1-100.jar" file="Botania r1.1-100.jar" md5="5bcecef1bd8f7d9c234ee66b03e81d56" download="server"
 			 type="mods"
              website="http://vazkii.us/mod/Botania/downloads.php"
 			 authors="Vazkii"
@@ -574,8 +568,8 @@
 			 authors="Benimatic (Ben Mazur)"
 			 description="An enchanted forest dimension." />
 
-        <mod name="Universal Electricity Core" version="4.0.0.9" fileprefix="00000_"
-			 url="packs/ResonantRise/files/3.x/universal-electricity-4.0.0.9-core.jar" file="universal-electricity-4.0.0.9-core.jar" md5="d18f24314a8edc5150542de794d41ec4" download="server"
+        <mod name="Universal Electricity Core" version="4.0.0.29"
+			 url="packs/ResonantRise/files/3.x/universal-electricity-4.0.0.29-core.jar" file="universal-electricity-4.0.0.29-core.jar" md5="0812937f6cf658172eb375e33b6bbbc7" download="server"
              type="mods"
              website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
 			 authors="Calclavia, tgame14, UE Team"
@@ -625,12 +619,29 @@
 			 authors="AlgorithmX2"
 			 description="The world's most convenient storage system." />
 
+		<mod name="AE2 Tech Addons" version="1.0-b81" depends="Applied Energistics 2" 
+			 url="packs/ResonantRise/files/3.x/AE2TechAddOn-1.7.10-1.0-b81-universal.jar" 
+			 file="AE2TechAddOn-1.7.10-1.0-b81-universal.jar" md5="1df3c86e28e02ca3c53a350b5fb79f86" 
+			 download="server" type="mods" optional="yes" recommended="no"
+			 authors="fireball1725" website="http://minecraft.curseforge.com/mc-mods/221903" description="Adds new machines and items that are designed to interact with the AE2 Grid" />
+
         <mod name="BiblioWoods Forestry Edition" version="1.4"
              url="packs/ResonantRise/files/3.x/BiblioWoods[Forestry][v1.4].jar" file="BiblioWoods[Forestry][v1.4].jar" md5="7989c9526e11c9cc99033ea67d2fac53" download="server"
 			 type="mods" depends="BiblioCraft,Forestry" optional="yes" recommended="no"
              website="http://www.bibliocraftmod.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NLK9SWM3U77XS"
              authors="Joseph &apos;Nuchaz&apos; Sinclair"
              description="Adds support for 24 varietys of wood from Forestry for 8 of the wooden block in BiblioCraft." />	 
+
+         <!-- <mod name="Big Reactors" version="0.4.0X3" url="packs/ResonantRise/files/3.x/BigReactors-0.4.0X3.jar" 
+         	 file="BigReactors-0.4.0X3.jar" optional="yes" recommended="no" md5="2f42fa1f5a594c7a5b9b7c782d04e94f" download="server" 
+         	 type="mods" website="http://www.big-reactors.com" authors="ErogenousBeef" 
+         	 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power.  Special thanks: powercrystals, skyboy, King_Lemming, &amp; Calclavia for example code." /> -->
+
+        <mod name="Blue Power" version="0.1.627" 
+        	 url="packs/ResonantRise/files/3.x/BluePower-1.7.10-0.1.627-universal.jar" file="BluePower-1.7.10-0.1.627-universal.jar" md5="a85cb77cf677b88b94e5bd980b47bdef" download="server" 
+        	 type="mods" optional="yes" recommended="no"
+        	 website="http://bluepowermod.com/" donation="http://bluepowermod.com/"
+        	 description="THE POWER OF BLUE!" />
 			 
         <mod name="Buildcraft" version="6.0.17"
 			 url="packs/ResonantRise/files/3.x/buildcraft-6.0.17.jar" file="buildcraft-6.0.17.jar" md5="2ed9c4a0512c7fee0389cb9c795f5348" download="server"
@@ -652,6 +663,11 @@
 			 website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292016"
 			 authors="RazzleberryFox"
              description="Decorate until your heart dies." />
+
+        <mod name="Dense Ores" version="1.4.1" url="packs/ResonantRise/files/3.x/denseores-1.4.1.jar" 
+        	 file="denseores-1.4.1.jar" md5="dcca9315a7f92d690205a595b0df45bf" 
+        	 download="server" type="mods" optional="yes" recommended="no"
+        	 website="https://github.com/rwtema/DenseOres" authors="RWTema" description="Randomly makes ores very dense" />
 
         <mod name="EnderIO" version="2.0_beta.164"
 			 url="packs/ResonantRise/files/3.x/enderio-2.0_beta.164.jar" file="enderio-2.0_beta.164.jar" md5="eb19c228c7bb77e32810a65a9b33f1ff" download="server" 
@@ -788,6 +804,12 @@
 			 authors="immibis"
 			 description="Advanced use of XP for auto-enchanting." />
 
+		<mod name="Magic Bees" version="1.7.10-2.1.16" url="packs/ResonantRise/files/3.x/magicbees-1.7.10-2.1.16.jar" 
+			 file="magicbees-1.7.10-2.1.16.jar" md5="bd9017d7af26f2cb6b273342f71ef906" optional="yes" 
+			 recommended="no" download="server" type="mods" 
+			 website="http://www.minecraftforum.net/topic/1627856-" authors="MysteriousAges" 
+			 description="Magic themed bee expansion for Forestry. TC3, EE3, AM compatible!" />
+
         <mod name="Mekanism" version="1.7.10-7.0.0.87"
              url="packs/ResonantRise/files/3.x/Mekanism-1.7.10-7.0.0.87.jar" file="Mekanism-1.7.10-7.0.0.87.jar" md5="2487150d59141e5461204ad8d5d9b1a2" download="server"
 			 type="mods" optional="yes" recommended="no"
@@ -829,12 +851,12 @@
 			 authors="joshie"
              description="If you're looking for me, look under the sea, because that is where you'll find me." />	 
 			 
-        <mod name="Modular Forcefield System" version="4.0.0.18"
+        <!-- <mod name="Modular Forcefield System" version="4.0.0.18"
 			 url="packs/ResonantRise/files/3.x/mffs-4.0.0.18-core.jar" file="mffs-4.0.0.18-core.jar" md5="4bb3855ad97f872578c27c285537fc1c" download="server"
 			 type="mods" depends="Resonant Engine" optional="yes" recommended="no"
 			 website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
 			 authors="Calclavia, based on the original by Thunderdark"
-             description="Calclavia's Forcefield System." />
+             description="Calclavia's Forcefield System." /> -->
 
         <mod name="OpenBlocks" version="1.7.10-1.3-snapshot-430"
              url="packs/ResonantRise/files/3.x/OpenBlocks-1.7.10-1.3-snapshot-430.jar" file="OpenBlocks-1.7.10-1.3-snapshot-430.jar" md5="13fdaa64b4cfef0dd607882081e32760" download="server"
@@ -928,14 +950,14 @@
              description="Players of modded Minecraft face many problems: chests are too messy, you need to fit that one pipe onto a block, but it doesn&apos;t look nice that way, there are too many pipes everywhere etc. Refined Relocation is here to make your modded Minecraft life easier! Not another new system, but something that works with existing systems and makes it better." />
 
         <mod name="Remain in Motion" version="2.0.1"
-             url="packs/ResonantRise/files/3.x/RemainInMotion-2.0.1.jar" file="RemainInMotion-2.0.1.jar" md5="367e5a1fd9a6793e683c84b161ce2aba"	download="server"
+             url="packs/ResonantRise/files/3.x/RemainInMotion-2.0.1.jar" file="RemainInMotion-2.0.1.jar" md5="367e5a1fd9a6793e683c84b161ce2aba"  download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://forums.technicpack.net/topic/59545-"
 			 authors="jakj, planetguy"
 			 description="The black arts of frames endure." />
 
-        <mod name="Remote IO" version="1.1.1-b26"
-             url="packs/ResonantRise/files/3.x/RemoteIO-1.7.10-1.1.1-b26-universal.jar" file="RemoteIO-1.7.10-1.1.1-b26-universal.jar" md5="ce2383536b5d195d3ae6fdf21c0db43e" download="server"
+        <mod name="Remote IO" version="1.2.0.B32"
+             url="packs/ResonantRise/files/3.x/RemoteIO-1.7.X-1.2.0.B32-universal.jar" file="RemoteIO-1.7.10-1.2.0.B32-universal.jar" md5="896fdaf5c69a9ebace422f0a5c8386f6" download="server"
              type="mods" optional="yes" recommended="no"
 			 website="http://www.minecraftforum.net/topic/2038242-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=K78KZ37HLU4X2&amp;lc=US&amp;item_name=dmillerw%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
              authors="dmillerw"
