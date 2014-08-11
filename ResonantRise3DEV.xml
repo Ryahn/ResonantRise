@@ -632,13 +632,13 @@
              authors="Joseph &apos;Nuchaz&apos; Sinclair"
              description="Adds support for 24 varietys of wood from Forestry for 8 of the wooden block in BiblioCraft." />	 
 
-         <!-- <mod name="Big Reactors" version="0.4.0X3" url="packs/ResonantRise/files/3.x/BigReactors-0.4.0X3.jar" 
-         	 file="BigReactors-0.4.0X3.jar" optional="yes" recommended="no" md5="2f42fa1f5a594c7a5b9b7c782d04e94f" download="server" 
+         <mod name="Big Reactors" version="0.4.0X5" url="packs/ResonantRise/files/3.x/BigReactors-0.4.0X5.jar" 
+         	 file="BigReactors-0.4.0X5.jar" optional="yes" recommended="no" md5="c59e6321693fc83706444fb5b1df44c7" download="server" 
          	 type="mods" website="http://www.big-reactors.com" authors="ErogenousBeef" 
-         	 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power.  Special thanks: powercrystals, skyboy, King_Lemming, &amp; Calclavia for example code." /> -->
+         	 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power.  Special thanks: powercrystals, skyboy, King_Lemming, &amp; Calclavia for example code." />
 
-        <mod name="Blue Power" version="0.1.627" 
-        	 url="packs/ResonantRise/files/3.x/BluePower-1.7.10-0.1.627-universal.jar" file="BluePower-1.7.10-0.1.627-universal.jar" md5="a85cb77cf677b88b94e5bd980b47bdef" download="server" 
+        <mod name="Blue Power" version="0.1.630" 
+        	 url="packs/ResonantRise/files/3.x/BluePower-1.7.10-0.1.630-universal.jar" file="BluePower-1.7.10-0.1.630-universal.jar" md5="5f10bcd116930a3599fa2a06796988d6" download="server" 
         	 type="mods" optional="yes" recommended="no"
         	 website="http://bluepowermod.com/" donation="http://bluepowermod.com/"
         	 description="THE POWER OF BLUE!" />
@@ -664,8 +664,8 @@
 			 authors="RazzleberryFox"
              description="Decorate until your heart dies." />
 
-        <mod name="Dense Ores" version="1.4.1" url="packs/ResonantRise/files/3.x/denseores-1.4.1.jar" 
-        	 file="denseores-1.4.1.jar" md5="dcca9315a7f92d690205a595b0df45bf" 
+        <mod name="Dense Ores" version="1.4.2" url="packs/ResonantRise/files/3.x/denseores-1.4.2.jar" 
+        	 file="denseores-1.4.2.jar" md5="edc4c875f1acca97c2cd1a830fc62925" 
         	 download="server" type="mods" optional="yes" recommended="no"
         	 website="https://github.com/rwtema/DenseOres" authors="RWTema" description="Randomly makes ores very dense" />
 
@@ -706,8 +706,8 @@
 			 authors="Glassmaker"
              description="Metallurgy compatibility for Tinker's Construct." />
 
-        <mod name="Extra Utilities" version="1.1.0e"
-			 url="packs/ResonantRise/files/3.x/extrautilities-1.1.0e.jar" file="extrautilities-1.1.0e.jar" md5="73b3717599de49519b2ec24bb54a6298" download="server"
+        <mod name="Extra Utilities" version="1.1.0g"
+			 url="packs/ResonantRise/files/3.x/extrautilities-1.1.0g.jar" file="extrautilities-1.1.0g.jar" md5="34031a9dcec8f77c5a9c63df68d2b08c" download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963" donation="http://www.patreon.com/rwtema"
 			 authors="RWTema"
@@ -763,7 +763,7 @@
 			 description="Cheap floodlights! \o/" />
 
         <mod name="Hardcore Ender Expansion" version="1.6.2"
-             url="packs/ResonantRise/files/3.x/HardcoreEnderExpansion  MC-1.7.10  v1.6.2-pre.jar" file="HardcoreEnderExpansion  MC-1.7.10  v1.6.2-pre.jar" md5="0946170dffa20d77a477d893f0ec7443" download="server"
+             url="packs/ResonantRise/files/3.x/HardcoreEnderExpansion  MC-1.7.10  v1.6.2.jar" file="HardcoreEnderExpansion  MC-1.7.10  v1.6.2.jar" md5="c4e55d1e4caca6abb5514550bf0aadc0" download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1066990-" donation="http://www.patreon.com/chylex"
              authors="chylex"
