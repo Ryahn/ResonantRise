@@ -1226,6 +1226,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2408,Block,CarpentersBlocks,tile.blockCarpentersPressurePlate,carpentersblocks.block.BlockCarpentersPressurePlate
 2409,Block,CarpentersBlocks,tile.blockCarpentersDaylightSensor,carpentersblocks.block.BlockCarpentersDaylightSensor
 2410,Block,CarpentersBlocks,tile.blockCarpentersHatch,carpentersblocks.block.BlockCarpentersHatch
+2411,Block,CarpentersBlocks,tile.blockCarpentersDoor,carpentersblocks.block.BlockCarpentersDoor
+2412,Block,CarpentersBlocks,tile.blockCarpentersBed,carpentersblocks.block.BlockCarpentersBed
 2413,Block,CarpentersBlocks,tile.blockCarpentersLadder,carpentersblocks.block.BlockCarpentersLadder
 2414,Block,CarpentersBlocks,tile.blockCarpentersCollapsibleBlock,carpentersblocks.block.BlockCarpentersCollapsibleBlock
 2415,Block,CarpentersBlocks,tile.blockCarpentersTorch,carpentersblocks.block.BlockCarpentersTorch
@@ -2230,6 +2232,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 5402,Item,CarpentersBlocks,item.itemCarpentersChisel,carpentersblocks.item.ItemCarpentersChisel
 5403,Item,CarpentersBlocks,item.itemCarpentersDoor,carpentersblocks.item.ItemCarpentersDoor
 5404,Item,CarpentersBlocks,item.itemCarpentersBed,carpentersblocks.item.ItemCarpentersBed
+5405,Item,CarpentersBlocks,item.itemCarpentersTile,carpentersblocks.item.ItemCarpentersTile
 5505,Item,advancedgenetics,item.geneticBow,com.advGenetics.Items.ItemGeneticBow
 5506,Item,advancedgenetics,item.syringeAntidote,com.advGenetics.Items.ItemSyringeAntidote
 5507,Item,advancedgenetics,item.cellInsulated,com.advGenetics.Items.ItemCell
@@ -3518,7 +3521,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 17343,Item,AWWayofTime,item.baseItems,WayofTime.alchemicalWizardry.common.items.ItemComponents
 17344,Item,AWWayofTime,item.itemSigilOfSupression,WayofTime.alchemicalWizardry.common.items.sigil.ItemSigilOfSupression
 17501,Item,technom,item.null,democretes.items.ItemFusionFocus
-17502,Item,technom,item.null,democretes.items.ItemMaterial
+17502,Item,technom,item.null,democretes.items.ItemTHMaterial
 17503,Item,technom,item.null,democretes.items.ItemPen
 17504,Item,technom,item.null,democretes.items.ItemWandCores
 17505,Item,technom,item.null,democretes.items.ItemBMMaterial
