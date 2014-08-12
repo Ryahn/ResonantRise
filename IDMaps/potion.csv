@@ -30,6 +30,7 @@ ID,Unlocalised name,Class
 30,potion.fluxtaint,thaumcraft.common.items.PotionFluxTaint
 32,potion.paralysis,biomesoplenty.potions.PotionParalysis
 33,potion.possession,biomesoplenty.potions.PotionPossession
+49,Shrunken,am2.buffs.ArsMagicaPotion
 50,Water Breathing,am2.buffs.ArsMagicaPotion
 51,Flight,am2.buffs.ArsMagicaPotion
 52,Feather Fall,am2.buffs.ArsMagicaPotion
