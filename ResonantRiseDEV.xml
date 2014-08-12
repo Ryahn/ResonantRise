@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-163</version>
+    <version>2-DEV-164</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -24,8 +24,8 @@
     <!-- Forge and Cauldron -->
     <mod url="packs/ResonantRise/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
          name="Forge" type="forge" version="9.11.1.965" authors="LexManos, cpw and the many, many contributors!" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRise/files/forgelibs/cauldron-1.6.4-1.965.21.89-server.jar" file="cauldron-1.6.4-1.965.21.89-server.jar" md5="11168e1df5a27d180a8dcddb4ef95051" download="server" 
-         name="Cauldron [formerly MCPC+]"  version="1.965.21.89"
+    <mod url="packs/ResonantRise/files/forgelibs/cauldron-1.6.4-1.965.21.151-server.jar" file="cauldron-1.6.4-1.965.21.151-server.jar" md5="bf643d7d6ceee71462f519df4a7387de" download="server" 
+         name="Cauldron [formerly MCPC+]"  version="1.965.21.151"
 		 type="mcpc" depends="Cauldron Libs"
          website="http://cauldron.minecraftforge.net/" authors="Cauldron Team"
          description="Server superweapon! Hopefully not leaking your megahertz everywhere."
@@ -144,10 +144,10 @@
          name="Buildcraft" type="mods"  version="4.2.2"
          website="http://www.mod-buildcraft.com/" authors="SpaceToad, Krapht, SirSengir, CovertJaguar" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Burning oil forever." />
-	<mod url="packs/ResonantRise/files/mods/Carpenters Blocks v2.1.2 - MC 1.6.zip" file="Carpenters Blocks v2.1.2 - MC 1.6.zip" md5="5ce4d53b7231d22f74f0213eece986dd" download="server" 
-         name="Carpenter's Blocks" type="mods" version="2.1.2"
+	<mod url="packs/ResonantRise/files/mods/Carpenters Blocks v3.2.6 - MC 1.6.4.zip" file="Carpenters Blocks v3.2.6 - MC 1.6.4.zip" md5="04da34cbab2da310ce74dbfd7ad2ea89" download="server"
+         name="Carpenter's Blocks" type="mods" version="3.2.6"
          website="http://www.minecraftforum.net/topic/1790919-" authors="Mineshopper" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
-         description="Angles!" />
+         description="Angles Version 3!" />
     <mod url="packs/ResonantRise/files/mods/CCTransport-1.0.1.jar" file="CCTransport-1.0.1.jar" md5="afd7267ba8d5c275fe3b586c886894d6" download="server"
          name="CCTransport" type="mods"  version="1.0.1" website="http://www.computercraft.info/forums2/index.php?/topic/15384-cctransport-v101-inventory-management-add-on-for-openperipherals/" authors="ElvishJerricco"
          description="Automate all the things with lua" />
@@ -434,8 +434,8 @@
          type="mods"
          website="http://www.micdoodle8.com/" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="Galacticraft libraries!" />
-	<mod name="MineChem" version="5.0.5-RC1"
-		 url="packs/ResonantRise/files/mods/MineChem-5.0.5-RC1.jar" file="MineChem-5.0.5-RC1.jar" md5="006b09901d59703f724316c996b37069" download="server" 
+	<mod name="MineChem" version="5.0.5-RC2"
+		 url="packs/ResonantRise/files/mods/MineChem-5.0.5-RC2.jar" file="MineChem-5.0.5-RC2.jar" md5="8eeba9723c0b2d7d4c02b025687e354d" download="server" 
 		 type="mods"
 		 website="http://jakimfett.com/minecraft/minechem/" donation="http://www.patreon.com/jakimfett" authors="pixlepix, jakimfett"
 		 description="Chemical industry in Minecraft!" />
@@ -541,8 +541,8 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1580364-" authors="EXTER6"
 		 description="Where was this when we were in BETA?!" />
-   	<mod name="Particle Physics" version="1.0.1.20"
-		 url="packs/ResonantRise/files/mods/ParticlePhysics-1.0.1.20.jar" file="ParticlePhysics-1.0.1.20.jar" md5="f3cb256ea5d2ab6ee40aa4fd72125319" download="server" 
+   	<mod name="Particle Physics" version="1.0.1.27"
+		 url="packs/ResonantRise/files/mods/ParticlePhysics-1.0.1.27.jar" file="ParticlePhysics-1.0.1.27.jar" md5="85666e680b6f46694df771fecf023674" download="server"  
 		 type="mods"
 		 website="http://jakimfett.com/minecraft/minechem/" donation="http://www.patreon.com/jakimfett" authors="pixlepix, jakimfett"
 		 description="Chemical collision in Minecraft!" />
@@ -702,8 +702,8 @@
          name="Sync" version="2.2.3" optional="yes"
          type="mods"
          website="http://ichun.us/mods/sync/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="This mod provides clones, or as we like to call it, 'shells'. These shells are basically a new individual, with their own inventory, experience level, and even gamemode." />
-	<mod name="Technomancy" version="0.8.1"
-		 url="packs/ResonantRise/files/mods/1.6 Technomancy 0.8.1.jar" file="1.6 Technomancy 0.8.1.jar" md5="db427dd72ae4a8c950d8dc589e7ec306" download="server"
+	<mod name="Technomancy" version="0.8.2"
+		 url="packs/ResonantRise/files/mods/1.6 Technomancy 0.8.2.jar" file="1.6 Technomancy 0.8.2.jar" md5="38b50aff111f38ee44984f0f7b5d1702" download="server" 
 		 type="mods"
          website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441-" authors="Democretes, theflogat"
          description="Technical applications of magical resources." />
