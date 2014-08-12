@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.9.2.4-RR-LITE</version>
+    <version>2.9.3.0-RR-LITE</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -24,8 +24,8 @@
     <!-- Forge and Cauldron -->
     <mod url="packs/ResonantRiseLite/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
          name="Forge" type="forge" version="9.11.1.965" authors="LexManos, cpw and the many, many contributors!" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRiseLite/files/forgelibs/cauldron-1.6.4-1.965.21.89-server.jar" file="cauldron-1.6.4-1.965.21.89-server.jar" md5="11168e1df5a27d180a8dcddb4ef95051" download="server" 
-         name="Cauldron [formerly MCPC+]"  version="1.965.21.89"
+    <mod url="packs/ResonantRiseLite/files/forgelibs/cauldron-1.6.4-1.965.21.151-server.jar" file="cauldron-1.6.4-1.965.21.151-server.jar" md5="bf643d7d6ceee71462f519df4a7387de" download="server" 
+         name="Cauldron [formerly MCPC+]"  version="1.965.21.151"
 		 type="mcpc" depends="Cauldron Libs"
          website="http://cauldron.minecraftforge.net/" authors="Cauldron Team"
          description="Server superweapon! Hopefully not leaking your megahertz everywhere."
@@ -83,8 +83,8 @@
          name="Buildcraft" type="mods"  version="4.2.2"
          website="http://www.mod-buildcraft.com/" authors="SpaceToad, Krapht, SirSengir, CovertJaguar" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Burning oil forever." />
-	<mod url="packs/ResonantRiseLite/files/mods/Carpenters Blocks v2.1.2 - MC 1.6.zip" file="Carpenters Blocks v2.1.2 - MC 1.6.zip" md5="5ce4d53b7231d22f74f0213eece986dd" download="server" 
-         name="Carpenter's Blocks" type="mods" version="2.1.2"
+	<mod url="packs/ResonantRiseLite/files/mods/Carpenters Blocks v3.2.6 - MC 1.6.4.zip" file="Carpenters Blocks v3.2.6 - MC 1.6.4.zip" md5="04da34cbab2da310ce74dbfd7ad2ea89" download="server" 
+         name="Carpenter's Blocks" type="mods" version="3.2.6"
          website="http://www.minecraftforum.net/topic/1790919-" authors="Mineshopper" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
          description="Angles!" />
     <mod name="Charlotte's Utilities" version="0.7.0"
