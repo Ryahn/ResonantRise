@@ -83,6 +83,11 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2079654-" authors="LycaonX"
 		 description="High-end tweaks and additions for Thaumcraft!" />
+	<mod name="AnimationAPI" version="1.1.2"
+		 url="packs/ResonantRise/files/mods/AnimationAPI v1.1.2 mc1.6.4.zip" file="AnimationAPI v1.1.2 mc1.6.4.zip" md5="84d2b1fee291b4006283afa3bf25d18d" download="server" 
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/1850860-" authors="thehippomaster21"
+		 description="A supporting mod that allows modders to make animations more easily. Now required for Ars Magica 2." />
 	<mod url="packs/ResonantRise/files/mods/appeng-rv14-finale3-mc16x.jar" file="appeng-rv14-finale3-mc16x.jar" md5="d10ac60e48a192760e76c1de3b0c73ed" download="server"
          name="Applied Energistics" optional="no" type="mods"
          version="rv14-finale3"
@@ -827,14 +832,6 @@
 
 
     <!-- Remote Downloads (General) -->
-	<mod name="AnimationAPI" version="1.1.2"
-		 url="http://adf.ly/377779/animationapi-v112-mc164"
-		 file="AnimationAPI v1.1.2 mc1.6.4.zip"
-		 md5="84d2b1fee291b4006283afa3bf25d18d"
-		 download="browser" 
-		 type="mods"
-		 website="http://www.minecraftforum.net/topic/1850860-" authors="thehippomaster21"
-		 description="A supporting mod that allows modders to make animations more easily. Now required for Ars Magica 2." />
 	<mod url="http://minecraft.curseforge.com/mc-mods/51195-railcraft/files/775935/download"
          md5="83C9166BEDF370B7CB393ECA8A8C9C7F"
          file="Railcraft_1.6.4-8.4.0.0.jar"
