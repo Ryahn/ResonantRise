@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-018</version>
+        <version>3-DEV-019</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -232,8 +232,8 @@
 			 authors="Azanor,Vazkii"
              description="Baubles is a small addon mod and API that is intended to be used by other mods to add additional inventory slots to a character." />
 		
-        <mod name="BdLib" version="1.4.1.7"
-			 url="packs/ResonantRise/files/3.x/bdlib-mc1710-1.4.1.7.jar" file="bdlib-mc1710-1.4.1.7.jar" md5="a3223adea6c4d8ff681bcc91b9518274" download="server"
+        <mod name="BdLib" version="1.4.2.9"
+			 url="packs/ResonantRise/files/mods/bdlib-mc1710-1.4.2.9.jar" file="bdlib-mc1710-1.4.2.9.jar" md5="ce372c8c7079afc59981d585099b2bc0" download="server"
 			 type="mods"
              website="http://minecraft.curseforge.com/mc-mods/bdlib/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4"
              authors="bdew"
@@ -476,6 +476,13 @@
              website="http://minecraft.curseforge.com/mc-mods/morpheus/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+%28from+CurseForge.com%29&amp;cmd=_s-xclick"
              authors="quetzi"
              description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate." />
+
+        <mod name="MouseTweaks" version="2.4.4"
+			 url="packs/ResonantRise/files/mods/MouseTweaks-2.4.4-mc1.7.10.jar" file="MouseTweaks-2.4.4-mc1.7.10.jar" md5="d4968eb0b513066313259fcd80bb8eb0" download="server"
+			 type="mods" optional="yes" selected="no" recommended="no" server="no"
+             website="http://www.curse.com/mc-mods/minecraft/mouse-tweaks" donation="https://www.paypal.com/cgi-bin/webscr?return=http%3a%2f%2fwww.curse.com%2fproject%2f60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http%3a%2f%2fwww.curse.com%2fproject%2f60089&amp;lc=US&amp;item_name=Mouse+Tweaks+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
+             authors="YaLTeR97"
+             description="Adds inventory based item dragging and more!" />
 		
         <mod name="Natura" version="2.2.0-b1"
              url="packs/ResonantRise/files/3.x/natura-1.7.10-2.2.0-b1.jar" file="natura-1.7.10-2.2.0-b1.jar" md5="71e1f3c7d0b317c0017af7dfb7f87de4" download="server"
@@ -485,14 +492,14 @@
 			 description="Just enough worldgen to make vanilla worth living." />
 
         <mod name="NEI Addons" version="1.12.0.4"
-             url="packs/ResonantRise/files/3.x/neiaddons-mc1710-1.12.0.4.jar" file="neiaddons-mc1710-1.12.0.4.jar" md5="d3174f39ed0c127f452b612e210ce32b" download="server"
+             url="packs/ResonantRise/files/3.x/neiaddons-mc1710-1.12.0.4.jar" file="neiaddons-mc1710-1.12.0.4.jar" md5="d952ee789b13fa0b4bd9c8a55e73c298" download="server"
 			 type="mods" depends="Not Enough Items"
              website="http://www.minecraftforum.net/topic/1803460-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4"
              authors="bdew"
              description="Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins." />
 
-        <mod name="Not Enough Items" version="1.0.3.46"
-             url="packs/ResonantRise/files/3.x/NotEnoughItems-1.7.10-1.0.3.46-universal.jar" file="NotEnoughItems-1.7.10-1.0.3.46-universal.jar" md5="1a40eae450adacddcd10cbc4729eaf4a" download="server"
+        <mod name="Not Enough Items" version="1.0.3.45"
+             url="packs/ResonantRise/files/mods/NotEnoughItems-1.7.10-1.0.3.45-universal.jar" file="NotEnoughItems-1.7.10-1.0.3.45-universal.jar" md5="1a40eae450adacddcd10cbc4729eaf4a" download="server"
 			 type="mods"
 			 website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
 			 authors="ChickenBones"
@@ -612,8 +619,8 @@
 			 authors="ganymedes01"
              description="Ore 2 Dust Super Bridge" />
 
-        <mod name="Applied Energistics 2" version="rv1-alpha-45"
-			 url="packs/ResonantRise/files/3.x/appliedenergistics2-rv1-alpha-45.jar" file="appliedenergistics2-rv1-alpha-45.jar" md5="48bb8082a1d047a4d8ffdcfde150c0b7" download="server"
+        <mod name="Applied Energistics 2" version="rv1-beta-1"
+			 url="packs/ResonantRise/files/mods/appliedenergistics2-rv1-beta-1.jar" file="appliedenergistics2-rv1-beta-1.jar" md5="2ae783dcb8c141ce35aaf68ce4471107" download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://ae2.ae-mod.info/" donation="http://ae2.ae-mod.info/"
 			 authors="AlgorithmX2"
@@ -632,8 +639,8 @@
              authors="Joseph &apos;Nuchaz&apos; Sinclair"
              description="Adds support for 24 varietys of wood from Forestry for 8 of the wooden block in BiblioCraft." />	 
 
-         <mod name="Big Reactors" version="0.4.0X5" url="packs/ResonantRise/files/3.x/BigReactors-0.4.0X5.jar" 
-         	 file="BigReactors-0.4.0X5.jar" optional="yes" recommended="no" md5="c59e6321693fc83706444fb5b1df44c7" download="server" 
+         <mod name="Big Reactors" version="0.4.0X6" url="packs/ResonantRise/files/mods/BigReactors-0.4.0X6.jar" 
+         	 file="BigReactors-0.4.0X6.jar" optional="yes" recommended="no" md5="aa0c0aa0ef273c547a01a877863a0098" download="server" 
          	 type="mods" website="http://www.big-reactors.com" authors="ErogenousBeef" 
          	 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power.  Special thanks: powercrystals, skyboy, King_Lemming, &amp; Calclavia for example code." />
 
@@ -669,8 +676,8 @@
         	 download="server" type="mods" optional="yes" recommended="no"
         	 website="https://github.com/rwtema/DenseOres" authors="RWTema" description="Randomly makes ores very dense" />
 
-        <mod name="EnderIO" version="2.0_beta.169"
-			 url="packs/ResonantRise/files/3.x/enderio-2.0_beta.169.jar" file="enderio-2.0_beta.169.jar" md5="72e3c15cffd445e722694a6556f7c332" download="server" 
+        <mod name="EnderIO" version="2.0_beta.172"
+			 url="packs/ResonantRise/files/mods/enderio-2.0_beta.172.jar" file="enderio-2.0_beta.172.jar" md5="b1e59a4a46bf93d8593b0e9fcee7d2ec" download="server" 
 			 type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1937619-"
 			 authors="crazypants"
@@ -753,8 +760,8 @@
 			 authors="micdoodle8"
 			 description="Mars addon for Galacticraft." /> -->
 
-        <mod name="Gendustry" version="1.3.0.7"
-			 url="packs/ResonantRise/files/3.x/gendustry-mc1710-1.3.0.7.jar" file="gendustry-mc1710-1.3.0.7.jar" md5="ec583d893531274ee6bd0384988b572b" download="server"
+        <mod name="Gendustry" version="1.3.0.11"
+			 url="packs/ResonantRise/files/mods/gendustry-mc1710-1.3.0.11.jar" file="gendustry-mc1710-1.3.0.11.jar" md5="c7881d96c9052947b1ffc92e7b442c8a" download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/2160265-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4"
              authors="bdew"
@@ -788,8 +795,8 @@
 			 authors="asie,immibis"
              description="This is a mod that adds RFID card, magnetic cards, speakers, LAN cables that work across unloaded chunks and a few other things for computers!" />
 
-        <mod name="Iron Chests" version="6.0.43.730"
-             url="packs/ResonantRise/files/3.x/ironchest-1.7.10-6.0.43.730-universal.jar" file="ironchest-1.7.10-6.0.43.730-universal.jar" md5="5955a66bce9d96067e4eb22c3a8175af" download="server"
+        <mod name="Iron Chests" version="6.0.43.733"
+             url="packs/ResonantRise/files/mods/ironchest-universal-1.6.4-5.4.1.702.zip" file="ironchest-1.7.10-6.0.43.733-universal.jar" md5="61ddbf34dddadfbc77b43bc90490d62e" download="server"
              type="mods" optional="yes" recommended="no"
 			 website="http://www.minecraftforum.net/topic/981855-"
 			 authors="cpw"
@@ -1003,8 +1010,8 @@
              authors="KingLemmingCoFH,Cynycal,ZeldoKavira"
              description="Expanding Minecraft thermally - provides new options for automation and processing!" />
 
-        <mod name="TiC Tooltips" version="1.1.8a"
-             url="packs/ResonantRise/files/3.x/TiC-Tooltips-mc1.7.10-1.1.8a.jar" file="TiC-Tooltips-mc1.7.10-1.1.8a.jar" md5="01ed3e79575a04e11388fafdd693ccd4" download="server"
+        <mod name="TiC Tooltips" version="1.1.9"
+             url="packs/ResonantRise/files/mods/TiC-Tooltips-mc1.7.10-1.1.9.jar" file="TiC-Tooltips-mc1.7.10-1.1.9.jar" md5="43003ad347dbee998c74ebed135ed34d" download="server"
 			 type="mods" depends="Tinkers' Construct" optional="yes" recommended="no" server="no"
              website="http://www.minecraftforum.net/topic/2509840-"
 			 authors="squeek502"
