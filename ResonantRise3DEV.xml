@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-019</version>
+        <version>3-DEV-020</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -144,7 +144,7 @@
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Enables the very generous Stellar Dream features and mods."
-			 depends="Stellar Dream Era Configs,Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,Forestry,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,Big Reactors,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,VeinMiner,Information Era,Advanced Genetics,Applied Energistics 2,AE2 Tech Addons,Enhanced Portals 3,Ex Nihilo,Extra Cells,Extra Utilities,Galacticraft Core,Galacticraft Mars,Infinitubes,Liquid XP,Mekanism,Mekanism Generators,Mekanism Tools,Modular Forcefield System,Project Red: Mechanical,Remain in Motion,Remote IO,Steve's Factory Manager,Translocator" />
+			 depends="Stellar Dream Era Configs,Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,Forestry,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,Big Reactors,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,VeinMiner,Information Era,Advanced Genetics,Applied Energistics 2,AE2 Tech Addons,EnhancedPortals 3,Ex Nihilo,Extra Cells,Extra Utilities,Galacticraft Core,Galacticraft Mars,Infinitubes,Liquid XP,Mekanism,Mekanism Generators,Mekanism Tools,Modular Forcefield System,Project Red: Mechanical,Remain in Motion,Remote IO,Steve's Factory Manager,Translocator" />
 		<!-- depends="
 					Antiquity,
 					Medieval Era,
@@ -153,7 +153,7 @@
 					Advanced Genetics,
 					Applied Energistics 2,
 					AE2 Tech Addons,
-					Enhanced Portals 3,
+					EnhancedPortals 3,
 					Ex Nihilo,
 					Extra Cells,
 					Extra Utilities,
@@ -172,13 +172,13 @@
 					Translocator
 					" -->
 
-		<mod name="Inhuman Nightamre" version="n/a"
+		<mod name="Inhuman Nightmare" version="n/a"
 			 url="packs/ResonantRise/files/config-switches/zone05.zip" file="zone05.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-			 type="extract" extractto="root" optional="yes" recommended="yes"
+			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Enables pain and suffering in the Future you chose."
-			 depends="Inhuman Nightmare Era Configs,Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,Forestry,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Simply Jetpacks,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,Hardcore Ender Expansion" />
+			 depends="Inhuman Nightmare Era Configs,Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,Forestry,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,Big Reactors,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,VeinMiner,Information Era,Hardcore Ender Expansion" />
 		<!-- depends="
 					Antiquity,
 					Medieval Era,
@@ -200,8 +200,8 @@
 		
     <!-- Forge and Cauldron -->
 
-        <mod name="Minecraft Forge" version="10.13.0.1199"
-             url="packs/ResonantRise/files/forgelibs/forge-1.7.10-10.13.0.1199-universal.jar" file="forge-1.7.10-10.13.0.1199-universal.jar" md5="e7acb9bb147232988538d0f45909faef" download="server"
+        <mod name="Minecraft Forge" version="10.13.0.1205"
+             url="packs/ResonantRise/files/forgelibs/forge-1.7.10-10.13.0.1205-universal.jar" file="forge-1.7.10-10.13.0.1205-universal.jar" md5="9a8520729809928b4262ce8097ed0b94" download="server" 
              type="forge"
              website="http://www.minecraftforge.net/forum/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2"
              authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw"
@@ -294,8 +294,8 @@
              authors="Joseph &apos;Nuchaz&apos; Sinclair"
              description="Adds support for 13 varietys of wood from Natura for 8 of the wooden block in BiblioCraft." />
 
-		<mod name="Biomes O' Plenty" version="2.1.0.963"
-             url="packs/ResonantRise/files/3.x/BiomesOPlenty-1.7.10-2.1.0.963-universal.jar" file="BiomesOPlenty-1.7.10-2.1.0.963-universal.jar" md5="7779a725d4242a1a3d2aee632f5127f0" download="server"
+		<mod name="Biomes O' Plenty" version="2.1.0.968"
+             url="packs/ResonantRise/files/mods/BiomesOPlenty-1.7.10-2.1.0.968-universal.jar" file="BiomesOPlenty-1.7.10-2.1.0.968-universal.jar" md5="aebd149a483389f55f6af54efcf4c140" download="server" 
 			 type="mods"
 			 website="http://www.minecraftforum.net/topic/1495041-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
              authors="Forstride,Adubbz,Amnet,ted80"
@@ -667,7 +667,7 @@
 			 authors="AlgorithmX2"
 			 description="The world's most convenient storage system." />
 
-        <mod name="Archimedes Ships" version="1.7.1" 
+        <mod name="Archimedes' Ships" version="1.7.1" 
         	 url="packs/ResonantRise/files/3.x/ArchimedesShips-1.7.1.jar" file="ArchimedesShips-1.7.1.jar" md5="e81328f9876e69d91a53242be1fc62da" download="server" 
         	 type="mods" optional="yes" recommended="no"
         	 website="http://www.minecraftforum.net/topic/1857899-" 
@@ -695,7 +695,7 @@
 			 authors="ErogenousBeef" 
          	 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power.  Special thanks: powercrystals, skyboy, King_Lemming, &amp; Calclavia for example code." />
 
-        <mod name="Blue Power" version="0.1.630" 
+        <mod name="BluePower" version="0.1.630" 
         	 url="packs/ResonantRise/files/3.x/BluePower-1.7.10-0.1.630-universal.jar" file="BluePower-1.7.10-0.1.630-universal.jar" md5="5f10bcd116930a3599fa2a06796988d6" download="server" 
         	 type="mods" optional="yes" recommended="no"
         	 website="http://bluepowermod.com/" donation="http://bluepowermod.com/"
@@ -1112,54 +1112,67 @@
 <!-- Timezone Config Sets -->
 		
 		<mod name="Eternity Era Configs" version="n/a"
-			 url="packs/ResonantRise/files/timezones/00_eternity_3-DEV-019.zip" file="00_eternity_3-DEV-019.zip" md5="a6a0875e388ae276c8ab763d87d3f294" download="server" 
+			 url="packs/ResonantRise/files/timezones/00_eternity_3-DEV-020.zip" file="00_eternity_3-DEV-020.zip" md5="bf58ed1e74e8eccaac9bca7d05579357" download="server" 
 			 type="extract" extractto="root"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Master default configs. Be warned: use these on their own and you're in for a world of pain."
 			 />
 		<mod name="Antiquity Era Configs" version="n/a"
-			 url="packs/ResonantRise/files/timezones/01_antiquity_3-DEV-019.zip" file="01_antiquity_3-DEV-019.zip" md5="9b94565eedec746f74c5bd00768fb51e" download="server"
-			 type="extract" extractto="root" optional="yes" recommended="no"
+			 url="packs/ResonantRise/files/timezones/01_antiquity_3-DEV-020.zip" file="01_antiquity_3-DEV-020.zip" md5="c3dbb4709c6483c86590c568ce7bdc3e" download="server" 
+			 type="extract" extractto="root" optional="yes" recommended="yes"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Configs for the days of a world being forged."
 			 />
 		<mod name="Medieval Era Configs" version="n/a"
-			 url="packs/ResonantRise/files/timezones/02_medieval_3-DEV-019.zip" file="02_medieval_3-DEV-019.zip" md5="c1878eaf7d5f2c9b7847104b88f143fa" download="server" 
+			 url="packs/ResonantRise/files/timezones/02_medieval_3-DEV-020.zip" file="02_medieval_3-DEV-020.zip" md5="49c7c74d400aca187b8bd3d6997ea8c3" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Config for ye olden times."
 			 />
 		<mod name="Industrial Era Configs" version="n/a"
-			 url="packs/ResonantRise/files/timezones/03_industrial_3-DEV-019.zip" file="03_industrial_3-DEV-019.zip" md5="59d2e592858de8514292243ee7ca7a35" download="server" 
+			 url="packs/ResonantRise/files/timezones/03_industrial_3-DEV-020.zip" file="03_industrial_3-DEV-020.zip" md5="18dfb36ee1689488427f234f587fc66c" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Configs for your stove-pipe furnace."
 			 />
 		<mod name="Information Era Configs" version="n/a"
-			 url="packs/ResonantRise/files/timezones/04_information_3-DEV-019.zip" file="04_information_3-DEV-019.zip" md5="087af9439f6962a48eeebbf9e6d5e87f" download="server" 
+			 url="packs/ResonantRise/files/timezones/04_information_3-DEV-020.zip" file="04_information_3-DEV-020.zip" md5="6ef815e846b8e7eaeb1f961fe856c024" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Configs for the modern non-specifically gendered humanoid flesh unit."
 			 />
 		<mod name="Stellar Dream Era Configs" version="n/a"
-			 url="packs/ResonantRise/files/timezones/05_stellar_3-DEV-019.zip" file="05_stellar_3-DEV-019.zip" md5="c2a1927c8db871272b0cc7af5e5b6846" download="server" 
+			 url="packs/ResonantRise/files/timezones/05_stellar_3-DEV-020.zip" file="05_stellar_3-DEV-020.zip" md5="297616500712487e0d345e0e451686bb" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Configs for the future of wonders!"
 			 />
 		<mod name="Inhuman Nightmare Era Configs" version="n/a"
-			 url="packs/ResonantRise/files/timezones/06_nightmare_3-DEV-019.zip" file="06_nightmare_3-DEV-019.zip" md5="65919e23802242398bc3892c9c017f17" download="server" 
+			 url="packs/ResonantRise/files/timezones/06_nightmare_3-DEV-020.zip" file="06_nightmare_3-DEV-020.zip" md5="8563c5648d73e6542618abccbccd9ab7" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Configs for those who time stopped caring about."
 			 />			 
+
+<!-- Special Mode Configs -->
+
+	<mod name="EiraIRC Client Config" version="n/a"
+		 url="packs/ResonantRise/files/config-switches/eira_client_2.9.2.4.zip" file="eira_client_2.9.2.4.zip" md5="ea774c74e76cf4dab9383c4ad7309602" download="server" 
+		 type="extract" extractto="root" client="yes" server="no"
+		 website="http://resonant-rise.com"
+		 description="Client-specific configs for EiraIRC." />
+	<mod name="EiraIRC Server Config" version="n/a"
+		 url="packs/ResonantRise/files/config-switches/eira_server_2.9.2.4.zip" file="eira_server_2.9.2.4.zip" md5="cb1fd89e17c252af77eaa7b527b775a9" download="server" 
+		 type="extract" extractto="root" client="no" server="yes"
+		 website="http://resonant-rise.com"
+		 description="Server-specific configs for EiraIRC." />
 			 
     </mods>
 </version>
