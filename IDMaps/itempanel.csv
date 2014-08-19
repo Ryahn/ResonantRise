@@ -11,6 +11,7 @@ Item ID,Item meta,Has NBT,Display Name
 6,1,false,Spruce Sapling
 6,2,false,Birch Sapling
 6,3,false,Jungle Sapling
+7,0,false,Bedrock
 8,0,false,Water
 9,0,false,Water
 10,0,false,Lava
@@ -98,37 +99,9 @@ Item ID,Item meta,Has NBT,Display Name
 50,0,false,Torch
 51,0,false,Fire
 52,90,false,Monster Spawner
-52,3,false,Monster Spawner
-52,4,false,Monster Spawner
-52,5,false,Monster Spawner
-52,6,false,Monster Spawner
-52,7,false,Monster Spawner
-52,23,false,Monster Spawner
-52,24,false,Monster Spawner
-52,25,false,Monster Spawner
-52,26,false,Monster Spawner
-52,27,false,Monster Spawner
-52,28,false,Monster Spawner
-52,29,false,Monster Spawner
-52,30,false,Monster Spawner
-52,31,false,Monster Spawner
-52,33,false,Monster Spawner
-52,50,false,Monster Spawner
-52,51,false,Monster Spawner
-52,52,false,Monster Spawner
-52,53,false,Monster Spawner
-52,54,false,Monster Spawner
-52,55,false,Monster Spawner
-52,56,false,Monster Spawner
-52,57,false,Monster Spawner
-52,58,false,Monster Spawner
-52,59,false,Monster Spawner
-52,60,false,Monster Spawner
-52,61,false,Monster Spawner
-52,62,false,Monster Spawner
-52,65,false,Monster Spawner
 52,66,false,Monster Spawner
 52,69,false,Monster Spawner
+52,90,false,Monster Spawner
 52,91,false,Monster Spawner
 52,92,false,Monster Spawner
 52,93,false,Monster Spawner
@@ -1422,11 +1395,11 @@ Item ID,Item meta,Has NBT,Display Name
 975,6,false,Obsidian Chest
 975,7,false,DirtChest 9000!
 1000,26,true,Leyden Jar
-9318,2750,true,Jungle Wood Barrel
-9318,2751,true,Silky Jungle Wood Barrel
-9318,2752,true,Hopping Jungle Wood Barrel
-9318,2753,true,Larger Jungle Wood Barrel
-9318,2754,true,Sticky Jungle Wood Barrel
+9318,2740,true,Birch Wood Barrel
+9318,2741,true,Silky Birch Wood Barrel
+9318,2742,true,Hopping Birch Wood Barrel
+9318,2743,true,Larger Birch Wood Barrel
+9318,2744,true,Sticky Birch Wood Barrel
 9318,1125,true,Creative Bedrock Barrel
 1000,0,false,Router
 1000,2,false,factorization.factoryBlock.null.name
@@ -8927,6 +8900,10 @@ Item ID,Item meta,Has NBT,Display Name
 6856,66,false,Redstone Card (Tier 1)
 6856,67,false,Tractor Beam Upgrade
 6856,69,true,Server (Creative)
+6856,70,false,Component Bus (Tier 1)
+6856,71,false,Component Bus (Tier 2)
+6856,72,false,Component Bus (Tier 3)
+6856,73,false,Debug Card
 7118,0,false,Logistics Pipe Controller
 7119,0,false,Logistics Broken Item
 7120,0,false,Logistics Fluid Container
