@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-165</version>
+    <version>2-DEV-166</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -24,8 +24,8 @@
     <!-- Forge and Cauldron -->
     <mod url="packs/ResonantRise/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
          name="Forge" type="forge" version="9.11.1.965" authors="LexManos, cpw and the many, many contributors!" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRise/files/forgelibs/cauldron-1.6.4-1.965.21.151-server.jar" file="cauldron-1.6.4-1.965.21.151-server.jar" md5="bf643d7d6ceee71462f519df4a7387de" download="server" 
-         name="Cauldron [formerly MCPC+]"  version="1.965.21.151"
+    <mod url="packs/ResonantRise/files/forgelibs/cauldron-1.6.4-1.965.21.174-server.jar" file="cauldron-1.6.4-1.965.21.174-server.jar" md5="b593b9a15ba5e81c3a3ba750c39739a5" download="server"
+         name="Cauldron [formerly MCPC+]"  version="1.965.21.174"
 		 type="mcpc" depends="Cauldron Libs"
          website="http://cauldron.minecraftforge.net/" authors="Cauldron Team"
          description="Server superweapon! Hopefully not leaking your megahertz everywhere."
@@ -214,8 +214,8 @@
          name="Dimensional Anchors" type="mods" version="57.1.96"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" authors="immibis"
          description="Immibis's chunk loaders. Preferred."  />
-	<mod name="EiraIRC" version="1.7.0"
-		 url="packs/ResonantRise/files/mods/eirairc-mc1.6.4-v1.7.0.jar" file="eirairc-mc1.6.4-v1.7.0.jar" md5="9b3010e6274a216dbc7fc93970918e45" download="server" 
+	<mod name="EiraIRC" version="1.7.1"
+		 url="packs/ResonantRise/files/mods/eirairc-mc1.6.4-v1.7.1.jar" file="eirairc-mc1.6.4-v1.7.1.jar" md5="7630b662321fc6f1840209fe14ff4771" download="server" 
 		 type="mods" optional="yes" recommended="no"
 		 website="http://www.minecraftforum.net/topic/1964989-" authors="blay09"
 		 description="An IRC Connector that works both on clients and servers independently, with some neat special features." />
@@ -289,13 +289,13 @@
          name="Forestry" type="mods"  version="2.3.1.1"
          website="http://forestry.sengir.net/wiki.new/" authors="SirSengir, MysteriousAges" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations"
          description="Bees, Trees, and Automate-ables."  />
-    <mod name="Galacticraft Core" version="2.0.14.1084"
-         url="packs/ResonantRise/files/mods/Galacticraft-1.6.4-2.0.14.1084.jar" file="Galacticraft-1.6.4-2.0.14.1084.jar" md5="9995c729e6989625acdee0b651c3f6a0" download="server"
+    <mod name="Galacticraft Core" version="2.0.14.1094"
+         url="packs/ResonantRise/files/mods/Galacticraft-1.6.4-2.0.14.1094.jar" file="Galacticraft-1.6.4-2.0.14.1094.jar" md5="2743f075be648d871339e593b9197a75" download="server" 
          type="mods"
          website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="An advanced space travel mod for Minecraft 1.6" />
-    <mod name="Galacticraft Mars" version="2.0.14.1084"
-         url="packs/ResonantRise/files/mods/Galacticraft-Planets-1.6.4-2.0.14.1084.jar" file="Galacticraft-Planets-1.6.4-2.0.14.1084.jar" md5="0d59d475e3ff9008dd6d3e2cb3f40a2e" download="server"
+    <mod name="Galacticraft Mars" version="2.0.14.1094"
+         url="packs/ResonantRise/files/mods/Galacticraft-Planets-1.6.4-2.0.14.1094.jar" file="Galacticraft-Planets-1.6.4-2.0.14.1094.jar" md5="6ab853d62044373f1ef015bb951b2e38" download="server" 
          type="mods"
          website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="Mars addon for Galacticraft." />
@@ -303,8 +303,8 @@
          name="GasCraft" type="mods" version="2.0.4.4"
          website="http://emashersmods.wikispaces.com/Downloads" authors="Emasher"
          description="Flutey Toot." />
-	<mod url="packs/ResonantRise/files/mods/gendustry-mc164-1.1.3.78.jar" file="gendustry-mc164-1.1.3.78.jar" md5="e3018355de310d3c82046cff73e5d8ca" download="server" 
-         name="Gendustry" type="mods" version="1.1.3.78"
+	<mod url="packs/ResonantRise/files/mods/gendustry-mc164-1.1.3.fix1.jar" file="gendustry-mc164-1.1.3.fix1.jar" md5="4145c57bda98a43b751cf016fae0b47a" download="server" 
+         name="Gendustry" type="mods" version="1.1.3.fix1"
          website="http://bdew.net/gendustry" authors="bdew"
          description="The new darling of the Buildcraft fan scene." />
     <mod url="packs/ResonantRise/files/mods/GravityGun2.0.0.zip" file="GravityGun2.0.0.zip" md5="befe475831348a070dc5dd45de4dd94f" download="server"
@@ -434,8 +434,8 @@
          name="Metallurgy" type="mods" version="3.3.2"
          website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/" authors="RebelKeithy, Shadowclaimer, Team Metallurgy" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="A bit of this, a bit of that." />
-    <mod name="Micdoodle8 Core" version="2.0.14.1084"
-         url="packs/ResonantRise/files/mods/MicdoodleCore-1.6.4-2.0.14.1084.jar" file="MicdoodleCore-1.6.4-2.0.14.1084.jar" md5="d10694e8c31b369b19507eb4bd68a641" download="server" 
+    <mod name="Micdoodle8 Core" version="2.0.14.1094"
+         url="packs/ResonantRise/files/mods/MicdoodleCore-1.6.4-2.0.14.1094.jar" file="MicdoodleCore-1.6.4-2.0.14.1094.jar" md5="1a0d4356186b438cec95a01249fb1104" download="server"  
          type="mods"
          website="http://www.micdoodle8.com/" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="Galacticraft libraries!" />
@@ -510,13 +510,13 @@
          name="OpenBlocks" type="mods" version="1.2.9"
          website="http://openmods.info/" authors="Mikee, boq, OpenMods Team"
          description="An amazing open source mode that does amazing things." />
-	<mod name="OpenComponents" version="0.2.0.47"
-		 url="packs/ResonantRise/files/mods/OpenComponents-MC1.6.4-0.2.0.47-universal.jar" file="OpenComponents-MC1.6.4-0.2.0.47-universal.jar" md5="55d1f6a004d9169ae9d113891e92ae1a" download="server" 
+	<mod name="OpenComponents" version="0.2.0.48"
+		 url="packs/ResonantRise/files/mods/OpenComponents-MC1.6.4-0.2.0.48-universal.jar" file="OpenComponents-MC1.6.4-0.2.0.48-universal.jar" md5="0115ead810a8c783da59cdfbab12138c" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar"
 		 description="Companion interface extension for OpenComputers." />
-	<mod name="OpenComputers" version="1.3.2.525"
-		 url="packs/ResonantRise/files/mods/OpenComputers-MC1.6.4-1.3.2.525-universal.jar" file="OpenComputers-MC1.6.4-1.3.2.525-universal.jar" md5="7f91098ad25d033a4ee3368c69b5435e" download="server"
+	<mod name="OpenComputers" version="1.3.3.547"
+		 url="packs/ResonantRise/files/mods/OpenComputers-MC1.6.4-1.3.3.547-universal.jar" file="OpenComputers-MC1.6.4-1.3.3.547-universal.jar" md5="6e365e04c4cc44f9dad9ee548428c35a" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar"
 		 description="Computers for hipsters and bytecode leethaxxors." />
@@ -880,12 +880,12 @@
 	
 		<!-- Special Mode Configs -->
 	<mod name="EiraIRC Client Config" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/eira_client_2.9.2.4.zip" file="eira_client_2.9.2.4.zip" md5="ea774c74e76cf4dab9383c4ad7309602" download="server" 
+		 url="packs/ResonantRise/files/config-switches/eira_client_2.9.3.1.zip" file="eira_client_2.9.3.1.zip" md5="4e7dd41827722e09213bf9fd8da2c3d6" download="server" 
 		 type="extract" extractto="root" client="yes" server="no"
 		 website="http://resonant-rise.com"
 		 description="Client-specific configs for EiraIRC." />
 	<mod name="EiraIRC Server Config" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/eira_server_2.9.2.4.zip" file="eira_server_2.9.2.4.zip" md5="cb1fd89e17c252af77eaa7b527b775a9" download="server" 
+		 url="packs/ResonantRise/files/config-switches/eira_server_2.9.3.1.zip" file="eira_server_2.9.3.1.zip" md5="8b6e2bd0f3af2be8c5f18df1f0ff2e27" download="server" 
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
@@ -921,7 +921,7 @@
 				 url="packs/ResonantRise/files/mods/Morph-Beta-0.7.2_nospam.zip" file="Morph-Beta-0.7.2_nospam.zip" md5="201e1d5c06060bb3df858120d97dbd3e" download="server" 
 				 type="mods" optional="yes" recommended="no"
 				 website="http://ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
-				 description="Morph mod, made for ModJam 2. Allows players to acquire the morph skill and turn into other mobs." />
+				 description="THIS MOD WILL CAUSE ISSUES WITH THE MODPACK IF YOU CONTINUE TO USE IT. Allows players to acquire the morph skill and turn into other mobs." />
 		<mod name="MrCrayfish's Furniture Mod" version="3.3.4"
                  url="packs/ResonantRise/files/mods/MrCrayfishFurnitureModv3.3.4(1.6.4).jar" file="MrCrayfishFurnitureModv3.3.4(1.6.4).jar" md5="0653318838a0a29b17d6f8bee6d474dc" download="server" 
                  type="mods"
