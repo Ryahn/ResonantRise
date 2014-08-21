@@ -254,6 +254,13 @@
 		<mod name="AtomicStrykerCore" version="1.7.10" url="packs/ResonantRise/files/3.x/AtomicStrykerCore.zip" 
 			 file="AtomicStrykerCore.zip" md5="51cea598fede8030aa76832881ff6774" download="server" 
 			 type="mods" authors="AtomicStryker" website="http://atomicstryker.net/" description="Core files for AtomicStryker's Mods" />
+			 
+ 		<mod name="Ruins Libs" version="1.7.10"
+			 url="packs/ResonantRise/files/deps/ruins_libs_1.7.10.zip" file="ruins_libs_1.7.10.zip" md5="3aa4f4abc26d338f5ae0ca75d0b8b1d2" download="server" 
+			 type="extract" extractto="root"
+			 website="http://atomicstryker.net/"
+			 authors="AtomicStryker"
+			 description="Data for Ruins." />
 
     <!-- Eternity Era Mods: Mods Available in all Modes (Alphabetized) -->
 	
@@ -627,7 +634,7 @@
 
 		<mod name="Ruins" version="1.7.10" url="packs/ResonantRise/files/3.x/Ruins-1.7.10.jar" 
 			 file="Ruins-1.7.10.jar" md5="b85a8262f183dd2d017b72b7a441820e" download="server" 
-			 type="mods" authors="AtomicStryker" website="http://atomicstryker.net/" depends="AtomicStrykerCore"
+			 type="mods" authors="AtomicStryker" website="http://atomicstryker.net/" depends="AtomicStrykerCore,Ruins Libs"
 			 description="Ruins is a mod that spawns Structures in your Minecraft worlds upon generation, similar to Villages or Strongholds." />
 			 
         <mod name="Statues" version="2.1.3"
