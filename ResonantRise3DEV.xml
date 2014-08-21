@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-021</version>
+        <version>3-DEV-022</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -267,8 +267,8 @@
          	 file="BattleTowers-1.7.10.jar" md5="24450c835cb77125183dcaaf51b4fd03" download="server" depends="AtomicStrykerCore"
          	 type="mods" website="http://atomicstryker.net/" authors="AtomicStryker" description="Tower Dungeons" />
 
-        <mod name="Baubles" version="1.0.1.4"
-			 url="packs/ResonantRise/files/3.x/Baubles-1.7.10-1.0.1.4.jar" file="Baubles-1.7.10-1.0.1.4.jar" md5="f737da18da8c08f22cd8939f0c8257a2" download="server"
+        <mod name="Baubles" version="1.0.1.5"
+			 url="packs/ResonantRise/files/3.x/Baubles-1.7.10-1.0.1.5.jar" file="Baubles-1.7.10-1.0.1.5.jar" md5="2da0f6449e1afae1f8f2ae0c4642dab7" download="server"
 			 type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-3-updated-8-8-2014"
 			 authors="Azanor,Vazkii"
@@ -360,7 +360,7 @@
 	
         <mod name="Damage Indicators" version="3.2.0"
              url="packs/ResonantRise/files/3.x/[1.7.10]DamageIndicatorsMod-3.2.0.jar" file="[1.7.10]DamageIndicatorsMod-3.2.0.jar" md5="68be70b663af88ffabab9cf0cd97bd42" download="server"
-             type="mods" optional="yes"
+             type="mods" optional="yes" selected="no" recommended="yes" server="no"
              website="http://www.minecraftforum.net/topic/1536685-" donation="https://dl.dropbox.com/u/74770478/donate.html"
 			 authors="rich1051414"
              description="Displays the damage you inflict on creatures, as well as current health, name and potion effects." />
@@ -495,8 +495,8 @@
 			 authors="mDiyo"
              description="Core for Tinkers' Construct" />
 			 
-        <mod name="Metallurgy" version="4.0.3.36"
-             url="packs/ResonantRise/files/3.x/Metallurgy-1.7.10-4.0.3.36.jar" file="Metallurgy-1.7.10-4.0.3.36.jar" md5="70a7e05131630c34eb9d9028ae909ec5" download="server"
+        <mod name="Metallurgy" version="4.0.4.43"
+             url="packs/ResonantRise/files/3.x/Metallurgy-1.7.10-4.0.4.43.jar" file="Metallurgy-1.7.10-4.0.4.43.jar" md5="11be4944bdd1d8a6cbe1b30192f8f378" download="server"
 			 type="mods" depends="Metallurgy Core"
              website="http://www.minecraftforum.net/topic/744918-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
              authors="Team Metallurgy"
@@ -553,6 +553,13 @@
         	 website="http://www.minecraftforum.net/topic/1803460-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" 
         	 authors="bdew" 
         	 description="Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins." />
+        
+        <mod name="NEI Plugins" version="MC1.7.10-1.1.0.7-unofficial" 
+        	 url="packs/ResonantRise/files/3.x/NEIPlugins-MC1.7.10-1.1.0.7-unofficial.jar" file="NEIPlugins-MC1.7.10-1.1.0.7-unofficial.jar" md5="a177aa0d810c4e3c377e021072664130" download="server" 
+        	 type="mods"
+        	 website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294687-toniuss-mods-simply-jetpacks-nei-plugins"
+        	 authors="mistaqur, tonius11" 
+        	 description="Tonius Fork, Adds mod integration into NEI" />
 
         <mod name="Not Enough Items" version="1.0.3.45"
              url="packs/ResonantRise/files/3.x/NotEnoughItems-1.7.10-1.0.3.45-universal.jar" file="NotEnoughItems-1.7.10-1.0.3.45-universal.jar" md5="d952ee789b13fa0b4bd9c8a55e73c298" download="server"
@@ -680,8 +687,8 @@
 			 authors="ganymedes01"
              description="Ore 2 Dust Super Bridge" />
 
-        <mod name="Applied Energistics 2" version="rv1-beta-1"
-			 url="packs/ResonantRise/files/3.x/appliedenergistics2-rv1-beta-1.jar" file="appliedenergistics2-rv1-beta-1.jar" md5="2ae783dcb8c141ce35aaf68ce4471107" download="server"
+        <mod name="Applied Energistics 2" version="rv1-beta-8"
+			 url="packs/ResonantRise/files/3.x/appliedenergistics2-rv1-beta-8.jar" file="appliedenergistics2-rv1-beta-8.jar" md5="c7b6934e7cb0e631c9cf27a8c14b2b49" download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://ae2.ae-mod.info/" donation="http://ae2.ae-mod.info/"
 			 authors="AlgorithmX2"
@@ -708,15 +715,15 @@
              authors="Joseph &apos;Nuchaz&apos; Sinclair"
              description="Adds support for 24 varietys of wood from Forestry for 8 of the wooden block in BiblioCraft." />	 
 
-        <mod name="Big Reactors" version="0.4.0X6"
-			 url="packs/ResonantRise/files/3.x/BigReactors-0.4.0X6.jar" file="BigReactors-0.4.0X6.jar" md5="aa0c0aa0ef273c547a01a877863a0098" download="server" 
+        <mod name="Big Reactors" version="0.4.0rc3"
+			 url="packs/ResonantRise/files/3.x/BigReactors-0.4.0rc3.jar" file="BigReactors-0.4.0rc3.jar" md5="b50e38418ac339b7128fc254f1480af8" download="server" 
          	 type="mods" optional="yes" recommended="no"
 			 website="http://www.big-reactors.com"
 			 authors="ErogenousBeef" 
          	 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power.  Special thanks: powercrystals, skyboy, King_Lemming, &amp; Calclavia for example code." />
 
-        <mod name="BluePower" version="0.1.630" 
-        	 url="packs/ResonantRise/files/3.x/BluePower-1.7.10-0.1.630-universal.jar" file="BluePower-1.7.10-0.1.630-universal.jar" md5="5f10bcd116930a3599fa2a06796988d6" download="server" 
+        <mod name="BluePower" version="0.1.674" 
+        	 url="packs/ResonantRise/files/3.x/BluePower-1.7.10-0.1.674-universal.jar" file="BluePower-1.7.10-0.1.674-universal.jar" md5="f39f1309d3c2a8be4ce73744739486da" download="server" 
         	 type="mods" optional="yes" recommended="no"
         	 website="http://bluepowermod.com/" donation="http://bluepowermod.com/"
         	 description="THE POWER OF BLUE!" />
@@ -727,6 +734,13 @@
              website="http://www.mod-buildcraft.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
 			 authors="SpaceToad, Krapht, SirSengir, CovertJaguar"
 			 description="The new and improved BuildCraft c. 2014!" />
+
+        <mod name="CandyCraft" version="1.2.3"
+			 url="packs/ResonantRise/files/3.x/CandyCraft-1.2.3 (1.7.10).jar" file="CandyCraft-1.2.3 (1.7.10).jar" md5="b31528f281eefc6fb3b3830ffed7f5e3" download="server"
+			 type="mods" optional="yes" recommended="no"
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292999" donation="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292999"
+			 authors="valentin4311"
+			 description="Candy Blocks, Candy Dimension, Candy Mobs...GUMMY BUNNIES!!!" />
 
         <!-- <mod name="ComputerCraft" version="1.64pr4"
 			 url="packs/ResonantRise/files/3.x/ComputerCraft1.64pr4.jar" file="ComputerCraft1.64pr4.jar" md5="a88e7dd2fa1f74aefeeeccc4516db219" download="server"
@@ -742,8 +756,8 @@
 			 authors="RazzleberryFox"
              description="Decorate until your heart dies." />
 
-        <mod name="EnderIO" version="2.0_beta.172"
-			 url="packs/ResonantRise/files/3.x/enderio-2.0_beta.172.jar" file="enderio-2.0_beta.172.jar" md5="b1e59a4a46bf93d8593b0e9fcee7d2ec" download="server" 
+        <mod name="EnderIO" version="2.0.185_beta"
+			 url="packs/ResonantRise/files/3.x/EnderIO-1.7.10-2.0.185_beta.jar" file="EnderIO-1.7.10-2.0.185_beta.jar" md5="87e4c337f4b1885f137a0b29db804177" download="server" 
 			 type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1937619-"
 			 authors="crazypants"
@@ -763,8 +777,8 @@
 			 authors="Alz454"
 			 description="EnhancedPortals started out as a mod designed to give you a bit more customization for your Nether portals. You could increase the size, shape, or change it&apos;s colour. EnhancedPortals 3 takes this even further by leaving behind the focus of being a fully functional, boring, Nether portal." />
 			 
-        <mod name="Ex Nihilo" version="1.34"
-			 url="packs/ResonantRise/files/3.x/Ex-Nihilo-1.34.jar" file="Ex-Nihilo-1.34.jar" md5="164240c78fca970c2d3282c10482eec4" download="server"
+        <mod name="Ex Nihilo" version="1.35b"
+			 url="packs/ResonantRise/files/3.x/Ex-Nihilo-1.35b.jar" file="Ex-Nihilo-1.35b.jar" md5="fc7f931bdb8c5936e9de1f9e86947275" download="server"
 			 type="mods" optional="yes" recommended="no"
 			 website="http://www.minecraftforum.net/topic/1981778-"
 			 authors="Erasmus_Crowley"
@@ -779,15 +793,15 @@
 			 description="A massive expansion to Applied Energistics. Store fluids and more." />
 		-->
 
-        <mod name="ExtraTiC" version="1.7.10-1.0.0.c051d99"
-             url="packs/ResonantRise/files/3.x/ExtraTiC-1.7.10-1.0.0.c051d99.jar" file="ExtraTiC-1.7.10-1.0.0.c051d99.jar" md5="466733e5ff93f9731394aaa2fe7c1f55" download="server"
+        <mod name="ExtraTiC" version="1.7.10-1.0.3"
+             url="packs/ResonantRise/files/3.x/ExtraTiC-1.7.10-1.0.3.jar" file="ExtraTiC-1.7.10-1.0.3.jar" md5="453c06ef469c660b4b195589a292132b" download="server"
              type="mods" optional="yes" recommended="no"
 			 website="http://www.minecraftforum.net/topic/1985397-"
 			 authors="Glassmaker"
              description="Metallurgy compatibility for Tinker's Construct." />
 
-        <mod name="Extra Utilities" version="1.1.0g"
-			 url="packs/ResonantRise/files/3.x/extrautilities-1.1.0g.jar" file="extrautilities-1.1.0g.jar" md5="34031a9dcec8f77c5a9c63df68d2b08c" download="server"
+        <mod name="Extra Utilities" version="1.1.0h"
+			 url="packs/ResonantRise/files/3.x/extrautilities-1.1.0h.jar" file="extrautilities-1.1.0h.jar" md5="06b8eae0966e5662ec8da7c79a460164" download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963" donation="http://www.patreon.com/rwtema"
 			 authors="RWTema"
@@ -890,22 +904,28 @@
 			 website="http://www.minecraftforum.net/topic/1627856-" authors="MysteriousAges" 
 			 description="Magic themed bee expansion for Forestry. TC3, EE3, AM compatible!" />
 
-        <mod name="Mekanism" version="1.7.10-7.0.0.87"
-             url="packs/ResonantRise/files/3.x/Mekanism-1.7.10-7.0.0.87.jar" file="Mekanism-1.7.10-7.0.0.87.jar" md5="2487150d59141e5461204ad8d5d9b1a2" download="server"
+		<mod name="Magical Crops" version="0.1" 
+		     url="packs/ResonantRise/files/3.x/magicalcrops-1.7.10_0.1.jar" file="magicalcrops-1.7.10_0.1.jar" md5="c01737e665d671ca3a495ee0060f9be0" download="server" 
+		     type="mods" optional="yes" recommended="no"
+		     website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with" donation="http://www.patreon.com/Mark719"
+		     description="Farm your resources!" />	 
+
+        <mod name="Mekanism" version="1.7.10-7.1.0.89"
+             url="packs/ResonantRise/files/3.x/Mekanism-1.7.10-7.1.0.89.jar" file="Mekanism-1.7.10-7.1.0.89.jar" md5="ee336a0efe5e122c3eeea57afa501e14" download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
 			 authors="aidancbrady"
 			 description="Osmium also cures light wounds." />
 
-        <mod name="Mekanism Generators" version="1.7.10-7.0.0.87"
-             url="packs/ResonantRise/files/3.x/MekanismGenerators-1.7.10-7.0.0.87.jar" file="MekanismGenerators-1.7.10-7.0.0.87.jar" md5="5d804f4164d65d97122341fcca3906be" download="server"
+        <mod name="Mekanism Generators" version="1.7.10-7.1.0.89"
+             url="packs/ResonantRise/files/3.x/MekanismGenerators-1.7.10-7.1.0.89.jar" file="MekanismGenerators-1.7.10-7.1.0.89.jar" md5="1a658400dbba53f235fbe423b3bae1b2" download="server"
              type="mods" optional="yes" recommended="no"
 			 website="http://universalelectricity.com/mekanism" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY"
              authors="aidancbrady"
 			 description="Generators module of Mekanism." />
 
-        <mod name="Mekanism Tools" version="1.7.10-7.0.0.87"
-             url="packs/ResonantRise/files/3.x/MekanismTools-1.7.10-7.0.0.87.jar" file="MekanismTools-1.7.10-7.0.0.87.jar" md5="936ecb2ffb7d0864a263796fe40579fc" download="server"
+        <mod name="Mekanism Tools" version="1.7.10-7.1.0.89"
+             url="packs/ResonantRise/files/3.x/MekanismTools-1.7.10-7.1.0.89.jar" file="MekanismTools-1.7.10-7.1.0.89.jar" md5="60611451d3493942130c3398678f97a3" download="server"
              type="mods" optional="yes" recommended="no"
 			 website="http://universalelectricity.com/mekanism" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY"
              authors="aidancbrady"
@@ -1049,6 +1069,13 @@
 			 website="http://www.minecraftforum.net/topic/2548594-"
 			 authors="tonius11"
              description="This is a small mod that adds Redstone Flux-powered jetpacks to the game" />
+
+        <mod name="Simple Recycling" version="59.0.0" 
+             url="packs/ResonantRise/files/3.x/simple-recycling-59.0.0.jar" file="simple-recycling-59.0.0.jar" md5="22710afa67e59ac2cb76dd18408596ee" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="http://forum.feed-the-beast.com/threads/simple-recycling-gregtech-like-tool-recycling-without-the-greg.35212/" 
+             authors="immibis"
+             description="Simple Recycling is a tiny mod that allows you to smelt undamaged metal tools and armour back into ingots." />     
 
         <mod name="Steve's Carts" version="2.0.0.b16"
              url="packs/ResonantRise/files/3.x/StevesCarts2.0.0.b16.jar" file="StevesCarts2.0.0.b16.jar" md5="c7ac3f2cca2cd6943e923939badb3f33" download="server"
