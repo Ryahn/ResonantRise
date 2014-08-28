@@ -47,29 +47,29 @@
 <!-- Timezone Definitions -->
 
 	<!-- Timezone Indices -->
-		<!--<mod name="Eternity" version="3-DEV-024"
-			 url="packs/ResonantRise/files/timezones/00_eternity_3-DEV-024.zip" file="00_eternity_3-DEV-024.zip" md5="e25dbd415598bd1d97ca17b860e26d47" download="server" 
+		<mod name="Eternity" version="3-DEV-024"
+			 url="packs/ResonantRise/files/timezones/00_eternity_3-DEV-024.zip" file="00_eternity_3-DEV-024.zip" md5="37626d3b30a9c1d01f38ea589ee6727a" download="server" 
 			 type="extract" extractto="root" optional="no" recommended="yes"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="The pack's baseline, will always be installed - then other time periods pasted over it. Designed for testers and to punish n00bs who don't select a game mode so don't bother checking it out."
-			 />-->
+			 />
 
-		<!--<mod name="Antiquity" version="3-DEV-024"
-			 url="packs/ResonantRise/files/timezones/01_antiquity_3-DEV-024.zip" file="01_antiquity_3-DEV-024.zip" md5="0c071299985a66ff31c465cfc82fece9" download="server" 
+		<mod name="Antiquity" version="3-DEV-024"
+			 url="packs/ResonantRise/files/timezones/01_antiquity_3-DEV-024.zip" file="01_antiquity_3-DEV-024.zip" md5="8db84d67a89cfab24c405960f76d63c2" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="yes"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Enables Antiquity era features and mods."
-			 />-->
+			 />
 
-		<!--<mod name="Medieval Era" version="3-DEV-024"
-			 url="packs/ResonantRise/files/timezones/02_medieval_3-DEV-024.zip" file="02_medieval_3-DEV-024.zip" md5="39c2e4412a14d5ef57c7d4b126fe1c9a" download="server" 
+		<mod name="Medieval Era" version="3-DEV-024"
+			 url="packs/ResonantRise/files/timezones/02_medieval_3-DEV-024.zip" file="02_medieval_3-DEV-024.zip" md5="0a65b1a752a0d81c1101d761cfffc3aa" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Enables Medieval Era features and mods."
-			 depends="Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Thaumcraft 4,Tinkers' Construct,TiC Tooltips,Witchery" />-->
+			 depends="Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Thaumcraft 4,Tinkers' Construct,TiC Tooltips,Witchery" />
 		<!--
 			 depends="
 					Antiquity,
@@ -89,13 +89,13 @@
 					Witchery
 					" -->
 			 
-		<!--<mod name="Industrial Era" version="3-DEV-024"
-			 url="packs/ResonantRise/files/timezones/03_industrial_3-DEV-024.zip" file="03_industrial_3-DEV-024.zip" md5="beb9439cc51ba88e42f32e71805665c2" download="server" 
+		<mod name="Industrial Era" version="3-DEV-024"
+			 url="packs/ResonantRise/files/timezones/03_industrial_3-DEV-024.zip" file="03_industrial_3-DEV-024.zip" md5="31630e18ef2c816d54dabcba1c38ac8a" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Enables Industrial Era features and mods."
-			 depends="Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff" />-->
+			 depends="Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff" />
 		<!-- depends="
 					Antiquity,
 					Medieval Era,
@@ -121,13 +121,13 @@
 					TubeStuff
 					" -->
 
-		<!--<mod name="Information Era" version="3-DEV-024"
-			 url="packs/ResonantRise/files/timezones/04_information_3-DEV-024.zip" file="04_information_3-DEV-024.zip" md5="0420fd1ba303127b71476d8dca5893de" download="server" 
+		<mod name="Information Era" version="3-DEV-024"
+			 url="packs/ResonantRise/files/timezones/04_information_3-DEV-024.zip" file="04_information_3-DEV-024.zip" md5="16cfe76102349606e43a0db7a24c4ce6" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Enables Information Era features and mods."
-			 depends="Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Simple Recycling,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,Big Reactors,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,Logistical Pipes,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,VeinMiner" />-->
+			 depends="Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Simple Recycling,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,Big Reactors,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,Logistical Pipes,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,VeinMiner" />
 		<!-- depends="
 					Antiquity,
 					Medieval Era,
@@ -148,13 +148,13 @@
 					VeinMiner
 					" -->					
 			 
-		<!--<mod name="Stellar Dream" version="3-DEV-024"
-			 url="packs/ResonantRise/files/timezones/05_stellar_3-DEV-024.zip" file="05_stellar_3-DEV-024.zip" md5="6804db4d57420411cf974a60f8ce66cf" download="server" 
+		<mod name="Stellar Dream" version="3-DEV-024"
+			 url="packs/ResonantRise/files/timezones/05_stellar_3-DEV-024.zip" file="05_stellar_3-DEV-024.zip" md5="df5b68100ff9ecbd016e2817438d3b0f" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Enables the very generous Stellar Dream features and mods."
-			 depends="Antiquity,Binnie Mods,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Magical Crops,Mariculture,Redstone Paste,Refined Relocation,Thaumcraft 4,Thaumcraft Extras,Thaumic Energistics,Thaumic Tinkerer,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Simple Recycling,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,Big Reactors,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,VeinMiner,Information Era,Advanced Genetics,Applied Energistics 2,AE2 Tech Addons,CandyCraft,EnhancedPortals 3,Ex Nihilo,Extra Cells,Extra Utilities,Galacticraft Core,Galacticraft Mars,Infinitubes,Liquid XP,Logistical Pipes,Mekanism,Mekanism Generators,Mekanism Tools,Modular Forcefield System,Project Red: Mechanical,Remain in Motion,Remote IO,Steve's Factory Manager,Technomancy,Translocator" />-->
+			 depends="Stellar Dream,Binnie Mods,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Magical Crops,Mariculture,Redstone Paste,Refined Relocation,Thaumcraft 4,Thaumcraft Extras,Thaumic Energistics,Thaumic Tinkerer,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Simple Recycling,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,Big Reactors,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,VeinMiner,Information Era,Advanced Genetics,Applied Energistics 2,AE2 Tech Addons,CandyCraft,EnhancedPortals 3,Ex Nihilo,Extra Cells,Extra Utilities,Galacticraft Core,Galacticraft Mars,Infinitubes,Liquid XP,Logistical Pipes,Mekanism,Mekanism Generators,Mekanism Tools,Modular Forcefield System,Project Red: Mechanical,Remain in Motion,Remote IO,Steve's Factory Manager,Technomancy,Forbidden Magic,Translocator" />
 		<!-- depends="
 					Antiquity,
 					Medieval Era,
@@ -188,13 +188,13 @@
 					Translocator
 					" -->
 
-		<!--<mod name="Inhuman Nightmare" version="3-DEV-024"
-			 url="packs/ResonantRise/files/timezones/06_nightmare_3-DEV-024.zip" file="06_nightmare_3-DEV-024.zip" md5="5543bbd89b4c3b42c61c759251416553" download="server" 
+		<mod name="Inhuman Nightmare" version="3-DEV-024"
+			 url="packs/ResonantRise/files/timezones/06_nightmare_3-DEV-024.zip" file="06_nightmare_3-DEV-024.zip" md5="927319cba82c20b625a1654f7b03790e" download="server" 
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
 			 description="Enables pain and suffering in the Future you chose."
-			 depends="Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Thaumcraft 4,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,Big Reactors,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,VeinMiner,Information Era,Hardcore Ender Expansion" />-->
+			 depends="Antiquity,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Mariculture,Redstone Paste,Refined Relocation,Thaumcraft 4,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,Big Reactors,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,VeinMiner,Information Era,Hardcore Ender Expansion" />
 		<!-- depends="
 					Antiquity,
 					Medieval Era,
@@ -203,14 +203,14 @@
 					Hardcore Ender Expansion
 					" -->		
 					
-		<mod name="GEC Server Mods" version="n/a"
+		<!--<mod name="GEC Server Mods" version="n/a"
 			 url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="yes"
 			 website="http://resonant-rise.com"
 			 authors="Velotician,GodNero"
 			 description="easy select all non client only mods for GEC members"
 			 depends="Binnie Mods,BiblioWoods Forestry Edition,Ender Storage,ExtraTiC,RForesty,Iron Chests,Jabba,ObsidiPlates,Magical Crops,Mariculture,Redstone Paste,Refined Relocation,Thaumcraft 4,Thaumcraft Extras,Thaumic Energistics,Thaumic Tinkerer,Tinkers' Construct,TiC Tooltips,Witchery,Medieval Era,Another One Bites The Dust,Archimedes' Ships,BluePower,DecoCraft,Factorization,Flaxbeard's Steam Power Mod,Greg's Lighting,Magic Bees,MineFactory Reloaded,OpenBlocks,Project Red: Integration,Project Red: Lighting,Random Things,Redstone Arsenal,Simple Recycling,Steve's Carts,Super Crafting Frame,Thermal Expansion,Tinkers' Mechworks,TubeStuff,Industrial Era,Big Reactors,BuildCraft,ComputerCraft,EnderIO,Factorization,Gendustry,Immibis' Peripherals,OpenComponents,OpenComputers,QuarryPlus,Simply Jetpacks,VeinMiner,Information Era,Advanced Genetics,Applied Energistics 2,AE2 Tech Addons,CandyCraft,EnhancedPortals 3,Ex Nihilo,Extra Cells,Extra Utilities,Galacticraft Core,Galacticraft Mars,Infinitubes,Liquid XP,Logistical Pipes,Mekanism,Mekanism Generators,Mekanism Tools,Modular Forcefield System,Project Red: Mechanical,Remain in Motion,Remote IO,Steve's Factory Manager,Technomancy,Translocator,Forbidden Magic,Hardcore Ender Expansion"
-			 />	
+			 />-->	
 
 		<mod name="[DEV BUILD] -- BELOW THIS LINE ARE ALL INDIVIDUAL MODS --" version="n/a"
 			 url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
