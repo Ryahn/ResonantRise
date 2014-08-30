@@ -23,16 +23,16 @@ ID,Unlocalised name,Class
 21,potion.healthBoost,net.minecraft.potion.PotionHealthBoost
 22,potion.absorption,net.minecraft.potion.PotionAbsoption
 23,potion.saturation,net.minecraft.potion.PotionHealth
-24,null,null,null,null
-25,null,null,null,null
-26,null,null,null,null
-27,null,null,null,null
-28,null,null,null,null
-29,null,null,null,null
-30,null,null,null,null
+24,potion.fluxtaint,thaumcraft.api.potions.PotionFluxTaint
+25,potion.visexhaust,thaumcraft.api.potions.PotionVisExhaust
+26,potion.infvisexhaust,thaumcraft.common.lib.potions.PotionInfectiousVisExhaust
+27,potion.unhunger,thaumcraft.common.lib.potions.PotionUnnaturalHunger
+28,potion.warpward,thaumcraft.common.lib.potions.PotionWarpWard
+29,potion.deathgaze,thaumcraft.common.lib.potions.PotionDeathGaze
+30,potion.blurred,thaumcraft.common.lib.potions.PotionBlurredVision
 31,potion.paralysis,biomesoplenty.common.potions.PotionParalysis
 32,potion.possession,biomesoplenty.common.potions.PotionPossession
-33,null,null,null,null
+33,potion.sunscorned,thaumcraft.common.lib.potions.PotionSunScorned
 34,null,null,null,null
 35,null,null,null,null
 36,null,null,null,null
@@ -49,7 +49,7 @@ ID,Unlocalised name,Class
 47,null,null,null,null
 48,null,null,null,null
 49,null,null,null,null
-50,null,null,null,null
+50,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
 51,null,null,null,null
 52,null,null,null,null
 53,null,null,null,null
@@ -69,7 +69,7 @@ ID,Unlocalised name,Class
 67,null,null,null,null
 68,null,null,null,null
 69,null,null,null,null
-70,null,null,null,null
+70,potion.blood_seal,fox.spiteful.forbidden.potions.PotionBloodSeal
 71,null,null,null,null
 72,null,null,null,null
 73,null,null,null,null
@@ -85,11 +85,11 @@ ID,Unlocalised name,Class
 83,imbue.experience,lumien.randomthings.Potions.PotionImbue
 84,imbue.fire,lumien.randomthings.Potions.PotionImbue
 85,imbue.spectre,lumien.randomthings.Potions.PotionImbue
-86,null,null,null,null
-87,null,null,null,null
+86,Fire Imbued,thaumic.tinkerer.common.potion.DummyPotions
+87,Wated Imbued,thaumic.tinkerer.common.potion.DummyPotions
 88,null,null,null,null
-89,null,null,null,null
-90,null,null,null,null
+89,Earth Imbued,thaumic.tinkerer.common.potion.DummyPotions
+90,Air Imbued,thaumic.tinkerer.common.potion.DummyPotions
 91,null,null,null,null
 92,null,null,null,null
 93,null,null,null,null
@@ -109,9 +109,9 @@ ID,Unlocalised name,Class
 107,Ice Cloak,WayofTime.alchemicalWizardry.common.potion.PotionIceCloak
 108,Heavy Heart,WayofTime.alchemicalWizardry.common.potion.PotionHeavyHeart
 109,Fire Fuse,WayofTime.alchemicalWizardry.common.potion.PotionFireFuse
-110,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
-111,Planar Binding,WayofTime.alchemicalWizardry.common.potion.PotionPlanarBinding
-112,null,null,null,null
+110,null,null,null,null
+111,Soul Fray,WayofTime.alchemicalWizardry.common.potion.PotionSoulFray
+112,Soul Harden,WayofTime.alchemicalWizardry.common.potion.PotionSoulHarden
 113,null,null,null,null
 114,null,null,null,null
 115,null,null,null,null
