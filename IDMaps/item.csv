@@ -879,6 +879,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1730,Block,Metallurgy3Machines,tile.Metallurgy:machines/enchanter/Enchanter,rebelkeithy.mods.metallurgy.machines.enchanter.BlockMetallurgyEnchantmentTable
 1753,Block,MagicBees,tile.effectJar,magicbees.block.BlockEffectJar
 1754,Block,MagicBees,tile.hive,magicbees.block.BlockHive
+1829,Block,witchery,tile.witchery.tormentstone,com.emoniph.witchery.blocks.BlockForce
+1830,Block,witchery,tile.witchery.stockade,com.emoniph.witchery.blocks.BlockStockade
+1831,Block,witchery,tile.witchery.statueofworship,com.emoniph.witchery.blocks.BlockStatueOfWorship
+1832,Block,witchery,tile.witchery.perpetualice,com.emoniph.witchery.blocks.BlockPerpetualIce
+1833,Block,witchery,tile.witchery.infinityegg,com.emoniph.witchery.blocks.BlockInfinityEgg
 1834,Block,witchery,tile.witchery.mindrake,com.emoniph.witchery.blocks.BlockWitchCrop
 1835,Block,witchery,tile.witchery.decurseteleport,com.emoniph.witchery.blocks.BlockAreaMarker
 1836,Block,witchery,tile.witchery.decursedirected,com.emoniph.witchery.blocks.BlockAreaMarker
@@ -2809,6 +2814,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 10922,Item,witchery,item.witchery.deathsfeet,com.emoniph.witchery.item.ItemDeathsClothes
 10923,Item,witchery,item.witchery.deathshand,com.emoniph.witchery.item.ItemDeathsHand
 10924,Item,witchery,item.witchery.seedsmindrake,com.emoniph.witchery.item.ItemWitchSeeds
+10925,Item,witchery,item.witchery.kobolditepickaxe,com.emoniph.witchery.item.ItemKobolditePickaxe
+10926,Item,witchery,item.witchery.quiverofmog,com.emoniph.witchery.item.ItemGoblinClothes
+10927,Item,witchery,item.witchery.gurdleofgulg,com.emoniph.witchery.item.ItemGoblinClothes
+10928,Item,witchery,item.witchery.kobolditehelm,com.emoniph.witchery.item.ItemGoblinClothes
 11387,Item,MFFS,item.mffs:remoteController,mffs.item.ItemRemoteController
 11388,Item,MFFS,item.mffs:focusMatrix,mffs.base.ItemMFFS
 11389,Item,MFFS,item.mffs:modeCube,mffs.item.mode.ItemModeCube
