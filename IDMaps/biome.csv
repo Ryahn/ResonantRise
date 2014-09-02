@@ -191,9 +191,9 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 189,null,null,null,null
 190,null,null,null,null
 191,null,null,null,null
-192,Tainted Land,0.5,0.5,0.1,0.1,0.2,"MAGICAL, WASTELAND",thaumcraft.common.lib.world.biomes.BiomeGenTaint
-193,Magical Forest,0.7,0.6,0.1,0.2,0.2,"MAGICAL, FOREST",thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest
-194,Eerie,0.5,0.5,0.1,0.1,0.2,MAGICAL,thaumcraft.common.lib.world.biomes.BiomeGenEerie
+192,Tainted Land,0.5,0.5,0.1,0.1,0.2,"SPARSE, MAGICAL, PLAINS, WASTELAND",thaumcraft.common.lib.world.biomes.BiomeGenTaint
+193,Magical Forest,0.7,0.6,0.1,0.2,0.2,"SPARSE, MAGICAL, FOREST, PLAINS",thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest
+194,Eerie,0.5,0.5,0.1,0.1,0.2,"SPARSE, MAGICAL, PLAINS",thaumcraft.common.lib.world.biomes.BiomeGenEerie
 195,null,null,null,null
 196,null,null,null,null
 197,null,null,null,null
