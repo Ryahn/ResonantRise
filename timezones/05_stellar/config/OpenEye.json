@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["RR UNRELEASED BUILD", "Timezone: Stellar Dream Era", "RR 3-DEV-026"]
+            "value": ["RR UNRELEASED BUILD", "Timezone: Stellar Dream Era", "RR 3-DEV-027"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
