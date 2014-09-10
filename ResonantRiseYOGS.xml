@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.9.3.2-RR-YOGS</version>
+    <version>2.9.3.3-RR-YOGS</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -451,8 +451,8 @@
          website="http://www.minecraftforum.net/topic/2016680-162164-" authors="powercrystals, skyboy"
          description="Probably the greatest autofarming mod ever created."
          fileprefix="00000_" />
-    <mod name="MineTweaker" version="3.0.8B"
-		 url="packs/YogscastCompletePack/files/mods/MineTweaker3-1.6.4-3.0.8B.jar" file="MineTweaker3-1.6.4-3.0.8B.jar" md5="f6a256a4f5f02afec28fd18e53df01a2" download="server" 
+    <mod name="MineTweaker" version="3.0.6"
+		 url="packs/YogscastCompletePack/files/mods/MineTweaker3-1.6.4-3.0.6.jar" file="MineTweaker3-1.6.4-3.0.6.jar" md5="32c8f133d5f465a35a49d17be33b12e3" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1886008-" authors="Stan Hebben"
 		 description="Modpack and server tool enabling the addition and removal of recipes" />
