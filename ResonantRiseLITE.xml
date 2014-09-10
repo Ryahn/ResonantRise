@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.9.3.1-RR-LITE</version>
+    <version>2.9.3.2-RR-LITE</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -83,8 +83,8 @@
          name="Buildcraft" type="mods"  version="4.2.2"
          website="http://www.mod-buildcraft.com/" authors="SpaceToad, Krapht, SirSengir, CovertJaguar" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Burning oil forever." />
-	<mod url="packs/ResonantRiseLite/files/mods/Carpenters Blocks v3.2.6 - MC 1.6.4.zip" file="Carpenters Blocks v3.2.6 - MC 1.6.4.zip" md5="04da34cbab2da310ce74dbfd7ad2ea89" download="server" 
-         name="Carpenter's Blocks" type="mods" version="3.2.6"
+	<mod url="packs/ResonantRiseLite/files/mods/Carpenters Blocks v3.2.7 - MC 1.6.4.zip" file="Carpenters Blocks v3.2.7 - MC 1.6.4.zip" md5="7aefce20088ad442145dc47b2cc08e02" download="server" 
+         name="Carpenter's Blocks" type="mods" version="3.2.7"
          website="http://www.minecraftforum.net/topic/1790919-" authors="Mineshopper" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
          description="Angles!" />
     <mod name="Charlotte's Utilities" version="0.7.0"
@@ -126,8 +126,8 @@
          name="Dimensional Anchors" type="mods" version="57.1.96"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" authors="immibis"
          description="Immibis's chunk loaders. Preferred."  />
-	<mod name="EiraIRC" version="1.7.1"
-		 url="packs/ResonantRiseLite/files/mods/eirairc-mc1.6.4-v1.7.1.jar" file="eirairc-mc1.6.4-v1.7.1.jar" md5="7630b662321fc6f1840209fe14ff4771" download="server" 
+	<mod name="EiraIRC" version="1.7.3"
+		 url="packs/ResonantRiseLite/files/mods/eirairc-mc1.6.4-v1.7.3.jar" file="eirairc-mc1.6.4-v1.7.3.jar" md5="821099ecdaf487e181793999f2e0f94d" download="server" 
 		 type="mods" optional="yes" recommended="no"
 		 website="http://www.minecraftforum.net/topic/1964989-" authors="blay09"
 		 description="An IRC Connector that works both on clients and servers independently, with some neat special features." />
@@ -199,8 +199,8 @@
          website="http://www.minecraftforum.net/topic/2016680-162164-" authors="powercrystals, skyboy"
          description="Probably the greatest autofarming mod ever created."
          fileprefix="00000_" />
-    <mod name="MineTweaker" version="3.0.6"
-		 url="packs/ResonantRiseLite/files/mods/MineTweaker3-1.6.4-3.0.6.jar" file="MineTweaker3-1.6.4-3.0.6.jar" md5="32c8f133d5f465a35a49d17be33b12e3" download="server" 
+    <mod name="MineTweaker" version="3.0.8B"
+		 url="packs/ResonantRiseLite/files/mods/MineTweaker3-1.6.4-3.0.8B.jar" file="MineTweaker3-1.6.4-3.0.8B.jar" md5="f6a256a4f5f02afec28fd18e53df01a2" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1886008-" authors="Stan Hebben"
 		 description="Modpack and server tool enabling the addition and removal of recipes" />
@@ -269,8 +269,8 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1832047-"
 		 authors="lumien" description="Random Things packed into one Mod :D" />
-	<mod name="Redstone Armory" version="1.0-2"
-		 url="packs/ResonantRiseLite/files/mods/RArm-r1.0-2.jar" file="RArm-r1.0-2.jar" md5="71a796ea7694ba6381ccfb619b7cb988" download="server"
+	<mod name="Redstone Armory" version="1.0-3pre"
+		 url="packs/ResonantRiseLite/files/mods/RArm-1.6.4-r1.0-3pre.jar" file="RArm-1.6.4-r1.0-3pre.jar" md5="cd234f0aefeefa44e25be02f79e07d1b" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2756729-" authors="TehNut"
 		 description="Advanced RF-style tools with a neat twist." />
@@ -367,8 +367,8 @@
          version="3.4_01"
          website="http://www.minecraftforum.net/topic/482147-" authors="ReiFNSK"
          description="Multiple minimap options ahoy!" />
-	<mod name="TiC Tooltips" version="1.1.8a"
-		 url="packs/ResonantRiseLite/files/mods/TiCTooltips-mc1.6.4-1.1.8a.jar" file="TiCTooltips-mc1.6.4-1.1.8a.jar" md5="2233dd23b5f76d7e44f6faa565497019" download="server"
+	<mod name="TiC Tooltips" version="1.1.10"
+		 url="packs/ResonantRiseLite/files/mods/TiCTooltips-mc1.6.4-1.1.10.jar" file="TiCTooltips-mc1.6.4-1.1.10.jar" md5="05dfb4a05ef9a5e2c3216d0814375655" download="server" 
 		 type="mods" server="no"
 		 website="http://www.minecraftforum.net/topic/2509840-" authors="squeek502"
 		 description="The tooltips you've always wanted for your fancy tools!" />
@@ -377,8 +377,8 @@
          version="1.6.4"
          website="http://www.minecraftforum.net/topic/1116564-" authors="MamiyaOtaru"
          description="Velo's minimap of choice! Some consider it cheaty." />
-	<mod name="Waila Harvestability" version="1.0.4"
-		 url="packs/ResonantRiseLite/files/mods/WailaHarvestability-mc1.6.4-1.0.4.jar" file="WailaHarvestability-mc1.6.4-1.0.4.jar" md5="1d4007aee35fc2ef0eaa6486045d9398" download="server" 
+	<mod name="Waila Harvestability" version="1.1.0"
+		 url="packs/ResonantRiseLite/files/mods/WailaHarvestability-mc1.6.4-1.1.0.jar" file="WailaHarvestability-mc1.6.4-1.1.0.jar" md5="61f028ccd70b78793fa7720908f5814c" download="server" 
 		 type="mods" server="no"
 		 website="http://www.minecraftforum.net/topic/2620834-" authors="squeek502"
 		 description="Can I mine this right now?" />
