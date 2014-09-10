@@ -24,7 +24,8 @@
     <!-- Forge and Cauldron -->
     <mod url="packs/ResonantRiseLite/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
          name="Forge" type="forge" version="9.11.1.965" authors="LexManos, cpw and the many, many contributors!" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRiseLite/files/forgelibs/cauldron-1.6.4-1.965.21.151-server.jar" file="cauldron-1.6.4-1.965.21.151-server.jar" md5="bf643d7d6ceee71462f519df4a7387de" download="server" 
+    <!--
+	<mod url="packs/ResonantRiseLite/files/forgelibs/cauldron-1.6.4-1.965.21.151-server.jar" file="cauldron-1.6.4-1.965.21.151-server.jar" md5="bf643d7d6ceee71462f519df4a7387de" download="server" 
          name="Cauldron [formerly MCPC+]"  version="1.965.21.151"
 		 type="mcpc" depends="Cauldron Libs"
          website="http://cauldron.minecraftforge.net/" authors="Cauldron Team"
@@ -36,6 +37,7 @@
          website="http://cauldron.minecraftforge.net/" authors="Cauldron Team(?)"
          description="Mandatory libraries for Cauldron; it won't run without these!"
          optional="yes" client="no" recommended="no" />
+	-->
 	
 	<!-- Dependencies (as classed by ATL) -->
 	<mod name="CodeChickenLib" version="1.0.0.62"
