@@ -628,7 +628,7 @@
 
         <mod name="Not Enough Keys" version="1.0.0b15" 
         	 url="packs/ResonantRise/files/3.x/NotEnoughKeys-1.7.10-1.0.0b15.jar" file="NotEnoughKeys-1.7.10-1.0.0b15.jar" md5="34d8c5dd8842e1ecb566c06d404a007c" download="server" 
-        	 type="mods" 
+        	 type="mods" server="no"
         	 website="http://www.minecraftforum.net/topic/2189371-" donation="http://www.patreon.com/oku" 
         	 authors="oku" 
         	 description="A very simple mod created to clean up and organize the keybinds gui, organizing mods into their own category and sub menu." />
@@ -1006,6 +1006,13 @@
         	 website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828" donation="http://www.patreon.com/spitefulfox"
         	 authors="SpitefulFox"
         	 description="Unlock the forbidden thaumcraft magics" />
+
+        <mod name="Funky Locomotion" version="Beta 1" 
+        	 url="packs/ResonantRise/files/3.x/funky-locomotion-1.7.10-beta-1.jar" file="funky-locomotion-1.7.10-beta-1.jar" md5="45daf2b47b5f40a560bb8638da6ca2db" download="server" 
+        	 type="mods" optional="yes" recommended="no"
+        	 website="http://minecraft.curseforge.com/mc-mods/224190" 
+        	 authors="RWTema"
+        	 description="Frames, motors, enhanced pistons, and more!" />
 
         <mod name="Galacticraft Core" version="3.0.1.204" 
              url="packs/ResonantRise/files/3.x/GalacticraftCore-BETA-1.7-3.0.4.204.jar" file="GalacticraftCore-BETA-1.7-3.0.4.204.jar" md5="872d9623da80517c6d850f03ca13f4f1" download="server" 
