@@ -156,7 +156,7 @@
 					" -->					
 			 
 		<mod name="Stellar Dream" version="3-DEV-032"
-			 url="packs/ResonantRise/files/timezones/05_stellar_3-DEV-032.zip" file="05_stellar_3-DEV-032.zip" md5="06581bc0669a3023b04154dd6c007e44" download="server" 
+			 url="packs/ResonantRise/files/timezones/05_stellar_3-DEV-032.zip" file="05_stellar_3-DEV-032.zip" md5="1551cdb3bd0cab9b43b551f019ef51e7" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no"
 			 website="http://resonant-rise.com"
 			 authors="Velotican"
