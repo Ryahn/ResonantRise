@@ -99,7 +99,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 97,Volcano,2.0,0.05,0.1,2.5,0.5,"HOT, DRY, MOUNTAIN, WASTELAND",biomesoplenty.common.biome.overworld.sub.BiomeGenVolcano
 98,Mangrove,0.8,0.9,0.1,0.0,0.2,"WET, LUSH, OCEAN, RIVER, FOREST",biomesoplenty.common.biome.overworld.sub.BiomeGenMangrove
 99,Alps Forest,0.0,0.5,0.1,0.6,0.8,"COLD, FOREST, MOUNTAIN, SNOWY",biomesoplenty.common.biome.overworld.sub.BiomeGenAlpsForest
-100,Canyon Ravine,0.8,0.4,0.1,-0.1,0.4,"HOT, DRY, HILLS, SANDY",biomesoplenty.common.biome.overworld.sub.BiomeGenCanyonRavine
+100,WitchwoodForest,0.5,0.5,0.1,0.1,0.2,"HOT, DRY, MAGICAL, FOREST, HILLS, SANDY",am2.worldgen.BiomeWitchwoodForest
 101,Glacier,0.0,0.5,0.1,1.5,0.025,"COLD, DEAD, HILLS, SNOWY",biomesoplenty.common.biome.overworld.sub.BiomeGenGlacier
 102,Meadow Forest,0.7,0.7,0.1,0.1,0.2,"LUSH, FOREST, PLAINS",biomesoplenty.common.biome.overworld.sub.BiomeGenMeadowForest
 103,Oasis,0.9,0.7,0.1,-0.2,0.0,"HOT, DRY, JUNGLE, LUSH, SANDY",biomesoplenty.common.biome.overworld.sub.BiomeGenOasis
@@ -117,17 +117,17 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 115,Spectral Garden,2.0,0.0,0.1,0.1,0.2,"SPOOKY, LUSH, END, FOREST",biomesoplenty.common.biome.end.BiomeGenSpectralGarden
 116,Lush River,0.6,0.7,0.1,-0.5,0.0,"RIVER, PLAINS",biomesoplenty.common.biome.overworld.tech.BiomeGenLushRiver
 117,Dry River,1.2,0.5,0.1,-0.2,0.0,"HOT, PLAINS, SANDY",biomesoplenty.common.biome.overworld.tech.BiomeGenDryRiver
-118,Twilight Lake,0.66,1.0,0.12,-1.8,0.1,OCEAN,twilightforest.biomes.TFBiomeTwilightLake
-119,Twilight Forest,0.5,0.5,0.12,0.1,0.2,FOREST,twilightforest.biomes.TFBiomeTwilightForest
+118,Twilight Lake,0.66,1.0,0.12,-1.8,0.1,"DENSE, WET, OCEAN, SWAMP",twilightforest.biomes.TFBiomeTwilightLake
+119,Twilight Forest,0.5,0.5,0.12,0.1,0.2,"DENSE, FOREST",twilightforest.biomes.TFBiomeTwilightForest
 120,Dense Twilight Forest,0.7,0.8,0.12,0.2,0.2,"DENSE, FOREST",twilightforest.biomes.TFBiomeTwilightForestVariant
-121,Highlands,0.4,0.7,0.12,3.5,0.05,"CONIFEROUS, FOREST, MOUNTAIN",twilightforest.biomes.TFBiomeHighlands
+121,Highlands,0.4,0.7,0.12,3.5,0.05,"DENSE, CONIFEROUS, FOREST, MOUNTAIN",twilightforest.biomes.TFBiomeHighlands
 122,Mushroom Forest,0.8,0.8,0.12,0.1,0.2,"MUSHROOM, FOREST",twilightforest.biomes.TFBiomeMushrooms
-123,Twilight Swamp,0.8,0.9,0.12,-0.125,0.125,"WET, SWAMP",twilightforest.biomes.TFBiomeSwamp
-124,Twilight Stream,0.5,1.0,0.12,-0.5,0.0,RIVER,twilightforest.biomes.TFBiomeStream
-125,Snowy Forest,0.125,0.9,0.12,0.2,0.2,"COLD, CONIFEROUS, FOREST, SNOWY",twilightforest.biomes.TFBiomeSnow
+123,Twilight Swamp,0.8,0.9,0.12,-0.125,0.125,"SPARSE, WET, SWAMP",twilightforest.biomes.TFBiomeSwamp
+124,Twilight Stream,0.5,1.0,0.12,-0.5,0.0,"DENSE, WET, RIVER, SWAMP",twilightforest.biomes.TFBiomeStream
+125,Snowy Forest,0.125,0.9,0.12,0.2,0.2,"COLD, WET, CONIFEROUS, FOREST, SNOWY",twilightforest.biomes.TFBiomeSnow
 126,Ocean Oil Field,0.5,0.5,0.1,-1.0,0.1,"OCEAN, RIVER",buildcraft.energy.worldgen.BiomeGenOilOcean
 127,Desert Oil Field,2.0,0.0,0.1,0.1,0.2,SANDY,buildcraft.energy.worldgen.BiomeGenOilDesert
-128,Twilight Glacier,0.0,0.1,0.12,0.1,0.2,"COLD, SNOWY, WASTELAND",twilightforest.biomes.TFBiomeGlacier
+128,Twilight Glacier,0.0,0.1,0.12,0.1,0.2,"COLD, SPARSE, DRY, PLAINS, SNOWY, WASTELAND",twilightforest.biomes.TFBiomeGlacier
 129,Sunflower Plains,0.8,0.4,0.1,0.125,0.05,PLAINS,net.minecraft.world.biome.BiomeGenPlains
 130,Desert M,2.0,0.0,0.1,0.225,0.25,"HOT, DRY, PLAINS, SANDY",net.minecraft.world.biome.BiomeGenMutated
 131,Extreme Hills M,0.2,0.3,0.1,1.0,0.5,HILLS,net.minecraft.world.biome.BiomeGenHills
@@ -135,19 +135,19 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 133,Taiga M,0.25,0.8,0.1,0.3,0.4,HILLS,net.minecraft.world.biome.BiomeGenMutated
 134,Swampland M,0.8,0.9,0.1,-0.1,0.3,"WET, SWAMP",net.minecraft.world.biome.BiomeGenMutated
 135,Twilight Clearing,0.8,0.4,0.12,0.125,0.05,"SPARSE, PLAINS",twilightforest.biomes.TFBiomeClearing
-136,Oak Savanna,0.9,0.0,0.12,0.2,0.2,"SPARSE, FOREST",twilightforest.biomes.TFBiomeOakSavanna
-137,Lighted Forest,0.5,1.0,0.12,0.125,0.05,"LUSH, FOREST",twilightforest.biomes.TFBiomeLightedForest
-138,Deep Mushroom Forest,0.8,1.0,0.12,0.125,0.05,"MUSHROOM, FOREST",twilightforest.biomes.TFBiomeDeepMushrooms
+136,Oak Savanna,0.9,0.0,0.12,0.2,0.2,"HOT, SPARSE, DRY, FOREST, PLAINS",twilightforest.biomes.TFBiomeOakSavanna
+137,Lighted Forest,0.5,1.0,0.12,0.125,0.05,"SPARSE, WET, LUSH, FOREST, PLAINS",twilightforest.biomes.TFBiomeLightedForest
+138,Deep Mushroom Forest,0.8,1.0,0.12,0.125,0.05,"SPARSE, WET, MUSHROOM, FOREST, PLAINS",twilightforest.biomes.TFBiomeDeepMushrooms
 139,Dark Forest Center,0.7,0.8,0.12,0.125,0.05,"DENSE, SPOOKY, MAGICAL, FOREST",twilightforest.biomes.TFBiomeDarkForestCenter
 140,Ice Plains Spikes,0.0,0.5,0.1,0.425,0.45000002,"COLD, HILLS, SNOWY",net.minecraft.world.biome.BiomeGenSnow
-141,Highlands Center,0.3,0.2,0.12,10.5,0.025,"DRY, DEAD, MESA, WASTELAND",twilightforest.biomes.TFBiomeHighlandsCenter
-142,Dark Forest,0.7,0.8,0.12,0.125,0.05,"DENSE, SPOOKY, FOREST",twilightforest.biomes.TFBiomeDarkForest
-143,Enchanted Forest,0.5,0.5,0.12,0.1,0.2,"MAGICAL, FOREST",twilightforest.biomes.TFBiomeEnchantedForest
-144,Fire Swamp,1.0,0.4,0.12,0.1,0.2,"HOT, SWAMP, WASTELAND",twilightforest.biomes.TFBiomeFireSwamp
-145,Thornlands,0.3,0.2,0.12,6.0,0.1,"DRY, DEAD, HILLS, WASTELAND",twilightforest.biomes.TFBiomeThornlands
-146,Storage Cell,-100.0,0.5,0.1,0.1,0.2,"COLD, PLAINS",appeng.spatial.BiomeGenStorage
-147,null,null,null,null
-148,null,null,null,null
+141,Highlands Center,0.3,0.2,0.12,10.5,0.025,"DRY, DEAD, MESA, WASTELAND, BEACH",twilightforest.biomes.TFBiomeHighlandsCenter
+142,Dark Forest,0.7,0.8,0.12,0.125,0.05,"DENSE, SPOOKY, FOREST, PLAINS",twilightforest.biomes.TFBiomeDarkForest
+143,Enchanted Forest,0.5,0.5,0.12,0.1,0.2,"MAGICAL, FOREST, SNOWY, BEACH",twilightforest.biomes.TFBiomeEnchantedForest
+144,Fire Swamp,1.0,0.4,0.12,0.1,0.2,"HOT, PLAINS, SWAMP, WASTELAND",twilightforest.biomes.TFBiomeFireSwamp
+145,Thornlands,0.3,0.2,0.12,6.0,0.1,"DRY, JUNGLE, DEAD, FOREST, HILLS, WASTELAND",twilightforest.biomes.TFBiomeThornlands
+146,Tundra,0.05,0.65,0.1,0.1,0.2,"SNOWY, WASTELAND",ttftcuts.atg.biome.ATGBiomeGenTundra
+147,Volcano,2.0,0.0,0.1,0.9,1.0,"MOUNTAIN, WASTELAND",ttftcuts.atg.biome.ATGBiomeGenVolcano
+148,Woodland,0.73,0.67,0.1,0.1,0.2,FOREST,ttftcuts.atg.biome.ATGBiomeGenWoodland
 149,Jungle M,0.95,0.9,0.1,0.2,0.4,"HOT, WET, HILLS",net.minecraft.world.biome.BiomeGenMutated
 150,null,null,null,null
 151,JungleEdge M,0.95,0.8,0.1,0.2,0.4,"HOT, HILLS",net.minecraft.world.biome.BiomeGenMutated
@@ -193,8 +193,8 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 191,null,null,null,null
 192,Tainted Land,0.5,0.5,0.1,0.1,0.2,"SPARSE, MAGICAL, PLAINS, WASTELAND",thaumcraft.common.lib.world.biomes.BiomeGenTaint
 193,Magical Forest,0.7,0.6,0.1,0.2,0.2,"SPARSE, MAGICAL, FOREST, PLAINS",thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest
-194,Eerie,0.5,0.5,0.1,0.1,0.2,"SPARSE, MAGICAL, PLAINS",thaumcraft.common.lib.world.biomes.BiomeGenEerie
-195,null,null,null,null
+194,Eerie,0.5,0.5,0.1,0.1,0.2,"SPARSE, SPOOKY, MAGICAL, PLAINS",thaumcraft.common.lib.world.biomes.BiomeGenEerie
+195,Eldritch,0.5,0.5,0.1,0.1,0.2,"SPOOKY, END, MAGICAL, PLAINS",thaumcraft.common.lib.world.biomes.BiomeGenEldritchLands
 196,null,null,null,null
 197,null,null,null,null
 198,null,null,null,null

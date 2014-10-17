@@ -99,8 +99,8 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 97,null,null,null,null
 98,null,null,null,null
 99,null,null,null,null
-100,null,null,null,null
-101,null,null,null,null
+100,enchantment.magicresist,armor,1,5,am2.enchantments.EnchantMagicResist
+101,enchantment.soulbound,all,1,1,am2.enchantments.EnchantmentSoulbound
 102,null,null,null,null
 103,null,null,null,null
 104,null,null,null,null

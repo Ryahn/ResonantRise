@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["RR UNRELEASED BUILD", "Timezone: Industrial Era", "RR 3-DEV-031"]
+            "value": ["RR UNRELEASED BUILD", "Timezone: Industrial Era", "RR 3-DEV-032"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",

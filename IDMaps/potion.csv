@@ -32,7 +32,7 @@ ID,Unlocalised name,Class
 30,potion.deathgaze,thaumcraft.common.lib.potions.PotionDeathGaze
 31,potion.blurred,thaumcraft.common.lib.potions.PotionBlurredVision
 32,potion.sunscorned,thaumcraft.common.lib.potions.PotionSunScorned
-33,null,null,null,null
+33,potion.thaumarhia,thaumcraft.common.lib.potions.PotionThaumarhia
 34,null,null,null,null
 35,null,null,null,null
 36,null,null,null,null
@@ -254,8 +254,8 @@ ID,Unlocalised name,Class
 252,null,null,null,null
 253,null,null,null,null
 254,null,null,null,null
-255,potion.paralysis,biomesoplenty.common.potions.PotionParalysis
-256,potion.possession,biomesoplenty.common.potions.PotionPossession
+255,null,null,null,null
+256,null,null,null,null
 257,null,null,null,null
 258,null,null,null,null
 259,null,null,null,null
@@ -287,12 +287,76 @@ ID,Unlocalised name,Class
 285,null,null,null,null
 286,null,null,null,null
 287,null,null,null,null
-288,null,null,null,null
-289,null,null,null,null
-290,null,null,null,null
-291,null,null,null,null
-292,null,null,null,null
-293,null,null,null,null
-294,null,null,null,null
-295,null,null,null,null
-296,Delirium,minechem.potion.PotionProvider
+288,Water Breathing,am2.buffs.ArsMagicaPotion
+289,Flight,am2.buffs.ArsMagicaPotion
+290,Feather Fall,am2.buffs.ArsMagicaPotion
+291,Haste,am2.buffs.ArsMagicaPotion
+292,True Sight,am2.buffs.ArsMagicaPotion
+293,Regeneration,am2.buffs.ArsMagicaPotion
+294,Magic Shield,am2.buffs.ArsMagicaPotion
+295,Charmed,am2.buffs.ArsMagicaPotion
+296,Frost Slow,am2.buffs.ArsMagicaPotion
+297,Chrono Anchor,am2.buffs.ArsMagicaPotion
+298,Mana Regen,am2.buffs.ArsMagicaPotion
+299,Entangled,am2.buffs.ArsMagicaPotion
+300,Watery Grave,am2.buffs.ArsMagicaPotion
+301,Spell Reflect,am2.buffs.ArsMagicaPotion
+302,Silence,am2.buffs.ArsMagicaPotion
+303,Swift Swim,am2.buffs.ArsMagicaPotion
+304,Agility,am2.buffs.ArsMagicaPotion
+305,Leap,am2.buffs.ArsMagicaPotion
+306,Mana Boost,am2.buffs.ArsMagicaPotion
+307,Astral Distortion,am2.buffs.ArsMagicaPotion
+308,Mana Shield,am2.buffs.ArsMagicaPotion
+309,Fury,am2.buffs.ArsMagicaPotion
+310,Scramble Synapses,am2.buffs.ArsMagicaPotion
+311,Illuminated,am2.buffs.ArsMagicaPotion
+312,Greater Mana Restoration,am2.buffs.ManaPotion
+313,Epic Mana Restoration,am2.buffs.ManaPotion
+314,Legendary Mana Restoration,am2.buffs.ManaPotion
+315,Gravity Well,am2.buffs.ArsMagicaPotion
+316,Levitation,am2.buffs.ArsMagicaPotion
+317,Clarity,am2.buffs.ArsMagicaPotion
+318,Shrunken,am2.buffs.ArsMagicaPotion
+319,null,null,null,null
+320,null,null,null,null
+321,null,null,null,null
+322,null,null,null,null
+323,null,null,null,null
+324,null,null,null,null
+325,null,null,null,null
+326,null,null,null,null
+327,null,null,null,null
+328,null,null,null,null
+329,null,null,null,null
+330,null,null,null,null
+331,null,null,null,null
+332,null,null,null,null
+333,null,null,null,null
+334,null,null,null,null
+335,null,null,null,null
+336,null,null,null,null
+337,null,null,null,null
+338,null,null,null,null
+339,null,null,null,null
+340,null,null,null,null
+341,null,null,null,null
+342,null,null,null,null
+343,null,null,null,null
+344,null,null,null,null
+345,null,null,null,null
+346,null,null,null,null
+347,null,null,null,null
+348,null,null,null,null
+349,null,null,null,null
+350,null,null,null,null
+351,potion.paralysis,biomesoplenty.common.potions.PotionParalysis
+352,potion.possession,biomesoplenty.common.potions.PotionPossession
+353,null,null,null,null
+354,null,null,null,null
+355,null,null,null,null
+356,null,null,null,null
+357,null,null,null,null
+358,null,null,null,null
+359,null,null,null,null
+360,Delirium,minechem.potion.PotionProvider
