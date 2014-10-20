@@ -255,71 +255,71 @@ ID,Unlocalised name,Class
 253,null,null,null,null
 254,null,null,null,null
 255,null,null,null,null
-256,null,null,null,null
-257,null,null,null,null
-258,null,null,null,null
-259,null,null,null,null
-260,null,null,null,null
-261,null,null,null,null
-262,null,null,null,null
-263,null,null,null,null
-264,null,null,null,null
-265,null,null,null,null
-266,null,null,null,null
-267,null,null,null,null
-268,null,null,null,null
-269,null,null,null,null
-270,null,null,null,null
-271,null,null,null,null
-272,null,null,null,null
-273,null,null,null,null
-274,null,null,null,null
-275,null,null,null,null
-276,null,null,null,null
-277,null,null,null,null
-278,null,null,null,null
-279,null,null,null,null
-280,null,null,null,null
-281,null,null,null,null
-282,null,null,null,null
-283,null,null,null,null
-284,null,null,null,null
-285,null,null,null,null
-286,null,null,null,null
+256,Water Breathing,am2.buffs.ArsMagicaPotion
+257,Flight,am2.buffs.ArsMagicaPotion
+258,Feather Fall,am2.buffs.ArsMagicaPotion
+259,Haste,am2.buffs.ArsMagicaPotion
+260,True Sight,am2.buffs.ArsMagicaPotion
+261,Regeneration,am2.buffs.ArsMagicaPotion
+262,Magic Shield,am2.buffs.ArsMagicaPotion
+263,Charmed,am2.buffs.ArsMagicaPotion
+264,Frost Slow,am2.buffs.ArsMagicaPotion
+265,Chrono Anchor,am2.buffs.ArsMagicaPotion
+266,Mana Regen,am2.buffs.ArsMagicaPotion
+267,Entangled,am2.buffs.ArsMagicaPotion
+268,Watery Grave,am2.buffs.ArsMagicaPotion
+269,Spell Reflect,am2.buffs.ArsMagicaPotion
+270,Silence,am2.buffs.ArsMagicaPotion
+271,Swift Swim,am2.buffs.ArsMagicaPotion
+272,Agility,am2.buffs.ArsMagicaPotion
+273,Leap,am2.buffs.ArsMagicaPotion
+274,Mana Boost,am2.buffs.ArsMagicaPotion
+275,Astral Distortion,am2.buffs.ArsMagicaPotion
+276,Mana Shield,am2.buffs.ArsMagicaPotion
+277,Fury,am2.buffs.ArsMagicaPotion
+278,Scramble Synapses,am2.buffs.ArsMagicaPotion
+279,Illuminated,am2.buffs.ArsMagicaPotion
+280,Greater Mana Restoration,am2.buffs.ManaPotion
+281,Epic Mana Restoration,am2.buffs.ManaPotion
+282,Legendary Mana Restoration,am2.buffs.ManaPotion
+283,Gravity Well,am2.buffs.ArsMagicaPotion
+284,Levitation,am2.buffs.ArsMagicaPotion
+285,Clarity,am2.buffs.ArsMagicaPotion
+286,Shrunken,am2.buffs.ArsMagicaPotion
 287,null,null,null,null
-288,Water Breathing,am2.buffs.ArsMagicaPotion
-289,Flight,am2.buffs.ArsMagicaPotion
-290,Feather Fall,am2.buffs.ArsMagicaPotion
-291,Haste,am2.buffs.ArsMagicaPotion
-292,True Sight,am2.buffs.ArsMagicaPotion
-293,Regeneration,am2.buffs.ArsMagicaPotion
-294,Magic Shield,am2.buffs.ArsMagicaPotion
-295,Charmed,am2.buffs.ArsMagicaPotion
-296,Frost Slow,am2.buffs.ArsMagicaPotion
-297,Chrono Anchor,am2.buffs.ArsMagicaPotion
-298,Mana Regen,am2.buffs.ArsMagicaPotion
-299,Entangled,am2.buffs.ArsMagicaPotion
-300,Watery Grave,am2.buffs.ArsMagicaPotion
-301,Spell Reflect,am2.buffs.ArsMagicaPotion
-302,Silence,am2.buffs.ArsMagicaPotion
-303,Swift Swim,am2.buffs.ArsMagicaPotion
-304,Agility,am2.buffs.ArsMagicaPotion
-305,Leap,am2.buffs.ArsMagicaPotion
-306,Mana Boost,am2.buffs.ArsMagicaPotion
-307,Astral Distortion,am2.buffs.ArsMagicaPotion
-308,Mana Shield,am2.buffs.ArsMagicaPotion
-309,Fury,am2.buffs.ArsMagicaPotion
-310,Scramble Synapses,am2.buffs.ArsMagicaPotion
-311,Illuminated,am2.buffs.ArsMagicaPotion
-312,Greater Mana Restoration,am2.buffs.ManaPotion
-313,Epic Mana Restoration,am2.buffs.ManaPotion
-314,Legendary Mana Restoration,am2.buffs.ManaPotion
-315,Gravity Well,am2.buffs.ArsMagicaPotion
-316,Levitation,am2.buffs.ArsMagicaPotion
-317,Clarity,am2.buffs.ArsMagicaPotion
-318,Shrunken,am2.buffs.ArsMagicaPotion
-319,null,null,null,null
-320,null,null,null,null
+288,null,null,null,null
+289,null,null,null,null
+290,null,null,null,null
+291,null,null,null,null
+292,null,null,null,null
+293,null,null,null,null
+294,null,null,null,null
+295,null,null,null,null
+296,null,null,null,null
+297,null,null,null,null
+298,null,null,null,null
+299,null,null,null,null
+300,null,null,null,null
+301,null,null,null,null
+302,null,null,null,null
+303,null,null,null,null
+304,null,null,null,null
+305,null,null,null,null
+306,null,null,null,null
+307,null,null,null,null
+308,null,null,null,null
+309,null,null,null,null
+310,null,null,null,null
+311,null,null,null,null
+312,null,null,null,null
+313,null,null,null,null
+314,null,null,null,null
+315,null,null,null,null
+316,null,null,null,null
+317,null,null,null,null
+318,null,null,null,null
+319,potion.paralysis,biomesoplenty.common.potions.PotionParalysis
+320,potion.possession,biomesoplenty.common.potions.PotionPossession
 321,null,null,null,null
 322,null,null,null,null
 323,null,null,null,null
@@ -350,8 +350,8 @@ ID,Unlocalised name,Class
 348,null,null,null,null
 349,null,null,null,null
 350,null,null,null,null
-351,potion.paralysis,biomesoplenty.common.potions.PotionParalysis
-352,potion.possession,biomesoplenty.common.potions.PotionPossession
+351,null,null,null,null
+352,null,null,null,null
 353,null,null,null,null
 354,null,null,null,null
 355,null,null,null,null

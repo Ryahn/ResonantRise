@@ -140,14 +140,14 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 138,Deep Mushroom Forest,0.8,1.0,0.12,0.125,0.05,"SPARSE, WET, MUSHROOM, FOREST, PLAINS",twilightforest.biomes.TFBiomeDeepMushrooms
 139,Dark Forest Center,0.7,0.8,0.12,0.125,0.05,"DENSE, SPOOKY, MAGICAL, FOREST",twilightforest.biomes.TFBiomeDarkForestCenter
 140,Ice Plains Spikes,0.0,0.5,0.1,0.425,0.45000002,"COLD, HILLS, SNOWY",net.minecraft.world.biome.BiomeGenSnow
-141,Highlands Center,0.3,0.2,0.12,10.5,0.025,"DRY, DEAD, MESA, WASTELAND, BEACH",twilightforest.biomes.TFBiomeHighlandsCenter
-142,Dark Forest,0.7,0.8,0.12,0.125,0.05,"DENSE, SPOOKY, FOREST, PLAINS",twilightforest.biomes.TFBiomeDarkForest
-143,Enchanted Forest,0.5,0.5,0.12,0.1,0.2,"MAGICAL, FOREST, SNOWY, BEACH",twilightforest.biomes.TFBiomeEnchantedForest
-144,Fire Swamp,1.0,0.4,0.12,0.1,0.2,"HOT, PLAINS, SWAMP, WASTELAND",twilightforest.biomes.TFBiomeFireSwamp
-145,Thornlands,0.3,0.2,0.12,6.0,0.1,"DRY, JUNGLE, DEAD, FOREST, HILLS, WASTELAND",twilightforest.biomes.TFBiomeThornlands
-146,Tundra,0.05,0.65,0.1,0.1,0.2,"SNOWY, WASTELAND",ttftcuts.atg.biome.ATGBiomeGenTundra
-147,Volcano,2.0,0.0,0.1,0.9,1.0,"MOUNTAIN, WASTELAND",ttftcuts.atg.biome.ATGBiomeGenVolcano
-148,Woodland,0.73,0.67,0.1,0.1,0.2,FOREST,ttftcuts.atg.biome.ATGBiomeGenWoodland
+141,Highlands Center,0.3,0.2,0.12,10.5,0.025,"DRY, DEAD, MESA, PLAINS, WASTELAND",twilightforest.biomes.TFBiomeHighlandsCenter
+142,Dark Forest,0.7,0.8,0.12,0.125,0.05,"DENSE, SPOOKY, FOREST",twilightforest.biomes.TFBiomeDarkForest
+143,Enchanted Forest,0.5,0.5,0.12,0.1,0.2,"DENSE, MAGICAL, FOREST",twilightforest.biomes.TFBiomeEnchantedForest
+144,Fire Swamp,1.0,0.4,0.12,0.1,0.2,"HOT, FOREST, SWAMP, WASTELAND",twilightforest.biomes.TFBiomeFireSwamp
+145,Thornlands,0.3,0.2,0.12,6.0,0.1,"DRY, DEAD, PLAINS, HILLS, WASTELAND",twilightforest.biomes.TFBiomeThornlands
+146,Storage Cell,-100.0,0.5,0.1,0.1,0.2,"COLD, PLAINS",appeng.spatial.BiomeGenStorage
+147,null,null,null,null
+148,null,null,null,null
 149,Jungle M,0.95,0.9,0.1,0.2,0.4,"HOT, WET, HILLS",net.minecraft.world.biome.BiomeGenMutated
 150,null,null,null,null
 151,JungleEdge M,0.95,0.8,0.1,0.2,0.4,"HOT, HILLS",net.minecraft.world.biome.BiomeGenMutated
