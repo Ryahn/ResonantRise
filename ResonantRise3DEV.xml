@@ -1176,8 +1176,8 @@
              authors="aidancbrady"
 			 description="Tools module for Mekanism." />
 
-        <mod name="MineChem" version="1.7.10-5.0.5.60" 
-        	 url="packs/ResonantRise/files/3.x/MineChem-1.7.10-5.0.5.60.jar" file="MineChem-1.7.10-5.0.5.60.jar" md5="d54d4e8e67436051cd158f57962f638d" download="server"
+        <mod name="MineChem" version="1.7.10-5.0.5.181" 
+        	 url="packs/ResonantRise/files/3.x/Minechem-1.7.10-5.0.5.181.jar" file="Minechem-1.7.10-5.0.5.181.jar" md5="f14f92ca5389f51d6efc441677e5423e" download="server"
         	 type="mods" optional="yes" recommended="no"
         	 website="http://universalelectricity.com/minechem" 
         	 authors="pixlepix" 
