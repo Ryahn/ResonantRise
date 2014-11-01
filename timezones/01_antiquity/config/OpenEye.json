@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["RR UNRELEASED BUILD", "Timezone: Antiquity Era", "RR 3-DEV-033"]
+            "value": ["RR UNRELEASED BUILD", "Timezone: Antiquity Era", "RR 3-DEV-034"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
