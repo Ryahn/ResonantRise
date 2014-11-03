@@ -1,5 +1,5 @@
 ID,Unlocalised name,Class
-0,potion.disease,oortcloud.hungryanimals.potion.PotionDisease
+0,null,null,null,null
 1,potion.moveSpeed,net.minecraft.potion.Potion
 2,potion.moveSlowdown,net.minecraft.potion.Potion
 3,potion.digSpeed,net.minecraft.potion.Potion
@@ -39,17 +39,17 @@ ID,Unlocalised name,Class
 37,null,null,null,null
 38,null,null,null,null
 39,null,null,null,null
-40,potion.brewcraft.angel,redgear.brewcraft.effects.EffectAngel
-41,potion.brewcraft.flight,redgear.brewcraft.effects.EffectFlight
-42,potion.brewcraft.creeper,redgear.brewcraft.effects.EffectCreeper
-43,potion.brewcraft.immunity,redgear.brewcraft.effects.EffectImmunity
-44,potion.brewcraft.frozen,redgear.brewcraft.effects.EffectFrozen
-45,potion.brewcraft.fireproof,redgear.brewcraft.effects.EffectFireproof
-46,potion.brewcraft.flame,redgear.brewcraft.effects.EffectEternalFlame
-47,potion.brewcraft.fireEater,redgear.brewcraft.effects.EffectFireEater
-48,potion.poison,redgear.brewcraft.effects.EffectVanillaThree
-49,potion.wither,redgear.brewcraft.effects.EffectVanillaThree
-50,potion.regeneration,redgear.brewcraft.effects.EffectVanillaThree
+40,null,null,null,null
+41,null,null,null,null
+42,null,null,null,null
+43,null,null,null,null
+44,null,null,null,null
+45,null,null,null,null
+46,null,null,null,null
+47,null,null,null,null
+48,null,null,null,null
+49,null,null,null,null
+50,null,null,null,null
 51,null,null,null,null
 52,null,null,null,null
 53,null,null,null,null
