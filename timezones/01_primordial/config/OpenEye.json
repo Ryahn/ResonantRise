@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["RR UNRELEASED BUILD", "Timezone: Primordial Era", "RR 3-DEV-035"]
+            "value": ["RR UNRELEASED BUILD", "Timezone: Primordial Era", "RR 3-DEV-036"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
