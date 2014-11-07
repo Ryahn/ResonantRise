@@ -63,7 +63,7 @@
 			 />
 					
 		<mod name="Eternity" version="3-DEV-036"
-			 url="packs/ResonantRise/files/timezones/00_eternity_3-DEV-036.zip" file="00_eternity_3-DEV-036.zip" md5="d599a8d2e6e4b2a97d44be2f79275637" download="server"
+			 url="packs/ResonantRise/files/timezones/00_eternity_3-DEV-036.zip" file="00_eternity_3-DEV-036.zip" md5="1aab84c886a824fd54c581893d5d4fe4" download="server"
 			 type="extract" extractto="root" optional="no" recommended="yes"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, GodNero"
@@ -108,7 +108,7 @@
 			 />	
 				
 		<mod name="Primordial Era" version="3-DEV-036"
-			 url="packs/ResonantRise/files/timezones/00_eternity_3-DEV-036.zip" file="00_eternity_3-DEV-036.zip" md5="1aab84c886a824fd54c581893d5d4fe4" download="server"
+			 url="packs/ResonantRise/files/timezones/01_primordial_3-DEV-036.zip" file="01_primordial_3-DEV-036.zip" md5="da2183f9ffcceccab224f121bfd1b041" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="DivineAspect"
@@ -122,7 +122,7 @@
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
 			 description="Adding more difficulty to primordial."
-			 depends="Primordial Era,Amalgam,The Erebus,Falling Meteors,Hopper Ducts,Lava Monsters,Primitive Mobs,Sanguimancy"
+			 depends="Primordial Era,Amalgam,Artifice,Blood Magic,Botania,The Erebus,Falling Meteors,Hopper Ducts,Lava Monsters,Primitive Mobs,Sanguimancy,Fossils &amp; Archeology Revival,Random Things,Super Crafting Frame"
 			 />				
 
 		<mod name="Antiquity Era" version="3-DEV-036"
@@ -140,7 +140,7 @@
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
 			 description="Adding more antiques to antiquity."
-			 depends="Antiquity Era,Atum,Artifacts,Artifice,Antique Atlas,Falling Meteors,Redstone Paste,Soul Shards: Reborn,Project Zulu"
+			 depends="Antiquity Era,Atum,Artifacts,Artifice,Antique Atlas,Falling Meteors,Redstone Paste,Soul Shards: Reborn,Project Zulu,Archimedes&apos; Ships,Blood Magic,Botania,Mariculture,QuiverBow,Random Things,Tinkers&apos; Construct,Witchery"
 			 />				
 
 		<mod name="Medieval Era" version="3-DEV-036"
@@ -157,7 +157,7 @@
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
 			 description="Now with more sharp and pointy impliments."
-			 depends="Medieval Era,Ars Magica 2,Balkon&apos;s Weapon Mod,Blood Magic,Diseasecraft,Mine &amp; Blade Battlegear 2 - Warcry"
+			 depends="Medieval Era,Ars Magica 2,Balkon&apos;s Weapon Mod,Blood Magic,Diseasecraft,Mine &amp; Blade Battlegear 2 - Warcry,Artifacts,Magical Crops,Thaumcraft 4,Twilight Forest,Steve&apos;s Workshop,Mariculture,Witchery"
 			 />				
 
 		<mod name="Discovery Era" version="3-DEV-036" 
@@ -175,7 +175,7 @@
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
 			 description="Giving you even more to discover."
-			 depends="Discovery Era,Ars Magica 2,Botania,Mariculture,Quiverbow"	 />				
+			 depends="Discovery Era,Ars Magica 2,Botania,Mariculture,Quiverbow,Archimedes&apos; Ships,BiblioWoods Forestry Edition,Binnie Mods,Brewcraft,Forestry,Flaxbeard&apos;s Steam Power Mod,Iron Chests, Iron Chest Carts,Magic Bees,OpenBlocks,Steve&apos;s Factory Manager,Thaumcraft 4,Refined Relocation,Witchery"	 />				
 
 		<mod name="Industrial Era" version="3-DEV-036"
 			 url="packs/ResonantRise/files/timezones/05_industrial_3-DEV-036.zip" file="05_industrial_3-DEV-036.zip" md5="662da3937c40f7c03d6270019da4afa3" download="server"
@@ -191,7 +191,7 @@
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
 			 description="Now with more machines!"
-			 depends="Industrial Era,Computronics,Greg&apos;s Lighting,IndustrialCraft 2,Steve&apos;s Carts,Steve&apos;s Workshop,Steve&apos;s Factory Manager,WR-CBE"	 />				
+			 depends="Industrial Era,Computronics,Greg&apos;s Lighting,IndustrialCraft 2,Steve&apos;s Carts,Steve&apos;s Workshop,Steve&apos;s Factory Manager,WR-CBE,Binne&apos;s Mods,Buildcraft,Enchanting Plus,Forestry,Gendustry,PneumaticCraft,MineFactory Reloaded,OpenComputers,Refined Relocation,Remote IO"	 />				
 
 		<mod name="Information Era" version="3-DEV-036"
 			 url="packs/ResonantRise/files/timezones/06_information_3-DEV-036.zip" file="06_information_3-DEV-036.zip" md5="be62795c85eae1f4f8bee3369a166a09" download="server"
@@ -207,7 +207,7 @@
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
 			 description="What is a few more toys right?"
-			 depends="Information Era,Archimedes&apos; Ships,Buildcraft,Mekanism,MFFS,Galacticraft,WR-CBE"	 />				
+			 depends="Information Era,Archimedes&apos; Ships,Buildcraft,Mekanism,MFFS,Galacticraft,WR-CBE,The Era that humans pushed the scientific boundries.AlchemyPlusPlus,Applied Energistics 2,Big Reactors,Calculator,Compact Machines,Computercraft,Ender IO,EnhancedPortals 3,TechnoMagi,Thermal Expansion,MachineMuse&apos;s Modular Pwersuits,Modular Powersuits,MineChem,Numina,Slick-Util"	 />				
 
 		<!-- <mod name="Stellar Dream - use excessive instead" version="3-DEV-034"
 			 url="packs/ResonantRise/files/timezones/05_stellar_3-DEV-034.zip" file="05_stellar_3-DEV-034.zip" md5="bf9e564a7da87fb0aa1cbef1072940b2" download="server"
@@ -1357,7 +1357,7 @@ Fi
 
         <mod name="Hopper Ducts" version="1.3.2"  
         	 url="packs/ResonantRise/files/3.x/hopperductmod-1.7.10-1.3.2.jar" file="hopperductmod-1.7.10-1.3.2.jar" md5="ce2fccc34724fd91e12a80ba91989fbd" download="server" 
-        	 type="mods" 
+        	 type="mods" optional="yes" recommended="no"
         	 website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291075" 
         	 authors="FyberOptic"
         	 description="Hoppers are good, now they are better." />
