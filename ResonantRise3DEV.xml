@@ -1651,8 +1651,8 @@
         	 website="http://wildwestscifi.net/coding/9889" 
         	 description="Skeltons are now packing WHAT!?" />
 
-        <mod name="Random Things" version="2.1.9"
-             url="packs/ResonantRise/files/3.x/RandomThings-2.1.9.jar" file="RandomThings-2.1.9.jar" md5="605ed35bf6a983681279df865e5a1e77" download="server"
+        <mod name="Random Things" version="2.2.0"
+             url="packs/ResonantRise/files/3.x/RandomThings-2.2.0.jar" file="RandomThings-2.2.0.jar" md5="fd6d04286a9af872575d345938c61df5" download="server"
 			 type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1832047-"
 			 authors="lumien"
