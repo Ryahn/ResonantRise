@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-036</version>
+        <version>3-DEV-038</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -34,7 +34,7 @@
 
 	<colours>
 
- 		<colour name="rred" code="#7A0000"	/> 
+ 		<colour name="rred" code="#ED2121"	/> 
  		<colour name="mg" code="#00787A" />
 
 	</colours>
@@ -62,8 +62,8 @@
 			 description="Please do not select with Era modes."
 			 />
 					
-		<mod name="Eternity" version="3-DEV-037"
-			 url="packs/ResonantRise/files/timezones/00_eternity_3-DEV-037.zip" file="00_eternity_3-DEV-037.zip" md5="310fa4bb5c49ae1d105120906d266549" download="server"
+		<mod name="Eternity" version="3-DEV-038"
+			 url="packs/ResonantRise/files/timezones/00_eternity_3-DEV-038.zip" file="00_eternity_3-DEV-038.zip" md5="54d9087767933b4909e661a467ed1be1" download="server"
 			 type="extract" extractto="root" optional="no" recommended="yes"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, GodNero"
@@ -107,8 +107,8 @@
 			 description="Please do not select with Sandbox modes."
 			 />	
 				
-		<mod name="Primordial Era" version="3-DEV-037"
-			 url="packs/ResonantRise/files/timezones/01_primordial_3-DEV-037.zip" file="01_primordial_3-DEV-037.zip" md5="2f9b0d30cf0152ba8e360f3c868da50a" download="server"
+		<mod name="Primordial Era" version="3-DEV-038"
+			 url="packs/ResonantRise/files/timezones/01_primordial_3-DEV-038.zip" file="01_primordial_3-DEV-038.zip" md5="9b6c93b5460789d8d37fa39b66f87efc" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="DivineAspect"
@@ -125,8 +125,8 @@
 			 depends="Primordial Era,Amalgam,Artifice,Blood Magic,Botania,The Erebus,Falling Meteors,Hopper Ducts,Lava Monsters,Primitive Mobs,Sanguimancy,Fossils &amp; Archeology Revival,Redstone Paste,Random Things,Super Crafting Frame"
 			 />				
 
-		<mod name="Antiquity Era" version="3-DEV-037"
-			 url="packs/ResonantRise/files/timezones/02_antiquity_3-DEV-037.zip" file="02_antiquity_3-DEV-037.zip" md5="024af87848f919d590164d0c1fc4d860" download="server"
+		<mod name="Antiquity Era" version="3-DEV-038"
+			 url="packs/ResonantRise/files/timezones/02_antiquity_3-DEV-038.zip" file="02_antiquity_3-DEV-038.zip" md5="4388c11870378a5d54d78f71ac264ea6" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -143,8 +143,8 @@
 			 depends="Antiquity Era,Atum,Artifacts,Artifice,Antique Atlas,Falling Meteors,Redstone Paste,Soul Shards: Reborn,Project Zulu,Archimedes&apos; Ships,Blood Magic,Botania,Mariculture,QuiverBow,Random Things,Tinkers&apos; Construct,TiC Tooltips,Witchery"
 			 />				
 
-		<mod name="Medieval Era" version="3-DEV-036"
-			 url="packs/ResonantRise/files/timezones/03_medieval_3-DEV-037.zip" file="03_medieval_3-DEV-037.zip" md5="0468e0a98088518c08cdda829f783752" download="server"
+		<mod name="Medieval Era" version="3-DEV-038"
+			 url="packs/ResonantRise/files/timezones/03Medieval_3-DEV-038.zip" file="03Medieval_3-DEV-038.zip" md5="0cc518be909436ef936f26c7446d81eb" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -160,8 +160,8 @@
 			 depends="Medieval Era,Ars Magica 2,Balkon&apos;s Weapon Mod,Blood Magic,,Diseasecraft,Mine &amp; Blade Battlegear 2 - Warcry,Artifacts,Magical Crops,Thaumcraft 4,Twilight Forest,Steve&apos;s Workshop,Mariculture,Witchery"
 			 />				
 
-		<mod name="Discovery Era" version="3-DEV-037" 
-			 url="packs/ResonantRise/files/timezones/04_discovery_3-DEV-037.zip" file="04_discovery_3-DEV-037.zip" md5="c28d3f623f28b90e96c26db5997e1e45" download="server"
+		<mod name="Discovery Era" version="3-DEV-038" 
+			 url="packs/ResonantRise/files/timezones/04_discovery_3-DEV-038.zip" file="04_discovery_3-DEV-038.zip" md5="05132acf2d24ace2d219b3afbf7d292a" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
@@ -177,8 +177,8 @@
 			 description="Giving you even more to discover."
 			 depends="Discovery Era,Ars Magica 2,Botania,Mariculture,Quiverbow,Archimedes&apos; Ships,BiblioWoods Forestry Edition,Binnie Mods,Brewcraft,Forestry,Flaxbeard&apos;s Steam Power Mod,Iron Chests, Iron Chest Carts,Magic Bees,OpenBlocks,Steve&apos;s Factory Manager,Thaumcraft 4,Refined Relocation,Witchery"	 />				
 
-		<mod name="Industrial Era" version="3-DEV-037"
-			 url="packs/ResonantRise/files/timezones/05_industrial_3-DEV-037.zip" file="05_industrial_3-DEV-037.zip" md5="07398eb1404d06269dd991f0a8172466" download="server"
+		<mod name="Industrial Era" version="3-DEV-038"
+			 url="packs/ResonantRise/files/timezones/05_industrial_3-DEV-038.zip" file="05_industrial_3-DEV-038.zip" md5="bf960207e342be6bc9eec41328c6ce65" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -193,8 +193,8 @@
 			 description="Now with more machines!"
 			 depends="Industrial Era,Computronics,Greg&apos;s Lighting,IndustrialCraft 2,Steve&apos;s Carts,Steve&apos;s Workshop,Steve&apos;s Factory Manager,WR-CBE,Binne&apos;s Mods,Buildcraft,Enchanting Plus,Forestry,Gendustry,PneumaticCraft,MineFactory Reloaded,OpenComputers,Refined Relocation,Remote IO"	 />				
 
-		<mod name="Information Era" version="3-DEV-037"
-			 url="packs/ResonantRise/files/timezones/06_information_3-DEV-037.zip" file="06_information_3-DEV-037.zip" md5="77ed9a1e51a5c7d37803a336fdef73b6" download="server"
+		<mod name="Information Era" version="3-DEV-038"
+			 url="packs/ResonantRise/files/timezones/06_information_3-DEV-038.zip" file="06_information_3-DEV-038.zip" md5="b3214ababc3eef479c0773e156e10ddd" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
