@@ -94,7 +94,7 @@
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
 			 description="WARNING!! Built for massive gaming machines! No garuntees you can run this."
-			 depends="AlchemyPlusPlus,Amalgam,Another One Bites The Dust,Applied Energistics 2,Archimedes&apos; Ships,Ars Magica 2,Artifacts,Artifice,Atum,Automagy,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Binnie Mods,Blood Magic,Botania,Brewcraft,Buildcraft,Calculator,Carpenter&apos;s Blocks,Chisel,Chisel Facades,ChocoCraft,Chocolate Quest,Compact Machines,ComputerCraft,CraftHeraldry,Decocraft,Dense Ores,Dimensional Anchors,DiseaseCraft,Enchanting Plus,Ender IO,Ender Zoo,Ender Storage,EnhancedPortals 3,Ex Astris,Ex Nihilo,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Falling Meteors,Forbidden Magic,Forestry,Fossils &amp; Archeology Revival,Funky Locomotion,Galacticraft Core,Galacticraft Planets,GardenStuff,Gendustry,Greg&apos;s Lighting,Hardcore Ender Expansion,Hopper Ducts,IndustrialCraft 2,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Lava Monsters,Logistical Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,Micdoodle8 Core,Mine &amp; Blade Battlegear 2 - Warcry,MineChem,MineFactory Reloaded,Mariculture,MachineMuse&apos;s Modular Powersuits,Modular Forcefield System,Modular Powersuits Addon,Numina,OpenBlocks,OpenComponents,OpenComputers,PneumaticCraft,Primitive Mobs,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,Project Zulu,QuarryPlus,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Redstone Paste,Refined Relocation,Remote IO,Sanguimancy,Simply Jetpacks,Slick-Util,Soul Shards: Reborn,Special Mobs,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,TechnoMagi,Thaumcraft 4,Thaumic NEI Plugin,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,The Erebus,TiC Tooltips,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,The Twilight Forest,VeinMiner,Witchery,WR-CBE"
+			 depends="AlchemyPlusPlus,Amalgam,Another One Bites The Dust,Applied Energistics 2,Archimedes&apos; Ships,Ars Magica 2,Artifacts,Artifice,Atum,Automagy,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Binnie Mods,Blood Magic,Botania,Brewcraft,Buildcraft,Calculator,Carpenter&apos;s Blocks,Chisel,Chisel Facades,ChocoCraft,Chocolate Quest,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Decocraft,Dense Ores,Dimensional Anchors,DiseaseCraft,Dr. Cyano&apos;s Wonderful Wands &amp; Wizarding Armor,Enchanting Plus,Ender IO,Ender Zoo,Ender Storage,Engineers Toolbox,EnhancedPortals 3,Ex Astris,Ex Nihilo,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Falling Meteors,Forbidden Magic,Forestry,Fossils &amp; Archeology Revival,Funky Locomotion,Galacticraft Core,Galacticraft Planets,GardenStuff,Gendustry,Greg&apos;s Lighting,Hardcore Ender Expansion,Hopper Ducts,IndustrialCraft 2,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Lava Monsters,Logistical Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,Micdoodle8 Core,Mine &amp; Blade Battlegear 2 - Warcry,MineChem,MineFactory Reloaded,Mariculture,MachineMuse&apos;s Modular Powersuits,Modular Forcefield System,Modular Powersuits Addon,Numina,OpenBlocks,OpenComponents,OpenComputers,PneumaticCraft,Poor Ores,Primitive Mobs,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,Project Zulu,QuarryPlus,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Redstone Paste,Refined Relocation,Remote IO,Sanguimancy,Simply Jetpacks,Slick-Util,Soul Shards: Reborn,Special Mobs,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,TechnoMagi,Thaumcraft 4,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,The Erebus,TiC Tooltips,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,Tubes,The Twilight Forest,VeinMiner,Witchery,WR-CBE"
 			 />
 
 	<!-- Era Selections -->
@@ -149,7 +149,7 @@
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
 			 description="The Era of feudal lords, castles, knights, and tavern wenches!"
-			 depends="Artifacts,Automagy,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Natura Edition,Carpenter&apos;s Blocks,Chisel,Forbidden Magic,Magical Crops,Thaumcraft 4,Thaumic NEI Plugin,Thaumic Tinkerer,Twilight Forest,Statues,Steve&apos;s Workshop,Mariculture,Witchery" />
+			 depends="Artifacts,Automagy,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Natura Edition,Carpenter&apos;s Blocks,Chisel,Forbidden Magic,Magical Crops,Thaumcraft 4,Thaumic Tinkerer,Tubes,The Twilight Forest,Statues,Steve&apos;s Workshop,Mariculture,Witchery" />
 					 
 		<mod name="-----Medieval Complete" version="n/a"
 			 url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
@@ -157,7 +157,7 @@
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
 			 description="Adds more sharp and pointy impliments."
-			 depends="Medieval Era,Advanced Dispensers,Ars Magica 2,Artifacts,Automagy,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Natura Edition,Blood Magic,Carpenter&apos;s Blocks,Chisel,Dr. Cyano&apos;s Wonderful Wands &amp; Wizarding Armor,Diseasecraft,Forbidden Magic,Magical Crops,Mariculture,Mine &amp; Blade Battlegear 2 - Warcry,Thaumcraft 4,Thaumic NEI Plugin,Thaumic Tinkerer,Twilight Forest,Statues,Steve&apos;s Workshop,Witchery"
+			 depends="Medieval Era,Advanced Dispensers,Ars Magica 2,Artifacts,Automagy,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Natura Edition,Blood Magic,Carpenter&apos;s Blocks,Chisel,Dr. Cyano&apos;s Wonderful Wands &amp; Wizarding Armor,Diseasecraft,Forbidden Magic,Magical Crops,Mariculture,Mine &amp; Blade Battlegear 2 - Warcry,Thaumcraft 4,Thaumic Tinkerer,The Twilight Forest,Statues,Steve&apos;s Workshop,Witchery"
 			 />				
 
 		<mod name="Discovery Era" version="3-DEV-038" 
@@ -318,8 +318,8 @@
 			 website="http://commons.apache.org/proper/commons-compress/"
 			 description="Commons Lib" />
 
-        <mod name="ForgeMultipart" version="1.1.0.309"
-             url="packs/ResonantRise/files/3.x/ForgeMultipart-1.7.10-1.1.0.309-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.309-universal.jar" md5="422c39ff24f33768c9ec2d31e27a6d93" download="server" 
+        <mod name="ForgeMultipart" version="1.1.0.310"
+            url="packs/ResonantRise/files/3.x/ForgeMultipart-1.7.10-1.1.0.310-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.310-universal.jar" md5="8a17c87c224d46bf81e7155072b3a342" download="server"
              type="dependency"
              website="https://github.com/Chicken-Bones/ForgeMultipart" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
              authors="ChickenBones"
@@ -1276,7 +1276,7 @@
 			 authors="Alz454"
 			 description="EnhancedPortals started out as a mod designed to give you a bit more customization for your Nether portals. You could increase the size, shape, or change it&apos;s colour. EnhancedPortals 3 takes this even further by leaving behind the focus of being a fully functional, boring, Nether portal." />
 
-		<mod name="EngineersToolbox" version="1.2.0.1" 
+		<mod name="Engineers Toolbox" version="1.2.0.1" 
 			 url="packs/ResonantRise/files/3.x/EngineersToolbox-1.2.0.1-BETA.jar" file="EngineersToolbox-1.2.0.1-BETA.jar" md5="d12e3e25963fde2b55280ac6ed19c1dd" download="server" 
 			 type="mods" optional="yes" recommended="no"
 			 website="http://www.minecraftforum.net/topic/1875953-" 
@@ -1456,8 +1456,8 @@
 			 authors="FatherToast" 
 			 description="This is a small mod that adds a new hostile monster to the game that spawns in lava and spits fireballs at you." />
 
-        <mod name="Logistical Pipes" version="0.8.1.75" 
-        	 url="packs/ResonantRise/files/3.x/logisticspipes-0.8.1.75.jar" file="logisticspipes-0.8.1.75.jar" md5="f2901e0540c0a64daa875a94265eba25" download="server"
+        <mod name="Logistical Pipes" version="0.8.2.82" 
+        	 url="packs/ResonantRise/files/3.x/logisticspipes-0.8.2.82.jar" file="logisticspipes-0.8.2.82.jar" md5="f3059f824a5235cee3cf42fd702a054d" download="server"
         	 type="mods" optional="yes" recommended="no"
         	 website="http://ci.thezorro266.com/job/LogisticsPipes1.7/" donation="http://ci.thezorro266.com/job/LogisticsPipes1.7/"
         	 authors="thezorro266"
@@ -1694,7 +1694,7 @@
 
         <mod name="Random Things" version="2.2.0"
              url="packs/ResonantRise/files/3.x/RandomThings-2.2.0.jar" file="RandomThings-2.2.0.jar" md5="fd6d04286a9af872575d345938c61df5" download="server"
-			 type="mods" optional="yes" recommended="no"
+			 type="mods"
              website="http://www.minecraftforum.net/topic/1832047-"
 			 authors="lumien"
 			 description="Random Things packed into one Mod :D" />
@@ -1928,6 +1928,13 @@
         	 website="http://www.minecraftforum.net/topic/2227330-" 
         	 authors="Toops" depends="Cookie Core" optional="yes" recommended="no"
         	 description="Tinkers' Steelworks aims to be a total expansion to Tinkers' Construct by adding new material processing concepts to early and late game. The mod is centered around steel processing, but also will add new types of weapons, utilities, items, mobs, upgraded forms of existing materials such as gold, and more." />-->
+
+        <mod name="Tubes" version="1.7.10-2.0.5" 
+        	 url="packs/ResonantRise/files/3.x/Tubes-1.7.10-2.0.5.jar" file="Tubes-1.7.10-2.0.5.jar" md5="8ff0b6605e9bb7af46e5e78d6dd35e79" download="server" 
+        	 type="mods" optional="yes" recommended="no"
+        	 website="http://www.minecraftforum.net/topic/2071224-" 
+        	 authors="Schmoller" 
+        	 description="Tubes aims to provide the best item transport and sorting solution using the awesome ForgeMultipart API These tubes work somewhat like the pneumatic tubes in RedPower, but there are many more types of tubes for all sorts of uses." />
 
         <!--<mod name="TubeStuff" version="59.0.0"
              url="packs/ResonantRise/files/3.x/tubestuff-59.0.0.jar" file="tubestuff-59.0.0.jar" md5="998e2894ad2833b483ff320b10d87d5b" download="server"
