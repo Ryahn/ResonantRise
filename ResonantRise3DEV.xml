@@ -683,6 +683,14 @@
         	 authors="mistaqur, tonius11" 
         	 description="The official unoffcial Tonius Fork, Adds mod integration into NEI" />
 
+        <mod name="NEM VersionChecker" version="1.0" 
+        	 url="packs/ResonantRise/files/3.x/NEM-VersionChecker-1.7.10-1.0.jar" 
+        	 file="NEM-VersionChecker-1.7.10-1.0.jar" md5="4da0108198c3058252cb6c7a1881c055" 
+        	 download="server" type="mods" 
+        	 website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2172035"
+        	 authors="GenPage"
+        	 description="This mod automatically checks against NotEnoughMods listing of mod versions and updates the Mods screen with the appropriate style." />
+
         <mod name="Not Enough Items" version="1.0.3.62"
              url="packs/ResonantRise/files/3.x/NotEnoughItems-1.7.10-1.0.3.66-universal.jar" file="NotEnoughItems-1.7.10-1.0.3.66-universal.jar" md5="b25cb38c998047eebd2b38bf41f4264c" download="server"
 			 type="mods"
