@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-039</version>
+        <version>3-DEV-040</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -62,8 +62,8 @@
 			 description="Please do not select with Era modes."
 			 />
 					
-		<mod name="Eternity" version="3-DEV-039"
-			 url="packs/ResonantRise/files/timezones/00_eternity_3-DEV-039.zip" file="00_eternity_3-DEV-039.zip" md5="4c062b4bc79622ba74b9c5af3aebb23b" download="server"
+		<mod name="Eternity" version="3-DEV-040"
+			 url="packs/ResonantRise/files/timezones/eternity/00_eternity-3-DEV-040.zip" file="00_eternity_3-DEV-040.zip" md5="622ff217f310c74ee069e4f76e5f469e" download="server"
 			 type="extract" extractto="root" optional="no" recommended="yes"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, GodNero"
@@ -107,8 +107,8 @@
 			 description="Please do not select with Sandbox modes."
 			 />	
 				
-		<mod name="Primordial Era" version="3-DEV-039"
-			 url="packs/ResonantRise/files/timezones/01_Primordial_3-DEV-039.zip" file="01_Primordial_3-DEV-039.zip" md5="228d3b5ea249726a3f489b8833418396" download="server"
+		<mod name="Primordial Era" version="3-DEV-040"
+			 url="packs/ResonantRise/files/timezones/primordial/01_primordial-3-DEV-040.zip" md5="28c1b32c2e558d1dfd2083cbc87bba74" download="server" file="01_primordial-3-DEV-040.zip"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="DivineAspect"
@@ -125,8 +125,8 @@
 			 depends="Primordial Era,Amalgam,Artifice,Blood Magic,Botania,The Erebus,Falling Meteors,Hopper Ducts,Lava Monsters,Primitive Mobs,Sanguimancy,Fossils &amp; Archeology Revival,Redstone Paste,Random Things,Super Crafting Frame"
 			 />				
 
-		<mod name="Antiquity Era" version="3-DEV-039"
-			 url="packs/ResonantRise/files/timezones/02_Antiquity_3-DEV-039.zip" file="02_Antiquity_3-DEV-039.zip" md5="174163d30b5a55e9c21dde6b4e32d6f5" download="server"
+		<mod name="Antiquity Era" version="3-DEV-040"
+			 url="packs/ResonantRise/files/timezones/antiquity/02_antiquity-3-DEV-040.zip" file="02_Antiquity_3-DEV-040.zip" md5="240dc4fb262098ae397adb01c01b952a" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -143,8 +143,8 @@
 			 depends="Antiquity Era,Atum,Artifacts,Artifice,Antique Atlas,Falling Meteors,Redstone Paste,Soul Shards: Reborn,Project Zulu,Archimedes&apos; Ships,Blood Magic,Botania,Mariculture,QuiverBow,Random Things,Tinkers&apos; Construct,TiC Tooltips,Witchery"
 			 />				
 
-		<mod name="Medieval Era" version="3-DEV-039"
-			 url="packs/ResonantRise/files/timezones/03_medieval_3-DEV-039.zip" file="03_medieval_3-DEV-039.zip" md5="47b16375afd908b5b5ff15b0b66cc2b7" download="server"
+		<mod name="Medieval Era" version="3-DEV-040"
+			 url="packs/ResonantRise/files/timezones/medieval/03_medieval-3-DEV-040.zip" file="03_medieval_3-DEV-040.zip" md5="42abb2d0c38f19a24af3dcdefcc7e0f2" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -161,7 +161,7 @@
 			 />				
 
 		<mod name="Discovery Era" version="3-DEV-038" 
-			 url="packs/ResonantRise/files/timezones/04_discovery_3-DEV-038.zip" file="04_discovery_3-DEV-038.zip" md5="05132acf2d24ace2d219b3afbf7d292a" download="server"
+			 url="packs/ResonantRise/files/timezones/discovery/04_discovery-3-DEV-039.zip" file="04_discovery_3-DEV-038.zip" md5="1526aa715e54a672a8b5d0e19ac7612f" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
@@ -178,7 +178,7 @@
 			 depends="Discovery Era,Ars Magica 2,Botania,Mariculture,Quiverbow,Archimedes&apos; Ships,BiblioWoods Forestry Edition,Binnie Mods,Brewcraft,Forestry,Flaxbeard&apos;s Steam Power Mod,Iron Chests, Iron Chest Carts,Magic Bees,OpenBlocks,Steve&apos;s Factory Manager,Thaumcraft 4,Refined Relocation,Witchery"	 />				
 
 		<mod name="Industrial Era" version="3-DEV-039"
-			 url="packs/ResonantRise/files/timezones/05_industiral_3-DEV-039.zip" file="05_industiral_3-DEV-039.zip" md5="bf960207e342be6bc9eec41328c6ce65" download="server"
+			 url="packs/ResonantRise/files/timezones/industrial/05_industrial-3-DEV-039.zip" file="05_industiral_3-DEV-039.zip" md5="ff37ea3f0200b6a55774b9c37b1bf6de" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -194,7 +194,7 @@
 			 depends="Industrial Era,Computronics,Greg&apos;s Lighting,IndustrialCraft 2,Steve&apos;s Carts,Steve&apos;s Workshop,Steve&apos;s Factory Manager,WR-CBE,Binne&apos;s Mods,Buildcraft,Enchanting Plus,Forestry,Gendustry,PneumaticCraft,MineFactory Reloaded,OpenComputers,Refined Relocation,Remote IO"	 />				
 
 		<mod name="Information Era" version="3-DEV-039"
-			 url="packs/ResonantRise/files/timezones/06_information_3-DEV-039.zip" file="06_information_3-DEV-039.zip" md5="e15c6860d943bee37ded9a8ce6909ede" download="server"
+			 url="packs/ResonantRise/files/timezones/information/06_information-3-DEV-039.zip" file="06_information_3-DEV-039.zip" md5="e387648461433ed347d4e606b09cafea" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -368,12 +368,12 @@
 			 description="Please do not select with Era modes."
 			 />
 				
-		<mod name="Abundance - Test" version="n/a"
+		<!-- <mod name="Abundance - Test" version="n/a"
 			 url="packs/ResonantRise/files/timezones/07a_abundance_DEV-3-037.zip" file="07a_abundance_DEV-3-037.zip" md5="841f99f752ef39c0b041a21e61098a6d" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="modifier"
 			 website="http://resonant-rise.com"
 			 authors="RRDevTeam"
-			 description="So much ore you'll be tripping over it." />
+			 description="So much ore you'll be tripping over it." /> -->
 
 <!-- Server and Client Only Mods (Alphabetized) -->		
 
