@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-040</version>
+        <version>3-DEV-041</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -62,8 +62,8 @@
 			 description="Please do not select with Era modes."
 			 />
 					
-		<mod name="Eternity" version="3-DEV-040"
-			 url="packs/ResonantRise/files/timezones/eternity/00_eternity-3-DEV-040.zip" file="00_eternity_3-DEV-040.zip" md5="622ff217f310c74ee069e4f76e5f469e" download="server"
+		<mod name="Eternity" version="3-DEV-041"
+			 url="packs/ResonantRise/files/timezones/eternity/00_eternity-3-DEV-041.zip" file="00_eternity-3-DEV-041.zip" md5="e278c00978c20787c8e8a54eb45d6506" download="server"
 			 type="extract" extractto="root" optional="no" recommended="yes"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, GodNero"
@@ -107,8 +107,8 @@
 			 description="Please do not select with Sandbox modes."
 			 />	
 				
-		<mod name="Primordial Era" version="3-DEV-040"
-			 url="packs/ResonantRise/files/timezones/primordial/01_primordial-3-DEV-040.zip" md5="28c1b32c2e558d1dfd2083cbc87bba74" download="server" file="01_primordial-3-DEV-040.zip"
+		<mod name="Primordial Era" version="3-DEV-041"
+			 url="packs/ResonantRise/files/timezones/primordial/01_primordial-3-DEV-041.zip" md5="1b6154f70286b05b35ea7e31503a5907" download="server" file="01_primordial-3-DEV-041.zip"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="DivineAspect"
@@ -125,8 +125,8 @@
 			 depends="Primordial Era,Amalgam,Artifice,Blood Magic,Botania,The Erebus,Falling Meteors,Hopper Ducts,Lava Monsters,Primitive Mobs,Sanguimancy,Fossils &amp; Archeology Revival,Redstone Paste,Random Things,Super Crafting Frame"
 			 />				
 
-		<mod name="Antiquity Era" version="3-DEV-040"
-			 url="packs/ResonantRise/files/timezones/antiquity/02_antiquity-3-DEV-040.zip" file="02_Antiquity_3-DEV-040.zip" md5="240dc4fb262098ae397adb01c01b952a" download="server"
+		<mod name="Antiquity Era" version="3-DEV-041"
+			 url="packs/ResonantRise/files/timezones/antiquity/02_antiquity-3-DEV-041.zip" file="02_Antiquity_3-DEV-041.zip" md5="4db11c962332160754377818e5adbb68" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -143,8 +143,8 @@
 			 depends="Antiquity Era,Atum,Artifacts,Artifice,Antique Atlas,Falling Meteors,Redstone Paste,Soul Shards: Reborn,Project Zulu,Archimedes&apos; Ships,Blood Magic,Botania,Mariculture,QuiverBow,Random Things,Tinkers&apos; Construct,TiC Tooltips,Witchery"
 			 />				
 
-		<mod name="Medieval Era" version="3-DEV-040"
-			 url="packs/ResonantRise/files/timezones/medieval/03_medieval-3-DEV-040.zip" file="03_medieval_3-DEV-040.zip" md5="42abb2d0c38f19a24af3dcdefcc7e0f2" download="server"
+		<mod name="Medieval Era" version="3-DEV-041"
+			 url="packs/ResonantRise/files/timezones/medieval/03_medieval-3-DEV-041.zip" file="03_medieval_3-DEV-041.zip" md5="db97b44979bdf62d961063593ac7b57d" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -160,8 +160,8 @@
 			 depends="Medieval Era,Advanced Dispensers,Ars Magica 2,Artifacts,Automagy,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Natura Edition,Blood Magic,Carpenter&apos;s Blocks,Chisel,Dr. Cyano&apos;s Wonderful Wands &amp; Wizarding Armor,Diseasecraft,Forbidden Magic,Magical Crops,Mariculture,Mine &amp; Blade Battlegear 2 - Warcry,Thaumcraft 4,Thaumic Tinkerer,The Twilight Forest,Statues,Steve&apos;s Workshop,Witchery"
 			 />				
 
-		<mod name="Discovery Era" version="3-DEV-038" 
-			 url="packs/ResonantRise/files/timezones/discovery/04_discovery-3-DEV-039.zip" file="04_discovery_3-DEV-038.zip" md5="1526aa715e54a672a8b5d0e19ac7612f" download="server"
+		<mod name="Discovery Era" version="3-DEV-041" 
+			 url="packs/ResonantRise/files/timezones/discovery/04_discovery-3-DEV-041.zip" file="04_discovery_3-DEV-041.zip" md5="0bdf9c6cccfdac7f041e738c3d1268e7" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="RR Dev Team"
@@ -177,8 +177,8 @@
 			 description="Giving you even more to discover."
 			 depends="Discovery Era,Ars Magica 2,Botania,Mariculture,Quiverbow,Archimedes&apos; Ships,BiblioWoods Forestry Edition,Binnie Mods,Brewcraft,Forestry,Flaxbeard&apos;s Steam Power Mod,Iron Chests, Iron Chest Carts,Magic Bees,OpenBlocks,Steve&apos;s Factory Manager,Thaumcraft 4,Refined Relocation,Witchery"	 />				
 
-		<mod name="Industrial Era" version="3-DEV-039"
-			 url="packs/ResonantRise/files/timezones/industrial/05_industrial-3-DEV-039.zip" file="05_industiral_3-DEV-039.zip" md5="ff37ea3f0200b6a55774b9c37b1bf6de" download="server"
+		<mod name="Industrial Era" version="3-DEV-041"
+			 url="packs/ResonantRise/files/timezones/industrial/05_industrial-3-DEV-041.zip" file="05_industiral_3-DEV-041.zip" md5="b97761574bf3bc13a88e2156e393000f" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -193,8 +193,8 @@
 			 description="Now with more machines!"
 			 depends="Industrial Era,Computronics,Greg&apos;s Lighting,IndustrialCraft 2,Steve&apos;s Carts,Steve&apos;s Workshop,Steve&apos;s Factory Manager,WR-CBE,Binne&apos;s Mods,Buildcraft,Enchanting Plus,Forestry,Gendustry,PneumaticCraft,MineFactory Reloaded,OpenComputers,Refined Relocation,Remote IO"	 />				
 
-		<mod name="Information Era" version="3-DEV-039"
-			 url="packs/ResonantRise/files/timezones/information/06_information-3-DEV-039.zip" file="06_information_3-DEV-039.zip" md5="e387648461433ed347d4e606b09cafea" download="server"
+		<mod name="Information Era" version="3-DEV-041"
+			 url="packs/ResonantRise/files/timezones/information/06_information-3-DEV-041.zip" file="06_information_3-DEV-041.zip" md5="b8f6b8ba84d88fcf5ef8873be26a8440" download="server"
 			 type="extract" extractto="root" optional="yes" recommended="no" group="mode"
 			 website="http://resonant-rise.com"
 			 authors="Velotican, DivineAspect"
@@ -631,8 +631,8 @@
              authors="Team Metallurgy"
 			 description="The Metallurgy coremod." />
 
-        <mod name="MineTweaker" version="3.0.9"
-			 url="packs/ResonantRise/files/3.x/MineTweaker3-1.7.10-3.0.9.jar" file="MineTweaker3-1.7.10-3.0.9.jar" md5="f14f8f6589b23b86e909a61c85d7f1bf" download="server" 
+        <mod name="MineTweaker" version="3.0.9C"
+			 url="packs/ResonantRise/files/3.x/MineTweaker3-1.7.10-3.0.9C.jar" file="MineTweaker3-1.7.10-3.0.9C.jar" md5="fa05f1671f4cce65c9497c81e9212cca" download="server" 
 			 type="mods"
 			 website="http://www.minecraftforum.net/topic/1886008-"
 			 authors="Stan Hebben"
