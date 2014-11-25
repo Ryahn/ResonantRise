@@ -1,5 +1,5 @@
 ID,Unlocalised name,Class
-0,potion.disease,oortcloud.hungryanimals.potion.PotionDisease
+0,null,null,null,null
 1,potion.moveSpeed,net.minecraft.potion.Potion
 2,potion.moveSlowdown,net.minecraft.potion.Potion
 3,potion.digSpeed,net.minecraft.potion.Potion
@@ -29,7 +29,7 @@ ID,Unlocalised name,Class
 27,potion.infvisexhaust,thaumcraft.common.lib.potions.PotionInfectiousVisExhaust
 28,potion.unhunger,thaumcraft.common.lib.potions.PotionUnnaturalHunger
 29,potion.warpward,thaumcraft.common.lib.potions.PotionWarpWard
-30,potionHardness,com.ollieread.technomagi.potion.PotionTM
+30,disease.bubonicPlague,mc.Mitchellbrine.virusMod.common.potion.Disease
 31,disease.rabies,mc.Mitchellbrine.virusMod.common.potion.Disease
 32,disease.parkinsons,mc.Mitchellbrine.virusMod.common.potion.Disease
 33,disease.influenza,mc.Mitchellbrine.virusMod.common.potion.Disease
@@ -102,14 +102,14 @@ ID,Unlocalised name,Class
 100,Drowning,WayofTime.alchemicalWizardry.common.potion.PotionDrowning
 101,Boost,WayofTime.alchemicalWizardry.common.potion.PotionBoost
 102,Whirlwind,WayofTime.alchemicalWizardry.common.potion.PotionProjectileProtect
-103,potion.shining,com.stek101.projectzulu.common.potion.effects.PotionZulu
-104,potion.incendiary,com.stek101.projectzulu.common.potion.effects.PotionIncendiary
-105,potion.slowfall,com.stek101.projectzulu.common.potion.effects.PotionSlowFall
-106,potion.cleansing,com.stek101.projectzulu.common.potion.effects.PotionCleansing
-107,potion.curse,com.stek101.projectzulu.common.potion.effects.PotionCurse
-108,potion.thorn,com.stek101.projectzulu.common.potion.effects.PotionThorns
-109,potion.heal2,com.stek101.projectzulu.common.potion.effects.PotionHeal2
-110,potion.harm2,com.stek101.projectzulu.common.potion.effects.PotionHarm2
+103,Inhibit,WayofTime.alchemicalWizardry.common.potion.PotionInhibit
+104,Flight,WayofTime.alchemicalWizardry.common.potion.PotionFlight
+105,Reciprocation,WayofTime.alchemicalWizardry.common.potion.PotionReciprocation
+106,Flame Cloak,WayofTime.alchemicalWizardry.common.potion.PotionFlameCloak
+107,Ice Cloak,WayofTime.alchemicalWizardry.common.potion.PotionIceCloak
+108,Heavy Heart,WayofTime.alchemicalWizardry.common.potion.PotionHeavyHeart
+109,Fire Fuse,WayofTime.alchemicalWizardry.common.potion.PotionFireFuse
+110,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
 111,Soul Fray,WayofTime.alchemicalWizardry.common.potion.PotionSoulFray
 112,Soul Harden,WayofTime.alchemicalWizardry.common.potion.PotionSoulHarden
 113,Deafness,WayofTime.alchemicalWizardry.common.potion.PotionDeaf
