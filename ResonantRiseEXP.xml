@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3.0.1.0-EXP-MAIN</version>
+        <version>3.0.2.0-EXP-MAIN</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -85,7 +85,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Resonant-Rise for the average player."
-             depends="AlchemyPlusPlus,Another One Bites The Dust,Applied Energistics 2,Artifice,Automagy,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Blood Magic,Botania,Buildcraft,Calculator,Carpenter&apos;s Blocks,Chisel,Chisel Facades,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Dense Ores,Dimensional Anchors,Ender IO,Ender Zoo,Ender Storage,EnhancedPortals 3,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Forbidden Magic,Forestry,Funky Locomotion,Galacticraft Core,Galacticraft Planets,Gendustry,Greg&apos;s Lighting,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Logistical Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,Micdoodle8 Core,Mine &amp; Blade Battlegear 2 - Warcry,MineChem,MineFactory Reloaded,MachineMuse&apos;s Modular Powersuits,Modular Forcefield System,Modular Powersuits Addon,Numina,OpenBlocks,OpenComponents,OpenComputers,PneumaticCraft,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Refined Relocation,Remote IO,Sanguimancy,Simply Jetpacks,Slick-Util,Soul Shards: Reborn,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,TechnoMagi,Thaumcraft 4,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,TiC Tooltips,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,Tubes,The Twilight Forest,Witchery,WR-CBE"
+             depends="AlchemyPlusPlus,Another One Bites The Dust,Applied Energistics 2,Artifice,Automagy,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Blood Magic,Botania,Buildcraft,Calculator,Carpenter&apos;s Blocks,Chisel,Chisel Facades,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Dense Ores,Dimensional Anchors,Ender IO,Ender Zoo,Ender Storage,EnhancedPortals 3,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Forbidden Magic,Forestry,Funky Locomotion,Galacticraft Core,Galacticraft Planets,Gendustry,Greg&apos;s Lighting,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Logistical Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,Micdoodle8 Core,MineChem,MineFactory Reloaded,MachineMuse&apos;s Modular Powersuits,Modular Forcefield System,Modular Powersuits Addon,Numina,OpenBlocks,OpenComponents,OpenComputers,PneumaticCraft,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Refined Relocation,Remote IO,Sanguimancy,Simply Jetpacks,Slick-Util,Soul Shards: Reborn,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,TechnoMagi,Thaumcraft 4,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,TiC Tooltips,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,Tubes,The Twilight Forest,Witchery,WR-CBE"
              />
 
         <!-- <mod name="Excessive" version="n/a"
@@ -199,8 +199,8 @@
              website="http://commons.apache.org/proper/commons-compress/"
              description="Commons Lib" />
 
-        <mod name="ForgeMultipart" version="1.1.0.310"
-            url="packs/ResonantRise/files/3.x/ForgeMultipart-1.7.10-1.1.0.310-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.310-universal.jar" md5="8a17c87c224d46bf81e7155072b3a342" download="server"
+        <mod name="ForgeMultipart" version="1.1.0.314"
+            url="packs/ResonantRise/files/3.x/ForgeMultipart-1.7.10-1.1.0.314-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.314-universal.jar" md5="f09d6bb48f518246af12751087b7734a" download="server"
              type="dependency"
              website="https://github.com/Chicken-Bones/ForgeMultipart" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
              authors="ChickenBones"
@@ -452,7 +452,7 @@
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2228763" 
              description="Animals can now starve to death... and move in herd like formations, oh and may occasionally breed on their own." /> -->
 
-        <mod name="IndustrialCraft 2" version="2.2.2.654-API" 
+        <mod name="IndustrialCraft 2 API" version="2.2.2.654-API" 
              url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.654-experimental-api.jar" file="industrialcraft-2-2.2.654-experimental-api.jar" md5="ddcf6abdda4b328d2f5c5dcc9c100bb8" download="server" 
              type="mods" 
              website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" 
@@ -696,12 +696,12 @@
              authors="wasliebob"
              description="Core for all WaslieBob mods" />-->     
 
-        <mod name="YAMPST" version="3-DEV-008"
+        <!-- <mod name="YAMPST" version="3-DEV-008"
              url="packs/ResonantRise/files/3.x/Yampst-Resonant-Rise-3-DEV-008.jar" file="Yampst-Resonant-Rise-3-DEV-008.jar" md5="71638d29952d41140bf81a7a04fb0bc4" download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091766"
              authors="bilde2910, Commador"
-             description="YAMPST is an open-source statistics tracking tool for mod packs" />
+             description="YAMPST is an open-source statistics tracking tool for mod packs" /> -->
 
         <mod name="== Server Mods ==" version="n/a" colour="rred"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
@@ -1317,12 +1317,12 @@
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10649" donation="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10649"
              description="Expanding upon Industial Craft's nuclear reactor control systems" />-->
 
-        <mod name="IndustrialCraft 2" version="2.2.650-exp" 
+        <!-- <mod name="IndustrialCraft 2" version="2.2.650-exp" 
              url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.650-experimental.jar" file="industrialcraft-2-2.2.650-experimental.jar" md5="fd6536a56eb1c6f12f773a97a5cdc209" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" 
              authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44" 
-             description="Industrial age themed expansion for Minecraft." />
+             description="Industrial age themed expansion for Minecraft." /> -->
 
         <!--<mod name="Infinitubes" version="59.0.1"
              url="packs/ResonantRise/files/3.x/infinitubes-59.0.1.jar" file="infinitubes-59.0.1.jar" md5="e5df5a78f0b90b3f9823dd0432185480" download="server"
