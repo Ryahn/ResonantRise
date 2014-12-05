@@ -50,7 +50,22 @@
             1
         ]
     },
-    "iron": {
+    {
+    "SmallCoalVein": {
+		"template": "fractal",
+		"block": "coal_ore",
+		"material": "stone",
+		"clusterSize": 10,
+		"numClusters": 4,
+		"chunkChance": 10,
+		"retrogen": "true",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "blacklist",
+		"dimensions": [ -1,1],
+		"enabled": true
+	}
+	{"iron": {
         "template": "uniform",
         "block": "iron_ore",
 		"material": "minecraft:stone",
@@ -78,6 +93,23 @@
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"goldmountainVeins": {
+        "template": "decoration",
+        "block": "gold_ore",
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 7,
+        "minHeight": 80,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [mountains,extremehills,crag,highlands,alps],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -118,6 +150,23 @@
             1
         ]
     },
+	"diamondmountainvein": {
+        "template": "fractal",
+        "block": "diamond_ore",
+		"material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 4,
+        "minHeight": 80,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
     "lapis": {
         "template": "normal",
         "block": "lapis_ore",
@@ -142,7 +191,7 @@
         "clusterSize": 13,
         "numClusters": 16,
         "minHeight": 10,
-        "maxHeight": 118,
+        "maxHeight": 256,
         "retrogen": "true",
         "biomeRestriction": "whitelist",
         "biomes": [

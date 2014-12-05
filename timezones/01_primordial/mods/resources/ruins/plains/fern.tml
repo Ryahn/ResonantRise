@@ -5,10 +5,10 @@
 biomesToSpawnIn=plains,brushland,scrubland,fungi forest,lush swamp,forest,rainforest,jungle,marsh,canyon,swampland,chaparral
 weight=50
 embed_into_distance=2
-acceptable_target_blocks=grass, dirt
+acceptable_target_blocks=dirt,grass,sand,gravel
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
 dimensions=7,3,3
-allowable_overhang=0
+allowable_overhang=1
 max_leveling=2
 leveling_buffer=0
 preserve_water=0
