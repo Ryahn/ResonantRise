@@ -1,0 +1,154 @@
+Starting NEI Filter scripting. This might take a moment to load all the modules...
+Loading table of contents for module: custom_nei_filters, 1.0, Author: denoflionsx
+Bootstrap setting found. Loading: Bootstrap.js
+Loading: vanilla.js
+hide_block called. Params: minecraft, portal
+Found block minecraft:portal
+hide_block called. Params: minecraft, end_portal
+Found block minecraft:end_portal
+hide_block called. Params: minecraft, mob_spawner
+Found block minecraft:mob_spawner
+hide_block called. Params: minecraft, fire
+Found block minecraft:fire
+hide_block called. Params: minecraft, water
+Found block minecraft:water
+hide_block called. Params: minecraft, lava
+Found block minecraft:lava
+Loading: ThermalExpansion.js
+override_item called. Params: ThermalExpansion, florb, 0,1
+Found item ThermalExpansion:florb
+Loading: Mekanism.js
+override_block called. Params: Mekanism, GasTank, 100
+Found block Mekanism:GasTank
+Loading: ForgeMicroblock.js
+getRandomMaterial called. Returned: tile.RareTree3
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.RareTree3
+Loading: ExtraUtilities.js
+override_block called. Params: ExtraUtilities, drum, 0,1
+Found block ExtraUtilities:drum
+getRandomMaterial called. Returned: tile.appliedenergistics2.BlockQuartz
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.appliedenergistics2.BlockQuartz
+Loading: BuildCraft.js
+getFacadesSize called. Returned: 2820
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1246
+Loading: Bibliocraft.js
+ReflectAllBlocks called. Params: jds.bibliocraft.blocks.BlockLoader. Total non-null blocks reflected: 30
+ReflectAllItems called. Params: jds.bibliocraft.items.ItemLoader. Total non-null items reflected: 26
+override_block called. Params: BiblioCraft, Bibliotheca, 0
+Found block BiblioCraft:Bibliotheca
+override_block called. Params: BiblioCraft, Armor Stand, 0
+Found block BiblioCraft:Armor Stand
+override_block called. Params: BiblioCraft, BiblioPotionShelf, 0
+Found block BiblioCraft:BiblioPotionShelf
+override_block called. Params: BiblioCraft, BiblioShelf, 0
+Found block BiblioCraft:BiblioShelf
+override_block called. Params: BiblioCraft, BiblioRack, 0
+Found block BiblioCraft:BiblioRack
+override_block called. Params: BiblioCraft, BiblioCase, 0
+Found block BiblioCraft:BiblioCase
+override_block called. Params: BiblioCraft, BiblioLabel, 0
+Found block BiblioCraft:BiblioLabel
+override_block called. Params: BiblioCraft, BiblioDesk, 0
+Found block BiblioCraft:BiblioDesk
+override_block called. Params: BiblioCraft, BiblioTable, 0
+Found block BiblioCraft:BiblioTable
+override_block called. Params: BiblioCraft, BiblioLamp, 0
+Found block BiblioCraft:BiblioLamp
+override_block called. Params: BiblioCraft, BiblioIronLamp, 0
+Found block BiblioCraft:BiblioIronLamp
+override_block called. Params: BiblioCraft, BiblioLantern, 0
+Found block BiblioCraft:BiblioLantern
+override_block called. Params: BiblioCraft, BiblioIronLantern, 0
+Found block BiblioCraft:BiblioIronLantern
+override_block called. Params: BiblioCraft, Typesetting Machine, 0
+Found block BiblioCraft:Typesetting Machine
+override_block called. Params: BiblioCraft, Printing Press, 0
+Found block BiblioCraft:Printing Press
+override_block called. Params: BiblioCraft, BiblioStuffs, 0
+Found block BiblioCraft:BiblioStuffs
+override_block called. Params: BiblioCraft, BiblioMapFrames, 0
+Found block BiblioCraft:BiblioMapFrames
+override_block called. Params: BiblioCraft, BiblioSeats, 0
+Found block BiblioCraft:BiblioSeats
+override_block called. Params: BiblioCraft, BiblioSwordPedestal, 0
+Found block BiblioCraft:BiblioSwordPedestal
+override_block called. Params: BiblioCraft, BiblioFancySign, 0
+Found block BiblioCraft:BiblioFancySign
+override_block called. Params: BiblioCraft, BiblioWorkbench, 0
+Found block BiblioCraft:BiblioWorkbench
+override_block called. Params: BiblioCraft, BiblioBell, 0
+Found block BiblioCraft:BiblioBell
+override_block called. Params: BiblioCraft, BiblioTypewriter, 0
+Found block BiblioCraft:BiblioTypewriter
+override_block called. Params: BiblioCraft, BiblioClock, 0
+Found block BiblioCraft:BiblioClock
+override_block called. Params: BiblioCraft, BiblioFlatPainting, 0
+Found block BiblioCraft:BiblioFlatPainting
+override_block called. Params: BiblioCraft, BiblioSimplePainting, 0
+Found block BiblioCraft:BiblioSimplePainting
+override_block called. Params: BiblioCraft, BiblioMiddlePainting, 0
+Found block BiblioCraft:BiblioMiddlePainting
+override_block called. Params: BiblioCraft, BiblioFancyPainting, 0
+Found block BiblioCraft:BiblioFancyPainting
+override_block called. Params: BiblioCraft, BiblioBorderlessPainting, 0
+Found block BiblioCraft:BiblioBorderlessPainting
+override_block called. Params: BiblioCraft, BiblioPaintPress, 0
+Found block BiblioCraft:BiblioPaintPress
+override_item called. Params: BiblioCraft, item.tapeMeasure, 0
+Found item BiblioCraft:item.tapeMeasure
+override_item called. Params: BiblioCraft, item.tape, 0
+Found item BiblioCraft:item.tape
+override_item called. Params: BiblioCraft, item.BiblioChase, 0
+Found item BiblioCraft:item.BiblioChase
+override_item called. Params: BiblioCraft, item.PrintPlate, 0
+Found item BiblioCraft:item.PrintPlate
+override_item called. Params: BiblioCraft, item.EnchantedPlate, 0
+Found item BiblioCraft:item.EnchantedPlate
+override_item called. Params: BiblioCraft, item.BiblioRedBook, 0
+Found item BiblioCraft:item.BiblioRedBook
+override_item called. Params: BiblioCraft, item.BiblioGlasses, 0
+Found item BiblioCraft:item.BiblioGlasses
+override_item called. Params: BiblioCraft, item.BiblioDrill, 0
+Found item BiblioCraft:item.BiblioDrill
+override_item called. Params: BiblioCraft, item.BiblioCreativeLock, 0
+Found item BiblioCraft:item.BiblioCreativeLock
+override_item called. Params: BiblioCraft, item.BiblioClipboard, 0
+Found item BiblioCraft:item.BiblioClipboard
+override_item called. Params: BiblioCraft, item.seatBack, 0
+Found item BiblioCraft:item.seatBack
+override_item called. Params: BiblioCraft, item.seatBack2, 0
+Found item BiblioCraft:item.seatBack2
+override_item called. Params: BiblioCraft, item.seatBack3, 0
+Found item BiblioCraft:item.seatBack3
+override_item called. Params: BiblioCraft, item.seatBack4, 0
+Found item BiblioCraft:item.seatBack4
+override_item called. Params: BiblioCraft, item.seatBack5, 0
+Found item BiblioCraft:item.seatBack5
+override_item called. Params: BiblioCraft, item.BiblioMapTool, 0
+Found item BiblioCraft:item.BiblioMapTool
+override_item called. Params: BiblioCraft, item.BiblioWayPointCompass, 0
+Found item BiblioCraft:item.BiblioWayPointCompass
+override_item called. Params: BiblioCraft, item.HandDrill, 0
+Found item BiblioCraft:item.HandDrill
+override_item called. Params: BiblioCraft, item.BigBook, 0
+Found item BiblioCraft:item.BigBook
+override_item called. Params: BiblioCraft, item.RecipeBook, 0
+Found item BiblioCraft:item.RecipeBook
+override_item called. Params: BiblioCraft, item.SlottedBook, 0
+Found item BiblioCraft:item.SlottedBook
+override_item called. Params: BiblioCraft, item.PaintingCanvas, 0
+Found item BiblioCraft:item.PaintingCanvas
+override_item called. Params: BiblioCraft, item.AtlasBook, 0
+Found item BiblioCraft:item.AtlasBook
+override_item called. Params: BiblioCraft, item.AtlasPlate, 0
+Found item BiblioCraft:item.AtlasPlate
+override_item called. Params: BiblioCraft, item.TesterItem, 0
+Found item BiblioCraft:item.TesterItem
+override_item called. Params: BiblioCraft, item.DeathCompass, 0
+Found item BiblioCraft:item.DeathCompass
+Loading: AppliedEnergistics2.js
+getFacadeItem called.
+getSubTypes called.
+getNumberOfTypes called. Returned: 2748
+override_item called. Params: appliedenergistics2, item.ItemFacade, 310
+Found item appliedenergistics2:item.ItemFacade

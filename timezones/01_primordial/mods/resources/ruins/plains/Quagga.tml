@@ -2,7 +2,7 @@
 # Created by Ruins mod version 14.1 Ingame Parser
 # authoring Player: Divineaspect
 
-biomesToSpawnIn=plains,brushland,scrubland,fungi forest,lush swamp,forest,rainforest,jungle,marsh,canyon,swampland,chaparral
+biomesToSpawnIn=plains,brushland,scrubland,fungi forest,lush swamp,forest,rainforest,jungle,marsh,canyon,swampland,chaparral,desert,ice plains,cold beach
 weight=20
 embed_into_distance=2
 acceptable_target_blocks=
