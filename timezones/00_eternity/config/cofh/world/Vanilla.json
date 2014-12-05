@@ -2,7 +2,7 @@
     "dirt": {
         "template": "uniform",
         "block": "dirt",
-		"material": "minecraft:stone",
+        "material": "minecraft:stone",
         "clusterSize": 32,
         "numClusters": 20,
         "minHeight": 0,
@@ -19,7 +19,7 @@
     "gravel": {
         "template": "uniform",
         "block": "gravel",
-		"material": "stone",
+        "material": "stone",
         "clusterSize": 32,
         "numClusters": 10,
         "minHeight": 0,
@@ -36,11 +36,11 @@
     "coal": {
         "template": "uniform",
         "block": "coal_ore",
-		"material": "stone",
+        "material": "stone",
         "clusterSize": 16,
         "numClusters": 40,
         "minHeight": 0,
-        "maxHeight": 256,
+        "maxHeight": 128,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
@@ -50,25 +50,10 @@
             1
         ]
     },
-    {
-    "SmallCoalVein": {
-		"template": "fractal",
-		"block": "coal_ore",
-		"material": "stone",
-		"clusterSize": 10,
-		"numClusters": 4,
-		"chunkChance": 10,
-		"retrogen": "true",
-		"biomeRestriction": "none",
-		"biomes": [],
-		"dimensionRestriction": "blacklist",
-		"dimensions": [ -1,1],
-		"enabled": true
-	}
-	{"iron": {
+    "iron": {
         "template": "uniform",
         "block": "iron_ore",
-		"material": "minecraft:stone",
+        "material": "minecraft:stone",
         "clusterSize": 8,
         "numClusters": 40,
         "minHeight": 0,
@@ -85,9 +70,9 @@
     "gold": {
         "template": "uniform",
         "block": "gold_ore",
-		"material": "minecraft:stone",
+        "material": "minecraft:stone",
         "clusterSize": 8,
-        "numClusters": 3,
+        "numClusters": 4,
         "minHeight": 0,
         "maxHeight": 32,
         "retrogen": "true",
@@ -99,29 +84,12 @@
             1
         ]
     },
-	"goldmountainVeins": {
-        "template": "decoration",
-        "block": "gold_ore",
-		"material": "minecraft:stone",
-        "clusterSize": 4,
-        "numClusters": 7,
-        "minHeight": 80,
-        "maxHeight": 256,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [mountains,extremehills,crag,highlands,alps],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
     "redstone": {
         "template": "uniform",
         "block": "redstone_ore",
-		"material": "minecraft:stone",
+        "material": "minecraft:stone",
         "clusterSize": 7,
-        "numClusters": 8,
+        "numClusters": 16,
         "minHeight": 0,
         "maxHeight": 16,
         "retrogen": "true",
@@ -136,8 +104,8 @@
     "diamond": {
         "template": "uniform",
         "block": "diamond_ore",
-		"material": "minecraft:stone",
-        "clusterSize": 4,
+        "material": "minecraft:stone",
+        "clusterSize": 7,
         "numClusters": 3,
         "minHeight": 0,
         "maxHeight": 16,
@@ -150,29 +118,12 @@
             1
         ]
     },
-	"diamondmountainvein": {
-        "template": "fractal",
-        "block": "diamond_ore",
-		"material": "minecraft:stone",
-        "clusterSize": 3,
-        "numClusters": 4,
-        "minHeight": 80,
-        "maxHeight": 256,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
     "lapis": {
         "template": "normal",
         "block": "lapis_ore",
-		"material": "minecraft:stone",
-        "clusterSize": 5,
-        "numClusters": 2,
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 3,
         "meanHeight": 16,
         "maxVariance": 16,
         "retrogen": "true",
@@ -187,19 +138,17 @@
     "quartz": {
         "template": "uniform",
         "block": "quartz_ore",
-		"material": "minecraft:netherrack",
+        "material": "minecraft:netherrack",
         "clusterSize": 13,
-        "numClusters": 16,
+        "numClusters": 32,
         "minHeight": 10,
-        "maxHeight": 256,
+        "maxHeight": 118,
         "retrogen": "true",
         "biomeRestriction": "whitelist",
         "biomes": [
-            "hell"
+            {"type": "dictionary", "entry": "NETHER"}
         ],
-        "dimensionRestriction": "whitelist",
-        "dimensions": [
-            -1
-        ]
+        "dimensionRestriction": "none",
+        "dimensions": []
     }
 }
