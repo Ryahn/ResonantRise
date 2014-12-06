@@ -81,9 +81,9 @@
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
         "clusterSize": 6,
-        "numClusters": 3,
+        "numClusters": 4,
         "minHeight": 8,
-        "maxHeight": 27,
+        "maxHeight": 29,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
