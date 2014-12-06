@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["RR UNRELEASED BUILD", "Timezone: Discovery Era", "RR 3-DEV-038"]
+            "value": ["3.1.0.0-EXP", "Timezone: Discovery Era", "RR 3-DEV-046"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
