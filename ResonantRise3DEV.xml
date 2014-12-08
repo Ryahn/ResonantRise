@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-047</version>
+        <version>3-DEV-048</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -62,7 +62,7 @@
              description="Please do not select with Era modes."
              />
                     
-        <mod name="Eternnal" version="3-DEV-048" 
+        <mod name="Eternal" version="3-DEV-048" 
              url="packs/ResonantRise/files/timezones/00_eternity/00_eternity_3-DEV-048.zip" file="00_eternity_3-DEV-048.zip" md5="49359a34993a15db68b33c085ba1ec0a" download="server"
              type="extract" extractto="root" optional="no" recommended="yes"
              website="http://resonant-rise.com"
