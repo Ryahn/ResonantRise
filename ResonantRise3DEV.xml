@@ -1393,8 +1393,8 @@
              website="http://www.curse.com/mc-mods/minecraft/225556-" donation="https://www.paypal.com/cgi-bin/webscr?return=http%3a%2f%2fwww.curse.com%2fproject%2f225556&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brock.michael12345%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http%3a%2f%2fwww.curse.com%2fproject%2f225556&amp;lc=US&amp;item_name=Flowing+Flux+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
              description="Programable and easy-to-use energy movement systems" />
 
-        <mod name="Fluxed Crops" version="0.0.1b7" 
-             url="packs/ResonantRise/files/3.x/fluxedCrystals-0.0.1b10.jar" file="fluxedCrystals-0.0.1b10.jar" md5="752f3ea756956dad3379a5d094280fbb" download="server" 
+        <mod name="Fluxed Crops" version="0.0.1b14" 
+             url="packs/ResonantRise/files/3.x/fluxedCrystals-0.0.1b14.jar" file="fluxedCrystals-0.0.1b14.jar" md5="9290603a5e264e5020ddfced130c46be" download="server"
              type="mods" depends="ttCore" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2210357-0-54-fluxed-trinkets-rf-powered-baubles"
              authors="Tiesti, TheDarkSyte, Jared" 
