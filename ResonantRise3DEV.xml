@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-048</version>
+        <version>3-DEV-049</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -85,7 +85,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Resonant-Rise for the average player."
-             depends="AlchemyPlusPlus,Another One Bites The Dust,Applied Energistics 2,Artifice,Automagy,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Blood Magic,Botania,Buildcraft,Calculator,Carpenter&apos;s Blocks,Chisel,Chisel Facades,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Dense Ores,Dimensional Anchors,Ender IO,Ender Zoo,Ender Storage,EnhancedPortals 3,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Forbidden Magic,Forestry,Funky Locomotion,Galacticraft Core,Galacticraft Planets,Gendustry,Greg&apos;s Lighting,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Logistical Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,Micdoodle8 Core,MineChem,MineFactory Reloaded,MachineMuse&apos;s Modular Powersuits,Modular Forcefield System,Modular Powersuits Addon,Numina,OpenBlocks,OpenComponents,OpenComputers,OpenPeripheral Addons,OpenPeripheral Core,OpenPeripheral Integration,PneumaticCraft,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Refined Relocation,Remote IO,Sanguimancy,Simply Jetpacks,Slick-Util,Soul Shards: Reborn,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,TechnoMagi,Thaumcraft 4,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,TiC Tooltips,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,Tubes,The Twilight Forest,ttCore,Witchery,WR-CBE"
+             depends="AlchemyPlusPlus,Ancient Warfare 2,Another One Bites The Dust,Applied Energistics 2,Artifice,Automagy,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Blood Magic,Botania,Buildcraft,Calculator,Carpenter&apos;s Blocks,Chisel,Chisel Facades,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Dense Ores,Dimensional Anchors,Ender IO,Ender Zoo,Ender Storage,EnhancedPortals 3,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Forbidden Magic,Forestry,Funky Locomotion,Galacticraft Core,Galacticraft Planets,Gendustry,Greg&apos;s Lighting,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Logistical Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,Micdoodle8 Core,MineChem,MineFactory Reloaded,MachineMuse&apos;s Modular Powersuits,Modular Forcefield System,Modular Powersuits Addon,Numina,OpenBlocks,OpenComponents,OpenComputers,OpenPeripheral Addons,OpenPeripheral Core,OpenPeripheral Integration,PneumaticCraft,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Refined Relocation,Remote IO,Sanguimancy,Simply Jetpacks,Slick-Util,Soul Shards: Reborn,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,TechnoMagi,Thaumcraft 4,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,TiC Tooltips,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,Tubes,The Twilight Forest,ttCore,Witchery,WR-CBE"
              />
 
         <mod name="Excessive" version="n/a"
@@ -184,7 +184,7 @@
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
              description="The Era of the great industrial revolution."
-             depends="Advanced Machines,Another One Bites the Dust,Buildcraft,Carpenter&apos;s Blocks,Chisel,Enchanting Plus,Hydraulicraft,K4lib,IC2 Nuclear Control 2,Immibis Core,IndustrialCraft 2,Logistical Pipes,Minefactory Reloaded,OpenComputers,Power Converters,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,PneumaticCraft,Refined Relocation,Remote IO"
+             depends="Advanced Generators,Carpenter&apos;s Blocks,Chisel,Ender IO,Forestry,Galacticraft Core,Galacticraft Planets,MicDoodle8 Core,MineFactory Reloaded,Pneumaticraft,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,PneumaticCraft,Thermal Expansion,Refined Relocation,Remote IO,ZTones"
              />
         
         <mod name="   Industrial Complete" version="n/a" 
@@ -193,8 +193,9 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Now with more machines!"
-             depends="Industrial Era,Advanced Machines,Advanced Solar Panel,Another One Bites the Dust,Buildcraft,Carpenter&apos;s Blocks,Chisel,Chisel Facades,Computronics,Electrical Age,Enchanting Plus,GraviSuite,Greg&apos;s Lighting,Hydraulicraft,K4lib,IC2 Nuclear Control 2,Immibis Core,IndustrialCraft 2,Logistical Pipes,Minefactory Reloaded,OpenComputers,Power Converters,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,Pneumaticraft,Refined Relocation,Remote IO,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Workshop,QuarryPlus,RF Tools"    />             
-
+             depends="Industrial Era,Advanced Generators,Carpenter&apos;s Blocks,Chisel,Ender IO,Forestry,Galacticraft Core,Galacticraft Planets,MicDoodle8 Core,MineFactory Reloaded,Pneumaticraft,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,PneumaticCraft,Thermal Expansion,Refined Relocation,Remote IO,ZTones,Ender Zoo,Electrical Age,Fluxed Crops,Greg&apos;s Lighting,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Workshop,RF Tools,IC2 Nuclear Control 2,IndustrialCraft 2"    
+             />             
+        
         <mod name="Information Era" version="3-DEV-048"
              url="packs/ResonantRise/files/timezones/06_information/06_information_3-DEV-048.zip" file="06_information_3-DEV-048.zip" md5="07a4452c4407656b579fdbce0cc7f71d" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
@@ -953,6 +954,13 @@
              description="Mods"
              />
         
+        <mod name="Advanced Generators" version="0.9.6.27" 
+             url="packs/ResonantRise/files/3.x/generators-mc1710-0.9.6.27.jar" file="generators-mc1710-0.9.6.27.jar" md5="58059569b331bfdb8e2f3a4d709ee054" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2189255" 
+             authors="BDew" 
+             description="Freeform Multiblock generators that produce MJ, RF and EU!" />
+
         <!--<mod name="Advanced Genetics" version="1.5.7"
              url="packs/ResonantRise/files/3.x/advancedgenetics-1.7.10-1.5.7.jar" file="advancedgenetics-1.7.10-1.5.7.jar" md5="354ce3957948930db32cabc1945c79d4" download="server"
              type="mods" optional="yes" recommended="no"
@@ -965,7 +973,7 @@
              type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9335&amp;pageNo=1" 
              authors="immibis" 
-             description="Yet another chunkloader mod." />
+             description="Modular IC2 Machines." />
 
         <mod name="Advanced Repulsion Systems" version="59.0.2" 
              url="packs/ResonantRise/files/3.x/adv-repulsion-systems-59.0.2.jar" file="adv-repulsion-systems-59.0.2.jar" md5="15d5dc800f05b17bede523468e2b9edf" download="server"
@@ -990,7 +998,7 @@
 
         <mod name="Ancient Warfare 2" version="2.3.77-beta" 
              url="packs/ResonantRise/files/3.x/ancientwarfare-2.3.77-beta-MC1.7.10.jar" file="ancientwarfare-2.3.77-beta-MC1.7.10.jar" md5="7472e8091c8a1fcc028156ad6269d279" download="server" 
-             type="mods" 
+             type="mods" optional="yes" recommended="no"
              website="http://www.curse.com/mc-mods/minecraft/224602-"
              authors="shadowmage45" 
              description="Technolgy, Empire, and Industry." />
@@ -1609,12 +1617,13 @@
              authors="micdoodle8"
              description="Provides core features of Micdoodle8&apos;s mods." />
 
-        <mod name="Mine &amp; Blade Battlegear 2 - Warcry" version="1.0.6.2" 
+        <!-- <mod name="Mine &amp; Blade Battlegear 2 - Warcry" version="1.0.6.2" 
              url="packs/ResonantRise/files/3.x/1.7.10-MB_Battlegear2-Bullseye-1.0.6.2.jar" file="1.7.10-MB_Battlegear2-Bullseye-1.0.6.2.jar" md5="4c177d1bfec735d7c15ce576088667ee" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1944903" 
              authors="nerd-boy,GotoLink" 
-             description="A WIP, opensource combat mod, focusing on groundbreaking features and balanced combat" />
+             description="A WIP, opensource combat mod, focusing on groundbreaking features and balanced combat" 
+             /> -->
              
         <mod name="MineChem" version="5.0.5.323" 
              url="packs/ResonantRise/files/3.x/Minechem-1.7.10-5.0.5.323.jar" file="Minechem-1.7.10-5.0.5.323.jar" md5="f4aa8d01d97694e2fbe1890da3748246" download="server"
@@ -2098,6 +2107,13 @@
              donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" 
              authors="ChickenBones" 
              description="Redstone Ether with some component items" />
+
+        <mod name="ZTones" version="2.0" 
+             url="packs/ResonantRise/files/3.x/Ztones-1.7.10-2.0.jar" file="Ztones-1.7.10-2.0.jar" md5="c2d76d3c61cf51dc9a6cacdc9d130d16" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070"
+             authors="riciJak" 
+             description="Adds Various craftable decorative blocks and some useful stuff." />
 
 <!-- Special Mode Configs -->
 
