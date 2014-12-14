@@ -989,12 +989,13 @@
              authors="Shadowclaimer"
              description="A mystical land of sand, foes, temples, sand, artifacts, and SAND!" />
 
-        <mod name="Automagy" version="0.14" 
-             url="packs/ResonantRise/files/3.x/Automagy-1.7.10-0.14.jar" file="Automagy-1.7.10-0.14.jar" md5="33b5cb4bfbb89c93ca8b976336603043" download="server" 
-             type="mods" depends="Thaumcraft 4" optional="yes" recommended="no"
+        <mod name="Automagy" version="0.16"
+             url="packs/ResonantRise/files/3.x/Automagy-1.7.10-0.16.jar" file="Automagy-1.7.10-0.16.jar" md5="1e025f98d6693cb75189806ef6f8da56" download="server"
+             type="mods" depends="Thaumcraft 4" optional="yes" recommended="no" colour="TC4"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-9" 
              authors="Tuhljin" 
-             description="Thaumcraft Automation and Logistics" />    
+             description="Thaumcraft Automation and Logistics" 
+             />    
 
         <!--<mod name="AE2 Tech Addons" version="1.0-b81" depends="Applied Energistics 2" 
              url="packs/ResonantRise/files/3.x/AE2TechAddOn-1.7.10-1.0-b81-universal.jar" file="AE2TechAddOn-1.7.10-1.0-b81-universal.jar" md5="1df3c86e28e02ca3c53a350b5fb79f86" download="server"
@@ -1859,12 +1860,13 @@
              authors="Vswe"
              description="Create extremely versatile carts to automate minecraft, but they come at some extensive costs, and IRL time." />
 
-        <mod name="Steve's Factory Manager" version="A93"
-             url="packs/ResonantRise/files/3.x/StevesFactoryManagerA93.jar" file="StevesFactoryManagerA93.jar" md5="825819de2d82cf7e9118353c0fc821b6" download="server" 
+        <mod name="Steve&apos;s Factory Manager" version="A92"
+             url="packs/ResonantRise/files/3.x/StevesFactoryManagerA92.jar" file="StevesFactoryManagerA92.jar" md5="a2e00c414f9a61736c4a712b41a57c1c" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://stevesfactorymanager.wikispaces.com/"
              authors="Vswe"
-             description="ComputerCraft, you're no longer the only programmable automation game in town." />
+             description="ComputerCraft, you're no longer the only programmable automation game in town." 
+             />
 
         <mod name="Steve's Workshop" version="0.5.1" 
              url="packs/ResonantRise/files/3.x/StevesWorkshop-0.5.1.jar" file="StevesWorkshop-0.5.1.jar" md5="466afe4bd2f08913d45a181e0635235a" download="server" 
