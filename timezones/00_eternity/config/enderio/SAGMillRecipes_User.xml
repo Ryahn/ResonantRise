@@ -22,6 +22,53 @@ found in the core file.
 
 <SAGMillRecipes>
 
+  <grindingBalls>
+    <excludes>
+      <itemStack oreDictionary="blockManganese" />
+      <itemStack oreDictionary="blockZinc" />
+      <itemStack oreDictionary="blockSilver" />
+      <itemStack oreDictionary="blockPlatinum" />
+      <itemStack oreDictionary="blockIgnatius" />
+      <itemStack oreDictionary="blockShadowIron" />
+      <itemStack oreDictionary="blockLemurite" />
+      <itemStack oreDictionary="blockMidasium" />
+      <itemStack oreDictionary="blockVyroxeres" />
+      <itemStack oreDictionary="blockCeruclase" />
+      <itemStack oreDictionary="blockKalendrite" />
+      <itemStack oreDictionary="blockVulcanite" />
+      <itemStack oreDictionary="blockSanguinite" />
+      <itemStack oreDictionary="blockPrometheum" />
+      <itemStack oreDictionary="blockDeepIron" />
+      <itemStack oreDictionary="blockInfuscolium" />
+      <itemStack oreDictionary="blockOureclase" />
+      <itemStack oreDictionary="blockAstralSilver" />
+      <itemStack oreDictionary="blockCarmot" />
+      <itemStack oreDictionary="blockMithril" />
+      <itemStack oreDictionary="blockRubracium" />
+      <itemStack oreDictionary="blockOrichalcum" />
+      <itemStack oreDictionary="blockAdamantine" />
+      <itemStack oreDictionary="blockAtlarus" />
+      <itemStack oreDictionary="blockBronze" />
+      <itemStack oreDictionary="blockHepatizon" />
+      <itemStack oreDictionary="blockDamascusSteel" />
+      <itemStack oreDictionary="blockAngmallen" />
+      <itemStack oreDictionary="blockSteel" />
+      <itemStack oreDictionary="blockBrass" />
+      <itemStack oreDictionary="blockElectrum" />
+      <itemStack oreDictionary="blockShadowSteel" />
+      <itemStack oreDictionary="blockInolashite" />
+      <itemStack oreDictionary="blockAmordrine" />
+      <itemStack oreDictionary="blockBlackSteel" />
+      <itemStack oreDictionary="blockQuicksilver" />
+      <itemStack oreDictionary="blockHaderoth" />
+      <itemStack oreDictionary="blockCelenegil" />
+      <itemStack oreDictionary="blockTartarite" />
+      <itemStack oreDictionary="blockOsmium" />
+      <itemStack oreDictionary="blockNickel" />
+    </excludes>
+  </grindingBalls>
+
+
 <!-- Disables all recipes in the group 'Vanilla'
 <recipeGroup name="Vanilla" enabled="false"/> 
 -->
