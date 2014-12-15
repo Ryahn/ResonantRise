@@ -138,7 +138,7 @@
              />
                     
         <mod name="Eternal" version="RR3" 
-             url="packs/ResonantRise/files/timezones/00_eternity/00_eternity_3-DEV-052.zip" file="00_eternity_3-DEV-052.zip" md5="49f796df81869a233ee58d96d96d3ffc" download="server"
+             url="packs/ResonantRise/files/timezones/00_eternity/00_eternity_3-DEV-052.zip" file="00_eternity_3-DEV-052.zip" md5="7d6477d030caf6939e2605d761a8d0a0" download="server"
              type="extract" extractto="root" optional="no" recommended="yes"
              website="http://resonant-rise.com"
              authors="Velotican, GodNero"
@@ -2276,33 +2276,33 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="High scale technology, with magical style!" 
              />
              
-        <mod name="Thaumcraft 4" version="4.2.1.4" colour="TC4"
+        <mod name="Thaumcraft 4" version="4.2.1.4"
              url="packs/ResonantRise/files/3.x/Thaumcraft-1.7.10-4.2.1.4.jar" file="Thaumcraft-1.7.10-4.2.1.4.jar" md5="0b3d9da438bb3ceaae85e2175bff9ea4" download="server" 
-             type="mods" optional="yes" recommended="no" 
+             type="mods" optional="yes" recommended="no" colour="TC4"
              authors="azanor"
              website="http://www.curse.com/mc-mods/minecraft/223628-thaumcraft?version=" donation="http://www.curse.com/mc-mods/minecraft/223628-thaumcraft?version="
              description="Become a Thaumaturgist of legend!" 
              />  
 
-        <mod name="Automagy" version="0.16" colour="TC4"
+        <mod name="Automagy" version="0.16"
              url="packs/ResonantRise/files/3.x/Automagy-1.7.10-0.16.jar" file="Automagy-1.7.10-0.16.jar" md5="1e025f98d6693cb75189806ef6f8da56" download="server"
-             type="mods" depends="Thaumcraft 4" optional="yes" recommended="no"
+             type="mods" depends="Thaumcraft 4" optional="yes" recommended="no" colour="TC4"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-9" 
              authors="Tuhljin" 
              description="Thaumcraft Automation and Logistics" 
              />    
 
-        <mod name="Forbidden Magic" version="0.55" colour="TC4"
+        <mod name="Forbidden Magic" version="0.55"
              url="packs/ResonantRise/files/3.x/Forbidden Magic-1.7.10-0.55.jar" file="Forbidden Magic-1.7.10-0.55.jar" md5="449675c41a54311103ebb44e4fbe924b" download="server"
-             type="mods" optional="yes" recommended="no"
+             type="mods" optional="yes" recommended="no" colour="TC4"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828" donation="http://www.patreon.com/spitefulfox"
              authors="SpitefulFox"
              description="Unlock the forbidden thaumcraft magics" 
              />
 
-        <mod name="Technomancy" version="0.9.0 beta-c" colour="TC4"
+        <mod name="Technomancy" version="0.9.0 beta-c"
              url="packs/ResonantRise/files/3.x/1.7.10 Technomancy 0.9.0 beta-c.jar" file="1.7.10 Technomancy 0.9.0 beta-c.jar" md5="a2be4967d95d95adcb9713710c4c2ea0" download="server"
-             type="mods" optional="yes" recommended="no" depends="Thaumcraft 4"
+             type="mods" optional="yes" recommended="no" depends="Thaumcraft 4" colour="TC4"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441" donation="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441"
              authors="Theflogat"
              description="Where magic and Redstone Flux combine" 
@@ -2316,38 +2316,37 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Thaumcraft Extras is an Addon for Thaumcraft 4 adding lots of stuff like Foci, Blocks, Items and more." 
              /> -->
 
-        <mod name="Thaumic Energistics" version="0.8.7b" colour="TC4"
+        <mod name="Thaumic Energistics" version="0.8.7b"
              url="packs/ResonantRise/files/3.x/thaumicenergistics-0.8.7b.jar" file="thaumicenergistics-0.8.7b.jar" md5="32f66a15cb6660096a9d1bf7cca873d7" download="server"
-             type="mods" optional="yes" recommended="no" depends="Thaumcraft 4,Applied Energistics 2"
+             type="mods" optional="yes" recommended="no" depends="Thaumcraft 4,Applied Energistics 2" colour="TC4"
              authors="Nividica"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151" donation="https://drive.google.com/uc?export=download&amp;id=0B3XsROkASZNESU53aHQzMUtGTTA"
              description="Essentia Managment via Applied Energistics, for those who want to force technological order upon their chaotic magics." 
              />     
         
-        <mod name="Thaumcraft Mob Aspects" version="2A" colour="TC4"
+        <mod name="Thaumcraft Mob Aspects" version="2A"
              url="packs/ResonantRise/files/3.x/ThaumcraftMobAspects-1.7.2-2A.jar" file="ThaumcraftMobAspects-1.7.2-2A.jar" md5="c5de49474e6a26e1de8b04a8f45c69b7" download="server" 
-             type="mods" optional="yes" recommended="no" depends="Thaumcraft 4"
+             type="mods" optional="yes" recommended="no" depends="Thaumcraft 4" colour="TC4"
              website="http://www.curse.com/mc-mods/minecraft/221389-" 
              authors="parker8283" 
              description="Thaumic aspect modded mob support." 
              />
 
-        <mod name="Thaumic NEI Plugin" version="1.6a" colour="TC4"
+        <mod name="Thaumic NEI Plugin" version="1.6a"
              url="packs/ResonantRise/files/3.x/thaumcraftneiplugin-1.7.10-1.6a.jar" file="thaumcraftneiplugin-1.7.10-1.6a.jar" md5="fa639e44998a659521e66de4fbf68a35" download="server"
-             type="mods" optional="yes" recommended="no" depends="Thaumcraft 4" server="no"
+             type="mods" optional="yes" recommended="no" depends="Thaumcraft 4" server="no" colour="TC4"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271"
              authors="DjGlannuzz" 
              description="Thaumcraft integration for NEI, research only appears after you have unlocked it though." 
              />
 
-        <mod name="Thaumic Tinkerer" version="2.5-1.7.10-432" colour="TC4"
-             url="packs/ResonantRise/files/3.x/ThaumicTinkerer-2.5-1.7.10-432.jar" file="ThaumicTinkerer-2.5-1.7.10-432.jar" md5="12fd1a8abfddf27d90d9b7ede5c111cb" download="server"
-             type="mods" optional="yes" recommended="no" depends="Thaumcraft 4"
+        <mod name="Thaumic Tinkerer" version="2.5-1.7.10-421" 
+             url="packs/ResonantRise/files/3.x/ThaumicTinkerer-2.5-1.7.10-421.jar" file="ThaumicTinkerer-2.5-1.7.10-421.jar" md5="49f61d77c32309f23f0e552207ffab6d" download="server"
+             type="mods" optional="yes" recommended="no" colour="TC4"
              website="http://www.minecraftforum.net/topic/1813058-" 
              authors="Vazkii" 
-             description="An addon to Thaumcraft 4, implementing new content. This mod is a spiritual successor to Elemental Tinkerer. Researches that come from this mod are prefixed by [TT]." 
-             />  
-                                     
+             description="An addon to Thaumcraft 4, implementing new content. This mod is a spiritual successor to Elemental Tinkerer. Researches that come from this mod are prefixed by [TT]." />  
+                               
         <mod name="Thermal Expansion" version="[1.7.10]4.0.0B6-16" 
              url="packs/ResonantRise/files/3.x/ThermalExpansion-[1.7.10]4.0.0B6-16.jar" file="ThermalExpansion-[1.7.10]4.0.0B6-16.jar" md5="b393d09b78e1fc313f371cd4a5054f77" download="server"
              type="mods" depends="Thermal Foundation" optional="yes" recommended="no"
