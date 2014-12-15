@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["3.1.0.1-EXP", "Timezone: Primordial Era", "RR 3-DEV-050"]
+            "value": ["3.1.0.1-EXP", "Timezone: Primordial Era", "RR 3-DEV-052"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
