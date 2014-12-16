@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["3.1.0.1-EXP", "Timezone: Medieval Era", "RR 3-DEV-052"]
+            "value": ["3.1.1.1-EXP", "Medieval", "RR 3-DEV-053"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
