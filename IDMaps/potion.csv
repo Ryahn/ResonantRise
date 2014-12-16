@@ -23,33 +23,33 @@ ID,Unlocalised name,Class
 21,potion.healthBoost,net.minecraft.potion.PotionHealthBoost
 22,potion.absorption,net.minecraft.potion.PotionAbsoption
 23,potion.saturation,net.minecraft.potion.PotionHealth
-24,potion.fluxtaint,thaumcraft.api.potions.PotionFluxTaint
-25,potion.visexhaust,thaumcraft.api.potions.PotionVisExhaust
-26,potion.infvisexhaust,thaumcraft.common.lib.potions.PotionInfectiousVisExhaust
-27,potion.unhunger,thaumcraft.common.lib.potions.PotionUnnaturalHunger
-28,potion.warpward,thaumcraft.common.lib.potions.PotionWarpWard
-29,potion.deathgaze,thaumcraft.common.lib.potions.PotionDeathGaze
+24,ic2.potion.radiation,ic2.core.IC2Potion
+25,aec.potion.regneration,com.iconmaster.aec.item.PotionRegneration
+26,potion.fluxtaint,thaumcraft.api.potions.PotionFluxTaint
+27,potion.visexhaust,thaumcraft.api.potions.PotionVisExhaust
+28,potion.infvisexhaust,thaumcraft.common.lib.potions.PotionInfectiousVisExhaust
+29,potion.unhunger,thaumcraft.common.lib.potions.PotionUnnaturalHunger
 30,potionHardness,com.ollieread.technomagi.potion.PotionTM
-31,potion.blurred,thaumcraft.common.lib.potions.PotionBlurredVision
-32,potion.sunscorned,thaumcraft.common.lib.potions.PotionSunScorned
-33,potion.thaumarhia,thaumcraft.common.lib.potions.PotionThaumarhia
-34,null,null,null,null
-35,null,null,null,null
+31,potion.warpward,thaumcraft.common.lib.potions.PotionWarpWard
+32,potion.deathgaze,thaumcraft.common.lib.potions.PotionDeathGaze
+33,potion.blurred,thaumcraft.common.lib.potions.PotionBlurredVision
+34,potion.sunscorned,thaumcraft.common.lib.potions.PotionSunScorned
+35,potion.thaumarhia,thaumcraft.common.lib.potions.PotionThaumarhia
 36,null,null,null,null
 37,null,null,null,null
 38,null,null,null,null
 39,null,null,null,null
-40,null,null,null,null
-41,null,null,null,null
-42,null,null,null,null
-43,null,null,null,null
-44,null,null,null,null
-45,null,null,null,null
-46,null,null,null,null
-47,null,null,null,null
-48,null,null,null,null
-49,null,null,null,null
-50,null,null,null,null
+40,potion.brewcraft.angel,redgear.brewcraft.effects.EffectAngel
+41,potion.brewcraft.flight,redgear.brewcraft.effects.EffectFlight
+42,potion.brewcraft.creeper,redgear.brewcraft.effects.EffectCreeper
+43,potion.brewcraft.immunity,redgear.brewcraft.effects.EffectImmunity
+44,potion.brewcraft.frozen,redgear.brewcraft.effects.EffectFrozen
+45,potion.brewcraft.fireproof,redgear.brewcraft.effects.EffectFireproof
+46,potion.brewcraft.flame,redgear.brewcraft.effects.EffectEternalFlame
+47,potion.brewcraft.fireEater,redgear.brewcraft.effects.EffectFireEater
+48,potion.poison,redgear.brewcraft.effects.EffectVanillaThree
+49,potion.wither,redgear.brewcraft.effects.EffectVanillaThree
+50,potion.regeneration,redgear.brewcraft.effects.EffectVanillaThree
 51,null,null,null,null
 52,null,null,null,null
 53,null,null,null,null
@@ -254,13 +254,77 @@ ID,Unlocalised name,Class
 252,null,null,null,null
 253,null,null,null,null
 254,null,null,null,null
-255,potion.paralysis,biomesoplenty.common.potions.PotionParalysis
-256,potion.possession,biomesoplenty.common.potions.PotionPossession
-257,null,null,null,null
-258,null,null,null,null
-259,null,null,null,null
-260,null,null,null,null
-261,null,null,null,null
-262,null,null,null,null
-263,null,null,null,null
-264,Delirium,minechem.potion.PotionProvider
+255,null,null,null,null
+256,Water Breathing,am2.buffs.ArsMagicaPotion
+257,Flight,am2.buffs.ArsMagicaPotion
+258,Feather Fall,am2.buffs.ArsMagicaPotion
+259,Haste,am2.buffs.ArsMagicaPotion
+260,True Sight,am2.buffs.ArsMagicaPotion
+261,Regeneration,am2.buffs.ArsMagicaPotion
+262,Magic Shield,am2.buffs.ArsMagicaPotion
+263,Charmed,am2.buffs.ArsMagicaPotion
+264,Frost Slow,am2.buffs.ArsMagicaPotion
+265,Chrono Anchor,am2.buffs.ArsMagicaPotion
+266,Mana Regen,am2.buffs.ArsMagicaPotion
+267,Entangled,am2.buffs.ArsMagicaPotion
+268,Watery Grave,am2.buffs.ArsMagicaPotion
+269,Spell Reflect,am2.buffs.ArsMagicaPotion
+270,Silence,am2.buffs.ArsMagicaPotion
+271,Swift Swim,am2.buffs.ArsMagicaPotion
+272,Agility,am2.buffs.ArsMagicaPotion
+273,Leap,am2.buffs.ArsMagicaPotion
+274,Mana Boost,am2.buffs.ArsMagicaPotion
+275,Astral Distortion,am2.buffs.ArsMagicaPotion
+276,Mana Shield,am2.buffs.ArsMagicaPotion
+277,Fury,am2.buffs.ArsMagicaPotion
+278,Scramble Synapses,am2.buffs.ArsMagicaPotion
+279,Illuminated,am2.buffs.ArsMagicaPotion
+280,Greater Mana Restoration,am2.buffs.ManaPotion
+281,Epic Mana Restoration,am2.buffs.ManaPotion
+282,Legendary Mana Restoration,am2.buffs.ManaPotion
+283,Gravity Well,am2.buffs.ArsMagicaPotion
+284,Levitation,am2.buffs.ArsMagicaPotion
+285,Clarity,am2.buffs.ArsMagicaPotion
+286,Shrunken,am2.buffs.ArsMagicaPotion
+287,null,null,null,null
+288,null,null,null,null
+289,null,null,null,null
+290,null,null,null,null
+291,null,null,null,null
+292,null,null,null,null
+293,null,null,null,null
+294,null,null,null,null
+295,null,null,null,null
+296,null,null,null,null
+297,null,null,null,null
+298,null,null,null,null
+299,null,null,null,null
+300,null,null,null,null
+301,null,null,null,null
+302,null,null,null,null
+303,null,null,null,null
+304,null,null,null,null
+305,null,null,null,null
+306,null,null,null,null
+307,null,null,null,null
+308,null,null,null,null
+309,null,null,null,null
+310,null,null,null,null
+311,null,null,null,null
+312,null,null,null,null
+313,null,null,null,null
+314,null,null,null,null
+315,null,null,null,null
+316,null,null,null,null
+317,null,null,null,null
+318,null,null,null,null
+319,potion.paralysis,biomesoplenty.common.potions.PotionParalysis
+320,potion.possession,biomesoplenty.common.potions.PotionPossession
+321,null,null,null,null
+322,null,null,null,null
+323,null,null,null,null
+324,null,null,null,null
+325,null,null,null,null
+326,null,null,null,null
+327,null,null,null,null
+328,Delirium,minechem.potion.PotionProvider
