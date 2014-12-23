@@ -52,7 +52,7 @@
 
     <colours>
 
-        <!-- Red -->
+         <!-- Red -->
         <colour name="rred" code="#ED2121"  
             /> 
         <!-- Dark Cyan -->
@@ -62,7 +62,7 @@
         <colour name="risk" code="#FF9900" 
             />
         <!-- Pastel Lavender -->
-        <colour name="appeng" code="#CC33FF" 
+        <colour name="appeng" code="#9043DE" 
             />
         <!-- Light Brown -->
         <colour name="Biblio" code="#915E2B" 
@@ -83,13 +83,13 @@
         <colour name="For" code="#00AD00" 
             />
         <!-- Blue -->
-        <colour name="GC" code="#00036B" 
+        <colour name="GC" code="#B8BD5C" 
             />
         <!-- Tan(-ish) -->
         <colour name="Hyd" code="#757542" 
             />
         <!-- Odd Fuisha -->
-        <colour name="Im" code="#991AB2" 
+        <colour name="Im" code="#A074A8" 
             />
         <!-- Cyan -->
         <colour name="Mek" code="#00AB94" 
@@ -104,10 +104,13 @@
         <colour name="QB" code="#FF2400" 
             />
         <!-- Purple -->
-        <colour name="TC4" code="#990080" 
+        <colour name="TC4" code="#B352AC" 
             />
         <!-- Rust -->
         <colour name="TiCo" code="#806633" 
+            />
+        <!-- IC2 -->
+        <colour name="IC2" code="#C4A589" 
             />
 
 
@@ -1791,55 +1794,55 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Required Hydraulicraft libraries" 
              />
 
-        <mod name="IndustrialCraft 2" version="2.2.658" colour="risk"
+        <mod name="IndustrialCraft 2" version="2.2.658" 
              url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.658-experimental.jar" file="industrialcraft-2-2.2.658-experimental.jar" md5="8f782698322a31c396745d6acb7c052f" download="server"
-             type="mods" optional="yes" recommended="no"
+             type="mods" optional="yes" recommended="no" colour="IC2"
              website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" 
              authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44" 
              description="Industrial age themed expansion for Minecraft." 
              />
 
-        <mod name="Advanced Machines" version="59.0.2" colour="risk"
+        <mod name="Advanced Machines" version="59.0.2"
              url="packs/ResonantRise/files/3.x/advanced-machines-59.0.2.jar" file="advanced-machines-59.0.2.jar" md5="55c26ee413982bc4fa03d6ea821df48b" download="server"
-             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no"
+             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no" colour="IC2"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9335&amp;pageNo=1" 
              authors="immibis" 
              description="Modular IC2 Machines." 
              />
 
-        <mod name="Advanced Repulsion Systems" version="59.0.2" colour="risk"
+        <mod name="Advanced Repulsion Systems" version="59.0.2"
              url="packs/ResonantRise/files/3.x/adv-repulsion-systems-59.0.2.jar" file="adv-repulsion-systems-59.0.2.jar" md5="15d5dc800f05b17bede523468e2b9edf" download="server"
-             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no"
+             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no" colour="IC2"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;postID=65261" 
              authors="Thunderdark,immibis,kaj_,IvySaur1996" 
              description="Adds FORCEFIELDS!" 
              />
 
-        <mod name="Advanced Solar Panel" version="3.5.1" colour="risk"
+        <mod name="Advanced Solar Panel" version="3.5.1"
              url="packs/ResonantRise/files/3.x/AdvancedSolarPanel-1.7.10-3.5.1.jar" file="AdvancedSolarPanel-1.7.10-3.5.1.jar" md5="e37cb1f923c5abb6e2c9b3e96a0efcac" download="server" 
-             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no" 
+             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no" colour="IC2"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=3291" 
              authors="SeNtiMeL"
              description="This mod really lets you harness the power of the sun, but you better be prepared to pay for it." 
              />
 
-        <mod name="IC2 Nuclear Control 2" version="2.0.8c" colour="risk"
+        <mod name="IC2 Nuclear Control 2" version="2.0.8c" 
              url="packs/ResonantRise/files/3.x/IC2NuclearControl-2.0.8c.jar" file="IC2NuclearControl-2.0.8c.jar" md5="6306c672d7c8b1450657a97b999668bc" download="server"
-             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no"
+             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no" colour="IC2"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10649" donation="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10649"
              description="Expanding upon Industial Craft's nuclear reactor control systems" 
              />
 
-        <!--<mod name="ENet Bridge" version="1.4" colour="risk"
+        <!--<mod name="ENet Bridge" version="1.4"
              url="packs/ResonantRise/files/3.x/enetbridge-1.4.jar" file="enetbridge-1.4.jar" md5="aef5e3114a017503c2c59fbb69905e99" download="server" 
-             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no" 
+             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no" colour="IC2" 
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10864" donation="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10864"
              description="Allows IC2 API to recognize RF, MJ, and FZ" 
              />-->
 
-        <mod name="GraviSuite" version="2.0.3" colour="risk"
+        <mod name="GraviSuite" version="2.0.3" 
              url="packs/ResonantRise/files/3.x/GraviSuite-1.7.10-2.0.3.jar" file="GraviSuite-1.7.10-2.0.3.jar" md5="06b8f12110da8dcac38597458c8dfe24" download="server"
-             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no" 
+             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no" colour="IC2" 
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" 
              authors="SeNtiMeL"
              description="Gravitation Suite adds many highly advanced tools and items to IC2, it also brings out an armored flight suit!" 
