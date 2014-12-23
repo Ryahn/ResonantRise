@@ -186,7 +186,7 @@
              /> 
                 
         <mod name="Primordial Era" version="RR3"
-             url="packs/ResonantRise/files/timezones/01_primordial/01_primordial_3-DEV-055.zip" file="01_primordial_3-DEV-055.zip" md5="0c388aa5989421c681954caeec8fa4f5" download="server"
+             url="packs/ResonantRise/files/timezones/01_primordial/01_primordial_3-DEV-055.zip" file="01_primordial_3-DEV-055.zip" md5="d92a594207502e5c4b13d01012214332" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="DivineAspect"
