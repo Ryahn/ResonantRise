@@ -2195,8 +2195,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Pastey."
              />
 
-        <mod name="Refined Relocation" version="1.0.7a" 
-             url="packs/ResonantRise/files/3.x/RefinedRelocation-1.7.10-1.0.7a.jar" file="RefinedRelocation-1.7.10-1.0.7a.jar" md5="f9951e7ddeedbf73cb423c6f8f6b67c4" download="server"
+        <mod name="Refined Relocation" version="1.0.6h" 
+             url="packs/ResonantRise/files/3.x/RefinedRelocation-1.7.10-1.0.6h.jar" file="RefinedRelocation-1.7.10-1.0.6h.jar" md5="11fb3a71b0be879cedd57363e04001f8" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/2210752-"
              authors="Dynious"
