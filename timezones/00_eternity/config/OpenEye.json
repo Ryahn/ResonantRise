@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["3.1.2.0-EXP", "Sandbox", "RR 3-DEV-055"]
+            "value": ["3.2.0.0-EXP", "Sandbox", "RR 3-DEV-056"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
