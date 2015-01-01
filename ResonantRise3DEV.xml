@@ -846,8 +846,8 @@
              description="This mod automatically checks against NotEnoughMods listing of mod versions and updates the Mods screen with the appropriate style." 
              />
 
-        <mod name="Not Enough Items" version="1.0.4.83"
-             url="packs/ResonantRise/files/3.x/NotEnoughItems-1.7.10-1.0.4.83-universal.jar" file="NotEnoughItems-1.7.10-1.0.4.83-universal.jar" md5="8988420f4c4781580df6d05130920f10" download="server"
+        <mod name="Not Enough Items" version="1.0.3.74"
+             url="packs/ResonantRise/files/3.x/NotEnoughItems-1.7.10-1.0.3.74-universal.jar" file="NotEnoughItems-1.7.10-1.0.3.74-universal.jar" md5="7c2c35414e28e0dc01eea315368bc1ec" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
              authors="ChickenBones"
