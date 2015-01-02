@@ -1588,8 +1588,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Replaces the enchanting system with an optional custom one!" 
              />
 
-        <mod name="Ender IO" version="2.2.6.316" 
-             url="packs/ResonantRise/files/3.x/EnderIO-1.7.10-2.2.6.316.jar" file="EnderIO-1.7.10-2.2.6.316.jar" md5="0de6e95b6b703b042ebc2f7aa0972eea" download="server"
+        <mod name="Ender IO" version="2.2.6.317" 
+             url="packs/ResonantRise/files/3.x/EnderIO-1.7.10-2.2.6.317.jar" file="EnderIO-1.7.10-2.2.6.317.jar" md5="cd9cdec2fa70fbfb322ece46db70225c" download="server"
              type="mods" optional="yes" recommended="no" colour="EIO"
              website="http://www.minecraftforum.net/topic/1937619-" 
              authors="crazypants" 
