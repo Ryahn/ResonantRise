@@ -258,7 +258,7 @@
              />             
 
         <mod name="Mechanized Era" version="RR3"
-             url="packs/ResonantRise/files/timezones/05_mechanized/05_mechanized_3-DEV-057.zip" file="05_mechanized_3-DEV-057.zip" md5="87c07739d9d1f75f3a3af0ce647b1e4c" download="server"
+             url="packs/ResonantRise/files/timezones/05_mechanized/05_mechanized_3-DEV-058.zip" file="05_mechanized_3-DEV-058.zip" md5="a671145e467e453862fc992793e1fb37" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
@@ -276,7 +276,7 @@
              />             
         
         <mod name="Information Era" version="RR3"
-             url="packs/ResonantRise/files/timezones/06_information/06_information_3-DEV-057.zip" file="06_information_3-DEV-057.zip" md5="bf2ddf1d7c2674cde8650afe4cc7443f" download="server"
+             url="packs/ResonantRise/files/timezones/06_information/06_information_3-DEV-058.zip" file="06_information_3-DEV-058.zip" md5="22ce3c3e42ccf3a038cc16f20d5c3a04" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
