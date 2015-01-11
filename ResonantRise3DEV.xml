@@ -141,7 +141,7 @@
              />
                     
         <mod name="Eternal" version="RR3" 
-             url="packs/ResonantRise/files/timezones/00_eternity/00_eternity_3-DEV-057.zip" file="00_eternity_3-DEV-057.zip" md5="e31b2c54f2f6d480a783f73a938007c2" download="server"
+             url="packs/ResonantRise/files/timezones/00_eternity/00_eternity_3-DEV-058.zip" file="00_eternity_3-DEV-058.zip" md5="88bce15ddc9ac3d8b806be8de12ebf78" download="server"
              type="extract" extractto="root" optional="no" recommended="yes"
              website="http://resonant-rise.com"
              authors="Velotican, GodNero"
@@ -186,7 +186,7 @@
              /> 
                 
         <mod name="Primordial Era" version="RR3"
-             url="packs/ResonantRise/files/timezones/01_primordial/01_primordial_3-DEV-057.zip" file="01_primordial_3-DEV-057.zip" md5="df7fb1d8a136e0957ca631834a2e1746" download="server"
+             url="packs/ResonantRise/files/timezones/01_primordial/01_primordial_3-DEV-058.zip" file="01_primordial_3-DEV-058.zip" md5="799a9e57a8087f4446145992188e6ffd" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="DivineAspect"
@@ -204,7 +204,7 @@
              />             
 
         <mod name="Antiquity Era" version="RR3" 
-             url="packs/ResonantRise/files/timezones/02_antiquity/02_antiquity_3-DEV-057.zip" file="02_antiquity_3-DEV-057.zip" md5="e85d478615f508ca52a3778c848f6085" download="server"
+             url="packs/ResonantRise/files/timezones/02_antiquity/02_antiquity_3-DEV-058.zip" file="02_antiquity_3-DEV-058.zip" md5="326c272addda7832f4e682522c5cd434" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
@@ -222,7 +222,7 @@
              />             
 
         <mod name="Medieval Era" version="RR3"
-             url="packs/ResonantRise/files/timezones/03_medieval/03_medieval_3-DEV-057.zip" file="03_medieval_3-DEV-057.zip" md5="2dd3ccd81b2515cd679a236c4eb27d96" download="server"
+             url="packs/ResonantRise/files/timezones/03_medieval/03_medieval_3-DEV-058.zip" file="03_medieval_3-DEV-058.zip" md5="91cce4445d2424405b08bc0168f61c35" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"

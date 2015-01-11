@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["3.2.0.0-EXP", "Wasteland", "RR 3-DEV-056"]
+            "value": ["3.2.2.0-EXP", "Wasteland", "RR 3-DEV-058"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
