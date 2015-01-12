@@ -9,7 +9,8 @@
             "growthTime":2400,
             "tier":1,
             "ingredientAmount":32,
-            "powerPerStage":4000
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Tin",
             "drop":"nuggetTin",
@@ -19,7 +20,8 @@
             "growthTime":2400,
             "tier":1,
             "ingredientAmount":32,
-            "powerPerStage":4000
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Silver",
             "drop":"nuggetSilver",
@@ -29,7 +31,8 @@
             "growthTime":2400,
             "tier":1,
             "ingredientAmount":32,
-            "powerPerStage":4000
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Lead",
             "drop":"nuggetLead",
@@ -39,7 +42,8 @@
             "growthTime":2400,
             "tier":1,
             "ingredientAmount":32,
-            "powerPerStage":4000
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Ferrous",
             "drop":"nuggetNickel",
@@ -49,7 +53,8 @@
             "growthTime":2400,
             "tier":1,
             "ingredientAmount":32,
-            "powerPerStage":4000
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Shiny",
             "drop":"nuggetPlatinum",
@@ -58,8 +63,9 @@
             "dropAmount":1,
             "growthTime":2400,
             "tier":1,
-            "ingredientAmount":32,
-            "powerPerStage":4000
+            "ingredientAmount":24,
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Mana Infused",
             "drop":"nuggetMithril",
@@ -68,8 +74,9 @@
             "dropAmount":1,
             "growthTime":2400,
             "tier":1,
-            "ingredientAmount":32,
-            "powerPerStage":4000
+            "ingredientAmount":24,
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Electrum",
             "drop":"nuggetElectrum",
@@ -79,7 +86,8 @@
             "growthTime":2400,
             "tier":1,
             "ingredientAmount":32,
-            "powerPerStage":4000
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Invar",
             "drop":"nuggetInvar",
@@ -89,7 +97,8 @@
             "growthTime":2400,
             "tier":1,
             "ingredientAmount":32,
-            "powerPerStage":4000
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Bronze",
             "drop":"nuggetBronze",
@@ -99,7 +108,8 @@
             "growthTime":2400,
             "tier":1,
             "ingredientAmount":32,
-            "powerPerStage":4000
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Signalum",
             "drop":"nuggetSignalum",
@@ -109,7 +119,8 @@
             "growthTime":2400,
             "tier":1,
             "ingredientAmount":32,
-            "powerPerStage":4000
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Lumium",
             "drop":"nuggetLumium",
@@ -119,7 +130,8 @@
             "growthTime":2400,
             "tier":1,
             "ingredientAmount":32,
-            "powerPerStage":4000
+            "powerPerStage":4000,
+            "refinerAmount":4
         },{
             "name":"Enderium",
             "drop":"nuggetEnderium",
@@ -128,8 +140,9 @@
             "dropAmount":1,
             "growthTime":2400,
             "tier":1,
-            "ingredientAmount":32,
-            "powerPerStage":4000
+            "ingredientAmount":16,
+            "powerPerStage":4000,
+            "refinerAmount":4
         }
 
 

@@ -1,4 +1,7 @@
 Class Name,Type
+fluxedCrystals.nei.GemCutterHandler,crafting
+fluxedCrystals.nei.GemRefinerHandler,crafting
+fluxedCrystals.nei.InfuserRecipeHandler,crafting
 appeng.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler,crafting
 appeng.integration.modules.NEIHelpers.NEIAEShapelessRecipeHandler,crafting
 appeng.integration.modules.NEIHelpers.NEIInscriberRecipeHandler,crafting
@@ -147,6 +150,8 @@ net.bdew.neiaddons.forestry.bees.BeeProduceHandler,crafting
 net.bdew.neiaddons.forestry.trees.TreeBreedingHandler,crafting
 net.bdew.neiaddons.forestry.trees.TreeProduceHandler,crafting
 net.bdew.neiaddons.forestry.butterflies.ButterflyBreedingHandler,crafting
+net.bdew.neiaddons.exnihilo.HammerRecipeHandler,crafting
+net.bdew.neiaddons.exnihilo.SieveRecipeHandler,crafting
 tonius.neiintegration.forge.RecipeHandlerFluidRegistry,crafting
 tonius.neiintegration.buildcraft.RecipeHandlerRefinery,crafting
 tonius.neiintegration.buildcraft.RecipeHandlerAssemblyTable,crafting
@@ -193,6 +198,9 @@ com.emoniph.witchery.integration.NEIDistilleryRecipeHandler,crafting
 com.emoniph.witchery.integration.NEIKettleRecipeHandler,crafting
 com.emoniph.witchery.integration.NEICauldronRecipeHandler,crafting
 com.emoniph.witchery.integration.NEISpinningWheelRecipeHandler,crafting
+fluxedCrystals.nei.GemCutterHandler,usage
+fluxedCrystals.nei.GemRefinerHandler,usage
+fluxedCrystals.nei.InfuserRecipeHandler,usage
 appeng.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler,usage
 appeng.integration.modules.NEIHelpers.NEIAEShapelessRecipeHandler,usage
 appeng.integration.modules.NEIHelpers.NEIInscriberRecipeHandler,usage
@@ -346,6 +354,8 @@ net.bdew.neiaddons.forestry.bees.BeeProduceHandler,usage
 net.bdew.neiaddons.forestry.trees.TreeBreedingHandler,usage
 net.bdew.neiaddons.forestry.trees.TreeProduceHandler,usage
 net.bdew.neiaddons.forestry.butterflies.ButterflyBreedingHandler,usage
+net.bdew.neiaddons.exnihilo.HammerRecipeHandler,usage
+net.bdew.neiaddons.exnihilo.SieveRecipeHandler,usage
 tonius.neiintegration.forge.RecipeHandlerFluidRegistry,usage
 tonius.neiintegration.buildcraft.RecipeHandlerRefinery,usage
 tonius.neiintegration.buildcraft.RecipeHandlerAssemblyTable,usage

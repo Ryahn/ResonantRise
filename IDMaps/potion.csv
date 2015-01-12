@@ -75,19 +75,19 @@ ID,Unlocalised name,Class
 73,witchery:potion.fortune,com.emoniph.witchery.brewing.potions.PotionFortune
 74,witchery:potion.worship,com.emoniph.witchery.brewing.potions.PotionWorship
 75,witchery:potion.keepeffects,com.emoniph.witchery.brewing.potions.PotionKeepEffectsOnDeath
-76,potion.deathgaze,thaumcraft.common.lib.potions.PotionDeathGaze
-77,potion.blurred,thaumcraft.common.lib.potions.PotionBlurredVision
-78,potion.sunscorned,thaumcraft.common.lib.potions.PotionSunScorned
-79,potion.thaumarhia,thaumcraft.common.lib.potions.PotionThaumarhia
-80,imbue.poison,lumien.randomthings.Potions.PotionImbue
-81,imbue.weakness,lumien.randomthings.Potions.PotionImbue
+76,witchery:potion.wolfsbane,com.emoniph.witchery.brewing.potions.PotionBase
+77,potion.deathgaze,thaumcraft.common.lib.potions.PotionDeathGaze
+78,potion.blurred,thaumcraft.common.lib.potions.PotionBlurredVision
+79,potion.sunscorned,thaumcraft.common.lib.potions.PotionSunScorned
+80,potion.thaumarhia,thaumcraft.common.lib.potions.PotionThaumarhia
+81,imbue.poison,lumien.randomthings.Potions.PotionImbue
 82,imbue.wither,lumien.randomthings.Potions.PotionImbue
 83,imbue.experience,lumien.randomthings.Potions.PotionImbue
 84,imbue.fire,lumien.randomthings.Potions.PotionImbue
-85,imbue.spectre,lumien.randomthings.Potions.PotionImbue
+85,imbue.weakness,lumien.randomthings.Potions.PotionImbue
 86,Fire Imbued,thaumic.tinkerer.common.potion.DummyPotions
 87,Wated Imbued,thaumic.tinkerer.common.potion.DummyPotions
-88,null,null,null,null
+88,imbue.spectre,lumien.randomthings.Potions.PotionImbue
 89,Earth Imbued,thaumic.tinkerer.common.potion.DummyPotions
 90,Air Imbued,thaumic.tinkerer.common.potion.DummyPotions
 91,null,null,null,null

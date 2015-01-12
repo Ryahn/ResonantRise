@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["3.2.1.0-EXP", "discovery", "RR 3-DEV-057"]
+            "value": ["3.2.2.1-EXP", "Discovery", "RR 3-DEV-059"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
