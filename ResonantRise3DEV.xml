@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-059</version>
+        <version>3-DEV-060</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -963,7 +963,7 @@
              description="Core Files for various mods" 
              />
 
-        <mod name="Sprinkles for Vanilla" version="1.0.5" 
+        <mod name="Sprinkles_for_Vanilla" version="1.0.5" 
              url="packs/ResonantRise/files/3.x/sprinklesforvanilla-1.7.10-1.0.5.jar" file="sprinklesforvanilla-1.7.10-1.0.5.jar" md5="8886c878e98779c82708ec4e22a61fd0" download="server" 
              type="mods" 
              website="http://minecraft.curseforge.com/mc-mods/226309-" 

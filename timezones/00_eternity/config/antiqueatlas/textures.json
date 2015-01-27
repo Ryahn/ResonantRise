@@ -14,13 +14,11 @@
   "13": "MOUNTAINS",
   "14": "MUSHROOM",
   "15": "BEACH",
-  "17": "HILLS",
   "16": "BEACH",
-  "19": "PINES_HILLS",
+  "17": "HILLS",
   "18": "FOREST_HILLS",
-  "21": "JUNGLE",
+  "19": "PINES_HILLS",
   "20": "MOUNTAINS",
-  "22": "JUNGLE_HILLS",
-  "-3": "HOUSE",
-  "-2": "FENCE"
+  "21": "JUNGLE",
+  "22": "JUNGLE_HILLS"
 }

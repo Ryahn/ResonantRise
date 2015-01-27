@@ -1,5 +1,5 @@
 ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Class
-0,Ocean,0.5,0.5,0.1,-1.4,0.35,OCEAN,net.minecraft.world.biome.BiomeGenOcean
+0,Ocean,0.5,0.5,0.1,-1.0,0.1,OCEAN,net.minecraft.world.biome.BiomeGenOcean
 1,Plains,0.8,0.4,0.1,0.125,0.05,PLAINS,biomesoplenty.common.biome.overridden.BiomeGenBOPPlains
 2,Desert,2.0,0.0,0.1,0.125,0.05,"HOT, DRY, SANDY",biomesoplenty.common.biome.overridden.BiomeGenBOPDesert
 3,Extreme Hills,0.2,0.3,0.1,1.0,0.5,"MOUNTAIN, HILLS",biomesoplenty.common.biome.overridden.BiomeGenBOPExtremeHills
@@ -23,7 +23,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 21,Jungle,0.95,0.9,0.1,0.1,0.2,"HOT, DENSE, WET, JUNGLE",biomesoplenty.common.biome.overridden.BiomeGenBOPJungle
 22,JungleHills,0.95,0.9,0.1,0.45,0.3,"HOT, DENSE, WET, JUNGLE, HILLS",biomesoplenty.common.biome.overridden.BiomeGenBOPJungle
 23,JungleEdge,0.95,0.8,0.1,0.1,0.2,"HOT, WET, JUNGLE, FOREST",biomesoplenty.common.biome.overridden.BiomeGenBOPJungle
-24,Deep Ocean,0.5,0.5,0.1,-1.995,0.05,OCEAN,net.minecraft.world.biome.BiomeGenOcean
+24,Deep Ocean,0.5,0.5,0.1,-1.8,0.1,OCEAN,net.minecraft.world.biome.BiomeGenOcean
 25,Stone Beach,0.2,0.3,0.1,0.1,0.8,BEACH,net.minecraft.world.biome.BiomeGenStoneBeach
 26,Cold Beach,0.05,0.3,0.1,0.0,0.025,"COLD, SNOWY, BEACH",net.minecraft.world.biome.BiomeGenBeach
 27,Birch Forest,0.6,0.6,0.1,0.1,0.2,FOREST,biomesoplenty.common.biome.overridden.BiomeGenBOPBirchForest
@@ -99,7 +99,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 97,Volcano,2.0,0.05,0.1,2.5,0.5,"HOT, DRY, MOUNTAIN, WASTELAND",biomesoplenty.common.biome.overworld.sub.BiomeGenVolcano
 98,Mangrove,0.8,0.9,0.1,0.0,0.2,"WET, LUSH, OCEAN, RIVER, FOREST",biomesoplenty.common.biome.overworld.sub.BiomeGenMangrove
 99,Alps Forest,0.0,0.5,0.1,0.6,0.8,"COLD, FOREST, MOUNTAIN, SNOWY",biomesoplenty.common.biome.overworld.sub.BiomeGenAlpsForest
-100,Undergound Jungle,1.35,0.9,0.2,0.1,0.2,"HOT, DRY, MAGICAL, FOREST, HILLS, SANDY",erebus.world.biomes.BiomeUndergroundJungle
+100,Undergound Jungle,1.35,0.9,0.2,0.1,0.2,"HOT, DRY, HILLS, SANDY",erebus.world.biomes.BiomeUndergroundJungle
 101,Volcanic Desert,1.9,0.2,0.1,0.1,0.2,"COLD, DEAD, HILLS, SNOWY",erebus.world.biomes.BiomeVolcanicDesert
 102,Subterranean Savannah,0.95,0.05,0.1,0.1,0.2,"LUSH, FOREST, PLAINS",erebus.world.biomes.BiomeSubterraneanSavannah
 103,Elysian Fields,0.85,0.5,0.1,0.1,0.2,"HOT, DRY, JUNGLE, LUSH, SANDY",erebus.world.biomes.BiomeElysianFields
@@ -146,19 +146,12 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 144,Fire Swamp,1.0,0.4,0.12,0.1,0.2,"HOT, FOREST, SWAMP, WASTELAND",twilightforest.biomes.TFBiomeFireSwamp
 145,Thornlands,0.3,0.2,0.12,6.0,0.1,"DRY, DEAD, PLAINS, HILLS, WASTELAND",twilightforest.biomes.TFBiomeThornlands
 146,Storage Cell,-100.0,0.5,0.1,0.1,0.2,"COLD, PLAINS",appeng.spatial.BiomeGenStorage
-147,null,null,null,null
-148,null,null,null,null
 149,Jungle M,0.95,0.9,0.1,0.2,0.4,"HOT, WET, HILLS",net.minecraft.world.biome.BiomeGenMutated
-150,null,null,null,null
 151,JungleEdge M,0.95,0.8,0.1,0.2,0.4,"HOT, HILLS",net.minecraft.world.biome.BiomeGenMutated
-152,null,null,null,null
-153,null,null,null,null
-154,null,null,null,null
 155,Birch Forest M,0.6,0.6,0.1,0.2,0.4,HILLS,null
 156,Birch Forest Hills M,0.6,0.6,0.1,0.55,0.5,HILLS,null
 157,Roofed Forest M,0.7,0.8,0.1,0.2,0.4,HILLS,null
 158,Cold Taiga M,-0.5,0.4,0.1,0.3,0.4,"COLD, HILLS, SNOWY",net.minecraft.world.biome.BiomeGenMutated
-159,null,null,null,null
 160,Mega Spruce Taiga,0.25,0.8,0.1,0.2,0.2,"DENSE, FOREST",net.minecraft.world.biome.BiomeGenTaiga
 161,Mega Spruce Taiga,0.25,0.8,0.1,0.2,0.2,"DENSE, FOREST",net.minecraft.world.biome.BiomeGenTaiga
 162,Extreme Hills+ M,0.2,0.3,0.1,1.0,0.5,HILLS,net.minecraft.world.biome.BiomeGenHills
@@ -167,91 +160,16 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 165,Mesa (Bryce),2.0,0.0,0.1,0.1,0.2,"HOT, DRY, PLAINS, SANDY",net.minecraft.world.biome.BiomeGenMesa
 166,Mesa Plateau F M,2.0,0.0,0.1,0.45,0.3,"HOT, DRY, FOREST, SANDY",net.minecraft.world.biome.BiomeGenMesa
 167,Mesa Plateau M,2.0,0.0,0.1,0.45,0.3,"HOT, DRY, PLAINS, SANDY",net.minecraft.world.biome.BiomeGenMesa
-168,null,null,null,null
-169,null,null,null,null
 170,BambooForest,0.7,0.8,0.1,0.1,0.2,FOREST,growthcraft.bamboo.BiomeGenBamboo
-171,null,null,null,null
-172,null,null,null,null
-173,null,null,null,null
-174,null,null,null,null
-175,null,null,null,null
-176,null,null,null,null
-177,null,null,null,null
-178,null,null,null,null
-179,null,null,null,null
-180,null,null,null,null
-181,null,null,null,null
-182,null,null,null,null
-183,null,null,null,null
-184,null,null,null,null
-185,null,null,null,null
-186,null,null,null,null
-187,null,null,null,null
-188,null,null,null,null
-189,null,null,null,null
-190,null,null,null,null
-191,null,null,null,null
 192,Tainted Land,0.5,0.5,0.1,0.1,0.2,"MAGICAL, WASTELAND",thaumcraft.common.lib.world.biomes.BiomeGenTaint
 193,Magical Forest,0.7,0.6,0.1,0.2,0.2,"MAGICAL, FOREST",thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest
 194,Eerie,0.5,0.5,0.1,0.1,0.2,"SPOOKY, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenEerie
 195,Eldritch,0.5,0.5,0.1,0.1,0.2,"SPOOKY, END, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenEldritch
-196,null,null,null,null
-197,null,null,null,null
-198,null,null,null,null
-199,null,null,null,null
 200,biome.desert.name,2.0,0.0,0.1,0.1,0.2,"HOT, SPARSE, DRY, SAVANNA, PLAINS",com.teammetallurgy.atum.world.biome.BiomeGenAtumDesert
-201,null,null,null,null
-202,null,null,null,null
-203,null,null,null,null
-204,null,null,null,null
-205,null,null,null,null
-206,null,null,null,null
-207,null,null,null,null
-208,null,null,null,null
-209,null,null,null,null
-210,null,null,null,null
-211,null,null,null,null
-212,null,null,null,null
-213,null,null,null,null
-214,null,null,null,null
-215,null,null,null,null
-216,null,null,null,null
-217,null,null,null,null
-218,null,null,null,null
-219,null,null,null,null
-220,null,null,null,null
-221,null,null,null,null
-222,null,null,null,null
-223,null,null,null,null
-224,null,null,null,null
-225,null,null,null,null
-226,null,null,null,null
-227,null,null,null,null
 228,Undergound Jungle M,1.35,0.9,0.2,0.2,0.4,"HOT, WET, HILLS",net.minecraft.world.biome.BiomeGenMutated
 229,Volcanic Desert M,1.9,0.2,0.1,0.2,0.4,"HOT, HILLS, SANDY",net.minecraft.world.biome.BiomeGenMutated
 230,Subterranean Savannah M,0.95,0.05,0.1,0.2,0.4,"HOT, DRY, HILLS",net.minecraft.world.biome.BiomeGenMutated
 231,Elysian Fields M,0.85,0.5,0.1,0.2,0.4,HILLS,net.minecraft.world.biome.BiomeGenMutated
 232,Ulterior Outback M,1.1,0.2,0.1,0.2,0.4,"HOT, HILLS, SANDY",net.minecraft.world.biome.BiomeGenMutated
 233,Fungal Forest M,0.9,0.95,0.1,0.2,0.4,"HOT, WET, HILLS",net.minecraft.world.biome.BiomeGenMutated
-234,null,null,null,null
-235,null,null,null,null
-236,null,null,null,null
-237,null,null,null,null
-238,null,null,null,null
-239,null,null,null,null
-240,null,null,null,null
-241,null,null,null,null
-242,null,null,null,null
-243,null,null,null,null
-244,null,null,null,null
-245,null,null,null,null
-246,null,null,null,null
-247,null,null,null,null
-248,null,null,null,null
-249,null,null,null,null
-250,null,null,null,null
-251,null,null,null,null
-252,null,null,null,null
-253,null,null,null,null
-254,null,null,null,null
 255,Elysian Forest M,0.85,0.5,0.1,0.2,0.4,HILLS,net.minecraft.world.biome.BiomeGenMutated
