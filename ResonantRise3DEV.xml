@@ -141,7 +141,7 @@
              />
                     
         <mod name="Eternal" version="RR3" 
-             url="packs/ResonantRise/files/timezones/00_eternity/00_eternity-3-DEV-060.zip" file="00_eternity-3-DEV-060.zip" md5="6f542c0051cd18456a2d0783e797aef1" download="server"
+             url="packs/ResonantRise/files/timezones/00_eternity/00_eternity-3-DEV-060.zip" file="00_eternity-3-DEV-060.zip" md5="75b42aee17028c83623305c189e4a5aa" download="server"
              type="extract" extractto="root" optional="no" recommended="yes"
              website="http://resonant-rise.com"
              authors="Velotican, GodNero"
