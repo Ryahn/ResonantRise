@@ -7,8 +7,8 @@ ID,Provider ID,Provider Class Name
 -29,-29,micdoodle8.mods.galacticraft.planets.mars.dimension.WorldProviderMars
 -28,-28,micdoodle8.mods.galacticraft.core.dimension.WorldProviderMoon
 -19,-19,thaumic.tinkerer.common.dim.WorldProviderBedrock
--1,-1,biomesoplenty.common.world.WorldProviderBOPHell
-0,0,biomesoplenty.common.world.WorldProviderSurfaceBOP
+-1,-1,bwg4.world.ProviderBWG4Hell
+0,0,bwg4.world.ProviderBWG4
 1,1,chylex.hee.world.WorldProviderHardcoreEnd
 2,2,lumien.randomthings.Handler.Spectre.WorldProviderSpectre
 3,3,org.dave.CompactMachines.handler.machinedimension.WorldProviderMachines

@@ -79,33 +79,33 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 77,Outback,1.5,0.05,0.1,0.1,0.1,"HOT, DRY, SAVANNA, PLAINS, SANDY",biomesoplenty.common.biome.overworld.BiomeGenOutback
 78,Prairie,0.9,0.6,0.1,0.1,0.1,"SPARSE, DRY, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenPrairie
 79,Rainforest,2.0,2.0,0.1,0.2,0.9,"DENSE, WET, JUNGLE, LUSH, FOREST, HILLS",biomesoplenty.common.biome.overworld.BiomeGenRainforest
-80,Redwood Forest,0.8,0.4,0.1,0.1,0.1,"DENSE, CONIFEROUS, FOREST",biomesoplenty.common.biome.overworld.BiomeGenRedwoodForest
-81,Sacred Springs,0.5,0.5,0.1,0.0,0.6,"DENSE, WET, LUSH, MAGICAL, FOREST, MOUNTAIN",biomesoplenty.common.biome.overworld.BiomeGenSacredSprings
-82,Seasonal Forest,0.7,0.8,0.1,0.2,0.4,"DENSE, LUSH, FOREST",biomesoplenty.common.biome.overworld.BiomeGenSeasonalForest
-83,Shield,0.5,0.8,0.1,0.0,0.2,"WET, CONIFEROUS, OCEAN, RIVER, FOREST",biomesoplenty.common.biome.overworld.BiomeGenShield
-84,Shrubland,0.6,0.05,0.1,0.1,0.1,"SPARSE, DRY, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenShrubland
-85,Sludgepit,0.8,0.9,0.1,0.0,0.1,"WET, SPOOKY, DEAD, FOREST, SWAMP, WASTELAND",biomesoplenty.common.biome.overworld.BiomeGenSludgepit
-86,Steppe,2.0,0.05,0.1,0.1,0.3,"HOT, SPARSE, DRY, SAVANNA, DEAD, PLAINS, SANDY",biomesoplenty.common.biome.overworld.BiomeGenSteppe
-87,Temperate Rainforest,0.7,0.8,0.1,0.0,0.3,"WET, CONIFEROUS, LUSH, FOREST, HILLS",biomesoplenty.common.biome.overworld.BiomeGenTemperateRainforest
-88,Thicket,0.6,0.2,0.1,0.1,0.1,"DENSE, DRY, DEAD, FOREST, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenThicket
-89,Tropical Rainforest,1.2,0.9,0.1,0.2,0.3,"HOT, DENSE, WET, JUNGLE, LUSH",biomesoplenty.common.biome.overworld.BiomeGenTropicalRainforest
-90,Tundra,0.2,0.8,0.1,0.0,0.1,"COLD, SPARSE, DRY, DEAD, WASTELAND",biomesoplenty.common.biome.overworld.BiomeGenTundra
-91,Wasteland,2.0,0.05,0.1,0.1,0.1,"SPARSE, SPOOKY, DEAD, WASTELAND",biomesoplenty.common.biome.overworld.BiomeGenWasteland
-92,Wetland,0.8,0.9,0.1,-0.1,0.2,"DENSE, WET, LUSH, FOREST, SWAMP",biomesoplenty.common.biome.overworld.BiomeGenWetland
-93,Woodland,1.7,0.2,0.1,0.1,0.2,"DENSE, DRY, FOREST",biomesoplenty.common.biome.overworld.BiomeGenWoodland
-94,Coral Reef,0.5,0.9,0.1,-0.6,0.1,"OCEAN, RIVER",biomesoplenty.common.biome.overworld.ocean.BiomeGenCoralReef
-95,Kelp Forest,0.5,0.9,0.1,-1.2,0.1,"OCEAN, RIVER, FOREST",biomesoplenty.common.biome.overworld.ocean.BiomeGenKelpForest
+80,desert,0.95,0.1,0.1,0.1,0.2,"DENSE, CONIFEROUS, FOREST",bwg4.biomes.BiomeBeta
+81,forest,0.8,0.6,0.1,0.1,0.2,"DENSE, WET, LUSH, MAGICAL, FOREST, MOUNTAIN",bwg4.biomes.BiomeBeta
+82,plains,0.95,0.35,0.1,0.1,0.2,"DENSE, LUSH, FOREST",bwg4.biomes.BiomeBeta
+83,rainforest,0.95,0.95,0.1,0.1,0.2,"WET, CONIFEROUS, OCEAN, RIVER, FOREST",bwg4.biomes.BiomeBeta
+84,savanna,0.7,0.1,0.1,0.1,0.2,"SPARSE, DRY, PLAINS",bwg4.biomes.BiomeBeta
+85,seasonalForest,0.95,0.7,0.1,0.1,0.2,"WET, SPOOKY, DEAD, FOREST, SWAMP, WASTELAND",bwg4.biomes.BiomeBeta
+86,shrubland,0.7,0.3,0.1,0.1,0.2,"HOT, SPARSE, DRY, SAVANNA, DEAD, PLAINS, SANDY",bwg4.biomes.BiomeBeta
+87,swampland,0.55,0.65,0.1,0.1,0.2,"WET, CONIFEROUS, LUSH, FOREST, HILLS",bwg4.biomes.BiomeBeta
+88,taiga,0.1,0.35,0.1,0.1,0.2,"DENSE, DRY, DEAD, FOREST, PLAINS",bwg4.biomes.BiomeBeta
+89,tundra,0.1,0.1,0.1,0.1,0.2,"HOT, DENSE, WET, JUNGLE, LUSH",bwg4.biomes.BiomeBeta
+90,Classic,0.5,0.5,0.1,0.1,0.2,"COLD, SPARSE, DRY, DEAD, WASTELAND",bwg4.biomes.BiomeClassic
+91,Classic,0.0,0.5,0.1,0.1,0.2,"SPARSE, SPOOKY, DEAD, WASTELAND",bwg4.biomes.BiomeClassic
+92,BWG4_com1,0.9,0.8,0.1,0.1,0.2,"DENSE, WET, LUSH, FOREST, SWAMP",bwg4.biomes.BiomeCommon
+93,BWG4_com2,0.9,0.8,0.1,0.1,0.2,"DENSE, DRY, FOREST",bwg4.biomes.BiomeCommon
+94,BWG4_com3,0.0,0.5,0.1,0.1,0.2,"OCEAN, RIVER",bwg4.biomes.BiomeCommon
+95,BWG4_nether,0.8,0.6,0.1,0.1,0.2,"OCEAN, RIVER, FOREST",bwg4.biomes.BiomeCommon
 96,Tropics,2.0,2.0,0.1,0.2,0.3,"WET, JUNGLE, LUSH, OCEAN, RIVER, BEACH",biomesoplenty.common.biome.overworld.sub.BiomeGenTropics
 97,Volcano,2.0,0.05,0.1,2.5,0.5,"HOT, DRY, MOUNTAIN, WASTELAND",biomesoplenty.common.biome.overworld.sub.BiomeGenVolcano
 98,Mangrove,0.8,0.9,0.1,0.0,0.2,"WET, LUSH, OCEAN, RIVER, FOREST",biomesoplenty.common.biome.overworld.sub.BiomeGenMangrove
 99,Alps Forest,0.0,0.5,0.1,0.6,0.8,"COLD, FOREST, MOUNTAIN, SNOWY",biomesoplenty.common.biome.overworld.sub.BiomeGenAlpsForest
-100,Undergound Jungle,1.35,0.9,0.2,0.1,0.2,"HOT, DRY, HILLS, SANDY",erebus.world.biomes.BiomeUndergroundJungle
+100,Undergound Jungle,1.35,0.9,0.2,0.1,0.2,"HOT, DRY, MAGICAL, FOREST, HILLS, SANDY",erebus.world.biomes.BiomeUndergroundJungle
 101,Volcanic Desert,1.9,0.2,0.1,0.1,0.2,"COLD, DEAD, HILLS, SNOWY",erebus.world.biomes.BiomeVolcanicDesert
 102,Subterranean Savannah,0.95,0.05,0.1,0.1,0.2,"LUSH, FOREST, PLAINS",erebus.world.biomes.BiomeSubterraneanSavannah
 103,Elysian Fields,0.85,0.5,0.1,0.1,0.2,"HOT, DRY, JUNGLE, LUSH, SANDY",erebus.world.biomes.BiomeElysianFields
 104,Ulterior Outback,1.1,0.2,0.1,0.1,0.2,"SPARSE, LUSH, FOREST, PLAINS",erebus.world.biomes.BiomeUlteriorOutback
 105,Fungal Forest,0.9,0.95,0.1,0.1,0.2,"WET, SPOOKY, DEAD, SWAMP, WASTELAND",erebus.world.biomes.BiomeFungalForest
-106,Scrubland,1.2,0.05,0.1,0.125,0.05,"HOT, SPARSE, DRY, SAVANNA, PLAINS",biomesoplenty.common.biome.overworld.sub.BiomeGenScrubland
+106,Submerged Swamp,0.75,0.85,0.1,0.1,0.2,"HOT, SPARSE, DRY, SAVANNA, PLAINS",erebus.world.biomes.BiomeSubmergedSwamp
 107,Silkglades,0.5,0.9,0.1,0.1,0.2,"SPOOKY, DEAD, FOREST, SWAMP",biomesoplenty.common.biome.overworld.sub.BiomeGenSilkglades
 108,Spruce Woods,0.7,0.8,0.1,0.1,0.2,"DENSE, CONIFEROUS, LUSH, FOREST",biomesoplenty.common.biome.overworld.sub.BiomeGenSpruceWoods
 109,Corrupted Sands,2.0,0.0,0.1,0.1,0.2,"SPOOKY, NETHER, SANDY",biomesoplenty.common.biome.nether.BiomeGenCorruptedSands
@@ -172,4 +172,5 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 231,Elysian Fields M,0.85,0.5,0.1,0.2,0.4,HILLS,net.minecraft.world.biome.BiomeGenMutated
 232,Ulterior Outback M,1.1,0.2,0.1,0.2,0.4,"HOT, HILLS, SANDY",net.minecraft.world.biome.BiomeGenMutated
 233,Fungal Forest M,0.9,0.95,0.1,0.2,0.4,"HOT, WET, HILLS",net.minecraft.world.biome.BiomeGenMutated
+234,Submerged Swamp M,0.75,0.85,0.1,0.2,0.4,HILLS,net.minecraft.world.biome.BiomeGenMutated
 255,Elysian Forest M,0.85,0.5,0.1,0.2,0.4,HILLS,net.minecraft.world.biome.BiomeGenMutated

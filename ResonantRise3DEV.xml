@@ -172,7 +172,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="WARNING!! Built for massive gaming machines! No garuntees you can run this."
-             depends="Advanced Generators,AetherCraft,AlchemyPlusPlus,Ancient Warfare 2,Antique Atlas,Applied Energistics 2,AE2 Stuff,Extra Cells,Archimedes&apos; Ships,Ars Magica 2,AnimationAPI,Artifacts,Artifice,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Binnie&apos;s Mods,Big Reactors,Big Trees,Blood Magic,Sanguimancy,Botania,Brewcraft,Buildcraft,Logistics Pipes,Calculator,Carpenter&apos;s Blocks,Dr. Cyano&apos;s Wonderful Wands &amp; Wizarding Armor,Chisel 2,Chisel Facades,ChocoCraft,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Decocraft,Dense Ores,Dimensional Anchors,Electrical Age,Enchanting Plus,Ender IO,EnhancedPortals 3,Engineers Toolbox,Ex Nihilo,Ex Astris,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Flowing Flux,Fluxed Crystals,Falling Meteors,Forestry,Binnie Mods,Gendustry,Magic Bees,Fossils &amp; Archeology Revival,Funky Locomotion,Galacticraft Core,Galacticraft Planets,Micdoodle8 Core,GardenStuff,Greg's Lighting,Hardcore Ender Expansion,Hopper Ducts,Hydraulicraft,K4lib,IndustrialCraft 2,Advanced Machines,Advanced Repulsion Systems,Advanced Solar Panel,IC2 Nuclear Control 2,GraviSuite,Hunger Overhaul,Immibis Core,Immibis' Peripherals,Iridium Mod,Magical Crops,Mekanism,Mekanism Generators,Mekanism Tools,Mine &amp; Blade Battlegear 2 - Warcry,MineChem,MineFactory Reloaded,Mariculture,MachineMuse&apos;s Modular Powersuits,Modular Powersuits Addon,Numina,Slick-Util,OpenComputers,OpenPeripheral Core,OpenPeripheral Addons,OpenPeripheral Integration,Pam&apos;s Harvestcraft,PneumaticCraft,Power Converters,Progressive Automation,Project Blue,Project E,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,QuiverBow,Random Things,Redstone Arsenal,Redstone Armory,Redstone Paste,Refined Relocation,Remote IO,Resonant Induction,RF Tools,Routers Reborn,Simply Jetpacks,Small Boats,Soul Shards: Reborn,Spice of Life,Statues,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Addons,Steve&apos;s Workshop,Super Crafting Frame,TechnoMagi,Thaumcraft 4,Automagy,Forbidden Magic,Technomancy,Thaumic Energistics,Thaumcraft Mob Aspects,Thaumic Tinkerer,Thermal Expansion,Tinkers&apos; Construct,ExtraTiC,Tinkers&apos; Mechworks,Translocator,Tubes,Tubes,VeinMiner,Witchery,WR-CBE,ZTones,Torcherino,Tweaks--RRino"
+             depends="Advanced Generators,AetherCraft,AlchemyPlusPlus,Ancient Warfare 2,Antique Atlas,Applied Energistics 2,AE2 Stuff,Extra Cells,Archimedes&apos; Ships,Ars Magica 2,AnimationAPI,Artifacts,Artifice,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Binnie&apos;s Mods,Big Reactors,Big Trees,Blood Magic,Sanguimancy,Botania,Brewcraft,Buildcraft,Buildcraft Additions,Logistics Pipes,Calculator,Carpenter&apos;s Blocks,Dr. Cyano&apos;s Wonderful Wands &amp; Wizarding Armor,Chisel 2,Chisel Facades,ChocoCraft,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Decocraft,Dense Ores,Dimensional Anchors,Electrical Age,Enchanting Plus,Ender IO,EnhancedPortals 3,Engineers Toolbox,Ex Nihilo,Ex Astris,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Flowing Flux,Fluxed Crystals,Falling Meteors,Forestry,Binnie Mods,Gendustry,Magic Bees,Fossils &amp; Archeology Revival,Funky Locomotion,Galacticraft Core,Galacticraft Planets,Micdoodle8 Core,GardenStuff,Greg's Lighting,Hardcore Ender Expansion,Hopper Ducts,Hydraulicraft,K4lib,ICBM,Iguana Tinker Tweaks,IndustrialCraft 2,Advanced Machines,Advanced Repulsion Systems,Advanced Solar Panel,IC2 Nuclear Control 2,GraviSuite,Hunger Overhaul,Immibis Core,Immibis' Peripherals,Iridium Mod,Magical Crops,Mekanism,Mekanism Generators,Mekanism Tools,Mine &amp; Blade Battlegear 2 - Warcry,MineChem,MineFactory Reloaded,Mariculture,MachineMuse&apos;s Modular Powersuits,Modular Powersuits Addon,Numina,Slick-Util,OpenComputers,OpenPeripheral Core,OpenPeripheral Addons,OpenPeripheral Integration,Pam&apos;s Harvestcraft,PneumaticCraft,Power Converters,Progressive Automation,Project Blue,Project E,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,QuiverBow,Random Things,Redstone Arsenal,Redstone Armory,Redstone Paste,Refined Relocation,Remote IO,Resonant Induction,RF Tools,Routers Reborn,Simply Jetpacks,Small Boats,Soul Shards: Reborn,Spice of Life,Statues,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Addons,Steve&apos;s Workshop,Super Crafting Frame,TechnoMagi,Thaumcraft 4,Automagy,Forbidden Magic,Magistics,Technomancy,Thaumic Energistics,Thaumcraft Mob Aspects,Thaumic Tinkerer,Thermal Expansion,Tinkers&apos; Construct,ExtraTiC,Tinkers&apos; Mechworks,Translocator,Tubes,Tubes,VeinMiner,Witchery,WR-CBE,ZTones,Torcherino,Tweaks--RRino"
              />
 
     <!-- Era Selections -->
@@ -370,6 +370,14 @@
              description="Baubles is a small addon mod and API that is intended to be used by other mods to add additional inventory slots to a character." 
              />
 
+        <mod name="bspkrsCore" version="6.15" 
+             url="packs/ResonantRise/files/3.x/[1.7.10]bspkrsCore-universal-6.15.jar" file="[1.7.10]bspkrsCore-universal-6.15.jar" md5="4043efb43e92696a85fe56dc95e876ec" download="server" 
+             type="dependency" 
+             website="http://www.minecraftforum.net/topic/1114612-/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=briefcase%2espeakers%40gmail%2ecom&amp;lc=US&amp;item_name=bspkrs%20mod%20development&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest" 
+             authors="DaftPVF,bspkrs" 
+             description="Shared classes used in the mods maintained by bspkrs." 
+            />
+
         <mod name="CodeChickenLib" version="1.1.1.106"
              url="packs/ResonantRise/files/3.x/CodeChickenLib-1.7.10-1.1.1.106-universal.jar" file="CodeChickenLib-1.7.10-1.1.1.106-universal.jar" md5="1c166b1a3078ed59593baa282a12939e" download="server"
              type="dependency"
@@ -392,11 +400,13 @@
              description="Commons Lib" 
              />
 
-        <!--<mod name="Eureka" version="2.1" 
-             url="packs/ResonantRise/files/3.x/Eureka-1.7.10-2.1.jar" file="Eureka-1.7.10-2.1.jar" md5="a8752a4356ebfb8d1ab0bb9ec907bfc7" download="server" type="dependency" 
-             website="http://www.curse.com/mc-mods/minecraft/222995" 
-             authors="AEnterprise"
-             description="The Eureka mod. This is an API for other mods. Eureka is a knowledge system based on 'learning as you go'." />-->
+        <mod name="Eureka" version="2.2" 
+             url="packs/ResonantRise/files/3.x/Eureka-1.7.10-2.2.jar" file="Eureka-1.7.10-2.2.jar" md5="7e109d7ec6973269c047e8922e3de0ad" download="server" 
+             type="dependency" 
+             website="http://www.curse.com/mc-mods/minecraft/222995-" 
+             authors="AEnterprise" 
+             description="Knowledge system based on &apos;learning as you go&apos;" 
+             />
 
         <mod name="ForgeMultipart" version="1.1.0.314"
             url="packs/ResonantRise/files/3.x/ForgeMultipart-1.7.10-1.1.0.314-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.314-universal.jar" md5="f09d6bb48f518246af12751087b7734a" download="server"
@@ -502,14 +512,6 @@
              authors="Forstride,Adubbz,Amnet,ted80"
              description="Adds 87 new, unique biomes!" 
              />
-
-        <mod name="bspkrsCore" version="6.15" 
-             url="packs/ResonantRise/files/3.x/[1.7.10]bspkrsCore-universal-6.15.jar" file="[1.7.10]bspkrsCore-universal-6.15.jar" md5="4043efb43e92696a85fe56dc95e876ec" download="server" 
-             type="mods" 
-             website="http://www.minecraftforum.net/topic/1114612-/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=briefcase%2espeakers%40gmail%2ecom&amp;lc=US&amp;item_name=bspkrs%20mod%20development&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest" 
-             authors="DaftPVF,bspkrs" 
-             description="Shared classes used in the mods maintained by bspkrs." 
-            />
 
         <mod name="CodeChickenCore" version="1.0.4.29"
              url="packs/ResonantRise/files/3.x/CodeChickenCore-1.7.10-1.0.4.29-universal.jar" file="CodeChickenCore-1.7.10-1.0.4.29-universal.jar" md5="23978d3c16f19d0d2808c4b451d78f87" download="server"

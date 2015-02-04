@@ -38,18 +38,18 @@ ProceeduralGeneration,1xitem.artifact_diamond_boots@0,Artifact Diamond Armor,Art
 bonusChest,1xitem.stick@0,Stick,minecraft:stick,10
 bonusChest,1xtile.wood@0,Oak Wood Planks,minecraft:planks,10
 bonusChest,1xtile.log@0,Oak Wood,minecraft:log,10
-bonusChest,1xitem.hatchetStone@0,Stone Axe,minecraft:stone_axe,3
-bonusChest,1xitem.hatchetWood@0,Wooden Axe,minecraft:wooden_axe,5
-bonusChest,1xitem.pickaxeStone@0,Stone Pickaxe,minecraft:stone_pickaxe,3
-bonusChest,1xitem.pickaxeWood@0,Wooden Pickaxe,minecraft:wooden_pickaxe,5
 bonusChest,1xitem.apple@0,Apple,minecraft:apple,5
 bonusChest,1xitem.bread@0,Bread,minecraft:bread,3
 bonusChest,1xtile.log@0,Acacia Wood,minecraft:log2,10
 bonusChest,1xitem.lexicon@0,Lexica Botania,Botania:lexicon,7
+bonusChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,1
 bonusChest,1xic2.itemTreetap@0,Treetap,IC2:itemTreetap,2
 bonusChest,1xitem.wadingBoots@0,Wading Boots,BiomesOPlenty:wadingBoots,5
 bonusChest,1xitem.flippers@0,Flippers,BiomesOPlenty:flippers,5
 bonusChest,1xitem.bioFossil@0,Bio-Fossil,fossil:bioFossil,40
+bonusChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,10
+bonusChest,1xitem.InfiTool.Pickaxe@0,§fStarter Pickaxe,TConstruct:pickaxe,5
+bonusChest,1xitem.InfiTool.Axe@0,§fStarter Hatchet,TConstruct:hatchet,5
 dimensionalDungeonChest,1xitem.mfr.safarinet.jailer@0,Jailer's Safari Net,MineFactoryReloaded:safarinet.jailer,15
 dimensionalDungeonChest,1xtile.mfr.rubberwood.sapling@0,Rubber Sapling,MineFactoryReloaded:rubberwood.sapling,70
 dimensionalDungeonChest,1xitem.mfr.pinkslime@0,Pink Slimeball,MineFactoryReloaded:pinkslime,1
@@ -73,6 +73,7 @@ dungeonChest,1xitem.manaResource@0,Manasteel Ingot,Botania:manaResource,9
 dungeonChest,1xitem.lexicon@0,Lexica Botania,Botania:lexicon,6
 dungeonChest,1xitem.manaBottle@0,Mana in a Bottle,Botania:manaBottle,5
 dungeonChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+dungeonChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,2
 dungeonChest,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,100
 dungeonChest,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,100
 dungeonChest,1xic2.itemOreIridium@0,Iridium Ore,IC2:itemOreIridium,20
@@ -86,6 +87,8 @@ dungeonChest,1xitem.record@0,Music Disc,minecraft:record_strad,5
 dungeonChest,1xitem.record@0,Music Disc,minecraft:record_ward,5
 dungeonChest,1xitem.record@0,Music Disc,minecraft:record_11,5
 dungeonChest,1xitem.record@0,Music Disc,minecraft:record_wait,5
+dungeonChest,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+dungeonChest,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
 dungeonChest,1xitem.artifact@0,Artifact,Artifacts:artifact,0
 dungeonChest,1xitem.artifact_chainmail_helmet@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_helmet,0
 dungeonChest,1xitem.artifact_chainmail_chestplate@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_chestplate,0
@@ -118,7 +121,7 @@ dungeonChest,1xitem.darkSteel_sword@0,The Ender,EnderIO:item.darkSteel_sword,5
 dungeonChest,1xitem.darkSteel_boots@0,Dark Boots,EnderIO:item.darkSteel_boots,5
 dungeonChest,1xitem.portal_module@4,Cloaking,enhancedportals:portal_module,2
 dungeonChest,1xitem.tconstruct.canister@1,Miniature Red Heart,TConstruct:heartCanister,5
-dungeonChest,1xtile.figurine@13,Broken Enderman Figurine,fossil:fossilfigurine,5
+dungeonChest,1xtile.figurine@6,Damaged Skeleton Figurine,fossil:fossilfigurine,5
 dungeonChest,1xitem.scarabGem@0,Scarab Gem,fossil:scarabGem,1
 dungeonChest,1xitem.record_bones@0,Fossil Record,fossil:record_bones,5
 dungeonChest,1xitem.potteryPatternDirty@0,Clay Pattern Stamp,GardenContainers:pottery_pattern_dirty,2
@@ -126,6 +129,7 @@ dungeonChest,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:temple_c
 dungeonChest,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,6
 dungeonChest,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
 dungeonChest,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+dungeonChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
 dungeonChest,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,5
 dungeonChest,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,5
 dungeonChest,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,5
@@ -221,10 +225,13 @@ mineshaftCorridor,1xitem.saddle@0,Saddle,minecraft:saddle,3
 mineshaftCorridor,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
 mineshaftCorridor,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
 mineshaftCorridor,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+mineshaftCorridor,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,2
 mineshaftCorridor,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,1
 mineshaftCorridor,1xic2.itemTinCanFilled@0,(Filled) Tin Can,IC2:itemTinCanFilled,8
 mineshaftCorridor,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
 mineshaftCorridor,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+mineshaftCorridor,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+mineshaftCorridor,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
 mineshaftCorridor,1xitem.artifact@0,Artifact,Artifacts:artifact,0
 mineshaftCorridor,1xitem.artifact_leather_chestplate@0,Artifact Leather Armor,Artifacts:artifact_leather_chestplate,0
 mineshaftCorridor,1xitem.artifact_iron_helmet@0,Artifact Iron Armor,Artifacts:artifact_iron_helmet,0
@@ -244,6 +251,7 @@ mineshaftCorridor,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:tem
 mineshaftCorridor,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,7
 mineshaftCorridor,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
 mineshaftCorridor,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+mineshaftCorridor,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
 mineshaftCorridor,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,4
 mineshaftCorridor,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,4
 mineshaftCorridor,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,4
@@ -323,6 +331,7 @@ pyramidDesertyChest,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_ho
 pyramidDesertyChest,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
 pyramidDesertyChest,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
 pyramidDesertyChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+pyramidDesertyChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,2
 pyramidDesertyChest,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,3
 pyramidDesertyChest,1xic2.itemToolBronzeSword@0,Bronze Sword,IC2:itemToolBronzeSword,3
 pyramidDesertyChest,1xic2.itemArmorBronzeHelmet@0,Bronze Helmet,IC2:itemArmorBronzeHelmet,3
@@ -331,6 +340,8 @@ pyramidDesertyChest,1xic2.itemArmorBronzeLegs@0,Bronze Leggings,IC2:itemArmorBro
 pyramidDesertyChest,1xic2.itemArmorBronzeBoots@0,Bronze Boots,IC2:itemArmorBronzeBoots,3
 pyramidDesertyChest,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
 pyramidDesertyChest,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+pyramidDesertyChest,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+pyramidDesertyChest,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
 pyramidDesertyChest,1xitem.artifact@0,Artifact,Artifacts:artifact,4
 pyramidDesertyChest,1xitem.artifact_golden_helmet@0,Artifact Golden Armor,Artifacts:artifact_golden_helmet,4
 pyramidDesertyChest,1xitem.artifact_golden_chestplate@0,Artifact Golden Armor,Artifacts:artifact_golden_chestplate,4
@@ -350,6 +361,7 @@ pyramidDesertyChest,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:t
 pyramidDesertyChest,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,6
 pyramidDesertyChest,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
 pyramidDesertyChest,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+pyramidDesertyChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
 pyramidDesertyChest,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,5
 pyramidDesertyChest,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,5
 pyramidDesertyChest,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,5
@@ -406,6 +418,8 @@ pyramidJungleChest,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_hors
 pyramidJungleChest,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,1
 pyramidJungleChest,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
 pyramidJungleChest,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+pyramidJungleChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+pyramidJungleChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,2
 pyramidJungleChest,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,3
 pyramidJungleChest,1xic2.itemToolBronzeSword@0,Bronze Sword,IC2:itemToolBronzeSword,3
 pyramidJungleChest,1xic2.itemArmorBronzeHelmet@0,Bronze Helmet,IC2:itemArmorBronzeHelmet,3
@@ -414,6 +428,8 @@ pyramidJungleChest,1xic2.itemArmorBronzeLegs@0,Bronze Leggings,IC2:itemArmorBron
 pyramidJungleChest,1xic2.itemArmorBronzeBoots@0,Bronze Boots,IC2:itemArmorBronzeBoots,3
 pyramidJungleChest,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
 pyramidJungleChest,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+pyramidJungleChest,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+pyramidJungleChest,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
 pyramidJungleChest,1xitem.artifact@0,Artifact,Artifacts:artifact,8
 pyramidJungleChest,1xitem.artifact_diamond_chestplate@0,Artifact Diamond Armor,Artifacts:artifact_diamond_chestplate,8
 pyramidJungleChest,1xitem.artifact_golden_chestplate@0,Artifact Golden Armor,Artifacts:artifact_golden_chestplate,8
@@ -434,6 +450,7 @@ pyramidJungleChest,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:te
 pyramidJungleChest,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,6
 pyramidJungleChest,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
 pyramidJungleChest,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+pyramidJungleChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
 pyramidJungleChest,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,5
 pyramidJungleChest,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,5
 pyramidJungleChest,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,5
@@ -456,7 +473,7 @@ pyramidJungleChest,1xitem.ItemBaubleBlanks@6,Apprentices Ring of Aqua,Thaumcraft
 pyramidJungleChest,1xitem.ItemBaubleBlanks@7,Apprentices Ring of Ordo,Thaumcraft:ItemBaubleBlanks,1
 pyramidJungleChest,1xitem.ItemBaubleBlanks@8,Apprentices Ring of Perditio,Thaumcraft:ItemBaubleBlanks,1
 pyramidJungleChest,1xitem.ItemAmuletVis@0,Vis Stone,Thaumcraft:ItemAmuletVis,1
-pyramidJungleChest,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,14
+pyramidJungleChest,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,15
 pyramidJungleChest,1xitem.UnknownDimlet@0,Unknown Dimlet,rftools:unknownDimlet,50
 pyramidJungleChest,1xitem.spagettiandmeatballsItem@0,Spagetti and Meatballs,harvestcraft:spagettiandmeatballsItem,5
 pyramidJungleChest,1xitem.deluxecheeseburgerItem@0,Deluxe Cheeseburger,harvestcraft:deluxecheeseburgerItem,5
@@ -480,7 +497,6 @@ pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraf
 pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
 pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
 pyramidJungleDispenser,1xitem.arrow@0,Arrow,minecraft:arrow,30
-pyramidJungleDispenser,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
 pyramidJungleDispenser,1xitem.mfr.safarinet.singleuse@0,Safari Net (Single-Use),MineFactoryReloaded:safarinet.singleuse,25
 strongholdCorridor,1xitem.enderPearl@0,Ender Pearl,minecraft:ender_pearl,10
 strongholdCorridor,1xitem.diamond@0,Diamond,minecraft:diamond,3
@@ -504,6 +520,7 @@ strongholdCorridor,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_boo
 strongholdCorridor,1xitem.manaResource@1,Mana Pearl,Botania:manaResource,8
 strongholdCorridor,1xitem.manaResource@1,Mana Pearl,Botania:manaResource,2
 strongholdCorridor,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+strongholdCorridor,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,2
 strongholdCorridor,1xic2.itemOreIridium@0,Iridium Ore,IC2:itemOreIridium,1
 strongholdCorridor,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,3
 strongholdCorridor,1xic2.itemToolBronzeSword@0,Bronze Sword,IC2:itemToolBronzeSword,3
@@ -513,6 +530,8 @@ strongholdCorridor,1xic2.itemArmorBronzeLegs@0,Bronze Leggings,IC2:itemArmorBron
 strongholdCorridor,1xic2.itemArmorBronzeBoots@0,Bronze Boots,IC2:itemArmorBronzeBoots,3
 strongholdCorridor,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
 strongholdCorridor,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+strongholdCorridor,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+strongholdCorridor,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
 strongholdCorridor,1xitem.artifact@0,Artifact,Artifacts:artifact,3
 strongholdCorridor,1xitem.artifact_diamond_helmet@0,Artifact Diamond Armor,Artifacts:artifact_diamond_helmet,3
 strongholdCorridor,1xitem.artifact_diamond_chestplate@0,Artifact Diamond Armor,Artifacts:artifact_diamond_chestplate,3
@@ -582,6 +601,8 @@ strongholdCrossing,1xic2.itemArmorBronzeLegs@0,Bronze Leggings,IC2:itemArmorBron
 strongholdCrossing,1xic2.itemArmorBronzeBoots@0,Bronze Boots,IC2:itemArmorBronzeBoots,3
 strongholdCrossing,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
 strongholdCrossing,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+strongholdCrossing,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+strongholdCrossing,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
 strongholdCrossing,1xitem.artifact@0,Artifact,Artifacts:artifact,1
 strongholdCrossing,1xitem.artifact_diamond_helmet@0,Artifact Diamond Armor,Artifacts:artifact_diamond_helmet,1
 strongholdCrossing,1xitem.artifact_diamond_chestplate@0,Artifact Diamond Armor,Artifacts:artifact_diamond_chestplate,1
@@ -634,6 +655,9 @@ strongholdLibrary,1xitem.paper@0,Paper,minecraft:paper,20
 strongholdLibrary,1xitem.emptyMap@0,Empty Map,minecraft:map,1
 strongholdLibrary,1xitem.compass@0,Compass,minecraft:compass,1
 strongholdLibrary,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,2
+strongholdLibrary,1xitem.runes@17,Infinity Orb,arsmagica2:rune,5
+strongholdLibrary,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
+strongholdLibrary,1xitem.runes@19,Infinity Orb,arsmagica2:rune,6
 strongholdLibrary,1xitem.artifact@0,Artifact,Artifacts:artifact,6
 strongholdLibrary,1xitem.frameOblivion@0,Oblivion Frame,MagicBees:frameOblivion,23
 strongholdLibrary,1xitem.chocopedia@0,Chocopedia,chococraft:Chocopedia,2
@@ -643,6 +667,7 @@ strongholdLibrary,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:tem
 strongholdLibrary,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,9
 strongholdLibrary,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
 strongholdLibrary,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+strongholdLibrary,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
 strongholdLibrary,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,4
 strongholdLibrary,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,4
 strongholdLibrary,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,4
@@ -666,6 +691,7 @@ strongholdLibrary,1xitem.ItemBaubleBlanks@6,Apprentices Ring of Aqua,Thaumcraft:
 strongholdLibrary,1xitem.ItemBaubleBlanks@7,Apprentices Ring of Ordo,Thaumcraft:ItemBaubleBlanks,1
 strongholdLibrary,1xitem.ItemBaubleBlanks@8,Apprentices Ring of Perditio,Thaumcraft:ItemBaubleBlanks,1
 strongholdLibrary,1xitem.ItemAmuletVis@0,Vis Stone,Thaumcraft:ItemAmuletVis,1
+strongholdLibrary,1xitem.iguana.tcon.wearable@3,Bat Hat,IguanaTweaksTConstruct:wearableBucket,1
 strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
 strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
 strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
@@ -736,3 +762,4 @@ villageBlacksmith,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
 villageBlacksmith,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
 villageBlacksmith,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,10
 villageBlacksmith,1xitem.UnknownDimlet@0,Unknown Dimlet,rftools:unknownDimlet,50
+villageBlacksmith,1xitem.iguana.tcon.wearable@0,Holey Bucket,IguanaTweaksTConstruct:wearableBucket,1
