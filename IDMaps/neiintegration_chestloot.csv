@@ -1,0 +1,765 @@
+Chest Type,ItemStack,Item Display Name,Item ID,Weight
+A_WIZARD_DID_IT,1xitem.artifact@0,Artifact,Artifacts:artifact,10
+A_WIZARD_DID_IT,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,5
+A_WIZARD_DID_IT,1xitem.diamond@0,Diamond,minecraft:diamond,3
+A_WIZARD_DID_IT,1xitem.goldNugget@0,Gold Nugget,minecraft:gold_nugget,5
+A_WIZARD_DID_IT,1xitem.dust_orichalcum@0,Raw Manaesence,Artifacts:dust_orichalcum,3
+A_WIZARD_DID_IT,1xitem.dust_orichalcum@1,Wood infused Manaesence,Artifacts:dust_orichalcum,3
+A_WIZARD_DID_IT,1xitem.dust_orichalcum@2,Stone infused Manaesence,Artifacts:dust_orichalcum,3
+A_WIZARD_DID_IT,1xitem.dust_orichalcum@3,Iron infused Manaesence,Artifacts:dust_orichalcum,3
+A_WIZARD_DID_IT,1xitem.dust_orichalcum@4,Diamond infused Manaesence,Artifacts:dust_orichalcum,3
+A_WIZARD_DID_IT,1xitem.expBottle@0,Bottle o' Enchanting,minecraft:experience_bottle,2
+A_WIZARD_DID_IT,1xitem.dust_orichalcum@0,Raw Manaesence,Artifacts:dust_orichalcum,2
+A_WIZARD_DID_IT,1xitem.artifact_leather_helmet@0,Artifact Leather Armor,Artifacts:artifact_leather_helmet,10
+A_WIZARD_DID_IT,1xitem.artifact_leather_chestplate@0,Artifact Leather Armor,Artifacts:artifact_leather_chestplate,10
+A_WIZARD_DID_IT,1xitem.artifact_leather_leggings@0,Artifact Leather Armor,Artifacts:artifact_leather_leggings,10
+A_WIZARD_DID_IT,1xitem.artifact_leather_boots@0,Artifact Leather Armor,Artifacts:artifact_leather_boots,10
+ProceeduralGeneration,1xitem.artifact@0,Artifact,Artifacts:artifact,5
+ProceeduralGeneration,1xitem.artifact_leather_helmet@0,Artifact Leather Armor,Artifacts:artifact_leather_helmet,5
+ProceeduralGeneration,1xitem.artifact_leather_chestplate@0,Artifact Leather Armor,Artifacts:artifact_leather_chestplate,5
+ProceeduralGeneration,1xitem.artifact_leather_leggings@0,Artifact Leather Armor,Artifacts:artifact_leather_leggings,5
+ProceeduralGeneration,1xitem.artifact_leather_boots@0,Artifact Leather Armor,Artifacts:artifact_leather_boots,5
+ProceeduralGeneration,1xitem.artifact_chainmail_helmet@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_helmet,5
+ProceeduralGeneration,1xitem.artifact_chainmail_chestplate@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_chestplate,5
+ProceeduralGeneration,1xitem.artifact_chainmail_leggings@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_leggings,5
+ProceeduralGeneration,1xitem.artifact_chainmail_boots@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_boots,5
+ProceeduralGeneration,1xitem.artifact_iron_helmet@0,Artifact Iron Armor,Artifacts:artifact_iron_helmet,5
+ProceeduralGeneration,1xitem.artifact_iron_chestplate@0,Artifact Iron Armor,Artifacts:artifact_iron_chestplate,5
+ProceeduralGeneration,1xitem.artifact_iron_leggings@0,Artifact Iron Armor,Artifacts:artifact_iron_leggings,5
+ProceeduralGeneration,1xitem.artifact_iron_boots@0,Artifact Iron Armor,Artifacts:artifact_iron_boots,5
+ProceeduralGeneration,1xitem.artifact_golden_helmet@0,Artifact Golden Armor,Artifacts:artifact_golden_helmet,5
+ProceeduralGeneration,1xitem.artifact_golden_chestplate@0,Artifact Golden Armor,Artifacts:artifact_golden_chestplate,5
+ProceeduralGeneration,1xitem.artifact_golden_leggings@0,Artifact Golden Armor,Artifacts:artifact_golden_leggings,5
+ProceeduralGeneration,1xitem.artifact_golden_boots@0,Artifact Golden Armor,Artifacts:artifact_golden_boots,5
+ProceeduralGeneration,1xitem.artifact_diamond_helmet@0,Artifact Diamond Armor,Artifacts:artifact_diamond_helmet,5
+ProceeduralGeneration,1xitem.artifact_diamond_chestplate@0,Artifact Diamond Armor,Artifacts:artifact_diamond_chestplate,5
+ProceeduralGeneration,1xitem.artifact_diamond_leggings@0,Artifact Diamond Armor,Artifacts:artifact_diamond_leggings,5
+ProceeduralGeneration,1xitem.artifact_diamond_boots@0,Artifact Diamond Armor,Artifacts:artifact_diamond_boots,5
+bonusChest,1xitem.stick@0,Stick,minecraft:stick,10
+bonusChest,1xtile.wood@0,Oak Wood Planks,minecraft:planks,10
+bonusChest,1xtile.log@0,Oak Wood,minecraft:log,10
+bonusChest,1xitem.apple@0,Apple,minecraft:apple,5
+bonusChest,1xitem.bread@0,Bread,minecraft:bread,3
+bonusChest,1xtile.log@0,Acacia Wood,minecraft:log2,10
+bonusChest,1xitem.lexicon@0,Lexica Botania,Botania:lexicon,7
+bonusChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,1
+bonusChest,1xic2.itemTreetap@0,Treetap,IC2:itemTreetap,2
+bonusChest,1xitem.wadingBoots@0,Wading Boots,BiomesOPlenty:wadingBoots,5
+bonusChest,1xitem.flippers@0,Flippers,BiomesOPlenty:flippers,5
+bonusChest,1xitem.bioFossil@0,Bio-Fossil,fossil:bioFossil,40
+bonusChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,10
+bonusChest,1xitem.InfiTool.Pickaxe@0,§fStarter Pickaxe,TConstruct:pickaxe,5
+bonusChest,1xitem.InfiTool.Axe@0,§fStarter Hatchet,TConstruct:hatchet,5
+dimensionalDungeonChest,1xitem.mfr.safarinet.jailer@0,Jailer's Safari Net,MineFactoryReloaded:safarinet.jailer,15
+dimensionalDungeonChest,1xtile.mfr.rubberwood.sapling@0,Rubber Sapling,MineFactoryReloaded:rubberwood.sapling,70
+dimensionalDungeonChest,1xitem.mfr.pinkslime@0,Pink Slimeball,MineFactoryReloaded:pinkslime,1
+dungeonChest,1xitem.saddle@0,Saddle,minecraft:saddle,10
+dungeonChest,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+dungeonChest,1xitem.bread@0,Bread,minecraft:bread,10
+dungeonChest,1xitem.wheat@0,Wheat,minecraft:wheat,10
+dungeonChest,1xitem.sulphur@0,Gunpowder,minecraft:gunpowder,10
+dungeonChest,1xitem.string@0,String,minecraft:string,10
+dungeonChest,1xitem.bucket@0,Bucket,minecraft:bucket,10
+dungeonChest,1xitem.appleGold@0,Golden Apple,minecraft:golden_apple,1
+dungeonChest,1xitem.redstone@0,Redstone,minecraft:redstone,10
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_13,10
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_cat,10
+dungeonChest,1xitem.nameTag@0,Name Tag,minecraft:name_tag,10
+dungeonChest,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,2
+dungeonChest,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,5
+dungeonChest,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
+dungeonChest,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+dungeonChest,1xitem.manaResource@0,Manasteel Ingot,Botania:manaResource,9
+dungeonChest,1xitem.lexicon@0,Lexica Botania,Botania:lexicon,6
+dungeonChest,1xitem.manaBottle@0,Mana in a Bottle,Botania:manaBottle,5
+dungeonChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+dungeonChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,2
+dungeonChest,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,100
+dungeonChest,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,100
+dungeonChest,1xic2.itemOreIridium@0,Iridium Ore,IC2:itemOreIridium,20
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_blocks,5
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_chirp,5
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_far,5
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_mall,5
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_mellohi,5
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_stal,5
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_strad,5
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_ward,5
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_11,5
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_wait,5
+dungeonChest,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+dungeonChest,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
+dungeonChest,1xitem.artifact@0,Artifact,Artifacts:artifact,0
+dungeonChest,1xitem.artifact_chainmail_helmet@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_helmet,0
+dungeonChest,1xitem.artifact_chainmail_chestplate@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_chestplate,0
+dungeonChest,1xitem.artifact_chainmail_leggings@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_leggings,0
+dungeonChest,1xitem.artifact_chainmail_boots@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_boots,0
+dungeonChest,1xitem.CircuitBoard@0,Circuit,Calculator:CircuitBoard,2
+dungeonChest,1xitem.CircuitDirty@0,Dirty Circuit,Calculator:CircuitDirty,5
+dungeonChest,1xitem.CircuitDamaged@0,Damaged Circuit,Calculator:CircuitDamaged,5
+dungeonChest,1xitem.openblocks.glasses.technicolor@0,Amazing Technicolor Glasses,OpenBlocks:technicolorGlasses,2
+dungeonChest,1xitem.whitestone@0,White Stone [Uncharged],RandomThings:whitestone,3
+dungeonChest,1xitem.diamondZane@0,Diamond Zane,Ztones:diamondZane,1
+dungeonChest,1xitem.standardBindingAgent@0,Standard Binding Agent,AWWayofTime:standardBindingAgent,6
+dungeonChest,1xitem.mundanePowerCatalyst@0,Mundane Power Catalyst,AWWayofTime:mundanePowerCatalyst,4
+dungeonChest,1xitem.mundaneLengtheningCatalyst@0,Mundane Lengthening Catalyst,AWWayofTime:mundaneLengtheningCatalyst,4
+dungeonChest,1xitem.averagePowerCatalyst@0,Average Power Catalyst,AWWayofTime:averagePowerCatalyst,2
+dungeonChest,1xitem.averageLengtheningCatalyst@0,Average Lengthening Catalyst,AWWayofTime:averageLengtheningCatalyst,2
+dungeonChest,1xitem.greaterPowerCatalyst@0,Greater Power Catalyst,AWWayofTime:greaterPowerCatalyst,1
+dungeonChest,1xitem.greaterLengtheningCatalyst@0,Greater Lengthening Catalyst,AWWayofTime:greaterLengtheningCatalyst,1
+dungeonChest,1xitem.mfr.safarinet.singleuse@0,Safari Net (Single-Use),MineFactoryReloaded:safarinet.singleuse,25
+dungeonChest,1xtile.mfr.rubberwood.sapling@2,Mega Rubber Sapling,MineFactoryReloaded:rubberwood.sapling,8
+dungeonChest,1xitem.RedGear.Brewcraft.Ingredients@1,Golden Feather,redgear_brewcraft:RedGear.Brewcraft.Ingredients,10
+dungeonChest,1xitem.chocopedia@0,Chocopedia,chococraft:Chocopedia,2
+dungeonChest,1xitem.oc.multi@47,Floppy Disk,OpenComputers:item,5
+dungeonChest,1xitem.itemAlloy@6,Dark Steel,EnderIO:itemAlloy,15
+dungeonChest,1xitem.enderio.itemConduitProbe@0,Conduit Probe,EnderIO:itemConduitProbe,10
+dungeonChest,1xitem.netherquartz@0,Nether Quartz,minecraft:quartz,20
+dungeonChest,1xitem.netherStalkSeeds@0,Nether Wart,minecraft:nether_wart,10
+dungeonChest,1xitem.enderPearl@0,Ender Pearl,minecraft:ender_pearl,30
+dungeonChest,1xitem.darkSteel_sword@0,The Ender,EnderIO:item.darkSteel_sword,5
+dungeonChest,1xitem.darkSteel_boots@0,Dark Boots,EnderIO:item.darkSteel_boots,5
+dungeonChest,1xitem.portal_module@4,Cloaking,enhancedportals:portal_module,2
+dungeonChest,1xitem.tconstruct.canister@1,Miniature Red Heart,TConstruct:heartCanister,5
+dungeonChest,1xtile.figurine@6,Damaged Skeleton Figurine,fossil:fossilfigurine,5
+dungeonChest,1xitem.scarabGem@0,Scarab Gem,fossil:scarabGem,1
+dungeonChest,1xitem.record_bones@0,Fossil Record,fossil:record_bones,5
+dungeonChest,1xitem.potteryPatternDirty@0,Clay Pattern Stamp,GardenContainers:pottery_pattern_dirty,2
+dungeonChest,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:temple_caller,1
+dungeonChest,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,6
+dungeonChest,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
+dungeonChest,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+dungeonChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
+dungeonChest,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,5
+dungeonChest,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,5
+dungeonChest,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,5
+dungeonChest,1xitem.ItemLootBag@1,Uncommon Treasure,Thaumcraft:ItemLootBag,4
+dungeonChest,1xitem.ItemBaubleBlanks@0,Mundane Amulet,Thaumcraft:ItemBaubleBlanks,4
+dungeonChest,1xitem.ItemBaubleBlanks@1,Mundane Ring,Thaumcraft:ItemBaubleBlanks,4
+dungeonChest,1xitem.ItemBaubleBlanks@2,Mundane Belt,Thaumcraft:ItemBaubleBlanks,4
+dungeonChest,1xitem.ItemResource@9,Knowledge Fragment,Thaumcraft:ItemResource,4
+dungeonChest,1xitem.ItemLootBag@2,Rare Treasure,Thaumcraft:ItemLootBag,1
+dungeonChest,1xitem.ItemThaumonomicon@0,Thaumonomicon,Thaumcraft:ItemThaumonomicon,1
+dungeonChest,1xitem.ItemSwordThaumium@0,Thaumium Sword,Thaumcraft:ItemSwordThaumium,1
+dungeonChest,1xitem.ItemPickThaumium@0,Thaumium Pickaxe,Thaumcraft:ItemPickThaumium,1
+dungeonChest,1xitem.ItemAxeThaumium@0,Thaumium Axe,Thaumcraft:ItemAxeThaumium,1
+dungeonChest,1xitem.ItemHoeThaumium@0,Thaumium Hoe,Thaumcraft:ItemHoeThaumium,1
+dungeonChest,1xitem.ItemRingRunic@0,Ring of Protection,Thaumcraft:ItemRingRunic,1
+dungeonChest,1xitem.ItemBaubleBlanks@3,Apprentices Ring of Aer,Thaumcraft:ItemBaubleBlanks,1
+dungeonChest,1xitem.ItemBaubleBlanks@4,Apprentices Ring of Terra,Thaumcraft:ItemBaubleBlanks,1
+dungeonChest,1xitem.ItemBaubleBlanks@5,Apprentices Ring of Ignis,Thaumcraft:ItemBaubleBlanks,1
+dungeonChest,1xitem.ItemBaubleBlanks@6,Apprentices Ring of Aqua,Thaumcraft:ItemBaubleBlanks,1
+dungeonChest,1xitem.ItemBaubleBlanks@7,Apprentices Ring of Ordo,Thaumcraft:ItemBaubleBlanks,1
+dungeonChest,1xitem.ItemBaubleBlanks@8,Apprentices Ring of Perditio,Thaumcraft:ItemBaubleBlanks,1
+dungeonChest,1xitem.ItemAmuletVis@0,Vis Stone,Thaumcraft:ItemAmuletVis,1
+dungeonChest,1xitem.for.beeDroneGE@0,Steadfast Drone,Forestry:beeDroneGE,10
+dungeonChest,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,8
+dungeonChest,1xtile.extrautils:plant/ender_lilly@0,Ender-Lily Seeds,ExtraUtilities:plant/ender_lilly,22
+dungeonChest,1xitem.itemBlueprint@0,Fusion Chamber Blueprint,minechem:minechemBlueprint,1
+dungeonChest,1xitem.itemBlueprint@1,Fission Chamber Blueprint,minechem:minechemBlueprint,1
+dungeonChest,1xitem.UnknownDimlet@0,Unknown Dimlet,rftools:unknownDimlet,50
+dungeonChest,1xitem.spagettiandmeatballsItem@0,Spagetti and Meatballs,harvestcraft:spagettiandmeatballsItem,5
+dungeonChest,1xitem.deluxecheeseburgerItem@0,Deluxe Cheeseburger,harvestcraft:deluxecheeseburgerItem,5
+dungeonChest,1xitem.delightedmealItem@0,Delighted Meal,harvestcraft:delightedmealItem,5
+dungeonChest,1xitem.heartybreakfastItem@0,Hearty Breakfast,harvestcraft:heartybreakfastItem,5
+dungeonChest,1xitem.curryItem@0,Curry Rice,harvestcraft:curryItem,5
+dungeonChest,1xitem.rainbowcurryItem@0,Rainbow Curry,harvestcraft:rainbowcurryItem,5
+dungeonChest,1xitem.supremepizzaItem@0,Supreme Pizza,harvestcraft:supremepizzaItem,5
+dungeonChest,1xitem.baconmushroomburgerItem@0,Bacon Mushroom Burger,harvestcraft:baconmushroomburgerItem,5
+dungeonChest,1xitem.sausageinbreadItem@0,Sauage in Bread,harvestcraft:sausageinbreadItem,5
+dungeonChest,1xitem.beefwellingtonItem@0,Beef Wellington,harvestcraft:beefwellingtonItem,5
+dungeonChest,1xitem.epicbaconItem@0,Epic Bacon,harvestcraft:epicbaconItem,5
+dungeonChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+dungeonChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+dungeonChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+dungeonChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+dungeonChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+dungeonChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+dungeonChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+dungeonChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+dungeonChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+dungeonChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+mfr:villageZoolologist,1xitem.mfr.safarinet.singleuse@0,Safari Net (Single-Use),MineFactoryReloaded:safarinet.singleuse,35
+mfr:villageZoolologist,1xitem.mfr.safarinet.jailer@0,Jailer's Safari Net,MineFactoryReloaded:safarinet.jailer,20
+mfr:villageZoolologist,1xitem.mfr.safarinet.reusable@0,Safari Net (Reusable),MineFactoryReloaded:safarinet.reusable,5
+mfr:villageZoolologist,1xitem.mfr.safarinet.singleuse@0,Safari Net (Single-Use),MineFactoryReloaded:safarinet.singleuse,17
+mfr:villageZoolologist,1xitem.mfr.safarinet.jailer@0,Jailer's Safari Net,MineFactoryReloaded:safarinet.jailer,10
+mfr:villageZoolologist,1xitem.mfr.safarinet.reusable@0,Safari Net (Reusable),MineFactoryReloaded:safarinet.reusable,2
+mfr:villageZoolologist,1xitem.leash@0,Lead,minecraft:lead,10
+mfr:villageZoolologist,1xitem.nameTag@0,Name Tag,minecraft:name_tag,10
+mfr:villageZoolologist,1xitem.mfr.safarinet.launcher@0,Safari Net Launcher,MineFactoryReloaded:safarinet.launcher,8
+mfr:villageZoolologist,1xitem.paper@0,Paper,minecraft:paper,14
+mfr:villageZoolologist,1xitem.coal@1,Charcoal,minecraft:coal,14
+mfr:villageZoolologist,1xitem.mfr.record.blank@0,Blank Record,MineFactoryReloaded:record.blank,14
+mfr:villageZoolologist,1xitem.book@0,Book,minecraft:book,7
+mfr:villageZoolologist,1xitem.mfr.spyglass@0,Spyglass,MineFactoryReloaded:spyglass,7
+mfr:villageZoolologist,1xitem.mfr.ruler@0,Ruler,MineFactoryReloaded:ruler,7
+mfr:villageZoolologist,1xitem.mfr.bucket.essence@0,Essence Bucket,MineFactoryReloaded:bucket.essence,6
+mfr:villageZoolologist,1xitem.mfr.syringe.empty@0,Empty Syringe,MineFactoryReloaded:syringe.empty,6
+mfr:villageZoolologist,1xitem.mfr.syringe.health@0,Health Syringe,MineFactoryReloaded:syringe.health,6
+mfr:villageZoolologist,1xitem.mfr.syringe.growth@0,Growth Syringe,MineFactoryReloaded:syringe.growth,6
+mfr:villageZoolologist,1xitem.mfr.hammer@0,Precision Sledgehammer,MineFactoryReloaded:hammer,25
+mfr:villageZoolologist,1xitem.mfr.plastic.armor.boots@0,Plastic Boots,MineFactoryReloaded:plastic.boots,25
+mfr:villageZoolologist,1xtile.mfr.rubberwood.sapling@0,Rubber Sapling,MineFactoryReloaded:rubberwood.sapling,20
+mfr:villageZoolologist,1xtile.mfr.vinescaffold@0,Vine Scaffolding,MineFactoryReloaded:vinescaffold,20
+mfr:villageZoolologist,1xitem.mfr.plastic.sheet@0,Plastic Sheets,MineFactoryReloaded:plastic.sheet,16
+mfr:villageZoolologist,1xitem.mfr.plastic.bag@0,Plastic Bag,MineFactoryReloaded:plastic.bag,7
+mfr:villageZoolologist,1xitem.reeds@0,Sugar Canes,minecraft:reeds,7
+mfr:villageZoolologist,1xitem.seeds_pumpkin@0,Pumpkin Seeds,minecraft:pumpkin_seeds,7
+mfr:villageZoolologist,1xitem.snowball@0,Snowball,minecraft:snowball,7
+mfr:villageZoolologist,2xtile.sapling@0,Oak Sapling,minecraft:sapling,7
+mfr:villageZoolologist,1xitem.mfr.straw@0,Straw,MineFactoryReloaded:straw,5
+mfr:villageZoolologist,1xitem.mfr.portaspawner@0,PortaSpawner,MineFactoryReloaded:portaspawner,1
+mineshaftCorridor,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+mineshaftCorridor,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,5
+mineshaftCorridor,1xitem.redstone@0,Redstone,minecraft:redstone,5
+mineshaftCorridor,1xitem.dyePowder@4,Lapis Lazuli,minecraft:dye,5
+mineshaftCorridor,1xitem.diamond@0,Diamond,minecraft:diamond,3
+mineshaftCorridor,1xitem.coal@0,Coal,minecraft:coal,10
+mineshaftCorridor,1xitem.bread@0,Bread,minecraft:bread,15
+mineshaftCorridor,1xitem.pickaxeIron@0,Iron Pickaxe,minecraft:iron_pickaxe,1
+mineshaftCorridor,1xtile.rail@0,Rail,minecraft:rail,1
+mineshaftCorridor,1xitem.seeds_melon@0,Melon Seeds,minecraft:melon_seeds,10
+mineshaftCorridor,1xitem.seeds_pumpkin@0,Pumpkin Seeds,minecraft:pumpkin_seeds,10
+mineshaftCorridor,1xitem.saddle@0,Saddle,minecraft:saddle,3
+mineshaftCorridor,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
+mineshaftCorridor,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+mineshaftCorridor,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+mineshaftCorridor,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,2
+mineshaftCorridor,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,1
+mineshaftCorridor,1xic2.itemTinCanFilled@0,(Filled) Tin Can,IC2:itemTinCanFilled,8
+mineshaftCorridor,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
+mineshaftCorridor,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+mineshaftCorridor,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+mineshaftCorridor,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
+mineshaftCorridor,1xitem.artifact@0,Artifact,Artifacts:artifact,0
+mineshaftCorridor,1xitem.artifact_leather_chestplate@0,Artifact Leather Armor,Artifacts:artifact_leather_chestplate,0
+mineshaftCorridor,1xitem.artifact_iron_helmet@0,Artifact Iron Armor,Artifacts:artifact_iron_helmet,0
+mineshaftCorridor,1xitem.artifact_chainmail_helmet@0,Artifact Chainmail Armor,Artifacts:artifact_chainmail_helmet,0
+mineshaftCorridor,1xitem.misc@1,Pile of Ashes,BiomesOPlenty:misc,25
+mineshaftCorridor,1xtile.plants@5,Thorns,BiomesOPlenty:plants,15
+mineshaftCorridor,1xitem.openblocks.glasses.technicolor@0,Amazing Technicolor Glasses,OpenBlocks:technicolorGlasses,2
+mineshaftCorridor,1xitem.splatAxe@0,Splat Axe,Ztones:splatAxe,1
+mineshaftCorridor,1xitem.mfr.safarinet.singleuse@0,Safari Net (Single-Use),MineFactoryReloaded:safarinet.singleuse,25
+mineshaftCorridor,1xitem.mfr.safarinet.jailer@0,Jailer's Safari Net,MineFactoryReloaded:safarinet.jailer,15
+mineshaftCorridor,1xitem.RedGear.Brewcraft.Ingredients@1,Golden Feather,redgear_brewcraft:RedGear.Brewcraft.Ingredients,10
+mineshaftCorridor,1xitem.chocopedia@0,Chocopedia,chococraft:Chocopedia,2
+mineshaftCorridor,1xitem.bioFossil@0,Bio-Fossil,fossil:bioFossil,10
+mineshaftCorridor,1xitem.potteryPatternDirty@0,Clay Pattern Stamp,GardenContainers:pottery_pattern_dirty,1
+mineshaftCorridor,1xitem.lorePage@0,Adventurer's Diary,HardcoreEnderExpansion:adventurers_diary,5
+mineshaftCorridor,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:temple_caller,1
+mineshaftCorridor,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,7
+mineshaftCorridor,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
+mineshaftCorridor,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+mineshaftCorridor,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
+mineshaftCorridor,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,4
+mineshaftCorridor,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,4
+mineshaftCorridor,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,4
+mineshaftCorridor,1xitem.ItemLootBag@1,Uncommon Treasure,Thaumcraft:ItemLootBag,3
+mineshaftCorridor,1xitem.ItemBaubleBlanks@0,Mundane Amulet,Thaumcraft:ItemBaubleBlanks,3
+mineshaftCorridor,1xitem.ItemBaubleBlanks@1,Mundane Ring,Thaumcraft:ItemBaubleBlanks,3
+mineshaftCorridor,1xitem.ItemBaubleBlanks@2,Mundane Belt,Thaumcraft:ItemBaubleBlanks,3
+mineshaftCorridor,1xitem.ItemResource@9,Knowledge Fragment,Thaumcraft:ItemResource,3
+mineshaftCorridor,1xitem.ItemLootBag@2,Rare Treasure,Thaumcraft:ItemLootBag,1
+mineshaftCorridor,1xitem.ItemThaumonomicon@0,Thaumonomicon,Thaumcraft:ItemThaumonomicon,1
+mineshaftCorridor,1xitem.ItemSwordThaumium@0,Thaumium Sword,Thaumcraft:ItemSwordThaumium,1
+mineshaftCorridor,1xitem.ItemPickThaumium@0,Thaumium Pickaxe,Thaumcraft:ItemPickThaumium,1
+mineshaftCorridor,1xitem.ItemAxeThaumium@0,Thaumium Axe,Thaumcraft:ItemAxeThaumium,1
+mineshaftCorridor,1xitem.ItemHoeThaumium@0,Thaumium Hoe,Thaumcraft:ItemHoeThaumium,1
+mineshaftCorridor,1xitem.ItemRingRunic@0,Ring of Protection,Thaumcraft:ItemRingRunic,1
+mineshaftCorridor,1xitem.ItemBaubleBlanks@3,Apprentices Ring of Aer,Thaumcraft:ItemBaubleBlanks,1
+mineshaftCorridor,1xitem.ItemBaubleBlanks@4,Apprentices Ring of Terra,Thaumcraft:ItemBaubleBlanks,1
+mineshaftCorridor,1xitem.ItemBaubleBlanks@5,Apprentices Ring of Ignis,Thaumcraft:ItemBaubleBlanks,1
+mineshaftCorridor,1xitem.ItemBaubleBlanks@6,Apprentices Ring of Aqua,Thaumcraft:ItemBaubleBlanks,1
+mineshaftCorridor,1xitem.ItemBaubleBlanks@7,Apprentices Ring of Ordo,Thaumcraft:ItemBaubleBlanks,1
+mineshaftCorridor,1xitem.ItemBaubleBlanks@8,Apprentices Ring of Perditio,Thaumcraft:ItemBaubleBlanks,1
+mineshaftCorridor,1xitem.ItemAmuletVis@0,Vis Stone,Thaumcraft:ItemAmuletVis,1
+mineshaftCorridor,1xitem.appliedenergistics2.ItemMaterial@0,Certus Quartz Crystal,appliedenergistics2:item.ItemMultiMaterial,2
+mineshaftCorridor,1xitem.appliedenergistics2.ItemMaterial@2,Certus Quartz Dust,appliedenergistics2:item.ItemMultiMaterial,2
+mineshaftCorridor,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,1
+mineshaftCorridor,1xitem.UnknownDimlet@0,Unknown Dimlet,rftools:unknownDimlet,50
+mineshaftCorridor,1xitem.spagettiandmeatballsItem@0,Spagetti and Meatballs,harvestcraft:spagettiandmeatballsItem,5
+mineshaftCorridor,1xitem.deluxecheeseburgerItem@0,Deluxe Cheeseburger,harvestcraft:deluxecheeseburgerItem,5
+mineshaftCorridor,1xitem.delightedmealItem@0,Delighted Meal,harvestcraft:delightedmealItem,5
+mineshaftCorridor,1xitem.heartybreakfastItem@0,Hearty Breakfast,harvestcraft:heartybreakfastItem,5
+mineshaftCorridor,1xitem.curryItem@0,Curry Rice,harvestcraft:curryItem,5
+mineshaftCorridor,1xitem.rainbowcurryItem@0,Rainbow Curry,harvestcraft:rainbowcurryItem,5
+mineshaftCorridor,1xitem.supremepizzaItem@0,Supreme Pizza,harvestcraft:supremepizzaItem,5
+mineshaftCorridor,1xitem.baconmushroomburgerItem@0,Bacon Mushroom Burger,harvestcraft:baconmushroomburgerItem,5
+mineshaftCorridor,1xitem.sausageinbreadItem@0,Sauage in Bread,harvestcraft:sausageinbreadItem,5
+mineshaftCorridor,1xitem.beefwellingtonItem@0,Beef Wellington,harvestcraft:beefwellingtonItem,5
+mineshaftCorridor,1xitem.epicbaconItem@0,Epic Bacon,harvestcraft:epicbaconItem,5
+mineshaftCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+mineshaftCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+mineshaftCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+mineshaftCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+mineshaftCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+mineshaftCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+mineshaftCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+mineshaftCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+mineshaftCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+mineshaftCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+naturalistChest,1xtile.for.candle@0,Unlit Dyed Candle,Forestry:candle,12
+naturalistChest,1xitem.for.scoop@0,Scoop,Forestry:scoop,8
+naturalistChest,1xitem.for.propolis@0,Propolis,Forestry:propolis,6
+naturalistChest,1xitem.for.beeCombs@0,Honey Comb,Forestry:beeCombs,7
+naturalistChest,1xitem.for.beeCombs@4,Frozen Comb,Forestry:beeCombs,7
+naturalistChest,1xitem.for.beeCombs@6,Silky Comb,Forestry:beeCombs,7
+naturalistChest,1xitem.for.beePrincessGE@0,Forest Princess,Forestry:beePrincessGE,5
+naturalistChest,1xitem.for.beeDroneGE@0,Common Drone,Forestry:beeDroneGE,8
+naturalistChest,1xitem.for.beePrincessGE@0,Meadows Princess,Forestry:beePrincessGE,5
+naturalistChest,1xitem.for.grafter@0,Grafter,Forestry:grafter,8
+naturalistChest,1xitem.for.sapling@0,Apple Oak Sapling,Forestry:sapling,6
+naturalistChest,1xitem.for.sapling@0,Red Spruce Sapling,Forestry:sapling,6
+naturalistChest,1xitem.for.sapling@0,Silver Birch Sapling,Forestry:sapling,6
+naturalistChest,1xitem.for.sapling@0,Mundane Larch Sapling,Forestry:sapling,4
+naturalistChest,1xitem.for.sapling@0,Silver Lime Sapling,Forestry:sapling,4
+naturalistChest,1xitem.for.pollenFertile@0,Apple Oak Pollen,Forestry:pollenFertile,4
+naturalistChest,1xitem.for.pollenFertile@0,Red Spruce Pollen,Forestry:pollenFertile,4
+naturalistChest,1xitem.for.pollenFertile@0,Silver Birch Pollen,Forestry:pollenFertile,4
+naturalistChest,1xitem.for.pollenFertile@0,Mundane Larch Pollen,Forestry:pollenFertile,3
+naturalistChest,1xitem.for.pollenFertile@0,Silver Lime Pollen,Forestry:pollenFertile,3
+pyramidDesertyChest,1xitem.diamond@0,Diamond,minecraft:diamond,3
+pyramidDesertyChest,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+pyramidDesertyChest,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,15
+pyramidDesertyChest,1xitem.emerald@0,Emerald,minecraft:emerald,2
+pyramidDesertyChest,1xitem.bone@0,Bone,minecraft:bone,20
+pyramidDesertyChest,1xitem.rottenFlesh@0,Rotten Flesh,minecraft:rotten_flesh,16
+pyramidDesertyChest,1xitem.saddle@0,Saddle,minecraft:saddle,3
+pyramidDesertyChest,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
+pyramidDesertyChest,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,1
+pyramidDesertyChest,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
+pyramidDesertyChest,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+pyramidDesertyChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+pyramidDesertyChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,2
+pyramidDesertyChest,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,3
+pyramidDesertyChest,1xic2.itemToolBronzeSword@0,Bronze Sword,IC2:itemToolBronzeSword,3
+pyramidDesertyChest,1xic2.itemArmorBronzeHelmet@0,Bronze Helmet,IC2:itemArmorBronzeHelmet,3
+pyramidDesertyChest,1xic2.itemArmorBronzeChestplate@0,Bronze Chestplate,IC2:itemArmorBronzeChestplate,3
+pyramidDesertyChest,1xic2.itemArmorBronzeLegs@0,Bronze Leggings,IC2:itemArmorBronzeLegs,3
+pyramidDesertyChest,1xic2.itemArmorBronzeBoots@0,Bronze Boots,IC2:itemArmorBronzeBoots,3
+pyramidDesertyChest,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
+pyramidDesertyChest,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+pyramidDesertyChest,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+pyramidDesertyChest,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
+pyramidDesertyChest,1xitem.artifact@0,Artifact,Artifacts:artifact,4
+pyramidDesertyChest,1xitem.artifact_golden_helmet@0,Artifact Golden Armor,Artifacts:artifact_golden_helmet,4
+pyramidDesertyChest,1xitem.artifact_golden_chestplate@0,Artifact Golden Armor,Artifacts:artifact_golden_chestplate,4
+pyramidDesertyChest,1xitem.artifact_golden_leggings@0,Artifact Golden Armor,Artifacts:artifact_golden_leggings,4
+pyramidDesertyChest,1xitem.artifact_golden_boots@0,Artifact Golden Armor,Artifacts:artifact_golden_boots,4
+pyramidDesertyChest,1xitem.ofanix@0,Ofanix,Ztones:ofanix,1
+pyramidDesertyChest,1xitem.totemTool@0,Totem Tool,Ztones:totemTool,1
+pyramidDesertyChest,1xitem.mfr.safarinet.singleuse@0,Safari Net (Single-Use),MineFactoryReloaded:safarinet.singleuse,25
+pyramidDesertyChest,1xitem.RedGear.Brewcraft.Ingredients@1,Golden Feather,redgear_brewcraft:RedGear.Brewcraft.Ingredients,10
+pyramidDesertyChest,1xitem.chocopedia@0,Chocopedia,chococraft:Chocopedia,2
+pyramidDesertyChest,1xitem.oc.multi@47,Floppy Disk,OpenComputers:item,5
+pyramidDesertyChest,1xitem.itemTravelStaff@0,Staff of Traveling,EnderIO:itemTravelStaff,3
+pyramidDesertyChest,1xitem.darkSteel_sword@0,The Ender,EnderIO:item.darkSteel_sword,4
+pyramidDesertyChest,1xitem.tconstruct.canister@1,Miniature Red Heart,TConstruct:heartCanister,10
+pyramidDesertyChest,1xitem.lorePage@0,Adventurer's Diary,HardcoreEnderExpansion:adventurers_diary,5
+pyramidDesertyChest,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:temple_caller,1
+pyramidDesertyChest,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,6
+pyramidDesertyChest,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
+pyramidDesertyChest,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+pyramidDesertyChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
+pyramidDesertyChest,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,5
+pyramidDesertyChest,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,5
+pyramidDesertyChest,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,5
+pyramidDesertyChest,1xitem.ItemLootBag@1,Uncommon Treasure,Thaumcraft:ItemLootBag,4
+pyramidDesertyChest,1xitem.ItemBaubleBlanks@0,Mundane Amulet,Thaumcraft:ItemBaubleBlanks,4
+pyramidDesertyChest,1xitem.ItemBaubleBlanks@1,Mundane Ring,Thaumcraft:ItemBaubleBlanks,4
+pyramidDesertyChest,1xitem.ItemBaubleBlanks@2,Mundane Belt,Thaumcraft:ItemBaubleBlanks,4
+pyramidDesertyChest,1xitem.ItemResource@9,Knowledge Fragment,Thaumcraft:ItemResource,4
+pyramidDesertyChest,1xitem.ItemLootBag@2,Rare Treasure,Thaumcraft:ItemLootBag,1
+pyramidDesertyChest,1xitem.ItemThaumonomicon@0,Thaumonomicon,Thaumcraft:ItemThaumonomicon,1
+pyramidDesertyChest,1xitem.ItemSwordThaumium@0,Thaumium Sword,Thaumcraft:ItemSwordThaumium,1
+pyramidDesertyChest,1xitem.ItemPickThaumium@0,Thaumium Pickaxe,Thaumcraft:ItemPickThaumium,1
+pyramidDesertyChest,1xitem.ItemAxeThaumium@0,Thaumium Axe,Thaumcraft:ItemAxeThaumium,1
+pyramidDesertyChest,1xitem.ItemHoeThaumium@0,Thaumium Hoe,Thaumcraft:ItemHoeThaumium,1
+pyramidDesertyChest,1xitem.ItemRingRunic@0,Ring of Protection,Thaumcraft:ItemRingRunic,1
+pyramidDesertyChest,1xitem.ItemBaubleBlanks@3,Apprentices Ring of Aer,Thaumcraft:ItemBaubleBlanks,1
+pyramidDesertyChest,1xitem.ItemBaubleBlanks@4,Apprentices Ring of Terra,Thaumcraft:ItemBaubleBlanks,1
+pyramidDesertyChest,1xitem.ItemBaubleBlanks@5,Apprentices Ring of Ignis,Thaumcraft:ItemBaubleBlanks,1
+pyramidDesertyChest,1xitem.ItemBaubleBlanks@6,Apprentices Ring of Aqua,Thaumcraft:ItemBaubleBlanks,1
+pyramidDesertyChest,1xitem.ItemBaubleBlanks@7,Apprentices Ring of Ordo,Thaumcraft:ItemBaubleBlanks,1
+pyramidDesertyChest,1xitem.ItemBaubleBlanks@8,Apprentices Ring of Perditio,Thaumcraft:ItemBaubleBlanks,1
+pyramidDesertyChest,1xitem.ItemAmuletVis@0,Vis Stone,Thaumcraft:ItemAmuletVis,1
+pyramidDesertyChest,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,6
+pyramidDesertyChest,1xitem.UnknownDimlet@0,Unknown Dimlet,rftools:unknownDimlet,50
+pyramidDesertyChest,1xitem.spagettiandmeatballsItem@0,Spagetti and Meatballs,harvestcraft:spagettiandmeatballsItem,5
+pyramidDesertyChest,1xitem.deluxecheeseburgerItem@0,Deluxe Cheeseburger,harvestcraft:deluxecheeseburgerItem,5
+pyramidDesertyChest,1xitem.delightedmealItem@0,Delighted Meal,harvestcraft:delightedmealItem,5
+pyramidDesertyChest,1xitem.heartybreakfastItem@0,Hearty Breakfast,harvestcraft:heartybreakfastItem,5
+pyramidDesertyChest,1xitem.curryItem@0,Curry Rice,harvestcraft:curryItem,5
+pyramidDesertyChest,1xitem.rainbowcurryItem@0,Rainbow Curry,harvestcraft:rainbowcurryItem,5
+pyramidDesertyChest,1xitem.supremepizzaItem@0,Supreme Pizza,harvestcraft:supremepizzaItem,5
+pyramidDesertyChest,1xitem.baconmushroomburgerItem@0,Bacon Mushroom Burger,harvestcraft:baconmushroomburgerItem,5
+pyramidDesertyChest,1xitem.sausageinbreadItem@0,Sauage in Bread,harvestcraft:sausageinbreadItem,5
+pyramidDesertyChest,1xitem.beefwellingtonItem@0,Beef Wellington,harvestcraft:beefwellingtonItem,5
+pyramidDesertyChest,1xitem.epicbaconItem@0,Epic Bacon,harvestcraft:epicbaconItem,5
+pyramidDesertyChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidDesertyChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidDesertyChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidDesertyChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidDesertyChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidDesertyChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidDesertyChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidDesertyChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidDesertyChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidDesertyChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleChest,1xitem.diamond@0,Diamond,minecraft:diamond,3
+pyramidJungleChest,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+pyramidJungleChest,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,15
+pyramidJungleChest,1xitem.emerald@0,Emerald,minecraft:emerald,2
+pyramidJungleChest,1xitem.bone@0,Bone,minecraft:bone,20
+pyramidJungleChest,1xitem.rottenFlesh@0,Rotten Flesh,minecraft:rotten_flesh,16
+pyramidJungleChest,1xitem.saddle@0,Saddle,minecraft:saddle,3
+pyramidJungleChest,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
+pyramidJungleChest,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,1
+pyramidJungleChest,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
+pyramidJungleChest,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+pyramidJungleChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+pyramidJungleChest,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,2
+pyramidJungleChest,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,3
+pyramidJungleChest,1xic2.itemToolBronzeSword@0,Bronze Sword,IC2:itemToolBronzeSword,3
+pyramidJungleChest,1xic2.itemArmorBronzeHelmet@0,Bronze Helmet,IC2:itemArmorBronzeHelmet,3
+pyramidJungleChest,1xic2.itemArmorBronzeChestplate@0,Bronze Chestplate,IC2:itemArmorBronzeChestplate,3
+pyramidJungleChest,1xic2.itemArmorBronzeLegs@0,Bronze Leggings,IC2:itemArmorBronzeLegs,3
+pyramidJungleChest,1xic2.itemArmorBronzeBoots@0,Bronze Boots,IC2:itemArmorBronzeBoots,3
+pyramidJungleChest,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
+pyramidJungleChest,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+pyramidJungleChest,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+pyramidJungleChest,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
+pyramidJungleChest,1xitem.artifact@0,Artifact,Artifacts:artifact,8
+pyramidJungleChest,1xitem.artifact_diamond_chestplate@0,Artifact Diamond Armor,Artifacts:artifact_diamond_chestplate,8
+pyramidJungleChest,1xitem.artifact_golden_chestplate@0,Artifact Golden Armor,Artifacts:artifact_golden_chestplate,8
+pyramidJungleChest,1xitem.artifact_iron_chestplate@0,Artifact Iron Armor,Artifacts:artifact_iron_chestplate,8
+pyramidJungleChest,1xitem.InfoCalculator@0,Info Calculator,Calculator:InfoCalculator,10
+pyramidJungleChest,1xitem.totemTool@0,Totem Tool,Ztones:totemTool,1
+pyramidJungleChest,1xitem.hunger@0,MSG Pill,Ztones:hunger,1
+pyramidJungleChest,1xtile.mfr.rubberwood.sapling@2,Mega Rubber Sapling,MineFactoryReloaded:rubberwood.sapling,8
+pyramidJungleChest,1xtile.mfr.rubberwood.sapling@1,Sacred Rubber Sapling,MineFactoryReloaded:rubberwood.sapling,1
+pyramidJungleChest,1xitem.RedGear.Brewcraft.Ingredients@1,Golden Feather,redgear_brewcraft:RedGear.Brewcraft.Ingredients,10
+pyramidJungleChest,1xitem.chocopedia@0,Chocopedia,chococraft:Chocopedia,2
+pyramidJungleChest,1xitem.oc.multi@47,Floppy Disk,OpenComputers:item,5
+pyramidJungleChest,1xitem.itemTravelStaff@0,Staff of Traveling,EnderIO:itemTravelStaff,3
+pyramidJungleChest,1xitem.darkSteel_sword@0,The Ender,EnderIO:item.darkSteel_sword,4
+pyramidJungleChest,1xitem.tconstruct.canister@1,Miniature Red Heart,TConstruct:heartCanister,10
+pyramidJungleChest,1xitem.lorePage@0,Adventurer's Diary,HardcoreEnderExpansion:adventurers_diary,5
+pyramidJungleChest,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:temple_caller,1
+pyramidJungleChest,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,6
+pyramidJungleChest,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
+pyramidJungleChest,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+pyramidJungleChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
+pyramidJungleChest,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,5
+pyramidJungleChest,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,5
+pyramidJungleChest,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,5
+pyramidJungleChest,1xitem.ItemLootBag@1,Uncommon Treasure,Thaumcraft:ItemLootBag,4
+pyramidJungleChest,1xitem.ItemBaubleBlanks@0,Mundane Amulet,Thaumcraft:ItemBaubleBlanks,4
+pyramidJungleChest,1xitem.ItemBaubleBlanks@1,Mundane Ring,Thaumcraft:ItemBaubleBlanks,4
+pyramidJungleChest,1xitem.ItemBaubleBlanks@2,Mundane Belt,Thaumcraft:ItemBaubleBlanks,4
+pyramidJungleChest,1xitem.ItemResource@9,Knowledge Fragment,Thaumcraft:ItemResource,4
+pyramidJungleChest,1xitem.ItemLootBag@2,Rare Treasure,Thaumcraft:ItemLootBag,1
+pyramidJungleChest,1xitem.ItemThaumonomicon@0,Thaumonomicon,Thaumcraft:ItemThaumonomicon,1
+pyramidJungleChest,1xitem.ItemSwordThaumium@0,Thaumium Sword,Thaumcraft:ItemSwordThaumium,1
+pyramidJungleChest,1xitem.ItemPickThaumium@0,Thaumium Pickaxe,Thaumcraft:ItemPickThaumium,1
+pyramidJungleChest,1xitem.ItemAxeThaumium@0,Thaumium Axe,Thaumcraft:ItemAxeThaumium,1
+pyramidJungleChest,1xitem.ItemHoeThaumium@0,Thaumium Hoe,Thaumcraft:ItemHoeThaumium,1
+pyramidJungleChest,1xitem.ItemRingRunic@0,Ring of Protection,Thaumcraft:ItemRingRunic,1
+pyramidJungleChest,1xitem.ItemBaubleBlanks@3,Apprentices Ring of Aer,Thaumcraft:ItemBaubleBlanks,1
+pyramidJungleChest,1xitem.ItemBaubleBlanks@4,Apprentices Ring of Terra,Thaumcraft:ItemBaubleBlanks,1
+pyramidJungleChest,1xitem.ItemBaubleBlanks@5,Apprentices Ring of Ignis,Thaumcraft:ItemBaubleBlanks,1
+pyramidJungleChest,1xitem.ItemBaubleBlanks@6,Apprentices Ring of Aqua,Thaumcraft:ItemBaubleBlanks,1
+pyramidJungleChest,1xitem.ItemBaubleBlanks@7,Apprentices Ring of Ordo,Thaumcraft:ItemBaubleBlanks,1
+pyramidJungleChest,1xitem.ItemBaubleBlanks@8,Apprentices Ring of Perditio,Thaumcraft:ItemBaubleBlanks,1
+pyramidJungleChest,1xitem.ItemAmuletVis@0,Vis Stone,Thaumcraft:ItemAmuletVis,1
+pyramidJungleChest,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,15
+pyramidJungleChest,1xitem.UnknownDimlet@0,Unknown Dimlet,rftools:unknownDimlet,50
+pyramidJungleChest,1xitem.spagettiandmeatballsItem@0,Spagetti and Meatballs,harvestcraft:spagettiandmeatballsItem,5
+pyramidJungleChest,1xitem.deluxecheeseburgerItem@0,Deluxe Cheeseburger,harvestcraft:deluxecheeseburgerItem,5
+pyramidJungleChest,1xitem.delightedmealItem@0,Delighted Meal,harvestcraft:delightedmealItem,5
+pyramidJungleChest,1xitem.heartybreakfastItem@0,Hearty Breakfast,harvestcraft:heartybreakfastItem,5
+pyramidJungleChest,1xitem.curryItem@0,Curry Rice,harvestcraft:curryItem,5
+pyramidJungleChest,1xitem.rainbowcurryItem@0,Rainbow Curry,harvestcraft:rainbowcurryItem,5
+pyramidJungleChest,1xitem.supremepizzaItem@0,Supreme Pizza,harvestcraft:supremepizzaItem,5
+pyramidJungleChest,1xitem.baconmushroomburgerItem@0,Bacon Mushroom Burger,harvestcraft:baconmushroomburgerItem,5
+pyramidJungleChest,1xitem.sausageinbreadItem@0,Sauage in Bread,harvestcraft:sausageinbreadItem,5
+pyramidJungleChest,1xitem.beefwellingtonItem@0,Beef Wellington,harvestcraft:beefwellingtonItem,5
+pyramidJungleChest,1xitem.epicbaconItem@0,Epic Bacon,harvestcraft:epicbaconItem,5
+pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleChest,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+pyramidJungleDispenser,1xitem.arrow@0,Arrow,minecraft:arrow,30
+pyramidJungleDispenser,1xitem.mfr.safarinet.singleuse@0,Safari Net (Single-Use),MineFactoryReloaded:safarinet.singleuse,25
+strongholdCorridor,1xitem.enderPearl@0,Ender Pearl,minecraft:ender_pearl,10
+strongholdCorridor,1xitem.diamond@0,Diamond,minecraft:diamond,3
+strongholdCorridor,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+strongholdCorridor,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,5
+strongholdCorridor,1xitem.redstone@0,Redstone,minecraft:redstone,5
+strongholdCorridor,1xitem.bread@0,Bread,minecraft:bread,15
+strongholdCorridor,1xitem.apple@0,Apple,minecraft:apple,15
+strongholdCorridor,1xitem.pickaxeIron@0,Iron Pickaxe,minecraft:iron_pickaxe,5
+strongholdCorridor,1xitem.swordIron@0,Iron Sword,minecraft:iron_sword,5
+strongholdCorridor,1xitem.chestplateIron@0,Iron Chestplate,minecraft:iron_chestplate,5
+strongholdCorridor,1xitem.helmetIron@0,Iron Helmet,minecraft:iron_helmet,5
+strongholdCorridor,1xitem.leggingsIron@0,Iron Leggings,minecraft:iron_leggings,5
+strongholdCorridor,1xitem.bootsIron@0,Iron Boots,minecraft:iron_boots,5
+strongholdCorridor,1xitem.appleGold@0,Golden Apple,minecraft:golden_apple,1
+strongholdCorridor,1xitem.saddle@0,Saddle,minecraft:saddle,1
+strongholdCorridor,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
+strongholdCorridor,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,1
+strongholdCorridor,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
+strongholdCorridor,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+strongholdCorridor,1xitem.manaResource@1,Mana Pearl,Botania:manaResource,8
+strongholdCorridor,1xitem.manaResource@1,Mana Pearl,Botania:manaResource,2
+strongholdCorridor,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+strongholdCorridor,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,2
+strongholdCorridor,1xic2.itemOreIridium@0,Iridium Ore,IC2:itemOreIridium,1
+strongholdCorridor,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,3
+strongholdCorridor,1xic2.itemToolBronzeSword@0,Bronze Sword,IC2:itemToolBronzeSword,3
+strongholdCorridor,1xic2.itemArmorBronzeHelmet@0,Bronze Helmet,IC2:itemArmorBronzeHelmet,3
+strongholdCorridor,1xic2.itemArmorBronzeChestplate@0,Bronze Chestplate,IC2:itemArmorBronzeChestplate,3
+strongholdCorridor,1xic2.itemArmorBronzeLegs@0,Bronze Leggings,IC2:itemArmorBronzeLegs,3
+strongholdCorridor,1xic2.itemArmorBronzeBoots@0,Bronze Boots,IC2:itemArmorBronzeBoots,3
+strongholdCorridor,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
+strongholdCorridor,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+strongholdCorridor,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+strongholdCorridor,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
+strongholdCorridor,1xitem.artifact@0,Artifact,Artifacts:artifact,3
+strongholdCorridor,1xitem.artifact_diamond_helmet@0,Artifact Diamond Armor,Artifacts:artifact_diamond_helmet,3
+strongholdCorridor,1xitem.artifact_diamond_chestplate@0,Artifact Diamond Armor,Artifacts:artifact_diamond_chestplate,3
+strongholdCorridor,1xitem.artifact_diamond_leggings@0,Artifact Diamond Armor,Artifacts:artifact_diamond_leggings,3
+strongholdCorridor,1xitem.artifact_diamond_boots@0,Artifact Diamond Armor,Artifacts:artifact_diamond_boots,3
+strongholdCorridor,1xtile.flowers@3,Glowflower,BiomesOPlenty:flowers,25
+strongholdCorridor,1xtile.flowers@2,Deathbloom,BiomesOPlenty:flowers,25
+strongholdCorridor,1xitem.frameOblivion@0,Oblivion Frame,MagicBees:frameOblivion,18
+strongholdCorridor,1xitem.grc.grapes@0,Grapes,Growthcraft|Grapes:grc.grapes,10
+strongholdCorridor,1xitem.grc.hops@0,Hops,Growthcraft|Hops:grc.hops,10
+strongholdCorridor,1xitem.RedGear.Brewcraft.Ingredients@1,Golden Feather,redgear_brewcraft:RedGear.Brewcraft.Ingredients,10
+strongholdCorridor,1xitem.chocopedia@0,Chocopedia,chococraft:Chocopedia,2
+strongholdCorridor,1xitem.lorePage@0,Adventurer's Diary,HardcoreEnderExpansion:adventurers_diary,5
+strongholdCorridor,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:temple_caller,1
+strongholdCorridor,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,9
+strongholdCorridor,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
+strongholdCorridor,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+strongholdCorridor,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,4
+strongholdCorridor,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,4
+strongholdCorridor,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,4
+strongholdCorridor,1xitem.ItemLootBag@1,Uncommon Treasure,Thaumcraft:ItemLootBag,3
+strongholdCorridor,1xitem.ItemBaubleBlanks@0,Mundane Amulet,Thaumcraft:ItemBaubleBlanks,3
+strongholdCorridor,1xitem.ItemBaubleBlanks@1,Mundane Ring,Thaumcraft:ItemBaubleBlanks,3
+strongholdCorridor,1xitem.ItemBaubleBlanks@2,Mundane Belt,Thaumcraft:ItemBaubleBlanks,3
+strongholdCorridor,1xitem.ItemResource@9,Knowledge Fragment,Thaumcraft:ItemResource,3
+strongholdCorridor,1xitem.ItemLootBag@2,Rare Treasure,Thaumcraft:ItemLootBag,1
+strongholdCorridor,1xitem.ItemThaumonomicon@0,Thaumonomicon,Thaumcraft:ItemThaumonomicon,1
+strongholdCorridor,1xitem.ItemSwordThaumium@0,Thaumium Sword,Thaumcraft:ItemSwordThaumium,1
+strongholdCorridor,1xitem.ItemPickThaumium@0,Thaumium Pickaxe,Thaumcraft:ItemPickThaumium,1
+strongholdCorridor,1xitem.ItemAxeThaumium@0,Thaumium Axe,Thaumcraft:ItemAxeThaumium,1
+strongholdCorridor,1xitem.ItemHoeThaumium@0,Thaumium Hoe,Thaumcraft:ItemHoeThaumium,1
+strongholdCorridor,1xitem.ItemRingRunic@0,Ring of Protection,Thaumcraft:ItemRingRunic,1
+strongholdCorridor,1xitem.ItemBaubleBlanks@3,Apprentices Ring of Aer,Thaumcraft:ItemBaubleBlanks,1
+strongholdCorridor,1xitem.ItemBaubleBlanks@4,Apprentices Ring of Terra,Thaumcraft:ItemBaubleBlanks,1
+strongholdCorridor,1xitem.ItemBaubleBlanks@5,Apprentices Ring of Ignis,Thaumcraft:ItemBaubleBlanks,1
+strongholdCorridor,1xitem.ItemBaubleBlanks@6,Apprentices Ring of Aqua,Thaumcraft:ItemBaubleBlanks,1
+strongholdCorridor,1xitem.ItemBaubleBlanks@7,Apprentices Ring of Ordo,Thaumcraft:ItemBaubleBlanks,1
+strongholdCorridor,1xitem.ItemBaubleBlanks@8,Apprentices Ring of Perditio,Thaumcraft:ItemBaubleBlanks,1
+strongholdCorridor,1xitem.ItemAmuletVis@0,Vis Stone,Thaumcraft:ItemAmuletVis,1
+strongholdCorridor,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,4
+strongholdCorridor,1xitem.UnknownDimlet@0,Unknown Dimlet,rftools:unknownDimlet,50
+strongholdCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCorridor,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCrossing,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+strongholdCrossing,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,5
+strongholdCrossing,1xitem.redstone@0,Redstone,minecraft:redstone,5
+strongholdCrossing,1xitem.coal@0,Coal,minecraft:coal,10
+strongholdCrossing,1xitem.bread@0,Bread,minecraft:bread,15
+strongholdCrossing,1xitem.apple@0,Apple,minecraft:apple,15
+strongholdCrossing,1xitem.pickaxeIron@0,Iron Pickaxe,minecraft:iron_pickaxe,1
+strongholdCrossing,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+strongholdCrossing,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,1
+strongholdCrossing,1xic2.itemOreIridium@0,Iridium Ore,IC2:itemOreIridium,1
+strongholdCrossing,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,3
+strongholdCrossing,1xic2.itemToolBronzeSword@0,Bronze Sword,IC2:itemToolBronzeSword,3
+strongholdCrossing,1xic2.itemArmorBronzeHelmet@0,Bronze Helmet,IC2:itemArmorBronzeHelmet,3
+strongholdCrossing,1xic2.itemArmorBronzeChestplate@0,Bronze Chestplate,IC2:itemArmorBronzeChestplate,3
+strongholdCrossing,1xic2.itemArmorBronzeLegs@0,Bronze Leggings,IC2:itemArmorBronzeLegs,3
+strongholdCrossing,1xic2.itemArmorBronzeBoots@0,Bronze Boots,IC2:itemArmorBronzeBoots,3
+strongholdCrossing,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
+strongholdCrossing,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+strongholdCrossing,1xitem.runes@17,Infinity Orb,arsmagica2:rune,3
+strongholdCrossing,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
+strongholdCrossing,1xitem.artifact@0,Artifact,Artifacts:artifact,1
+strongholdCrossing,1xitem.artifact_diamond_helmet@0,Artifact Diamond Armor,Artifacts:artifact_diamond_helmet,1
+strongholdCrossing,1xitem.artifact_diamond_chestplate@0,Artifact Diamond Armor,Artifacts:artifact_diamond_chestplate,1
+strongholdCrossing,1xitem.artifact_diamond_leggings@0,Artifact Diamond Armor,Artifacts:artifact_diamond_leggings,1
+strongholdCrossing,1xitem.artifact_diamond_boots@0,Artifact Diamond Armor,Artifacts:artifact_diamond_boots,1
+strongholdCrossing,1xtile.flowers@3,Glowflower,BiomesOPlenty:flowers,25
+strongholdCrossing,1xtile.flowers@2,Deathbloom,BiomesOPlenty:flowers,25
+strongholdCrossing,1xitem.grc.grapes@0,Grapes,Growthcraft|Grapes:grc.grapes,10
+strongholdCrossing,1xitem.grc.hops@0,Hops,Growthcraft|Hops:grc.hops,10
+strongholdCrossing,1xitem.chocopedia@0,Chocopedia,chococraft:Chocopedia,2
+strongholdCrossing,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:temple_caller,1
+strongholdCrossing,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,9
+strongholdCrossing,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
+strongholdCrossing,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+strongholdCrossing,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,4
+strongholdCrossing,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,4
+strongholdCrossing,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,4
+strongholdCrossing,1xitem.ItemLootBag@1,Uncommon Treasure,Thaumcraft:ItemLootBag,3
+strongholdCrossing,1xitem.ItemBaubleBlanks@0,Mundane Amulet,Thaumcraft:ItemBaubleBlanks,3
+strongholdCrossing,1xitem.ItemBaubleBlanks@1,Mundane Ring,Thaumcraft:ItemBaubleBlanks,3
+strongholdCrossing,1xitem.ItemBaubleBlanks@2,Mundane Belt,Thaumcraft:ItemBaubleBlanks,3
+strongholdCrossing,1xitem.ItemResource@9,Knowledge Fragment,Thaumcraft:ItemResource,3
+strongholdCrossing,1xitem.ItemLootBag@2,Rare Treasure,Thaumcraft:ItemLootBag,1
+strongholdCrossing,1xitem.ItemThaumonomicon@0,Thaumonomicon,Thaumcraft:ItemThaumonomicon,1
+strongholdCrossing,1xitem.ItemSwordThaumium@0,Thaumium Sword,Thaumcraft:ItemSwordThaumium,1
+strongholdCrossing,1xitem.ItemPickThaumium@0,Thaumium Pickaxe,Thaumcraft:ItemPickThaumium,1
+strongholdCrossing,1xitem.ItemAxeThaumium@0,Thaumium Axe,Thaumcraft:ItemAxeThaumium,1
+strongholdCrossing,1xitem.ItemHoeThaumium@0,Thaumium Hoe,Thaumcraft:ItemHoeThaumium,1
+strongholdCrossing,1xitem.ItemRingRunic@0,Ring of Protection,Thaumcraft:ItemRingRunic,1
+strongholdCrossing,1xitem.ItemBaubleBlanks@3,Apprentices Ring of Aer,Thaumcraft:ItemBaubleBlanks,1
+strongholdCrossing,1xitem.ItemBaubleBlanks@4,Apprentices Ring of Terra,Thaumcraft:ItemBaubleBlanks,1
+strongholdCrossing,1xitem.ItemBaubleBlanks@5,Apprentices Ring of Ignis,Thaumcraft:ItemBaubleBlanks,1
+strongholdCrossing,1xitem.ItemBaubleBlanks@6,Apprentices Ring of Aqua,Thaumcraft:ItemBaubleBlanks,1
+strongholdCrossing,1xitem.ItemBaubleBlanks@7,Apprentices Ring of Ordo,Thaumcraft:ItemBaubleBlanks,1
+strongholdCrossing,1xitem.ItemBaubleBlanks@8,Apprentices Ring of Perditio,Thaumcraft:ItemBaubleBlanks,1
+strongholdCrossing,1xitem.ItemAmuletVis@0,Vis Stone,Thaumcraft:ItemAmuletVis,1
+strongholdCrossing,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,3
+strongholdCrossing,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCrossing,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCrossing,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCrossing,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCrossing,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCrossing,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCrossing,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCrossing,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCrossing,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdCrossing,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,1
+strongholdLibrary,1xitem.book@0,Book,minecraft:book,20
+strongholdLibrary,1xitem.paper@0,Paper,minecraft:paper,20
+strongholdLibrary,1xitem.emptyMap@0,Empty Map,minecraft:map,1
+strongholdLibrary,1xitem.compass@0,Compass,minecraft:compass,1
+strongholdLibrary,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,2
+strongholdLibrary,1xitem.runes@17,Infinity Orb,arsmagica2:rune,5
+strongholdLibrary,1xitem.runes@18,Infinity Orb,arsmagica2:rune,1
+strongholdLibrary,1xitem.runes@19,Infinity Orb,arsmagica2:rune,6
+strongholdLibrary,1xitem.artifact@0,Artifact,Artifacts:artifact,6
+strongholdLibrary,1xitem.frameOblivion@0,Oblivion Frame,MagicBees:frameOblivion,23
+strongholdLibrary,1xitem.chocopedia@0,Chocopedia,chococraft:Chocopedia,2
+strongholdLibrary,1xitem.oc.multi@47,Floppy Disk,OpenComputers:item,5
+strongholdLibrary,1xitem.lorePage@0,Adventurer's Diary,HardcoreEnderExpansion:adventurers_diary,8
+strongholdLibrary,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:temple_caller,1
+strongholdLibrary,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,9
+strongholdLibrary,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
+strongholdLibrary,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+strongholdLibrary,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
+strongholdLibrary,1xitem.ItemLootBag@0,Common Treasure,Thaumcraft:ItemLootBag,4
+strongholdLibrary,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,4
+strongholdLibrary,1xitem.ItemResource@6,Amber,Thaumcraft:ItemResource,4
+strongholdLibrary,1xitem.ItemLootBag@1,Uncommon Treasure,Thaumcraft:ItemLootBag,3
+strongholdLibrary,1xitem.ItemBaubleBlanks@0,Mundane Amulet,Thaumcraft:ItemBaubleBlanks,3
+strongholdLibrary,1xitem.ItemBaubleBlanks@1,Mundane Ring,Thaumcraft:ItemBaubleBlanks,3
+strongholdLibrary,1xitem.ItemBaubleBlanks@2,Mundane Belt,Thaumcraft:ItemBaubleBlanks,3
+strongholdLibrary,1xitem.ItemResource@9,Knowledge Fragment,Thaumcraft:ItemResource,3
+strongholdLibrary,1xitem.ItemResource@9,Knowledge Fragment,Thaumcraft:ItemResource,20
+strongholdLibrary,1xitem.ItemLootBag@2,Rare Treasure,Thaumcraft:ItemLootBag,1
+strongholdLibrary,1xitem.ItemThaumonomicon@0,Thaumonomicon,Thaumcraft:ItemThaumonomicon,1
+strongholdLibrary,1xitem.ItemSwordThaumium@0,Thaumium Sword,Thaumcraft:ItemSwordThaumium,1
+strongholdLibrary,1xitem.ItemPickThaumium@0,Thaumium Pickaxe,Thaumcraft:ItemPickThaumium,1
+strongholdLibrary,1xitem.ItemAxeThaumium@0,Thaumium Axe,Thaumcraft:ItemAxeThaumium,1
+strongholdLibrary,1xitem.ItemHoeThaumium@0,Thaumium Hoe,Thaumcraft:ItemHoeThaumium,1
+strongholdLibrary,1xitem.ItemRingRunic@0,Ring of Protection,Thaumcraft:ItemRingRunic,1
+strongholdLibrary,1xitem.ItemBaubleBlanks@3,Apprentices Ring of Aer,Thaumcraft:ItemBaubleBlanks,1
+strongholdLibrary,1xitem.ItemBaubleBlanks@4,Apprentices Ring of Terra,Thaumcraft:ItemBaubleBlanks,1
+strongholdLibrary,1xitem.ItemBaubleBlanks@5,Apprentices Ring of Ignis,Thaumcraft:ItemBaubleBlanks,1
+strongholdLibrary,1xitem.ItemBaubleBlanks@6,Apprentices Ring of Aqua,Thaumcraft:ItemBaubleBlanks,1
+strongholdLibrary,1xitem.ItemBaubleBlanks@7,Apprentices Ring of Ordo,Thaumcraft:ItemBaubleBlanks,1
+strongholdLibrary,1xitem.ItemBaubleBlanks@8,Apprentices Ring of Perditio,Thaumcraft:ItemBaubleBlanks,1
+strongholdLibrary,1xitem.ItemAmuletVis@0,Vis Stone,Thaumcraft:ItemAmuletVis,1
+strongholdLibrary,1xitem.iguana.tcon.wearable@3,Bat Hat,IguanaTweaksTConstruct:wearableBucket,1
+strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
+strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
+strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
+strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
+strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
+strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
+strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
+strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
+strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
+strongholdLibrary,1xitem.computercraft:treasure_disk@0,Floppy Disk,ComputerCraft:treasureDisk,2
+villageBlacksmith,1xitem.diamond@0,Diamond,minecraft:diamond,3
+villageBlacksmith,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+villageBlacksmith,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,5
+villageBlacksmith,1xitem.bread@0,Bread,minecraft:bread,15
+villageBlacksmith,1xitem.apple@0,Apple,minecraft:apple,15
+villageBlacksmith,1xitem.pickaxeIron@0,Iron Pickaxe,minecraft:iron_pickaxe,5
+villageBlacksmith,1xitem.swordIron@0,Iron Sword,minecraft:iron_sword,5
+villageBlacksmith,1xitem.chestplateIron@0,Iron Chestplate,minecraft:iron_chestplate,5
+villageBlacksmith,1xitem.helmetIron@0,Iron Helmet,minecraft:iron_helmet,5
+villageBlacksmith,1xitem.leggingsIron@0,Iron Leggings,minecraft:iron_leggings,5
+villageBlacksmith,1xitem.bootsIron@0,Iron Boots,minecraft:iron_boots,5
+villageBlacksmith,1xtile.obsidian@0,Obsidian,minecraft:obsidian,5
+villageBlacksmith,1xtile.sapling@0,Oak Sapling,minecraft:sapling,5
+villageBlacksmith,1xitem.saddle@0,Saddle,minecraft:saddle,3
+villageBlacksmith,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
+villageBlacksmith,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,1
+villageBlacksmith,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
+villageBlacksmith,1xitem.blackLotus@0,Black Lotus,Botania:blackLotus,6
+villageBlacksmith,1xic2.itemIngot@2,Bronze Ingot,IC2:itemIngot,5
+villageBlacksmith,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,3
+villageBlacksmith,1xic2.itemToolBronzeSword@0,Bronze Sword,IC2:itemToolBronzeSword,3
+villageBlacksmith,1xic2.itemArmorBronzeHelmet@0,Bronze Helmet,IC2:itemArmorBronzeHelmet,3
+villageBlacksmith,1xic2.itemArmorBronzeChestplate@0,Bronze Chestplate,IC2:itemArmorBronzeChestplate,3
+villageBlacksmith,1xic2.itemArmorBronzeLegs@0,Bronze Leggings,IC2:itemArmorBronzeLegs,3
+villageBlacksmith,1xic2.itemArmorBronzeBoots@0,Bronze Boots,IC2:itemArmorBronzeBoots,3
+villageBlacksmith,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
+villageBlacksmith,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+villageBlacksmith,1xic2.blockRubSapling@0,Rubber Tree Sapling,IC2:blockRubSapling,4
+villageBlacksmith,1xitem.artifact@0,Artifact,Artifacts:artifact,1
+villageBlacksmith,1xitem.artifact_iron_helmet@0,Artifact Iron Armor,Artifacts:artifact_iron_helmet,1
+villageBlacksmith,1xitem.artifact_iron_chestplate@0,Artifact Iron Armor,Artifacts:artifact_iron_chestplate,1
+villageBlacksmith,1xitem.artifact_iron_leggings@0,Artifact Iron Armor,Artifacts:artifact_iron_leggings,1
+villageBlacksmith,1xitem.artifact_iron_boots@0,Artifact Iron Armor,Artifacts:artifact_iron_boots,1
+villageBlacksmith,1xtile.plants@5,Thorns,BiomesOPlenty:plants,25
+villageBlacksmith,1xitem.misc@1,Pile of Ashes,BiomesOPlenty:misc,25
+villageBlacksmith,1xitem.wadingBoots@0,Wading Boots,BiomesOPlenty:wadingBoots,5
+villageBlacksmith,1xitem.flippers@0,Flippers,BiomesOPlenty:flippers,5
+villageBlacksmith,1xitem.Calculator@0,Calculator,Calculator:Calculator,4
+villageBlacksmith,1xitem.CraftingCalculator@0,Crafting Calculator,Calculator:CraftingCalculator,4
+villageBlacksmith,1xitem.InfoCalculator@0,Info Calculator,Calculator:InfoCalculator,4
+villageBlacksmith,1xtile.reinforcedstoneBlock@0,Reinforced Stone,Calculator:reinforcedstoneBlock,12
+villageBlacksmith,1xitem.Wrench@0,Wrench,Calculator:Wrench,3
+villageBlacksmith,1xitem.ingredient@4,Spectre Iron,RandomThings:ingredient,3
+villageBlacksmith,1xitem.terrainEater@0,Terrain Eater,Ztones:terrainEater,1
+villageBlacksmith,1xitem.minicharcoal@0,Mini Charcoal,Ztones:minicharcoal,2
+villageBlacksmith,1xitem.minicoal@0,Mini Coal,Ztones:minicoal,2
+villageBlacksmith,1xitem.itemAlloy@0,Electrical Steel,EnderIO:itemAlloy,20
+villageBlacksmith,1xitem.itemAlloy@3,Redstone Alloy,EnderIO:itemAlloy,35
+villageBlacksmith,1xitem.itemAlloy@6,Dark Steel,EnderIO:itemAlloy,35
+villageBlacksmith,1xitem.itemAlloy@5,Pulsating Iron,EnderIO:itemAlloy,10
+villageBlacksmith,1xitem.itemAlloy@2,Vibrant Alloy,EnderIO:itemAlloy,5
+villageBlacksmith,1xitem.darkSteel_sword@0,The Ender,EnderIO:item.darkSteel_sword,5
+villageBlacksmith,1xitem.darkSteel_boots@0,Dark Boots,EnderIO:item.darkSteel_boots,5
+villageBlacksmith,1xitem.whip@0,Whip,fossil:whip,50
+villageBlacksmith,1xitem.templeCaller@0,Temple Caller,HardcoreEnderExpansion:temple_caller,1
+villageBlacksmith,1xitem.knowledgeNote@0,Knowledge Note,HardcoreEnderExpansion:knowledge_note,6
+villageBlacksmith,1xitem.stopWorm@0,STOP! -Worm,PneumaticCraft:stopWorm,10
+villageBlacksmith,1xitem.nukeVirus@0,Nuke Virus,PneumaticCraft:nukeVirus,10
+villageBlacksmith,1xitem.ItemResource@2,Thaumium Ingot,Thaumcraft:ItemResource,10
+villageBlacksmith,1xitem.UnknownDimlet@0,Unknown Dimlet,rftools:unknownDimlet,50
+villageBlacksmith,1xitem.iguana.tcon.wearable@0,Holey Bucket,IguanaTweaksTConstruct:wearableBucket,1

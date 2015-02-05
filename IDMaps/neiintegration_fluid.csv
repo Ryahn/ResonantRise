@@ -1,779 +1,765 @@
-ID,Name,Temperature,Luminosity,Density,Viscosity,Block ID,Block Class
-1,water,295,0,1000,1000,minecraft:water,net.minecraft.block.BlockStaticLiquid
-2,lava,1300,15,3000,6000,minecraft:lava,net.minecraft.block.BlockStaticLiquid
-3,life essence,295,0,2000,2000,AWWayofTime:lifeEssence,WayofTime.alchemicalWizardry.common.block.LifeEssenceBlock
-4,fluxgoo,295,7,8,6000,Thaumcraft:blockFluxGoo,thaumcraft.common.blocks.BlockFluxGoo
-5,fluidpure,295,10,1000,1000,Thaumcraft:blockFluidPure,thaumcraft.common.blocks.BlockFluidPure
-6,fluiddeath,295,8,1000,1500,Thaumcraft:blockFluidDeath,thaumcraft.common.blocks.BlockFluidDeath
-7,redstone,350,7,1200,1500,ThermalFoundation:FluidRedstone,thermalfoundation.fluid.BlockFluidRedstone
-8,glowstone,350,15,-500,100,ThermalFoundation:FluidGlowstone,thermalfoundation.fluid.BlockFluidGlowstone
-9,ender,300,3,4000,3000,ThermalFoundation:FluidEnder,thermalfoundation.fluid.BlockFluidEnder
-10,pyrotheum,4000,15,2000,1200,ThermalFoundation:FluidPyrotheum,thermalfoundation.fluid.BlockFluidPyrotheum
-11,cryotheum,50,0,4000,3000,ThermalFoundation:FluidCryotheum,thermalfoundation.fluid.BlockFluidCryotheum
-12,mana,350,15,600,6000,ThermalFoundation:FluidMana,thermalfoundation.fluid.BlockFluidMana
-13,steam,673,0,-100,100,MineFactoryReloaded:steam.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
-14,coal,300,0,900,2000,ThermalFoundation:FluidCoal,thermalfoundation.fluid.BlockFluidCoal
-15,ic2uumatter,300,0,3000,3000,IC2:fluidUuMatter,ic2.core.block.BlockIC2Fluid
-16,ic2constructionfoam,300,0,10000,50000,IC2:fluidConstructionFoam,ic2.core.block.BlockIC2Fluid
-17,ic2coolant,300,0,1000,3000,IC2:fluidCoolant,ic2.core.block.BlockIC2Fluid
-18,ic2hotcoolant,1200,0,1000,3000,IC2:fluidHotCoolant,ic2.core.block.BlockIC2Fluid
-19,ic2pahoehoelava,1200,10,50000,250000,IC2:fluidPahoehoeLava,ic2.core.block.BlockIC2Fluid
-20,ic2biomass,300,0,1000,3000,IC2:fluidBiomass,ic2.core.block.BlockIC2Fluid
-21,ic2biogas,300,0,1000,3000,IC2:fluidBiogas,ic2.core.block.BlockIC2Fluid
-22,ic2distilledwater,300,0,1000,1000,IC2:fluidDistilledWater,ic2.core.block.BlockIC2Fluid
-23,ic2superheatedsteam,600,0,-3000,100,IC2:fluidSuperheatedSteam,ic2.core.block.BlockIC2Fluid
-24,ic2steam,420,0,-800,300,IC2:fluidSteam,ic2.core.block.BlockIC2Fluid
-25,liquidessence,295,0,8,3000,arsmagica2:liquidEssence,am2.blocks.liquid.BlockLiquidEssence
-26,poison,295,0,1000,1000,BiomesOPlenty:poison,biomesoplenty.common.fluids.blocks.BlockPoisonFluid
-27,hell_blood,295,0,1000,1000,BiomesOPlenty:hell_blood,biomesoplenty.common.fluids.blocks.BlockBloodFluid
-28,honey,295,0,1000,1500,BiomesOPlenty:honey,biomesoplenty.common.fluids.blocks.BlockHoneyFluid
-29,short.mead,295,0,1000,1000,null,null
-30,milk,295,0,1050,1050,MineFactoryReloaded:milk.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
-31,sludge,295,0,1700,1700,MineFactoryReloaded:sludge.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
-32,sewage,295,0,1200,1200,MineFactoryReloaded:sewage.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
-33,mobessence,310,9,400,400,MineFactoryReloaded:mobessence.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
-34,biofuel,295,0,800,800,MineFactoryReloaded:biofuel.still,powercrystals.minefactoryreloaded.block.fluid.BlockExplodingFluid
-35,meat,295,0,2000,2000,MineFactoryReloaded:meat.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
-36,pinkslime,295,0,3000,3000,MineFactoryReloaded:pinkslime.still,powercrystals.minefactoryreloaded.block.fluid.BlockPinkSlimeFluid
-37,chocolatemilk,295,0,1100,1100,MineFactoryReloaded:chocolatemilk.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
-38,mushroomsoup,295,0,1500,1500,MineFactoryReloaded:mushroomsoup.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
-39,oil,295,0,850,2000,Artifice:tile.artifice.fluid.oil,shukaro.artifice.block.fluid.BlockFluidOil
-40,fuel,295,0,750,1000,Artifice:tile.artifice.fluid.fuel,shukaro.artifice.block.fluid.BlockFluidFuel
-41,creosote,295,0,1100,1100,Artifice:tile.artifice.fluid.creosote,shukaro.artifice.block.fluid.BlockFluidCreosote
-42,bitumen,295,0,1100,10000,Artifice:tile.artifice.fluid.bitumen,shukaro.artifice.block.fluid.BlockFluidBitumen
-43,yellorium,295,10,100,100,BigReactors:tile.fluid.yellorium.still,erogenousbeef.bigreactors.common.block.BlockBRGenericFluid
-44,cyanite,295,6,100,100,BigReactors:tile.fluid.cyanite.still,erogenousbeef.bigreactors.common.block.BlockBRGenericFluid
-45,fuelcolumn,295,0,1000,1000,null,null
-46,acid,295,0,1000,1000,null,null
-47,liquidnitrogen,295,0,1000,1000,null,null
-48,sap,295,0,1000,1000,null,null
-49,resin,295,0,1000,1000,null,null
-50,latex,295,0,1000,1000,null,null
-51,turpentine,295,0,1000,1000,null,null
-52,binnie.juiceapple,295,0,1000,1000,null,null
-53,binnie.juiceapricot,295,0,1000,1000,null,null
-54,binnie.juicebanana,295,0,1000,1000,null,null
-55,binnie.juicecherry,295,0,1000,1000,null,null
-56,binnie.juiceelderberry,295,0,1000,1000,null,null
-57,binnie.juicelemon,295,0,1000,1000,null,null
-58,binnie.juicelime,295,0,1000,1000,null,null
-59,binnie.juiceorange,295,0,1000,1000,null,null
-60,binnie.juicepeach,295,0,1000,1000,null,null
-61,binnie.juiceplum,295,0,1000,1000,null,null
-62,binnie.juicecarrot,295,0,1000,1000,null,null
-63,binnie.juicetomato,295,0,1000,1000,null,null
-64,binnie.juicecranberry,295,0,1000,1000,null,null
-65,binnie.juicegrapefruit,295,0,1000,1000,null,null
-66,binnie.juiceolive,295,0,1000,1000,null,null
-67,binnie.juicepineapple,295,0,1000,1000,null,null
-68,binnie.juicepear,295,0,1000,1000,null,null
-69,binnie.juicewhitegrape,295,0,1000,1000,null,null
-70,binnie.juiceredgrape,295,0,1000,1000,null,null
-71,binnie.ciderapple,295,0,1000,1000,null,null
-72,binnie.wineapricot,295,0,1000,1000,null,null
-73,binnie.winebanana,295,0,1000,1000,null,null
-74,binnie.winecherry,295,0,1000,1000,null,null
-75,binnie.wineelderberry,295,0,1000,1000,null,null
-76,binnie.ciderpeach,295,0,1000,1000,null,null
-77,binnie.ciderpear,295,0,1000,1000,null,null
-78,binnie.wineplum,295,0,1000,1000,null,null
-79,binnie.winecarrot,295,0,1000,1000,null,null
-80,binnie.winewhite,295,0,1000,1000,null,null
-81,binnie.winered,295,0,1000,1000,null,null
-82,binnie.winesparkling,295,0,1000,1000,null,null
-83,binnie.wineagave,295,0,1000,1000,null,null
-84,binnie.fermentedpotatoes,295,0,1000,1000,null,null
-85,binnie.winecitrus,295,0,1000,1000,null,null
-86,binnie.winecranberry,295,0,1000,1000,null,null
-87,binnie.winepineapple,295,0,1000,1000,null,null
-88,binnie.winetomato,295,0,1000,1000,null,null
-89,binnie.juice,295,0,1000,1000,null,null
-90,binnie.beerale,295,0,1000,1000,null,null
-91,binnie.beerlager,295,0,1000,1000,null,null
-92,binnie.beerwheat,295,0,1000,1000,null,null
-93,binnie.beerrye,295,0,1000,1000,null,null
-94,binnie.beercorn,295,0,1000,1000,null,null
-95,binnie.beerstout,295,0,1000,1000,null,null
-96,binnie.mashgrain,295,0,1000,1000,null,null
-97,binnie.mashwheat,295,0,1000,1000,null,null
-98,binnie.mashrye,295,0,1000,1000,null,null
-99,binnie.mashcorn,295,0,1000,1000,null,null
-100,binnie.spiritneutral,295,0,1000,1000,null,null
-101,binnie.vodka,295,0,1000,1000,null,null
-102,binnie.rumwhite,295,0,1000,1000,null,null
-103,binnie.rumdark,295,0,1000,1000,null,null
-104,binnie.whiskey,295,0,1000,1000,null,null
-105,binnie.whiskeycorn,295,0,1000,1000,null,null
-106,binnie.whiskeyrye,295,0,1000,1000,null,null
-107,binnie.whiskeywheat,295,0,1000,1000,null,null
-108,binnie.winefortified,295,0,1000,1000,null,null
-109,binnie.tequila,295,0,1000,1000,null,null
-110,binnie.brandygrape,295,0,1000,1000,null,null
-111,binnie.brandyapple,295,0,1000,1000,null,null
-112,binnie.brandypear,295,0,1000,1000,null,null
-113,binnie.brandyapricot,295,0,1000,1000,null,null
-114,binnie.brandyplum,295,0,1000,1000,null,null
-115,binnie.brandycherry,295,0,1000,1000,null,null
-116,binnie.brandyelderberry,295,0,1000,1000,null,null
-117,binnie.brandycitrus,295,0,1000,1000,null,null
-118,binnie.brandyfruit,295,0,1000,1000,null,null
-119,binnie.spiritsugarcane,295,0,1000,1000,null,null
-120,binnie.spiritgin,295,0,1000,1000,null,null
-121,binnie.liquorapple,295,0,1000,1000,null,null
-122,binnie.liquorpear,295,0,1000,1000,null,null
-123,binnie.liquorcherry,295,0,1000,1000,null,null
-124,binnie.liquorelderberry,295,0,1000,1000,null,null
-125,binnie.liquorapricot,295,0,1000,1000,null,null
-126,binnie.liquorfruit,295,0,1000,1000,null,null
-127,binnie.liqueuralmond,295,0,1000,1000,null,null
-128,binnie.liqueurorange,295,0,1000,1000,null,null
-129,binnie.liqueurbanana,295,0,1000,1000,null,null
-130,binnie.liqueurchocolate,295,0,1000,1000,null,null
-131,binnie.liqueurmint,295,0,1000,1000,null,null
-132,binnie.liqueurhazelnut,295,0,1000,1000,null,null
-133,binnie.liqueurcinnamon,295,0,1000,1000,null,null
-134,binnie.liqueurcoffee,295,0,1000,1000,null,null
-135,binnie.liqueurmelon,295,0,1000,1000,null,null
-136,binnie.liqueuranise,295,0,1000,1000,null,null
-137,binnie.liqueurpeach,295,0,1000,1000,null,null
-138,binnie.liqueurlemon,295,0,1000,1000,null,null
-139,binnie.liqueurherbal,295,0,1000,1000,null,null
-140,binnie.liqueurcherry,295,0,1000,1000,null,null
-141,binnie.liqueurblackcurrant,295,0,1000,1000,null,null
-142,binnie.liqueurblackberry,295,0,1000,1000,null,null
-143,binnie.liqueurraspberry,295,0,1000,1000,null,null
-144,binnie.growthmedium,295,0,1000,1000,null,null
-145,binnie.bacteria,295,0,1000,1000,null,null
-146,binnie.bacteriapoly,295,0,1000,1000,null,null
-147,binnie.dna.raw,295,0,1000,1000,null,null
-148,binnie.bacteriavector,295,0,1000,1000,null,null
-149,redplasma,295,30,10000,10000,BuildCraft|Energy:blockRedPlasma,buildcraft.energy.BlockBuildcraftFluid
-150,nutrient_distillation,295,0,1500,3000,EnderIO:blockNutrient_distillation,crazypants.enderio.fluid.BlockFluidEio
-151,hootch,295,0,900,1000,EnderIO:blockHootch,crazypants.enderio.fluid.BlockFluidEio
-152,rocket_fuel,295,0,900,1000,EnderIO:blockRocket_fuel,crazypants.enderio.fluid.BlockFluidEio
-153,fire_water,295,0,900,1000,EnderIO:blockFire_water,crazypants.enderio.fluid.BlockFluidEio
-154,gascraft_naturalgas,295,0,-1000,100,gascraft:naturalGas,emasher.gas.block.BlockNaturalGas
-155,gascraft_propellent,295,0,-1000,100,gascraft:propellent,emasher.gas.block.BlockPropellent
-156,gascraft_hydrogen,295,0,-1000,100,gascraft:hydrogen,emasher.gas.block.BlockHydrogen
-157,gascraft_smoke,295,0,-1000,100,gascraft:smoke,emasher.gas.block.BlockSmoke
-158,gascraft_toxicgas,295,0,-1000,100,gascraft:weaponizedGas,emasher.gas.block.BlockWeaponizedGas
-159,gascraft_neurotoxin,295,0,-1000,100,gascraft:neurotoxin,emasher.gas.block.BlockNeurotoxin
-160,gascraft_corrosivegas,295,0,-1000,100,gascraft:corrosiveGas,emasher.gas.block.BlockCorrosiveGas
-161,gascraft_plasma,2600,15,-1000,100,gascraft:plasma,emasher.gas.block.BlockPlasma
-162,slime.blue,295,0,1000,1000,TConstruct:liquid.slime,tconstruct.blocks.slime.SlimeFluid
-163,iron.molten,1300,12,3000,6000,TConstruct:fluid.molten.iron,tconstruct.smeltery.blocks.TConstructFluid
-164,gold.molten,1300,12,3000,6000,TConstruct:fluid.molten.gold,tconstruct.smeltery.blocks.TConstructFluid
-165,copper.molten,1300,12,3000,6000,TConstruct:fluid.molten.copper,tconstruct.smeltery.blocks.TConstructFluid
-166,tin.molten,1300,12,3000,6000,TConstruct:fluid.molten.tin,tconstruct.smeltery.blocks.TConstructFluid
-167,aluminum.molten,1300,12,3000,6000,TConstruct:fluid.molten.aluminum,tconstruct.smeltery.blocks.TConstructFluid
-168,cobalt.molten,1300,12,3000,6000,TConstruct:fluid.molten.cobalt,tconstruct.smeltery.blocks.TConstructFluid
-169,ardite.molten,1300,12,3000,6000,TConstruct:fluid.molten.ardite,tconstruct.smeltery.blocks.TConstructFluid
-170,bronze.molten,1300,12,3000,6000,TConstruct:fluid.molten.bronze,tconstruct.smeltery.blocks.TConstructFluid
-171,aluminumbrass.molten,1300,12,3000,6000,TConstruct:fluid.molten.alubrass,tconstruct.smeltery.blocks.TConstructFluid
-172,manyullyn.molten,1300,12,3000,6000,TConstruct:fluid.molten.manyullyn,tconstruct.smeltery.blocks.TConstructFluid
-173,alumite.molten,1300,12,3000,6000,TConstruct:fluid.molten.alumite,tconstruct.smeltery.blocks.TConstructFluid
-174,obsidian.molten,1300,12,3000,6000,TConstruct:fluid.molten.obsidian,tconstruct.smeltery.blocks.TConstructFluid
-175,steel.molten,1300,12,3000,6000,TConstruct:fluid.molten.steel,tconstruct.smeltery.blocks.TConstructFluid
-176,glass.molten,1300,12,3000,6000,TConstruct:fluid.molten.glass,tconstruct.smeltery.blocks.TConstructFluid
-177,stone.seared,1300,12,3000,6000,TConstruct:molten.stone,tconstruct.smeltery.blocks.TConstructFluid
-178,emerald.liquid,1300,12,3000,6000,TConstruct:molten.emerald,tconstruct.smeltery.blocks.TConstructFluid
-179,blood,1300,0,3000,6000,TConstruct:liquid.blood,tconstruct.smeltery.blocks.BloodBlock
-180,nickel.molten,1300,0,3000,6000,TConstruct:fluid.molten.nickel,tconstruct.smeltery.blocks.TConstructFluid
-181,lead.molten,1300,0,3000,6000,TConstruct:fluid.molten.lead,tconstruct.smeltery.blocks.TConstructFluid
-182,silver.molten,1300,0,3000,6000,TConstruct:fluid.molten.silver,tconstruct.smeltery.blocks.TConstructFluid
-183,platinum.molten,1300,0,3000,6000,TConstruct:fluid.molten.shiny,tconstruct.smeltery.blocks.TConstructFluid
-184,invar.molten,1300,0,3000,6000,TConstruct:fluid.molten.invar,tconstruct.smeltery.blocks.TConstructFluid
-185,electrum.molten,1300,0,3000,6000,TConstruct:fluid.molten.electrum,tconstruct.smeltery.blocks.TConstructFluid
-186,glue,200,0,6000,6000,TConstruct:liquid.glue,tconstruct.smeltery.blocks.GlueFluid
-187,pigiron.molten,1300,0,3000,6000,TConstruct:fluid.molten.pigiron,tconstruct.smeltery.blocks.PigIronMoltenBlock
-188,manganese.molten,1300,15,3000,6000,Metallurgy:manganese.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-189,hepatizon.molten,1300,15,3000,6000,Metallurgy:hepatizon.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-190,damascus.steel.molten,1300,15,3000,6000,Metallurgy:damascus.steel.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-191,angmallen.molten,1300,15,3000,6000,Metallurgy:angmallen.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-192,eximite.molten,1300,15,3000,6000,Metallurgy:eximite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-193,meutoite.molten,1300,15,3000,6000,Metallurgy:meutoite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-194,desichalkos.molten,1300,15,3000,6000,Metallurgy:desichalkos.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-195,prometheum.molten,1300,15,3000,6000,Metallurgy:prometheum.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-196,deep.iron.molten,1300,15,3000,6000,Metallurgy:deep.iron.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-197,infuscolium.molten,1300,15,3000,6000,Metallurgy:infuscolium.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-198,black.steel.molten,1300,15,3000,6000,Metallurgy:black.steel.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-199,oureclase.molten,1300,15,3000,6000,Metallurgy:oureclase.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-200,astral.silver.molten,1300,15,3000,6000,Metallurgy:astral.silver.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-201,carmot.molten,1300,15,3000,6000,Metallurgy:carmot.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-202,mithril.molten,1300,15,3000,6000,Metallurgy:mithril.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-203,rubracium.molten,1300,15,3000,6000,Metallurgy:rubracium.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-204,quicksilver.molten,1300,15,3000,6000,Metallurgy:quicksilver.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-205,haderoth.molten,1300,15,3000,6000,Metallurgy:haderoth.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-206,orichalcum.molten,1300,15,3000,6000,Metallurgy:orichalcum.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-207,celenegil.molten,1300,15,3000,6000,Metallurgy:celenegil.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-208,adamantine.molten,1300,15,3000,6000,Metallurgy:adamantine.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-209,atlarus.molten,1300,15,3000,6000,Metallurgy:atlarus.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-210,tartarite.molten,1300,15,3000,6000,Metallurgy:tartarite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-211,ignatius.molten,1300,15,3000,6000,Metallurgy:ignatius.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-212,shadow.iron.molten,1300,15,3000,6000,Metallurgy:shadow.iron.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-213,lemurite.molten,1300,15,3000,6000,Metallurgy:lemurite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-214,midasium.molten,1300,15,3000,6000,Metallurgy:midasium.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-215,vyroxeres.molten,1300,15,3000,6000,Metallurgy:vyroxeres.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-216,ceruclase.molten,1300,15,3000,6000,Metallurgy:ceruclase.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-217,alduorite.molten,1300,15,3000,6000,Metallurgy:alduorite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-218,kalendrite.molten,1300,15,3000,6000,Metallurgy:kalendrite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-219,vulcanite.molten,1300,15,3000,6000,Metallurgy:vulcanite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-220,sanguinite.molten,1300,15,3000,6000,Metallurgy:sanguinite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-221,shadow.steel.molten,1300,15,3000,6000,Metallurgy:shadow.steel.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-222,inolashite.molten,1300,15,3000,6000,Metallurgy:inolashite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-223,amordrine.molten,1300,15,3000,6000,Metallurgy:amordrine.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-224,zinc.molten,1300,15,3000,6000,Metallurgy:zinc.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-225,brass.molten,1300,15,3000,6000,Metallurgy:brass.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
-226,refined.glowstone.molten,1300,15,3000,6000,ExtraTiC:moltenRefinedGlowstone,glassmaker.extratic.metals.MoltenMetalBlock
-227,osmium.molten,1300,15,3000,6000,ExtraTiC:moltenOsmium,glassmaker.extratic.metals.MoltenMetalBlock
-228,pokefennium.molten,1300,15,3000,6000,ExtraTiC:moltenPokefennium,glassmaker.extratic.metals.MoltenMetalBlock
-229,fairy.molten,1300,15,3000,6000,ExtraTiC:moltenFairy,glassmaker.extratic.metals.MoltenMetalBlock
-230,methane,295,0,1,11,null,null
-231,atmosphericgases,295,0,1,13,null,null
-232,liquidmethane,109,0,450,120,null,null
-233,liquidoxygen,90,0,1141,140,null,null
-234,oxygen,295,0,1,13,null,null
-235,nitrogen,295,0,1,12,null,null
-236,carbondioxide,295,0,2,20,null,null
-237,hydrogen,295,0,1,1,null,null
-238,argon,295,0,1,4,null,null
-239,liquidargon,87,0,900,100,null,null
-240,helium,295,0,1,1,null,null
-241,bacterialsludge,295,0,1000,3000,GalacticraftMars:tile.sludge,micdoodle8.mods.galacticraft.planets.mars.blocks.BlockSludge
-242,mutagen,295,0,1000,1000,gendustry:fluid.Mutagen,net.bdew.gendustry.fluids.BlockFluid
-243,liquiddna,295,0,1000,1000,gendustry:fluid.LiquidDNA,net.bdew.gendustry.fluids.BlockFluid
-244,protein,295,0,1000,1000,gendustry:fluid.Protein,net.bdew.gendustry.fluids.BlockFluid
-245,grc.applecider0,295,0,1000,1000,null,null
-246,grc.applecider1,295,0,1000,1000,null,null
-247,grc.applecider2,295,0,1000,1000,null,null
-248,grc.applecider3,295,0,1000,1000,null,null
-249,grc.honeymead0,295,0,1000,1000,null,null
-250,grc.honeymead1,295,0,1000,1000,null,null
-251,grc.honeymead2,295,0,1000,1000,null,null
-252,grc.honeymead3,295,0,1000,1000,null,null
-253,grc.grapewine0,295,0,1000,1000,null,null
-254,grc.grapewine1,295,0,1000,1000,null,null
-255,grc.grapewine2,295,0,1000,1000,null,null
-256,grc.grapewine3,295,0,1000,1000,null,null
-257,grc.hopale0,295,0,1000,1000,null,null
-258,grc.hopale1,295,0,1000,1000,null,null
-259,grc.hopale2,295,0,1000,1000,null,null
-260,grc.hopale3,295,0,1000,1000,null,null
-261,grc.hopale4,295,0,1000,1000,null,null
-262,grc.ricesake0,295,0,1000,1000,null,null
-263,grc.ricesake1,295,0,1000,1000,null,null
-264,grc.ricesake2,295,0,1000,1000,null,null
-265,grc.ricesake3,295,0,1000,1000,null,null
-266,endergoo,220,0,1500,1500,HardcoreEnderExpansion:ender_goo,chylex.hee.block.BlockEnderGoo
-267,hydraulicoil,295,0,10,3000,HydCraft:tile.hydraulicOil,k4unl.minecraft.Hydraulicraft.fluids.BlockFluidOil
-268,gas.natural,295,0,1000,1000,null,null
-269,fastwater,295,0,1000,1000,Mariculture:highPressureWater,mariculture.core.blocks.BlockPressurisedWater
-270,quicklime,295,0,1000,1000,null,null
-271,salt.molten,295,0,1000,1000,null,null
-272,magnesium.molten,295,0,1000,1000,null,null
-273,titanium.molten,295,0,1000,1000,null,null
-274,rutile.molten,295,0,1000,1000,null,null
-275,xp,295,0,1000,1000,null,null
-276,fishfood,295,0,1000,1000,null,null
-277,fishoil,295,0,1000,1000,Mariculture:fish_oil,mariculture.fishery.blocks.fluids.BlockFishOil
-278,custard,295,0,1000,1000,Mariculture:custard,mariculture.fishery.blocks.fluids.BlockCustard
-279,dirt,295,0,1000,1000,null,null
-280,gunpowder,295,0,1000,1000,Mariculture:gunpowder_molten,mariculture.fishery.blocks.fluids.BlockGunpowder
-281,flux,295,0,1000,1000,Mariculture:flux_molten,mariculture.fishery.blocks.fluids.BlockFlux
-282,ice,295,0,1000,1000,Mariculture:ice_molten,mariculture.fishery.blocks.fluids.BlockIce
-283,chlorophyll,295,0,1000,1000,Mariculture:chlorophyll,mariculture.fishery.blocks.fluids.BlockChlorophyll
-284,chlorine,295,0,1000,1000,null,null
-285,sulfurdioxidegas,295,0,1000,1000,null,null
-286,sulfurtrioxidegas,295,0,1000,1000,null,null
-287,sulfuricacid,295,0,1000,1000,null,null
-288,hydrogenchloride,295,0,1000,1000,null,null
-289,ethene,295,0,1000,1000,null,null
-290,sodium,295,0,1000,1000,null,null
-291,brine,295,0,1000,1000,null,null
-292,h,295,0,-10,400,minechem:fluid.H.name,minechem.fluid.FluidBlockElement
-293,he,295,0,-10,400,minechem:fluid.He.name,minechem.fluid.FluidBlockElement
-294,li,295,0,10,1200,minechem:fluid.Li.name,minechem.fluid.FluidBlockElement
-295,be,295,0,10,1200,minechem:fluid.Be.name,minechem.fluid.FluidBlockElement
-296,b,295,0,10,1200,minechem:fluid.B.name,minechem.fluid.FluidBlockElement
-297,c,295,0,10,1200,minechem:fluid.C.name,minechem.fluid.FluidBlockElement
-298,n,295,0,-10,400,minechem:fluid.N.name,minechem.fluid.FluidBlockElement
-299,o,295,0,-10,400,minechem:fluid.O.name,minechem.fluid.FluidBlockElement
-300,f,295,0,-10,400,minechem:fluid.F.name,minechem.fluid.FluidBlockElement
-301,ne,295,0,-10,400,minechem:fluid.Ne.name,minechem.fluid.FluidBlockElement
-302,na,295,0,10,1200,minechem:fluid.Na.name,minechem.fluid.FluidBlockElement
-303,mg,295,0,10,1200,minechem:fluid.Mg.name,minechem.fluid.FluidBlockElement
-304,al,295,0,10,1200,minechem:fluid.Al.name,minechem.fluid.FluidBlockElement
-305,si,295,0,10,1200,minechem:fluid.Si.name,minechem.fluid.FluidBlockElement
-306,p,295,0,10,1200,minechem:fluid.P.name,minechem.fluid.FluidBlockElement
-307,s,295,0,10,1200,minechem:fluid.S.name,minechem.fluid.FluidBlockElement
-308,cl,295,0,-10,400,minechem:fluid.Cl.name,minechem.fluid.FluidBlockElement
-309,ar,295,0,-10,400,minechem:fluid.Ar.name,minechem.fluid.FluidBlockElement
-310,k,295,0,10,1200,minechem:fluid.K.name,minechem.fluid.FluidBlockElement
-311,ca,295,0,10,1200,minechem:fluid.Ca.name,minechem.fluid.FluidBlockElement
-312,sc,295,0,10,1200,minechem:fluid.Sc.name,minechem.fluid.FluidBlockElement
-313,ti,295,0,10,1200,minechem:fluid.Ti.name,minechem.fluid.FluidBlockElement
-314,v,295,0,10,1200,minechem:fluid.V.name,minechem.fluid.FluidBlockElement
-315,cr,295,0,10,1200,minechem:fluid.Cr.name,minechem.fluid.FluidBlockElement
-316,mn,295,0,10,1200,minechem:fluid.Mn.name,minechem.fluid.FluidBlockElement
-317,fe,295,0,10,1200,minechem:fluid.Fe.name,minechem.fluid.FluidBlockElement
-318,co,295,0,10,1200,minechem:fluid.Co.name,minechem.fluid.FluidBlockElement
-319,ni,295,0,10,1200,minechem:fluid.Ni.name,minechem.fluid.FluidBlockElement
-320,cu,295,0,10,1200,minechem:fluid.Cu.name,minechem.fluid.FluidBlockElement
-321,zn,295,0,10,1200,minechem:fluid.Zn.name,minechem.fluid.FluidBlockElement
-322,ga,295,0,10,1200,minechem:fluid.Ga.name,minechem.fluid.FluidBlockElement
-323,ge,295,0,10,1200,minechem:fluid.Ge.name,minechem.fluid.FluidBlockElement
-324,as,295,0,10,1200,minechem:fluid.As.name,minechem.fluid.FluidBlockElement
-325,se,295,0,10,1200,minechem:fluid.Se.name,minechem.fluid.FluidBlockElement
-326,br,295,0,10,1000,minechem:fluid.Br.name,minechem.fluid.FluidBlockElement
-327,kr,295,0,-10,400,minechem:fluid.Kr.name,minechem.fluid.FluidBlockElement
-328,rb,295,0,10,1200,minechem:fluid.Rb.name,minechem.fluid.FluidBlockElement
-329,sr,295,0,10,1200,minechem:fluid.Sr.name,minechem.fluid.FluidBlockElement
-330,y,295,0,10,1200,minechem:fluid.Y.name,minechem.fluid.FluidBlockElement
-331,zr,295,0,10,1200,minechem:fluid.Zr.name,minechem.fluid.FluidBlockElement
-332,nb,295,0,10,1200,minechem:fluid.Nb.name,minechem.fluid.FluidBlockElement
-333,mo,295,0,10,1200,minechem:fluid.Mo.name,minechem.fluid.FluidBlockElement
-334,tc,295,0,10,1200,minechem:fluid.Tc.name,minechem.fluid.FluidBlockElement
-335,ru,295,0,10,1200,minechem:fluid.Ru.name,minechem.fluid.FluidBlockElement
-336,rh,295,0,10,1200,minechem:fluid.Rh.name,minechem.fluid.FluidBlockElement
-337,pd,295,0,10,1200,minechem:fluid.Pd.name,minechem.fluid.FluidBlockElement
-338,ag,295,0,10,1200,minechem:fluid.Ag.name,minechem.fluid.FluidBlockElement
-339,cd,295,0,10,1200,minechem:fluid.Cd.name,minechem.fluid.FluidBlockElement
-340,in,295,0,10,1200,minechem:fluid.In.name,minechem.fluid.FluidBlockElement
-341,sn,295,0,10,1200,minechem:fluid.Sn.name,minechem.fluid.FluidBlockElement
-342,sb,295,0,10,1200,minechem:fluid.Sb.name,minechem.fluid.FluidBlockElement
-343,te,295,0,10,1200,minechem:fluid.Te.name,minechem.fluid.FluidBlockElement
-344,i,295,0,10,1200,minechem:fluid.I.name,minechem.fluid.FluidBlockElement
-345,xe,295,0,-10,400,minechem:fluid.Xe.name,minechem.fluid.FluidBlockElement
-346,cs,295,0,10,1200,minechem:fluid.Cs.name,minechem.fluid.FluidBlockElement
-347,ba,295,0,10,1200,minechem:fluid.Ba.name,minechem.fluid.FluidBlockElement
-348,la,295,0,10,1200,minechem:fluid.La.name,minechem.fluid.FluidBlockElement
-349,ce,295,0,10,1200,minechem:fluid.Ce.name,minechem.fluid.FluidBlockElement
-350,pr,295,0,10,1200,minechem:fluid.Pr.name,minechem.fluid.FluidBlockElement
-351,nd,295,0,10,1200,minechem:fluid.Nd.name,minechem.fluid.FluidBlockElement
-352,pm,295,0,10,1200,minechem:fluid.Pm.name,minechem.fluid.FluidBlockElement
-353,sm,295,0,10,1200,minechem:fluid.Sm.name,minechem.fluid.FluidBlockElement
-354,eu,295,0,10,1200,minechem:fluid.Eu.name,minechem.fluid.FluidBlockElement
-355,gd,295,0,10,1200,minechem:fluid.Gd.name,minechem.fluid.FluidBlockElement
-356,tb,295,0,10,1200,minechem:fluid.Tb.name,minechem.fluid.FluidBlockElement
-357,dy,295,0,10,1200,minechem:fluid.Dy.name,minechem.fluid.FluidBlockElement
-358,ho,295,0,10,1200,minechem:fluid.Ho.name,minechem.fluid.FluidBlockElement
-359,er,295,0,10,1200,minechem:fluid.Er.name,minechem.fluid.FluidBlockElement
-360,tm,295,0,10,1200,minechem:fluid.Tm.name,minechem.fluid.FluidBlockElement
-361,yb,295,0,10,1200,minechem:fluid.Yb.name,minechem.fluid.FluidBlockElement
-362,lu,295,0,10,1200,minechem:fluid.Lu.name,minechem.fluid.FluidBlockElement
-363,hf,295,0,10,1200,minechem:fluid.Hf.name,minechem.fluid.FluidBlockElement
-364,ta,295,0,10,1200,minechem:fluid.Ta.name,minechem.fluid.FluidBlockElement
-365,w,295,0,10,1200,minechem:fluid.W.name,minechem.fluid.FluidBlockElement
-366,re,295,0,10,1200,minechem:fluid.Re.name,minechem.fluid.FluidBlockElement
-367,os,295,0,10,1200,minechem:fluid.Os.name,minechem.fluid.FluidBlockElement
-368,ir,295,0,10,1200,minechem:fluid.Ir.name,minechem.fluid.FluidBlockElement
-369,pt,295,0,10,1200,minechem:fluid.Pt.name,minechem.fluid.FluidBlockElement
-370,au,295,0,10,1200,minechem:fluid.Au.name,minechem.fluid.FluidBlockElement
-371,hg,295,0,10,1000,minechem:fluid.Hg.name,minechem.fluid.FluidBlockElement
-372,tl,295,0,10,1200,minechem:fluid.Tl.name,minechem.fluid.FluidBlockElement
-373,pb,295,0,10,1200,minechem:fluid.Pb.name,minechem.fluid.FluidBlockElement
-374,bi,295,0,10,1200,minechem:fluid.Bi.name,minechem.fluid.FluidBlockElement
-375,po,295,0,10,1200,minechem:fluid.Po.name,minechem.fluid.FluidBlockElement
-376,at,295,0,10,1200,minechem:fluid.At.name,minechem.fluid.FluidBlockElement
-377,rn,295,0,-10,400,minechem:fluid.Rn.name,minechem.fluid.FluidBlockElement
-378,fr,295,0,10,1200,minechem:fluid.Fr.name,minechem.fluid.FluidBlockElement
-379,ra,295,0,10,1200,minechem:fluid.Ra.name,minechem.fluid.FluidBlockElement
-380,ac,295,0,10,1200,minechem:fluid.Ac.name,minechem.fluid.FluidBlockElement
-381,th,295,0,10,1200,minechem:fluid.Th.name,minechem.fluid.FluidBlockElement
-382,pa,295,0,10,1200,minechem:fluid.Pa.name,minechem.fluid.FluidBlockElement
-383,u,295,0,10,1200,minechem:fluid.U.name,minechem.fluid.FluidBlockElement
-384,np,295,0,10,1200,minechem:fluid.Np.name,minechem.fluid.FluidBlockElement
-385,pu,295,0,10,1200,minechem:fluid.Pu.name,minechem.fluid.FluidBlockElement
-386,am,295,0,10,1200,minechem:fluid.Am.name,minechem.fluid.FluidBlockElement
-387,cm,295,0,10,1200,minechem:fluid.Cm.name,minechem.fluid.FluidBlockElement
-388,bk,295,0,10,1200,minechem:fluid.Bk.name,minechem.fluid.FluidBlockElement
-389,cf,295,0,10,1200,minechem:fluid.Cf.name,minechem.fluid.FluidBlockElement
-390,es,295,0,10,1200,minechem:fluid.Es.name,minechem.fluid.FluidBlockElement
-391,fm,295,0,10,1200,minechem:fluid.Fm.name,minechem.fluid.FluidBlockElement
-392,md,295,0,10,1200,minechem:fluid.Md.name,minechem.fluid.FluidBlockElement
-393,no,295,0,10,1200,minechem:fluid.No.name,minechem.fluid.FluidBlockElement
-394,lr,295,0,10,1200,minechem:fluid.Lr.name,minechem.fluid.FluidBlockElement
-395,rf,295,0,10,1200,minechem:fluid.Rf.name,minechem.fluid.FluidBlockElement
-396,db,295,0,10,1200,minechem:fluid.Db.name,minechem.fluid.FluidBlockElement
-397,sg,295,0,10,1200,minechem:fluid.Sg.name,minechem.fluid.FluidBlockElement
-398,bh,295,0,10,1200,minechem:fluid.Bh.name,minechem.fluid.FluidBlockElement
-399,hs,295,0,10,1200,minechem:fluid.Hs.name,minechem.fluid.FluidBlockElement
-400,mt,295,0,10,1200,minechem:fluid.Mt.name,minechem.fluid.FluidBlockElement
-401,ds,295,0,10,1200,minechem:fluid.Ds.name,minechem.fluid.FluidBlockElement
-402,rg,295,0,10,1200,minechem:fluid.Rg.name,minechem.fluid.FluidBlockElement
-403,cn,295,0,10,1200,minechem:fluid.Cn.name,minechem.fluid.FluidBlockElement
-404,uut,295,0,10,1200,minechem:fluid.Uut.name,minechem.fluid.FluidBlockElement
-405,cellulose,295,0,10,1200,minechem:fluid.cellulose.name,minechem.fluid.FluidBlockMolecule
-406,nitrogendioxide,295,0,-10,400,minechem:fluid.nitrogenDioxide.name,minechem.fluid.FluidBlockMolecule
-407,toluene,295,0,10,1000,minechem:fluid.toluene.name,minechem.fluid.FluidBlockMolecule
-408,potassiumnitrate,295,0,10,1200,minechem:fluid.potassiumNitrate.name,minechem.fluid.FluidBlockMolecule
-409,tnt,295,0,10,1200,minechem:fluid.tnt.name,minechem.fluid.FluidBlockMolecule
-410,silicondioxide,295,0,10,1200,minechem:fluid.siliconDioxide.name,minechem.fluid.FluidBlockMolecule
-411,calcicpyroxene,295,0,10,1200,minechem:fluid.calcicPyroxene.name,minechem.fluid.FluidBlockMolecule
-412,pyrite,295,0,10,1200,minechem:fluid.pyrite.name,minechem.fluid.FluidBlockMolecule
-413,nepheline,295,0,10,1200,minechem:fluid.nepheline.name,minechem.fluid.FluidBlockMolecule
-414,sulfate,295,0,10,1200,minechem:fluid.sulfate.name,minechem.fluid.FluidBlockMolecule
-415,noselite,295,0,10,1200,minechem:fluid.noselite.name,minechem.fluid.FluidBlockMolecule
-416,sodalite,295,0,10,1200,minechem:fluid.sodalite.name,minechem.fluid.FluidBlockMolecule
-417,nitrate,295,0,10,1200,minechem:fluid.nitrate.name,minechem.fluid.FluidBlockMolecule
-418,carbonate,295,0,10,1200,minechem:fluid.carbonate.name,minechem.fluid.FluidBlockMolecule
-419,cyanide,295,0,10,1000,minechem:fluid.cyanide.name,minechem.fluid.FluidBlockMolecule
-420,phosphate,295,0,10,1200,minechem:fluid.phosphate.name,minechem.fluid.FluidBlockMolecule
-421,acetate,295,0,10,1200,minechem:fluid.acetate.name,minechem.fluid.FluidBlockMolecule
-422,chromate,295,0,10,1200,minechem:fluid.chromate.name,minechem.fluid.FluidBlockMolecule
-423,hydroxide,295,0,10,1000,minechem:fluid.hydroxide.name,minechem.fluid.FluidBlockMolecule
-424,ammonium,295,0,10,1000,minechem:fluid.ammonium.name,minechem.fluid.FluidBlockMolecule
-425,hydronium,295,0,10,1000,minechem:fluid.hydronium.name,minechem.fluid.FluidBlockMolecule
-426,peroxide,295,0,10,1000,minechem:fluid.peroxide.name,minechem.fluid.FluidBlockMolecule
-427,calciumoxide,295,0,10,1200,minechem:fluid.calciumOxide.name,minechem.fluid.FluidBlockMolecule
-428,calciumcarbonate,295,0,10,1200,minechem:fluid.calciumCarbonate.name,minechem.fluid.FluidBlockMolecule
-429,magnesiumcarbonate,295,0,10,1200,minechem:fluid.magnesiumCarbonate.name,minechem.fluid.FluidBlockMolecule
-430,lazurite,295,0,10,1200,minechem:fluid.lazurite.name,minechem.fluid.FluidBlockMolecule
-431,isoprene,295,0,10,1200,minechem:fluid.isoprene.name,minechem.fluid.FluidBlockMolecule
-432,butene,295,0,-10,400,minechem:fluid.butene.name,minechem.fluid.FluidBlockMolecule
-433,polyisobutylene,295,0,10,1000,minechem:fluid.polyisobutylene.name,minechem.fluid.FluidBlockMolecule
-434,malicacid,295,0,10,1200,minechem:fluid.malicAcid.name,minechem.fluid.FluidBlockMolecule
-435,vinylchloride,295,0,-10,400,minechem:fluid.vinylChloride.name,minechem.fluid.FluidBlockMolecule
-436,polyvinylchloride,295,0,10,1200,minechem:fluid.polyvinylChloride.name,minechem.fluid.FluidBlockMolecule
-437,methamphetamine,295,0,10,1200,minechem:fluid.methamphetamine.name,minechem.fluid.FluidBlockMolecule
-438,psilocybin,295,0,10,1200,minechem:fluid.psilocybin.name,minechem.fluid.FluidBlockMolecule
-439,iron3oxide,295,0,10,1200,minechem:fluid.iron3oxide.name,minechem.fluid.FluidBlockMolecule
-440,strontiumnitrate,295,0,10,1200,minechem:fluid.strontiumNitrate.name,minechem.fluid.FluidBlockMolecule
-441,magnetite,295,0,10,1200,minechem:fluid.magnetite.name,minechem.fluid.FluidBlockMolecule
-442,magnesiumoxide,295,0,10,1200,minechem:fluid.magnesiumOxide.name,minechem.fluid.FluidBlockMolecule
-443,cucurbitacin,295,0,10,1200,minechem:fluid.cucurbitacin.name,minechem.fluid.FluidBlockMolecule
-444,asparticacid,295,0,10,1200,minechem:fluid.asparticAcid.name,minechem.fluid.FluidBlockMolecule
-445,hydroxylapatite,295,0,10,1200,minechem:fluid.hydroxylapatite.name,minechem.fluid.FluidBlockMolecule
-446,alinine,295,0,10,1200,minechem:fluid.alinine.name,minechem.fluid.FluidBlockMolecule
-447,glycine,295,0,10,1200,minechem:fluid.glycine.name,minechem.fluid.FluidBlockMolecule
-448,serine,295,0,10,1200,minechem:fluid.serine.name,minechem.fluid.FluidBlockMolecule
-449,mescaline,295,0,10,1200,minechem:fluid.mescaline.name,minechem.fluid.FluidBlockMolecule
-450,methyl,295,0,10,1000,minechem:fluid.methyl.name,minechem.fluid.FluidBlockMolecule
-451,methylene,295,0,10,1000,minechem:fluid.methylene.name,minechem.fluid.FluidBlockMolecule
-452,memethacrylate,295,0,10,1000,minechem:fluid.memethacrylate.name,minechem.fluid.FluidBlockMolecule
-453,pmma,295,0,10,1200,minechem:fluid.pmma.name,minechem.fluid.FluidBlockMolecule
-454,redpigment,295,0,10,1200,minechem:fluid.redPigment.name,minechem.fluid.FluidBlockMolecule
-455,orangepigment,295,0,10,1200,minechem:fluid.orangePigment.name,minechem.fluid.FluidBlockMolecule
-456,yellowpigment,295,0,10,1200,minechem:fluid.yellowPigment.name,minechem.fluid.FluidBlockMolecule
-457,limepigment,295,0,10,1200,minechem:fluid.limePigment.name,minechem.fluid.FluidBlockMolecule
-458,lightbluepigment,295,0,10,1200,minechem:fluid.lightbluePigment.name,minechem.fluid.FluidBlockMolecule
-459,purplepigment,295,0,10,1200,minechem:fluid.purplePigment.name,minechem.fluid.FluidBlockMolecule
-460,greenpigment,295,0,10,1200,minechem:fluid.greenPigment.name,minechem.fluid.FluidBlockMolecule
-461,blackpigment,295,0,-10,400,minechem:fluid.blackPigment.name,minechem.fluid.FluidBlockMolecule
-462,whitepigment,295,0,10,1200,minechem:fluid.whitePigment.name,minechem.fluid.FluidBlockMolecule
-463,metasilicate,295,0,10,1200,minechem:fluid.metasilicate.name,minechem.fluid.FluidBlockMolecule
-464,beryl,295,0,10,1200,minechem:fluid.beryl.name,minechem.fluid.FluidBlockMolecule
-465,ethanol,295,0,10,1000,minechem:fluid.ethanol.name,minechem.fluid.FluidBlockMolecule
-466,amphetamine,295,0,10,1000,minechem:fluid.amphetamine.name,minechem.fluid.FluidBlockMolecule
-467,theobromine,295,0,10,1200,minechem:fluid.theobromine.name,minechem.fluid.FluidBlockMolecule
-468,starch,295,0,10,1200,minechem:fluid.starch.name,minechem.fluid.FluidBlockMolecule
-469,sucrose,295,0,10,1200,minechem:fluid.sucrose.name,minechem.fluid.FluidBlockMolecule
-470,pantherine,295,0,10,1200,minechem:fluid.pantherine.name,minechem.fluid.FluidBlockMolecule
-471,aluminiumoxide,295,0,10,1200,minechem:fluid.aluminiumOxide.name,minechem.fluid.FluidBlockMolecule
-472,fullrene,295,0,10,1200,minechem:fluid.fullrene.name,minechem.fluid.FluidBlockMolecule
-473,valine,295,0,10,1200,minechem:fluid.valine.name,minechem.fluid.FluidBlockMolecule
-474,penicillin,295,0,10,1200,minechem:fluid.penicillin.name,minechem.fluid.FluidBlockMolecule
-475,testosterone,295,0,10,1000,minechem:fluid.testosterone.name,minechem.fluid.FluidBlockMolecule
-476,kaolinite,295,0,10,1200,minechem:fluid.kaolinite.name,minechem.fluid.FluidBlockMolecule
-477,fingolimod,295,0,10,1200,minechem:fluid.fingolimod.name,minechem.fluid.FluidBlockMolecule
-478,arginine,295,0,10,1200,minechem:fluid.arginine.name,minechem.fluid.FluidBlockMolecule
-479,shikimicacid,295,0,10,1200,minechem:fluid.shikimicAcid.name,minechem.fluid.FluidBlockMolecule
-480,glyphosate,295,0,10,1000,minechem:fluid.glyphosate.name,minechem.fluid.FluidBlockMolecule
-481,asprin,295,0,10,1200,minechem:fluid.asprin.name,minechem.fluid.FluidBlockMolecule
-482,ddt,295,0,10,1200,minechem:fluid.ddt.name,minechem.fluid.FluidBlockMolecule
-483,dota,295,0,10,1200,minechem:fluid.dota.name,minechem.fluid.FluidBlockMolecule
-484,mycotoxin,295,0,10,1200,minechem:fluid.mycotoxin.name,minechem.fluid.FluidBlockMolecule
-485,salt,295,0,10,1200,minechem:fluid.salt.name,minechem.fluid.FluidBlockMolecule
-486,ammonia,295,0,-10,400,minechem:fluid.ammonia.name,minechem.fluid.FluidBlockMolecule
-487,nodularin,295,0,10,1200,minechem:fluid.nodularin.name,minechem.fluid.FluidBlockMolecule
-488,tetrodotoxin,295,0,10,1200,minechem:fluid.tetrodotoxin.name,minechem.fluid.FluidBlockMolecule
-489,thc,295,0,10,1200,minechem:fluid.thc.name,minechem.fluid.FluidBlockMolecule
-490,buli,295,0,10,1200,minechem:fluid.buli.name,minechem.fluid.FluidBlockMolecule
-491,plat,295,0,10,1200,minechem:fluid.plat.name,minechem.fluid.FluidBlockMolecule
-492,phosgene,295,0,-10,400,minechem:fluid.phosgene.name,minechem.fluid.FluidBlockMolecule
-493,aalc,295,0,10,1000,minechem:fluid.aalc.name,minechem.fluid.FluidBlockMolecule
-494,hist,295,0,10,1200,minechem:fluid.hist.name,minechem.fluid.FluidBlockMolecule
-495,pal2,295,0,10,1200,minechem:fluid.pal2.name,minechem.fluid.FluidBlockMolecule
-496,retinol,295,0,10,1200,minechem:fluid.retinol.name,minechem.fluid.FluidBlockMolecule
-497,xylitol,295,0,10,1200,minechem:fluid.xylitol.name,minechem.fluid.FluidBlockMolecule
-498,weedex,295,0,10,1200,minechem:fluid.weedex.name,minechem.fluid.FluidBlockMolecule
-499,xanax,295,0,10,1200,minechem:fluid.xanax.name,minechem.fluid.FluidBlockMolecule
-500,hcl,295,0,10,1000,minechem:fluid.hcl.name,minechem.fluid.FluidBlockMolecule
-501,cocaine,295,0,10,1200,minechem:fluid.cocaine.name,minechem.fluid.FluidBlockMolecule
-502,cocainehcl,295,0,10,1200,minechem:fluid.cocainehcl.name,minechem.fluid.FluidBlockMolecule
-503,blueorgodye,295,0,10,1000,minechem:fluid.blueorgodye.name,minechem.fluid.FluidBlockMolecule
-504,redorgodye,295,0,10,1200,minechem:fluid.redorgodye.name,minechem.fluid.FluidBlockMolecule
-505,purpleorgodye,295,0,10,1200,minechem:fluid.purpleorgodye.name,minechem.fluid.FluidBlockMolecule
-506,olivine,295,0,10,1200,minechem:fluid.olivine.name,minechem.fluid.FluidBlockMolecule
-507,metblue,295,0,10,1200,minechem:fluid.metblue.name,minechem.fluid.FluidBlockMolecule
-508,meoh,295,0,10,1000,minechem:fluid.meoh.name,minechem.fluid.FluidBlockMolecule
-509,lcd,295,0,10,1200,minechem:fluid.lcd.name,minechem.fluid.FluidBlockMolecule
-510,radchlor,295,0,10,1200,minechem:fluid.radchlor.name,minechem.fluid.FluidBlockMolecule
-511,caulerpenyne,295,0,10,1200,minechem:fluid.caulerpenyne.name,minechem.fluid.FluidBlockMolecule
-512,latropine,295,0,10,1200,minechem:fluid.latropine.name,minechem.fluid.FluidBlockMolecule
-513,gallicacid,295,0,10,1200,minechem:fluid.gallicacid.name,minechem.fluid.FluidBlockMolecule
-514,glucose,295,0,10,1200,minechem:fluid.glucose.name,minechem.fluid.FluidBlockMolecule
-515,tannicacid,295,0,10,1200,minechem:fluid.tannicacid.name,minechem.fluid.FluidBlockMolecule
-516,hperox,295,0,10,1000,minechem:fluid.hperox.name,minechem.fluid.FluidBlockMolecule
-517,galliumarsenide,295,0,10,1200,minechem:fluid.galliumarsenide.name,minechem.fluid.FluidBlockMolecule
-518,fibroin,295,0,10,1000,minechem:fluid.fibroin.name,minechem.fluid.FluidBlockMolecule
-519,aluminiumphosphate,295,0,10,1200,minechem:fluid.aluminiumPhosphate.name,minechem.fluid.FluidBlockMolecule
-520,potassiumoxide,295,0,10,1200,minechem:fluid.potassiumOxide.name,minechem.fluid.FluidBlockMolecule
-521,sodiumoxide,295,0,10,1200,minechem:fluid.sodiumOxide.name,minechem.fluid.FluidBlockMolecule
-522,plagioclaseanorthite,295,0,10,1200,minechem:fluid.plagioclaseAnorthite.name,minechem.fluid.FluidBlockMolecule
-523,plagioclasealbite,295,0,10,1200,minechem:fluid.plagioclaseAlbite.name,minechem.fluid.FluidBlockMolecule
-524,orthoclase,295,0,10,1200,minechem:fluid.orthoclase.name,minechem.fluid.FluidBlockMolecule
-525,biotite,295,0,10,1200,minechem:fluid.biotite.name,minechem.fluid.FluidBlockMolecule
-526,augite,295,0,10,1200,minechem:fluid.augite.name,minechem.fluid.FluidBlockMolecule
-527,talc,295,0,10,1200,minechem:fluid.talc.name,minechem.fluid.FluidBlockMolecule
-528,propane,295,0,-10,400,minechem:fluid.propane.name,minechem.fluid.FluidBlockMolecule
-529,peridot,295,0,10,1200,minechem:fluid.peridot.name,minechem.fluid.FluidBlockMolecule
-530,topaz,295,0,10,1200,minechem:fluid.topaz.name,minechem.fluid.FluidBlockMolecule
-531,zoisite,295,0,10,1200,minechem:fluid.zoisite.name,minechem.fluid.FluidBlockMolecule
-532,cysteine,295,0,10,1200,minechem:fluid.cysteine.name,minechem.fluid.FluidBlockMolecule
-533,threonine,295,0,10,1200,minechem:fluid.threonine.name,minechem.fluid.FluidBlockMolecule
-534,lysine,295,0,10,1200,minechem:fluid.lysine.name,minechem.fluid.FluidBlockMolecule
-535,methionine,295,0,10,1200,minechem:fluid.methionine.name,minechem.fluid.FluidBlockMolecule
-536,tyrosine,295,0,10,1200,minechem:fluid.tyrosine.name,minechem.fluid.FluidBlockMolecule
-537,histidine,295,0,10,1200,minechem:fluid.histidine.name,minechem.fluid.FluidBlockMolecule
-538,phenylalanine,295,0,10,1200,minechem:fluid.phenylalanine.name,minechem.fluid.FluidBlockMolecule
-539,glutamine,295,0,10,1200,minechem:fluid.glutamine.name,minechem.fluid.FluidBlockMolecule
-540,proline,295,0,10,1200,minechem:fluid.proline.name,minechem.fluid.FluidBlockMolecule
-541,leucine,295,0,10,1200,minechem:fluid.leucine.name,minechem.fluid.FluidBlockMolecule
-542,tryptophan,295,0,10,1200,minechem:fluid.tryptophan.name,minechem.fluid.FluidBlockMolecule
-543,aspartate,295,0,10,1200,minechem:fluid.aspartate.name,minechem.fluid.FluidBlockMolecule
-544,isoleucine,295,0,10,1200,minechem:fluid.isoleucine.name,minechem.fluid.FluidBlockMolecule
-545,glutamates,295,0,10,1200,minechem:fluid.glutamates.name,minechem.fluid.FluidBlockMolecule
-546,asparagine,295,0,10,1200,minechem:fluid.asparagine.name,minechem.fluid.FluidBlockMolecule
-547,keratin,295,0,10,1200,minechem:fluid.keratin.name,minechem.fluid.FluidBlockMolecule
-548,asbestos,295,0,10,1200,minechem:fluid.asbestos.name,minechem.fluid.FluidBlockMolecule
-549,lithiumhydroxide,295,0,10,1200,minechem:fluid.lithiumHydroxide.name,minechem.fluid.FluidBlockMolecule
-550,sodiumhydroxide,295,0,10,1200,minechem:fluid.sodiumHydroxide.name,minechem.fluid.FluidBlockMolecule
-551,potassiumhydroxide,295,0,10,1200,minechem:fluid.potassiumHydroxide.name,minechem.fluid.FluidBlockMolecule
-552,rubidiumhydroxide,295,0,10,1200,minechem:fluid.rubidiumHydroxide.name,minechem.fluid.FluidBlockMolecule
-553,cesiumhydroxide,295,0,10,1200,minechem:fluid.cesiumHydroxide.name,minechem.fluid.FluidBlockMolecule
-554,franciumhydroxide,295,0,10,1200,minechem:fluid.franciumHydroxide.name,minechem.fluid.FluidBlockMolecule
-555,hypophosphite,295,0,10,1200,minechem:fluid.hypophosphite.name,minechem.fluid.FluidBlockMolecule
-556,aluminiumhypophosphite,295,0,10,1200,minechem:fluid.aluminiumHypophosphite.name,minechem.fluid.FluidBlockMolecule
-557,omphacite,295,0,10,1200,minechem:fluid.omphacite.name,minechem.fluid.FluidBlockMolecule
-558,silicate,295,0,10,1200,minechem:fluid.silicate.name,minechem.fluid.FluidBlockMolecule
-559,pyrope,295,0,10,1200,minechem:fluid.pyrope.name,minechem.fluid.FluidBlockMolecule
-560,almadine,295,0,10,1200,minechem:fluid.almadine.name,minechem.fluid.FluidBlockMolecule
-561,spessartine,295,0,10,1200,minechem:fluid.spessartine.name,minechem.fluid.FluidBlockMolecule
-562,redgarnet,295,0,10,1200,minechem:fluid.redGarnet.name,minechem.fluid.FluidBlockMolecule
-563,forsterite,295,0,10,1200,minechem:fluid.forsterite.name,minechem.fluid.FluidBlockMolecule
-564,chromite,295,0,10,1200,minechem:fluid.chromite.name,minechem.fluid.FluidBlockMolecule
-565,siliconoxide,295,0,10,1200,minechem:fluid.siliconOxide.name,minechem.fluid.FluidBlockMolecule
-566,ironoxide,295,0,10,1200,minechem:fluid.ironOxide.name,minechem.fluid.FluidBlockMolecule
-567,galliumoxide,295,0,10,1200,minechem:fluid.galliumOxide.name,minechem.fluid.FluidBlockMolecule
-568,arsenicoxide,295,0,10,1200,minechem:fluid.arsenicOxide.name,minechem.fluid.FluidBlockMolecule
-569,sulfurdioxide,295,0,-10,400,minechem:fluid.sulfurDioxide.name,minechem.fluid.FluidBlockMolecule
-570,hydrogensulfide,295,0,-10,400,minechem:fluid.hydrogenSulfide.name,minechem.fluid.FluidBlockMolecule
-571,sodiumbisulfate,295,0,10,1200,minechem:fluid.sodiumBisulfate.name,minechem.fluid.FluidBlockMolecule
-572,sodiumsulfate,295,0,10,1200,minechem:fluid.sodiumSulfate.name,minechem.fluid.FluidBlockMolecule
-573,dimethyltryptamine,295,0,10,1200,minechem:fluid.dimethyltryptamine.name,minechem.fluid.FluidBlockMolecule
-574,xpjuice,295,10,800,1500,null,null
-575,etchacid,295,0,1000,1000,PneumaticCraft:etchingAcid,pneumaticCraft.common.block.BlockFluidEtchingAcid
-576,plastic,423,0,1000,1000,null,null
-577,antivenom,295,0,1000,2000,null,null
-578,beetlejuice,295,0,1000,1000,null,null
-579,witchery:fluidspirit,295,0,500,2000,witchery:spiritflowing,com.emoniph.witchery.blocks.BlockFlowingSpirit
-580,witchery:hollowtears,295,0,100,1500,witchery:hollowtears,com.emoniph.witchery.blocks.BlockFlowingSpirit
-581,witchery:brew,295,0,100,1500,witchery:brew,com.emoniph.witchery.brewing.BlockBrew
-582,witchery:brewgas,295,0,1000,1000,null,null
-583,witchery:brewliquid,295,0,1000,1000,witchery:brewliquid,com.emoniph.witchery.brewing.BlockBrewLiquidEffect
-584,witchery:fluiddisease,295,0,50,3000,witchery:disease,com.emoniph.witchery.blocks.BlockDisease
-585,glass,295,0,1000,1000,null,null
-586,biomass,295,0,1000,1000,null,null
-587,bioethanol,295,0,1000,1000,null,null
-588,seedoil,295,0,1000,1000,null,null
-589,juice,295,0,1000,1000,null,null
-590,potionawkward,295,0,1000,1000,null,null
-591,potionvision,295,0,1000,1000,null,null
-592,potionvisionlong,295,0,1000,1000,null,null
-593,potioninvisible,295,0,1000,1000,null,null
-594,potioninvisiblelong,295,0,1000,1000,null,null
-595,potionregen,295,0,1000,1000,null,null
-596,potionregenii,295,0,1000,1000,null,null
-597,potionregenlong,295,0,1000,1000,null,null
-598,potionfast,295,0,1000,1000,null,null
-599,potionfastlong,295,0,1000,1000,null,null
-600,potionfastii,295,0,1000,1000,null,null
-601,potionweakness,295,0,1000,1000,null,null
-602,potionweaknesslong,295,0,1000,1000,null,null
-603,potionstrength,295,0,1000,1000,null,null
-604,potionstrengthlong,295,0,1000,1000,null,null
-605,potionstrengthii,295,0,1000,1000,null,null
-606,potionfireresist,295,0,1000,1000,null,null
-607,potionfireresistlong,295,0,1000,1000,null,null
-608,potionslowness,295,0,1000,1000,null,null
-609,potionslownesslong,295,0,1000,1000,null,null
-610,potionpoison,295,0,1000,1000,null,null
-611,potionpoisonii,295,0,1000,1000,null,null
-612,potionpoisonlong,295,0,1000,1000,null,null
-613,potionharm,295,0,1000,1000,null,null
-614,potionharmii,295,0,1000,1000,null,null
-615,potionheal,295,0,1000,1000,null,null
-616,potionhealii,295,0,1000,1000,null,null
-617,potionwaterbreathe,295,0,1000,1000,null,null
-618,potionwaterbreathelong,295,0,1000,1000,null,null
-619,potionhaste,295,0,1000,1000,null,null
-620,potionhasteii,295,0,1000,1000,null,null
-621,potionhasteiii,295,0,1000,1000,null,null
-622,potionhastelong,295,0,1000,1000,null,null
-623,potionhasteverylong,295,0,1000,1000,null,null
-624,potionfatigue,295,0,1000,1000,null,null
-625,potionfatigueii,295,0,1000,1000,null,null
-626,potionfatigueiii,295,0,1000,1000,null,null
-627,potionfatiguelong,295,0,1000,1000,null,null
-628,potionfatigueverylong,295,0,1000,1000,null,null
-629,potionjump,295,0,1000,1000,null,null
-630,potionjumpii,295,0,1000,1000,null,null
-631,potionjumpiii,295,0,1000,1000,null,null
-632,potionjumplong,295,0,1000,1000,null,null
-633,potionjumpverylong,295,0,1000,1000,null,null
-634,potionnausea,295,0,1000,1000,null,null
-635,potionnausealong,295,0,1000,1000,null,null
-636,potionnauseaverylong,295,0,1000,1000,null,null
-637,potionresistance,295,0,1000,1000,null,null
-638,potionresistanceii,295,0,1000,1000,null,null
-639,potionresistanceiii,295,0,1000,1000,null,null
-640,potionresistancelong,295,0,1000,1000,null,null
-641,potionresistanceverylong,295,0,1000,1000,null,null
-642,potionblindness,295,0,1000,1000,null,null
-643,potionblindnesslong,295,0,1000,1000,null,null
-644,potionblindnessverylong,295,0,1000,1000,null,null
-645,potionhunger,295,0,1000,1000,null,null
-646,potionhungerii,295,0,1000,1000,null,null
-647,potionhungeriii,295,0,1000,1000,null,null
-648,potionhungerlong,295,0,1000,1000,null,null
-649,potionhungerverylong,295,0,1000,1000,null,null
-650,potionhealthboost,295,0,1000,1000,null,null
-651,potionhealthboostii,295,0,1000,1000,null,null
-652,potionhealthboostiii,295,0,1000,1000,null,null
-653,potionhealthboostlong,295,0,1000,1000,null,null
-654,potionhealthboostverylong,295,0,1000,1000,null,null
-655,potionabsorption,295,0,1000,1000,null,null
-656,potionabsorptionii,295,0,1000,1000,null,null
-657,potionabsorptioniii,295,0,1000,1000,null,null
-658,potionabsorptionlong,295,0,1000,1000,null,null
-659,potionabsorptionverylong,295,0,1000,1000,null,null
-660,potionsaturation,295,0,1000,1000,null,null
-661,potionsaturationii,295,0,1000,1000,null,null
-662,potionsaturationiii,295,0,1000,1000,null,null
-663,potionwither,295,0,1000,1000,null,null
-664,potionwitherii,295,0,1000,1000,null,null
-665,potionwitheriii,295,0,1000,1000,null,null
-666,potionwitherlong,295,0,1000,1000,null,null
-667,potionwitherverylong,295,0,1000,1000,null,null
-668,potionregeniii,295,0,1000,1000,null,null
-669,potionregenverylong,295,0,1000,1000,null,null
-670,potionfastiii,295,0,1000,1000,null,null
-671,potionfastverylong,295,0,1000,1000,null,null
-672,potionstrengthiii,295,0,1000,1000,null,null
-673,potionstrengthverylong,295,0,1000,1000,null,null
-674,potionfireresistverylong,295,0,1000,1000,null,null
-675,potionpoisoniii,295,0,1000,1000,null,null
-676,potionpoisonverylong,295,0,1000,1000,null,null
-677,potionharmiii,295,0,1000,1000,null,null
-678,potionhealiii,295,0,1000,1000,null,null
-679,potionvisionverylong,295,0,1000,1000,null,null
-680,potionweaknessverylong,295,0,1000,1000,null,null
-681,potionslownessverylong,295,0,1000,1000,null,null
-682,potionwaterbreatheverylong,295,0,1000,1000,null,null
-683,potionholywater,295,0,1000,1000,null,null
-684,potionholywaterii,295,0,1000,1000,null,null
-685,potionholywaterlong,295,0,1000,1000,null,null
-686,potionholywaterverylong,295,0,1000,1000,null,null
-687,potionholywateriii,295,0,1000,1000,null,null
-688,potionflight,295,0,1000,1000,null,null
-689,potionflightlong,295,0,1000,1000,null,null
-690,potionflightverylong,295,0,1000,1000,null,null
-691,potionantidote,295,0,1000,1000,null,null
-692,potionantidoteii,295,0,1000,1000,null,null
-693,potionantidoteiii,295,0,1000,1000,null,null
-694,potionantidoteiiii,295,0,1000,1000,null,null
-695,potionantidotelong,295,0,1000,1000,null,null
-696,potionantidoteverylong,295,0,1000,1000,null,null
-697,potionboom,295,0,1000,1000,null,null
-698,potionboomii,295,0,1000,1000,null,null
-699,potionboomiii,295,0,1000,1000,null,null
-700,potionboomlong,295,0,1000,1000,null,null
-701,potionboomverylong,295,0,1000,1000,null,null
-702,potioncryo,295,0,1000,1000,null,null
-703,potioncryolong,295,0,1000,1000,null,null
-704,potioncryoverylong,295,0,1000,1000,null,null
-705,potioneternalflame,295,0,1000,1000,null,null
-706,potioneternalflamelong,295,0,1000,1000,null,null
-707,potioneternalflameverylong,295,0,1000,1000,null,null
-708,potionfireimmunity,295,0,1000,1000,null,null
-709,potionfireimmunitylong,295,0,1000,1000,null,null
-710,potionfireimmunityverylong,295,0,1000,1000,null,null
-711,potionfireimmunityii,295,0,1000,1000,null,null
-712,potionfireimmunityiii,295,0,1000,1000,null,null
-713,potionfireimmunityiiii,295,0,1000,1000,null,null
-714,potionfireeater,295,0,1000,1000,null,null
-715,potionfireeaterii,295,0,1000,1000,null,null
-716,potionfireeateriii,295,0,1000,1000,null,null
-717,potionfireeaterlong,295,0,1000,1000,null,null
-718,potionfireeaterverylong,295,0,1000,1000,null,null
-719,nutrientwater,295,0,1000,1000,emashercore:nutrientWater,emasher.core.block.BlockNutrientWater
-720,slickwater,295,0,1000,1000,eng_toolbox:slickwater,emasher.sockets.BlockSlickwater
-721,molten redstone,295,12,1000,3000,ProjRed|Compatibility:projectred.compatibility.liqredstone,mrtjp.projectred.compatibility.tconstruct.LiquidFiniteSubstance
-722,molten conductive redmetal,295,12,2000,4000,ProjRed|Compatibility:projectred.compatibility.liqcondredmetal,mrtjp.projectred.compatibility.tconstruct.LiquidFiniteSubstance
-723,gaseousaeressentia,295,7,-4,3000,null,null
-724,gaseousterraessentia,295,7,-4,3000,null,null
-725,gaseousignisessentia,295,7,-4,3000,null,null
-726,gaseousaquaessentia,295,7,-4,3000,null,null
-727,gaseousordoessentia,295,7,-4,3000,null,null
-728,gaseousperditioessentia,295,7,-4,3000,null,null
-729,gaseousvacuosessentia,295,7,-4,3000,null,null
-730,gaseousluxessentia,295,7,-4,3000,null,null
-731,gaseoustempestasessentia,295,7,-4,3000,null,null
-732,gaseousmotusessentia,295,7,-4,3000,null,null
-733,gaseousgelumessentia,295,7,-4,3000,null,null
-734,gaseousvitreusessentia,295,7,-4,3000,null,null
-735,gaseousvictusessentia,295,7,-4,3000,null,null
-736,gaseousvenenumessentia,295,7,-4,3000,null,null
-737,gaseouspotentiaessentia,295,7,-4,3000,null,null
-738,gaseouspermutatioessentia,295,7,-4,3000,null,null
-739,gaseousmetallumessentia,295,7,-4,3000,null,null
-740,gaseousmortuusessentia,295,7,-4,3000,null,null
-741,gaseousvolatusessentia,295,7,-4,3000,null,null
-742,gaseoustenebraeessentia,295,7,-4,3000,null,null
-743,gaseousspiritusessentia,295,7,-4,3000,null,null
-744,gaseoussanoessentia,295,7,-4,3000,null,null
-745,gaseousiteressentia,295,7,-4,3000,null,null
-746,gaseousalienisessentia,295,7,-4,3000,null,null
-747,gaseouspraecantatioessentia,295,7,-4,3000,null,null
-748,gaseousauramessentia,295,7,-4,3000,null,null
-749,gaseousvitiumessentia,295,7,-4,3000,null,null
-750,gaseouslimusessentia,295,7,-4,3000,null,null
-751,gaseousherbaessentia,295,7,-4,3000,null,null
-752,gaseousarboressentia,295,7,-4,3000,null,null
-753,gaseousbestiaessentia,295,7,-4,3000,null,null
-754,gaseouscorpusessentia,295,7,-4,3000,null,null
-755,gaseousexanimisessentia,295,7,-4,3000,null,null
-756,gaseouscognitioessentia,295,7,-4,3000,null,null
-757,gaseoussensusessentia,295,7,-4,3000,null,null
-758,gaseoushumanusessentia,295,7,-4,3000,null,null
-759,gaseousmessisessentia,295,7,-4,3000,null,null
-760,gaseousperfodioessentia,295,7,-4,3000,null,null
-761,gaseousinstrumentumessentia,295,7,-4,3000,null,null
-762,gaseousmetoessentia,295,7,-4,3000,null,null
-763,gaseoustelumessentia,295,7,-4,3000,null,null
-764,gaseoustutamenessentia,295,7,-4,3000,null,null
-765,gaseousfamesessentia,295,7,-4,3000,null,null
-766,gaseouslucrumessentia,295,7,-4,3000,null,null
-767,gaseousfabricoessentia,295,7,-4,3000,null,null
-768,gaseouspannusessentia,295,7,-4,3000,null,null
-769,gaseousmachinaessentia,295,7,-4,3000,null,null
-770,gaseousvinculumessentia,295,7,-4,3000,null,null
-771,gaseousluxuriaessentia,295,7,-4,3000,null,null
-772,gaseousinfernusessentia,295,7,-4,3000,null,null
-773,gaseoussuperbiaessentia,295,7,-4,3000,null,null
-774,gaseousgulaessentia,295,7,-4,3000,null,null
-775,gaseousinvidiaessentia,295,7,-4,3000,null,null
-776,gaseousdesidiaessentia,295,7,-4,3000,null,null
-777,gaseousiraessentia,295,7,-4,3000,null,null
-778,gaseoustempusessentia,295,7,-4,3000,null,null
+ID,Name,Localized Name,Temperature,Luminosity,Density,Viscosity,Placeable,Block ID,Block Class
+1,water,Water,295,0,1000,1000,true,minecraft:water,net.minecraft.block.BlockStaticLiquid
+2,lava,Lava,1300,15,3000,6000,true,minecraft:lava,net.minecraft.block.BlockStaticLiquid
+3,life essence,Life Essence,295,0,2000,2000,true,AWWayofTime:lifeEssence,WayofTime.alchemicalWizardry.common.block.LifeEssenceBlock
+4,fluxgoo,Flux Goo,295,7,8,6000,true,Thaumcraft:blockFluxGoo,thaumcraft.common.blocks.BlockFluxGoo
+5,fluidpure,Purifying Fluid,295,10,1000,1000,true,Thaumcraft:blockFluidPure,thaumcraft.common.blocks.BlockFluidPure
+6,fluiddeath,Liquid Death,295,8,1000,1500,true,Thaumcraft:blockFluidDeath,thaumcraft.common.blocks.BlockFluidDeath
+7,redstone,Destabilized Redstone,350,7,1200,1500,true,ThermalFoundation:FluidRedstone,thermalfoundation.fluid.BlockFluidRedstone
+8,glowstone,Energized Glowstone,350,15,-500,100,true,ThermalFoundation:FluidGlowstone,thermalfoundation.fluid.BlockFluidGlowstone
+9,ender,Resonant Ender,300,3,4000,3000,true,ThermalFoundation:FluidEnder,thermalfoundation.fluid.BlockFluidEnder
+10,pyrotheum,Blazing Pyrotheum,4000,15,2000,1200,true,ThermalFoundation:FluidPyrotheum,thermalfoundation.fluid.BlockFluidPyrotheum
+11,cryotheum,Gelid Cryotheum,50,0,4000,3000,true,ThermalFoundation:FluidCryotheum,thermalfoundation.fluid.BlockFluidCryotheum
+12,mana,Primal Mana,350,15,600,6000,true,ThermalFoundation:FluidMana,thermalfoundation.fluid.BlockFluidMana
+13,steam,Steam,673,0,-100,100,true,MineFactoryReloaded:steam.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
+14,coal,Liquifacted Coal,300,0,900,2000,true,ThermalFoundation:FluidCoal,thermalfoundation.fluid.BlockFluidCoal
+15,ic2uumatter,UU-Matter,300,0,3000,3000,true,IC2:fluidUuMatter,ic2.core.block.BlockIC2Fluid
+16,ic2constructionfoam,Construction Foam,300,0,10000,50000,true,IC2:fluidConstructionFoam,ic2.core.block.BlockIC2Fluid
+17,ic2coolant,IC2 Coolant,300,0,1000,3000,true,IC2:fluidCoolant,ic2.core.block.BlockIC2Fluid
+18,ic2hotcoolant,IC2 Hot Coolant,1200,0,1000,3000,true,IC2:fluidHotCoolant,ic2.core.block.BlockIC2Fluid
+19,ic2pahoehoelava,Pahoehoe Lava,1200,10,50000,250000,true,IC2:fluidPahoehoeLava,ic2.core.block.BlockIC2Fluid
+20,ic2biomass,Biomass,300,0,1000,3000,true,IC2:fluidBiomass,ic2.core.block.BlockIC2Fluid
+21,ic2biogas,Biogas,300,0,1000,3000,true,IC2:fluidBiogas,ic2.core.block.BlockIC2Fluid
+22,ic2distilledwater,Distilled Water,300,0,1000,1000,true,IC2:fluidDistilledWater,ic2.core.block.BlockIC2Fluid
+23,ic2superheatedsteam,Superheated Steam,600,0,-3000,100,true,IC2:fluidSuperheatedSteam,ic2.core.block.BlockIC2Fluid
+24,ic2steam,Steam ,420,0,-800,300,true,IC2:fluidSteam,ic2.core.block.BlockIC2Fluid
+25,liquidessence,fluid.liquidEssence,295,0,8,3000,true,arsmagica2:liquidEssence,am2.blocks.liquid.BlockLiquidEssence
+26,poison,Poison,295,0,1000,1000,true,BiomesOPlenty:poison,biomesoplenty.common.fluids.blocks.BlockPoisonFluid
+27,hell_blood,Blood,295,0,1000,1000,true,BiomesOPlenty:hell_blood,biomesoplenty.common.fluids.blocks.BlockBloodFluid
+28,honey,Honey,295,0,1000,1500,true,BiomesOPlenty:honey,biomesoplenty.common.fluids.blocks.BlockHoneyFluid
+29,short.mead,Short Mead,295,0,1000,1000,false,null,null
+30,milk,Milk,295,0,1050,1050,true,MineFactoryReloaded:milk.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
+31,sludge,Sludge,295,0,1700,1700,true,MineFactoryReloaded:sludge.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
+32,sewage,Sewage,295,0,1200,1200,true,MineFactoryReloaded:sewage.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
+33,mobessence,Essence,310,9,400,400,true,MineFactoryReloaded:mobessence.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
+34,biofuel,BioFuel,295,0,800,800,true,MineFactoryReloaded:biofuel.still,powercrystals.minefactoryreloaded.block.fluid.BlockExplodingFluid
+35,meat,Meat,295,0,2000,2000,true,MineFactoryReloaded:meat.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
+36,pinkslime,Pink Slime,295,0,3000,3000,true,MineFactoryReloaded:pinkslime.still,powercrystals.minefactoryreloaded.block.fluid.BlockPinkSlimeFluid
+37,chocolatemilk,Chocolate Milk,295,0,1100,1100,true,MineFactoryReloaded:chocolatemilk.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
+38,mushroomsoup,Mushroom Soup,295,0,1500,1500,true,MineFactoryReloaded:mushroomsoup.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
+39,oil,Oil,295,0,850,2000,true,Artifice:tile.artifice.fluid.oil,shukaro.artifice.block.fluid.BlockFluidOil
+40,fuel,Fuel,295,0,750,1000,true,Artifice:tile.artifice.fluid.fuel,shukaro.artifice.block.fluid.BlockFluidFuel
+41,creosote,fluid.creosote,295,0,1100,1100,true,Artifice:tile.artifice.fluid.creosote,shukaro.artifice.block.fluid.BlockFluidCreosote
+42,bitumen,fluid.bitumen,295,0,1100,10000,true,Artifice:tile.artifice.fluid.bitumen,shukaro.artifice.block.fluid.BlockFluidBitumen
+43,yellorium,fluid.bigreactors.yellorium.still,295,10,100,100,true,BigReactors:tile.fluid.yellorium.still,erogenousbeef.bigreactors.common.block.BlockBRGenericFluid
+44,cyanite,fluid.bigreactors.cyanite.still,295,6,100,100,true,BigReactors:tile.fluid.cyanite.still,erogenousbeef.bigreactors.common.block.BlockBRGenericFluid
+45,fuelcolumn,fluid.bigreactors.fuelColumn.still,295,0,1000,1000,false,null,null
+46,acid,Acid,295,0,1000,1000,false,null,null
+47,liquidnitrogen,Liquid Nitrogen,295,0,1000,1000,false,null,null
+48,sap,Sap,295,0,1000,1000,false,null,null
+49,resin,Resin,295,0,1000,1000,false,null,null
+50,latex,Latex,295,0,1000,1000,false,null,null
+51,turpentine,Turpentine,295,0,1000,1000,false,null,null
+52,binnie.juiceapple,Apple Juice,295,0,1000,1000,false,null,null
+53,binnie.juiceapricot,Apricot Juice,295,0,1000,1000,false,null,null
+54,binnie.juicebanana,Banana Juice,295,0,1000,1000,false,null,null
+55,binnie.juicecherry,Cherry Juice,295,0,1000,1000,false,null,null
+56,binnie.juiceelderberry,Elderberry Juice,295,0,1000,1000,false,null,null
+57,binnie.juicelemon,Lemon Juice,295,0,1000,1000,false,null,null
+58,binnie.juicelime,Lime Juice,295,0,1000,1000,false,null,null
+59,binnie.juiceorange,Orange Juice,295,0,1000,1000,false,null,null
+60,binnie.juicepeach,Peach Juice,295,0,1000,1000,false,null,null
+61,binnie.juiceplum,Plum Juice,295,0,1000,1000,false,null,null
+62,binnie.juicecarrot,Carrot Juice,295,0,1000,1000,false,null,null
+63,binnie.juicetomato,Tomato Juice,295,0,1000,1000,false,null,null
+64,binnie.juicecranberry,Cranberry Juice,295,0,1000,1000,false,null,null
+65,binnie.juicegrapefruit,Grapefruit Juice,295,0,1000,1000,false,null,null
+66,binnie.juiceolive,Olive Oil,295,0,1000,1000,false,null,null
+67,binnie.juicepineapple,Pineapple Juice,295,0,1000,1000,false,null,null
+68,binnie.juicepear,Pear Juice,295,0,1000,1000,false,null,null
+69,binnie.juicewhitegrape,White Grape Juice,295,0,1000,1000,false,null,null
+70,binnie.juiceredgrape,Red Grape Juice,295,0,1000,1000,false,null,null
+71,binnie.ciderapple,Cider,295,0,1000,1000,false,null,null
+72,binnie.wineapricot,Apricot Wine,295,0,1000,1000,false,null,null
+73,binnie.winebanana,Banana Wine,295,0,1000,1000,false,null,null
+74,binnie.winecherry,Cherry Wine,295,0,1000,1000,false,null,null
+75,binnie.wineelderberry,Elderberry Wine,295,0,1000,1000,false,null,null
+76,binnie.ciderpeach,Peach Cider,295,0,1000,1000,false,null,null
+77,binnie.ciderpear,Pear Cider,295,0,1000,1000,false,null,null
+78,binnie.wineplum,Plum Wine,295,0,1000,1000,false,null,null
+79,binnie.winecarrot,Carrot Wine,295,0,1000,1000,false,null,null
+80,binnie.winewhite,White Wine,295,0,1000,1000,false,null,null
+81,binnie.winered,Red Wine,295,0,1000,1000,false,null,null
+82,binnie.winesparkling,Sparkling Wine,295,0,1000,1000,false,null,null
+83,binnie.wineagave,Agave Wine,295,0,1000,1000,false,null,null
+84,binnie.fermentedpotatoes,Fermented Potatoes,295,0,1000,1000,false,null,null
+85,binnie.winecitrus,Citrus Wine,295,0,1000,1000,false,null,null
+86,binnie.winecranberry,Cranberry Wine,295,0,1000,1000,false,null,null
+87,binnie.winepineapple,Pineapple Wine,295,0,1000,1000,false,null,null
+88,binnie.winetomato,Tomato Wine,295,0,1000,1000,false,null,null
+89,binnie.juice,Fruit Wine,295,0,1000,1000,false,null,null
+90,binnie.beerale,Ale,295,0,1000,1000,false,null,null
+91,binnie.beerlager,Lager,295,0,1000,1000,false,null,null
+92,binnie.beerwheat,Wheat Beer,295,0,1000,1000,false,null,null
+93,binnie.beerrye,Rye Beer,295,0,1000,1000,false,null,null
+94,binnie.beercorn,Corn Beer,295,0,1000,1000,false,null,null
+95,binnie.beerstout,Stout,295,0,1000,1000,false,null,null
+96,binnie.mashgrain,Fermented Grain Mash,295,0,1000,1000,false,null,null
+97,binnie.mashwheat,Fermented Wheat Mash,295,0,1000,1000,false,null,null
+98,binnie.mashrye,Fermented Rye Mash,295,0,1000,1000,false,null,null
+99,binnie.mashcorn,Fermented Corn Mash,295,0,1000,1000,false,null,null
+100,binnie.spiritneutral,Neutral Spirit,295,0,1000,1000,false,null,null
+101,binnie.vodka,Vodka,295,0,1000,1000,false,null,null
+102,binnie.rumwhite,White Rum,295,0,1000,1000,false,null,null
+103,binnie.rumdark,Dark Rum,295,0,1000,1000,false,null,null
+104,binnie.whiskey,Whiskey,295,0,1000,1000,false,null,null
+105,binnie.whiskeycorn,Bourbon,295,0,1000,1000,false,null,null
+106,binnie.whiskeyrye,Rye Whiskey,295,0,1000,1000,false,null,null
+107,binnie.whiskeywheat,Wheat Whiskey,295,0,1000,1000,false,null,null
+108,binnie.winefortified,Fortified Wine,295,0,1000,1000,false,null,null
+109,binnie.tequila,Tequila,295,0,1000,1000,false,null,null
+110,binnie.brandygrape,Brandy,295,0,1000,1000,false,null,null
+111,binnie.brandyapple,Apple Brandy,295,0,1000,1000,false,null,null
+112,binnie.brandypear,Pear Brandy,295,0,1000,1000,false,null,null
+113,binnie.brandyapricot,Apricot Brandy,295,0,1000,1000,false,null,null
+114,binnie.brandyplum,Plum Brandy,295,0,1000,1000,false,null,null
+115,binnie.brandycherry,Cherry Brandy,295,0,1000,1000,false,null,null
+116,binnie.brandyelderberry,Elderberry Brandy,295,0,1000,1000,false,null,null
+117,binnie.brandycitrus,Citrus Brandy,295,0,1000,1000,false,null,null
+118,binnie.brandyfruit,Fruit Brandy,295,0,1000,1000,false,null,null
+119,binnie.spiritsugarcane,Cachaca,295,0,1000,1000,false,null,null
+120,binnie.spiritgin,Gin,295,0,1000,1000,false,null,null
+121,binnie.liquorapple,Apple Liquor,295,0,1000,1000,false,null,null
+122,binnie.liquorpear,Pear Liquor,295,0,1000,1000,false,null,null
+123,binnie.liquorcherry,Cherry Liquor,295,0,1000,1000,false,null,null
+124,binnie.liquorelderberry,Elderberry Liquor,295,0,1000,1000,false,null,null
+125,binnie.liquorapricot,Apricot Liquor,295,0,1000,1000,false,null,null
+126,binnie.liquorfruit,Fruit Liquor,295,0,1000,1000,false,null,null
+127,binnie.liqueuralmond,Almond Liqueur,295,0,1000,1000,false,null,null
+128,binnie.liqueurorange,Orange Liqueur,295,0,1000,1000,false,null,null
+129,binnie.liqueurbanana,Banana Liqueur,295,0,1000,1000,false,null,null
+130,binnie.liqueurchocolate,Chocolate Liqueur,295,0,1000,1000,false,null,null
+131,binnie.liqueurmint,Mint Liqueur,295,0,1000,1000,false,null,null
+132,binnie.liqueurhazelnut,Hazelnut Liqueur,295,0,1000,1000,false,null,null
+133,binnie.liqueurcinnamon,Cinnamon Liqueur,295,0,1000,1000,false,null,null
+134,binnie.liqueurcoffee,Coffee Liqueur,295,0,1000,1000,false,null,null
+135,binnie.liqueurmelon,Melon Liqueur,295,0,1000,1000,false,null,null
+136,binnie.liqueuranise,Anise Liqueur,295,0,1000,1000,false,null,null
+137,binnie.liqueurpeach,Peach Liqueur,295,0,1000,1000,false,null,null
+138,binnie.liqueurlemon,Lemon Liqueur,295,0,1000,1000,false,null,null
+139,binnie.liqueurherbal,Herbal Liqueur,295,0,1000,1000,false,null,null
+140,binnie.liqueurcherry,Cherry Liqueur,295,0,1000,1000,false,null,null
+141,binnie.liqueurblackcurrant,Blackcurrant Liqueur,295,0,1000,1000,false,null,null
+142,binnie.liqueurblackberry,Blackberry Liqueur,295,0,1000,1000,false,null,null
+143,binnie.liqueurraspberry,Raspberry Liqueur,295,0,1000,1000,false,null,null
+144,binnie.growthmedium,Growth Medium,295,0,1000,1000,false,null,null
+145,binnie.bacteria,Bacteria,295,0,1000,1000,false,null,null
+146,binnie.bacteriapoly,Polymerising Bacteria,295,0,1000,1000,false,null,null
+147,binnie.dna.raw,Raw DNA,295,0,1000,1000,false,null,null
+148,binnie.bacteriavector,Bacteria Vector,295,0,1000,1000,false,null,null
+149,redplasma,fluid.redplasma,295,30,10000,10000,true,BuildCraft|Energy:blockRedPlasma,buildcraft.energy.BlockBuildcraftFluid
+150,nutrient_distillation,Nutrient Distillation,295,0,1500,3000,true,EnderIO:blockNutrient_distillation,crazypants.enderio.fluid.BlockFluidEio
+151,hootch,Hootch,295,0,900,1000,true,EnderIO:blockHootch,crazypants.enderio.fluid.BlockFluidEio
+152,rocket_fuel,Rocket Fuel,295,0,900,1000,true,EnderIO:blockRocket_fuel,crazypants.enderio.fluid.BlockFluidEio
+153,fire_water,Fire Water,295,0,900,1000,true,EnderIO:blockFire_water,crazypants.enderio.fluid.BlockFluidEio
+154,gascraft_naturalgas,fluid.gasCraft_naturalGas,295,0,-1000,100,true,gascraft:naturalGas,emasher.gas.block.BlockNaturalGas
+155,gascraft_propellent,fluid.gasCraft_propellent,295,0,-1000,100,true,gascraft:propellent,emasher.gas.block.BlockPropellent
+156,gascraft_hydrogen,fluid.gasCraft_hydrogen,295,0,-1000,100,true,gascraft:hydrogen,emasher.gas.block.BlockHydrogen
+157,gascraft_smoke,fluid.gasCraft_smoke,295,0,-1000,100,true,gascraft:smoke,emasher.gas.block.BlockSmoke
+158,gascraft_toxicgas,fluid.gasCraft_toxicGas,295,0,-1000,100,true,gascraft:weaponizedGas,emasher.gas.block.BlockWeaponizedGas
+159,gascraft_neurotoxin,fluid.gasCraft_neurotoxin,295,0,-1000,100,true,gascraft:neurotoxin,emasher.gas.block.BlockNeurotoxin
+160,gascraft_corrosivegas,fluid.gasCraft_corrosiveGas,295,0,-1000,100,true,gascraft:corrosiveGas,emasher.gas.block.BlockCorrosiveGas
+161,gascraft_plasma,fluid.gasCraft_plasma,2600,15,-1000,100,true,gascraft:plasma,emasher.gas.block.BlockPlasma
+162,witchwater,Witch Water,295,0,1000,1000,true,exnihilo:witchwater,exnihilo.fluids.BlockWitchWater
+163,slime.blue,Liquid Blueslime,295,0,1000,1000,true,TConstruct:liquid.slime,tconstruct.blocks.slime.SlimeFluid
+164,iron.molten,Molten Iron,1300,12,3000,6000,true,TConstruct:fluid.molten.iron,tconstruct.smeltery.blocks.TConstructFluid
+165,gold.molten,Molten Gold,1300,12,3000,6000,true,TConstruct:fluid.molten.gold,tconstruct.smeltery.blocks.TConstructFluid
+166,copper.molten,Molten Copper,1300,12,3000,6000,true,TConstruct:fluid.molten.copper,tconstruct.smeltery.blocks.TConstructFluid
+167,tin.molten,Molten Tin,1300,12,3000,6000,true,TConstruct:fluid.molten.tin,tconstruct.smeltery.blocks.TConstructFluid
+168,aluminum.molten,Molten Aluminum,1300,12,3000,6000,true,TConstruct:fluid.molten.aluminum,tconstruct.smeltery.blocks.TConstructFluid
+169,cobalt.molten,Molten Cobalt,1300,12,3000,6000,true,TConstruct:fluid.molten.cobalt,tconstruct.smeltery.blocks.TConstructFluid
+170,ardite.molten,Molten Ardite,1300,12,3000,6000,true,TConstruct:fluid.molten.ardite,tconstruct.smeltery.blocks.TConstructFluid
+171,bronze.molten,Molten Bronze,1300,12,3000,6000,true,TConstruct:fluid.molten.bronze,tconstruct.smeltery.blocks.TConstructFluid
+172,aluminumbrass.molten,Molten Aluminum Brass,1300,12,3000,6000,true,TConstruct:fluid.molten.alubrass,tconstruct.smeltery.blocks.TConstructFluid
+173,manyullyn.molten,Molten Manyullyn,1300,12,3000,6000,true,TConstruct:fluid.molten.manyullyn,tconstruct.smeltery.blocks.TConstructFluid
+174,alumite.molten,Molten Alumite,1300,12,3000,6000,true,TConstruct:fluid.molten.alumite,tconstruct.smeltery.blocks.TConstructFluid
+175,obsidian.molten,Molten Obsidian,1300,12,3000,6000,true,TConstruct:fluid.molten.obsidian,tconstruct.smeltery.blocks.TConstructFluid
+176,steel.molten,Molten Steel,1300,12,3000,6000,true,TConstruct:fluid.molten.steel,tconstruct.smeltery.blocks.TConstructFluid
+177,glass.molten,Molten Glass,1300,12,3000,6000,true,TConstruct:fluid.molten.glass,tconstruct.smeltery.blocks.TConstructFluid
+178,stone.seared,Seared Stone,1300,12,3000,6000,true,TConstruct:molten.stone,tconstruct.smeltery.blocks.TConstructFluid
+179,emerald.liquid,Liquified Emerald,1300,12,3000,6000,true,TConstruct:molten.emerald,tconstruct.smeltery.blocks.TConstructFluid
+180,blood,Blood,1300,0,3000,6000,true,TConstruct:liquid.blood,tconstruct.smeltery.blocks.BloodBlock
+181,nickel.molten,Molten Nickel,1300,0,3000,6000,true,TConstruct:fluid.molten.nickel,tconstruct.smeltery.blocks.TConstructFluid
+182,lead.molten,Molten Lead,1300,0,3000,6000,true,TConstruct:fluid.molten.lead,tconstruct.smeltery.blocks.TConstructFluid
+183,silver.molten,Molten Silver,1300,0,3000,6000,true,TConstruct:fluid.molten.silver,tconstruct.smeltery.blocks.TConstructFluid
+184,platinum.molten,Molten Platinum,1300,0,3000,6000,true,TConstruct:fluid.molten.shiny,tconstruct.smeltery.blocks.TConstructFluid
+185,invar.molten,Molten Invar,1300,0,3000,6000,true,TConstruct:fluid.molten.invar,tconstruct.smeltery.blocks.TConstructFluid
+186,electrum.molten,Molten Electrum,1300,0,3000,6000,true,TConstruct:fluid.molten.electrum,tconstruct.smeltery.blocks.TConstructFluid
+187,glue,Glue,200,0,6000,6000,true,TConstruct:liquid.glue,tconstruct.smeltery.blocks.GlueFluid
+188,pigiron.molten,Pig Iron,1300,0,3000,6000,true,TConstruct:fluid.molten.pigiron,tconstruct.smeltery.blocks.PigIronMoltenBlock
+189,manganese.molten,Molten Manganese,1300,15,3000,6000,true,Metallurgy:manganese.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+190,hepatizon.molten,Molten Hepatizon,1300,15,3000,6000,true,Metallurgy:hepatizon.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+191,damascus.steel.molten,Molten Damascus Steel,1300,15,3000,6000,true,Metallurgy:damascus.steel.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+192,angmallen.molten,Molten Angmallen,1300,15,3000,6000,true,Metallurgy:angmallen.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+193,eximite.molten,Molten Eximite,1300,15,3000,6000,true,Metallurgy:eximite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+194,meutoite.molten,Molten Meutoite,1300,15,3000,6000,true,Metallurgy:meutoite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+195,desichalkos.molten,Molten Desichalkos,1300,15,3000,6000,true,Metallurgy:desichalkos.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+196,prometheum.molten,Molten Prometheum,1300,15,3000,6000,true,Metallurgy:prometheum.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+197,deep.iron.molten,Molten Deep Iron,1300,15,3000,6000,true,Metallurgy:deep.iron.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+198,infuscolium.molten,Molten Infuscolium,1300,15,3000,6000,true,Metallurgy:infuscolium.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+199,black.steel.molten,Molten Black Steel,1300,15,3000,6000,true,Metallurgy:black.steel.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+200,oureclase.molten,Molten Oureclase,1300,15,3000,6000,true,Metallurgy:oureclase.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+201,astral.silver.molten,Molten Astral Silver,1300,15,3000,6000,true,Metallurgy:astral.silver.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+202,carmot.molten,Molten Carmot,1300,15,3000,6000,true,Metallurgy:carmot.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+203,mithril.molten,Molten Mithril,1300,15,3000,6000,true,Metallurgy:mithril.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+204,rubracium.molten,Molten Rubracium,1300,15,3000,6000,true,Metallurgy:rubracium.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+205,quicksilver.molten,Molten Quicksilver,1300,15,3000,6000,true,Metallurgy:quicksilver.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+206,haderoth.molten,Molten Haderoth,1300,15,3000,6000,true,Metallurgy:haderoth.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+207,orichalcum.molten,Molten Orichalcum,1300,15,3000,6000,true,Metallurgy:orichalcum.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+208,celenegil.molten,Molten Celenegil,1300,15,3000,6000,true,Metallurgy:celenegil.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+209,adamantine.molten,Molten Adamantine,1300,15,3000,6000,true,Metallurgy:adamantine.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+210,atlarus.molten,Molten Atlarus,1300,15,3000,6000,true,Metallurgy:atlarus.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+211,tartarite.molten,Molten Tartarite,1300,15,3000,6000,true,Metallurgy:tartarite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+212,ignatius.molten,Molten Ignatius,1300,15,3000,6000,true,Metallurgy:ignatius.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+213,shadow.iron.molten,Molten Shadow Iron,1300,15,3000,6000,true,Metallurgy:shadow.iron.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+214,lemurite.molten,Molten Lemurite,1300,15,3000,6000,true,Metallurgy:lemurite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+215,midasium.molten,Molten Midasium,1300,15,3000,6000,true,Metallurgy:midasium.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+216,vyroxeres.molten,Molten Vyroxeres,1300,15,3000,6000,true,Metallurgy:vyroxeres.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+217,ceruclase.molten,Molten Ceruclase,1300,15,3000,6000,true,Metallurgy:ceruclase.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+218,alduorite.molten,Molten Alduorite,1300,15,3000,6000,true,Metallurgy:alduorite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+219,kalendrite.molten,Molten Kalendrite,1300,15,3000,6000,true,Metallurgy:kalendrite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+220,vulcanite.molten,Molten Vulcanite,1300,15,3000,6000,true,Metallurgy:vulcanite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+221,sanguinite.molten,Molten Sanguinite,1300,15,3000,6000,true,Metallurgy:sanguinite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+222,shadow.steel.molten,Molten Shadow Steel,1300,15,3000,6000,true,Metallurgy:shadow.steel.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+223,inolashite.molten,Molten Inolashite,1300,15,3000,6000,true,Metallurgy:inolashite.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+224,amordrine.molten,Molten Amordrine,1300,15,3000,6000,true,Metallurgy:amordrine.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+225,zinc.molten,Molten Zinc,1300,15,3000,6000,true,Metallurgy:zinc.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+226,brass.molten,Molten Brass,1300,15,3000,6000,true,Metallurgy:brass.molten,com.teammetallurgy.metallurgy.metals.MoltenMetalBlock
+227,refined.glowstone.molten,fluid.refined.glowstone.molten,1300,15,3000,6000,true,ExtraTiC:moltenRefinedGlowstone,glassmaker.extratic.metals.MoltenMetalBlock
+228,osmium.molten,fluid.osmium.molten,1300,15,3000,6000,true,ExtraTiC:moltenOsmium,glassmaker.extratic.metals.MoltenMetalBlock
+229,pokefennium.molten,fluid.pokefennium.molten,1300,15,3000,6000,true,ExtraTiC:moltenPokefennium,glassmaker.extratic.metals.MoltenMetalBlock
+230,fairy.molten,fluid.fairy.molten,1300,15,3000,6000,true,ExtraTiC:moltenFairy,glassmaker.extratic.metals.MoltenMetalBlock
+231,methane,Methane Gas,295,0,1,11,false,null,null
+232,atmosphericgases,Atmospheric Gases,295,0,1,13,false,null,null
+233,liquidmethane,Liquid Methane,109,0,450,120,false,null,null
+234,liquidoxygen,Liquid Oxygen,90,0,1141,140,false,null,null
+235,oxygen,Liquid Oxygen,295,0,1,13,false,null,null
+236,nitrogen,Nitrogen Gas,295,0,1,12,false,null,null
+237,carbondioxide,CO2 Gas,295,0,2,20,false,null,null
+238,hydrogen,Liquid Hydrogen,295,0,1,1,false,null,null
+239,argon,Argon Gas,295,0,1,4,false,null,null
+240,liquidargon,Liquid Argon,87,0,900,100,false,null,null
+241,helium,Helium Gas,295,0,1,1,false,null,null
+242,bacterialsludge,Bacterial Sludge,295,0,1000,3000,true,GalacticraftMars:tile.sludge,micdoodle8.mods.galacticraft.planets.mars.blocks.BlockSludge
+243,mutagen,Mutagen,295,0,1000,1000,true,gendustry:fluid.Mutagen,net.bdew.gendustry.fluids.BlockFluid
+244,liquiddna,Liquid DNA,295,0,1000,1000,true,gendustry:fluid.LiquidDNA,net.bdew.gendustry.fluids.BlockFluid
+245,protein,Protein,295,0,1000,1000,true,gendustry:fluid.Protein,net.bdew.gendustry.fluids.BlockFluid
+246,grc.applecider0,Apple Cider,295,0,1000,1000,false,null,null
+247,grc.applecider1,Apple Cider,295,0,1000,1000,false,null,null
+248,grc.applecider2,Apple Cider,295,0,1000,1000,false,null,null
+249,grc.applecider3,Apple Cider,295,0,1000,1000,false,null,null
+250,grc.honeymead0,Mead,295,0,1000,1000,false,null,null
+251,grc.honeymead1,Mead,295,0,1000,1000,false,null,null
+252,grc.honeymead2,Mead,295,0,1000,1000,false,null,null
+253,grc.honeymead3,Mead,295,0,1000,1000,false,null,null
+254,grc.grapewine0,Grape Wine,295,0,1000,1000,false,null,null
+255,grc.grapewine1,Grape Wine,295,0,1000,1000,false,null,null
+256,grc.grapewine2,Grape Wine,295,0,1000,1000,false,null,null
+257,grc.grapewine3,Grape Wine,295,0,1000,1000,false,null,null
+258,grc.hopale0,Ale,295,0,1000,1000,false,null,null
+259,grc.hopale1,Ale,295,0,1000,1000,false,null,null
+260,grc.hopale2,Ale,295,0,1000,1000,false,null,null
+261,grc.hopale3,Ale,295,0,1000,1000,false,null,null
+262,grc.hopale4,Ale,295,0,1000,1000,false,null,null
+263,grc.ricesake0,Sake,295,0,1000,1000,false,null,null
+264,grc.ricesake1,Sake,295,0,1000,1000,false,null,null
+265,grc.ricesake2,Sake,295,0,1000,1000,false,null,null
+266,grc.ricesake3,Sake,295,0,1000,1000,false,null,null
+267,endergoo,fluid.enderGoo,220,0,1500,1500,true,HardcoreEnderExpansion:ender_goo,chylex.hee.block.BlockEnderGoo
+268,hydraulicoil,Hydraulic Oil,295,0,10,3000,true,HydCraft:tile.hydraulicOil,k4unl.minecraft.Hydraulicraft.fluids.BlockFluidOil
+269,chlorine,Liquid Chlorine,295,0,1000,1000,false,null,null
+270,sulfurdioxidegas,Liquid Sulfur Dioxide,295,0,1000,1000,false,null,null
+271,sulfurtrioxidegas,Liquid Sulfur Trioxide,295,0,1000,1000,false,null,null
+272,sulfuricacid,Liquid Sulfuric Acid,295,0,1000,1000,false,null,null
+273,hydrogenchloride,Liquid Hydrogen Chloride,295,0,1000,1000,false,null,null
+274,ethene,Liquid Ethylene,295,0,1000,1000,false,null,null
+275,sodium,Liquid Sodium,295,0,1000,1000,false,null,null
+276,brine,Brine,295,0,1000,1000,false,null,null
+277,h,Hydrogen,295,0,-10,400,true,minechem:fluid.H.name,minechem.fluid.FluidBlockElement
+278,he,Helium,295,0,-10,400,true,minechem:fluid.He.name,minechem.fluid.FluidBlockElement
+279,li,Lithium,295,0,0,1200,true,minechem:fluid.Li.name,minechem.fluid.FluidBlockElement
+280,be,Beryllium,295,0,0,1200,true,minechem:fluid.Be.name,minechem.fluid.FluidBlockElement
+281,b,Boron,295,0,0,1200,true,minechem:fluid.B.name,minechem.fluid.FluidBlockElement
+282,c,Carbon,295,0,0,1200,true,minechem:fluid.C.name,minechem.fluid.FluidBlockElement
+283,n,Nitrogen,295,0,-10,400,true,minechem:fluid.N.name,minechem.fluid.FluidBlockElement
+284,o,Oxygen,295,0,-10,400,true,minechem:fluid.O.name,minechem.fluid.FluidBlockElement
+285,f,Fluorine,295,0,-10,400,true,minechem:fluid.F.name,minechem.fluid.FluidBlockElement
+286,ne,Neon,295,0,-10,400,true,minechem:fluid.Ne.name,minechem.fluid.FluidBlockElement
+287,na,Sodium,295,0,0,1200,true,minechem:fluid.Na.name,minechem.fluid.FluidBlockElement
+288,mg,Magnesium,295,0,0,1200,true,minechem:fluid.Mg.name,minechem.fluid.FluidBlockElement
+289,al,Aluminium,295,0,0,1200,true,minechem:fluid.Al.name,minechem.fluid.FluidBlockElement
+290,si,Silicon,295,0,0,1200,true,minechem:fluid.Si.name,minechem.fluid.FluidBlockElement
+291,p,Phosphorus,295,0,0,1200,true,minechem:fluid.P.name,minechem.fluid.FluidBlockElement
+292,s,Sulfur,295,0,0,1200,true,minechem:fluid.S.name,minechem.fluid.FluidBlockElement
+293,cl,Chlorine,295,0,-10,400,true,minechem:fluid.Cl.name,minechem.fluid.FluidBlockElement
+294,ar,Argon,295,0,-10,400,true,minechem:fluid.Ar.name,minechem.fluid.FluidBlockElement
+295,k,Potassium,295,0,0,1200,true,minechem:fluid.K.name,minechem.fluid.FluidBlockElement
+296,ca,Calcium,295,0,0,1200,true,minechem:fluid.Ca.name,minechem.fluid.FluidBlockElement
+297,sc,Scandium,295,0,0,1200,true,minechem:fluid.Sc.name,minechem.fluid.FluidBlockElement
+298,ti,Titanium,295,0,0,1200,true,minechem:fluid.Ti.name,minechem.fluid.FluidBlockElement
+299,v,Vanadium,295,0,0,1200,true,minechem:fluid.V.name,minechem.fluid.FluidBlockElement
+300,cr,Chromium,295,0,0,1200,true,minechem:fluid.Cr.name,minechem.fluid.FluidBlockElement
+301,mn,Manganese,295,0,0,1200,true,minechem:fluid.Mn.name,minechem.fluid.FluidBlockElement
+302,fe,Iron,295,0,0,1200,true,minechem:fluid.Fe.name,minechem.fluid.FluidBlockElement
+303,co,Cobalt,295,0,0,1200,true,minechem:fluid.Co.name,minechem.fluid.FluidBlockElement
+304,ni,Nickel,295,0,0,1200,true,minechem:fluid.Ni.name,minechem.fluid.FluidBlockElement
+305,cu,Copper,295,0,0,1200,true,minechem:fluid.Cu.name,minechem.fluid.FluidBlockElement
+306,zn,Zinc,295,0,0,1200,true,minechem:fluid.Zn.name,minechem.fluid.FluidBlockElement
+307,ga,Gallium,295,0,0,1200,true,minechem:fluid.Ga.name,minechem.fluid.FluidBlockElement
+308,ge,Germanium,295,0,0,1200,true,minechem:fluid.Ge.name,minechem.fluid.FluidBlockElement
+309,as,Arsenic,295,0,0,1200,true,minechem:fluid.As.name,minechem.fluid.FluidBlockElement
+310,se,Selenium,295,0,0,1200,true,minechem:fluid.Se.name,minechem.fluid.FluidBlockElement
+311,br,Bromine,295,0,10,1000,true,minechem:fluid.Br.name,minechem.fluid.FluidBlockElement
+312,kr,Krypton,295,0,-10,400,true,minechem:fluid.Kr.name,minechem.fluid.FluidBlockElement
+313,rb,Rubidium,295,0,0,1200,true,minechem:fluid.Rb.name,minechem.fluid.FluidBlockElement
+314,sr,Strontium,295,0,0,1200,true,minechem:fluid.Sr.name,minechem.fluid.FluidBlockElement
+315,y,Yttrium,295,0,0,1200,true,minechem:fluid.Y.name,minechem.fluid.FluidBlockElement
+316,zr,Zirconium,295,0,0,1200,true,minechem:fluid.Zr.name,minechem.fluid.FluidBlockElement
+317,nb,Niobium,295,0,0,1200,true,minechem:fluid.Nb.name,minechem.fluid.FluidBlockElement
+318,mo,Molybdenum,295,0,0,1200,true,minechem:fluid.Mo.name,minechem.fluid.FluidBlockElement
+319,tc,Technetium,295,0,0,1200,true,minechem:fluid.Tc.name,minechem.fluid.FluidBlockElement
+320,ru,Ruthenium,295,0,0,1200,true,minechem:fluid.Ru.name,minechem.fluid.FluidBlockElement
+321,rh,Rhodium,295,0,0,1200,true,minechem:fluid.Rh.name,minechem.fluid.FluidBlockElement
+322,pd,Palladium,295,0,0,1200,true,minechem:fluid.Pd.name,minechem.fluid.FluidBlockElement
+323,ag,Silver,295,0,0,1200,true,minechem:fluid.Ag.name,minechem.fluid.FluidBlockElement
+324,cd,Cadmium,295,0,0,1200,true,minechem:fluid.Cd.name,minechem.fluid.FluidBlockElement
+325,in,Indium,295,0,0,1200,true,minechem:fluid.In.name,minechem.fluid.FluidBlockElement
+326,sn,Tin,295,0,0,1200,true,minechem:fluid.Sn.name,minechem.fluid.FluidBlockElement
+327,sb,Antimony,295,0,0,1200,true,minechem:fluid.Sb.name,minechem.fluid.FluidBlockElement
+328,te,Tellurium,295,0,0,1200,true,minechem:fluid.Te.name,minechem.fluid.FluidBlockElement
+329,i,Iodine,295,0,0,1200,true,minechem:fluid.I.name,minechem.fluid.FluidBlockElement
+330,xe,Xenon,295,0,-10,400,true,minechem:fluid.Xe.name,minechem.fluid.FluidBlockElement
+331,cs,Caesium,295,0,0,1200,true,minechem:fluid.Cs.name,minechem.fluid.FluidBlockElement
+332,ba,Barium,295,0,0,1200,true,minechem:fluid.Ba.name,minechem.fluid.FluidBlockElement
+333,la,Lanthanum,295,0,0,1200,true,minechem:fluid.La.name,minechem.fluid.FluidBlockElement
+334,ce,Cerium,295,0,0,1200,true,minechem:fluid.Ce.name,minechem.fluid.FluidBlockElement
+335,pr,Praseodymium,295,0,0,1200,true,minechem:fluid.Pr.name,minechem.fluid.FluidBlockElement
+336,nd,Neodymium,295,0,0,1200,true,minechem:fluid.Nd.name,minechem.fluid.FluidBlockElement
+337,pm,Promethium,295,0,0,1200,true,minechem:fluid.Pm.name,minechem.fluid.FluidBlockElement
+338,sm,Samarium,295,0,0,1200,true,minechem:fluid.Sm.name,minechem.fluid.FluidBlockElement
+339,eu,Europium,295,0,0,1200,true,minechem:fluid.Eu.name,minechem.fluid.FluidBlockElement
+340,gd,Gadolinium,295,0,0,1200,true,minechem:fluid.Gd.name,minechem.fluid.FluidBlockElement
+341,tb,Terbium,295,0,0,1200,true,minechem:fluid.Tb.name,minechem.fluid.FluidBlockElement
+342,dy,Dysprosium,295,0,0,1200,true,minechem:fluid.Dy.name,minechem.fluid.FluidBlockElement
+343,ho,Holmium,295,0,0,1200,true,minechem:fluid.Ho.name,minechem.fluid.FluidBlockElement
+344,er,Erbium,295,0,0,1200,true,minechem:fluid.Er.name,minechem.fluid.FluidBlockElement
+345,tm,Thulium,295,0,0,1200,true,minechem:fluid.Tm.name,minechem.fluid.FluidBlockElement
+346,yb,Ytterbium,295,0,0,1200,true,minechem:fluid.Yb.name,minechem.fluid.FluidBlockElement
+347,lu,Lutetium,295,0,0,1200,true,minechem:fluid.Lu.name,minechem.fluid.FluidBlockElement
+348,hf,Hafnium,295,0,0,1200,true,minechem:fluid.Hf.name,minechem.fluid.FluidBlockElement
+349,ta,Tantalum,295,0,0,1200,true,minechem:fluid.Ta.name,minechem.fluid.FluidBlockElement
+350,w,Tungsten,295,0,0,1200,true,minechem:fluid.W.name,minechem.fluid.FluidBlockElement
+351,re,Rhenium,295,0,0,1200,true,minechem:fluid.Re.name,minechem.fluid.FluidBlockElement
+352,os,Osmium,295,0,0,1200,true,minechem:fluid.Os.name,minechem.fluid.FluidBlockElement
+353,ir,Iridium,295,0,0,1200,true,minechem:fluid.Ir.name,minechem.fluid.FluidBlockElement
+354,pt,Platinum,295,0,0,1200,true,minechem:fluid.Pt.name,minechem.fluid.FluidBlockElement
+355,au,Gold,295,0,0,1200,true,minechem:fluid.Au.name,minechem.fluid.FluidBlockElement
+356,hg,Mercury,295,0,10,1000,true,minechem:fluid.Hg.name,minechem.fluid.FluidBlockElement
+357,tl,Thallium,295,0,0,1200,true,minechem:fluid.Tl.name,minechem.fluid.FluidBlockElement
+358,pb,Lead,295,0,0,1200,true,minechem:fluid.Pb.name,minechem.fluid.FluidBlockElement
+359,bi,Bismuth,295,0,0,1200,true,minechem:fluid.Bi.name,minechem.fluid.FluidBlockElement
+360,po,Polonium,295,0,0,1200,true,minechem:fluid.Po.name,minechem.fluid.FluidBlockElement
+361,at,Astatine,295,0,0,1200,true,minechem:fluid.At.name,minechem.fluid.FluidBlockElement
+362,rn,Radon,295,0,-10,400,true,minechem:fluid.Rn.name,minechem.fluid.FluidBlockElement
+363,fr,Francium,295,0,0,1200,true,minechem:fluid.Fr.name,minechem.fluid.FluidBlockElement
+364,ra,Radium,295,0,0,1200,true,minechem:fluid.Ra.name,minechem.fluid.FluidBlockElement
+365,ac,Actinium,295,0,0,1200,true,minechem:fluid.Ac.name,minechem.fluid.FluidBlockElement
+366,th,Thorium,295,0,0,1200,true,minechem:fluid.Th.name,minechem.fluid.FluidBlockElement
+367,pa,Protactinium,295,0,0,1200,true,minechem:fluid.Pa.name,minechem.fluid.FluidBlockElement
+368,u,Uranium,295,0,0,1200,true,minechem:fluid.U.name,minechem.fluid.FluidBlockElement
+369,np,Neptunium,295,0,0,1200,true,minechem:fluid.Np.name,minechem.fluid.FluidBlockElement
+370,pu,Plutonium,295,0,0,1200,true,minechem:fluid.Pu.name,minechem.fluid.FluidBlockElement
+371,am,Americium,295,0,0,1200,true,minechem:fluid.Am.name,minechem.fluid.FluidBlockElement
+372,cm,Curium,295,0,0,1200,true,minechem:fluid.Cm.name,minechem.fluid.FluidBlockElement
+373,bk,Berkelium,295,0,0,1200,true,minechem:fluid.Bk.name,minechem.fluid.FluidBlockElement
+374,cf,Californium,295,0,0,1200,true,minechem:fluid.Cf.name,minechem.fluid.FluidBlockElement
+375,es,Einsteinium,295,0,0,1200,true,minechem:fluid.Es.name,minechem.fluid.FluidBlockElement
+376,fm,Fermium,295,0,0,1200,true,minechem:fluid.Fm.name,minechem.fluid.FluidBlockElement
+377,md,Mendelevium,295,0,0,1200,true,minechem:fluid.Md.name,minechem.fluid.FluidBlockElement
+378,no,Nobelium,295,0,0,1200,true,minechem:fluid.No.name,minechem.fluid.FluidBlockElement
+379,lr,Lawrencium,295,0,0,1200,true,minechem:fluid.Lr.name,minechem.fluid.FluidBlockElement
+380,rf,Rutherfordium,295,0,0,1200,true,minechem:fluid.Rf.name,minechem.fluid.FluidBlockElement
+381,db,Dubnium,295,0,0,1200,true,minechem:fluid.Db.name,minechem.fluid.FluidBlockElement
+382,sg,Seaborgium,295,0,0,1200,true,minechem:fluid.Sg.name,minechem.fluid.FluidBlockElement
+383,bh,Bohrium,295,0,0,1200,true,minechem:fluid.Bh.name,minechem.fluid.FluidBlockElement
+384,hs,Hassium,295,0,0,1200,true,minechem:fluid.Hs.name,minechem.fluid.FluidBlockElement
+385,mt,Meitnerium,295,0,0,1200,true,minechem:fluid.Mt.name,minechem.fluid.FluidBlockElement
+386,ds,Darmstadtium,295,0,0,1200,true,minechem:fluid.Ds.name,minechem.fluid.FluidBlockElement
+387,rg,Roentgenium,295,0,0,1200,true,minechem:fluid.Rg.name,minechem.fluid.FluidBlockElement
+388,cn,Copernicium,295,0,0,1200,true,minechem:fluid.Cn.name,minechem.fluid.FluidBlockElement
+389,uut,Ununtrium,295,0,0,1200,true,minechem:fluid.Uut.name,minechem.fluid.FluidBlockElement
+390,cellulose,Cellulose,295,0,0,1200,true,minechem:fluid.cellulose.name,minechem.fluid.FluidBlockMolecule
+391,nitrogendioxide,Nitrogen Dioxide,295,0,-10,400,true,minechem:fluid.nitrogenDioxide.name,minechem.fluid.FluidBlockMolecule
+392,toluene,Toluene,295,0,10,1000,true,minechem:fluid.toluene.name,minechem.fluid.FluidBlockMolecule
+393,potassiumnitrate,Potassium Nitrate,295,0,0,1200,true,minechem:fluid.potassiumNitrate.name,minechem.fluid.FluidBlockMolecule
+394,tnt,Trinitrotoluene,295,0,0,1200,true,minechem:fluid.tnt.name,minechem.fluid.FluidBlockMolecule
+395,silicondioxide,Silicon Dioxide,295,0,0,1200,true,minechem:fluid.siliconDioxide.name,minechem.fluid.FluidBlockMolecule
+396,calcicpyroxene,Calcic Pyroxene,295,0,0,1200,true,minechem:fluid.calcicPyroxene.name,minechem.fluid.FluidBlockMolecule
+397,pyrite,Pyrite,295,0,0,1200,true,minechem:fluid.pyrite.name,minechem.fluid.FluidBlockMolecule
+398,nepheline,Nepheline,295,0,0,1200,true,minechem:fluid.nepheline.name,minechem.fluid.FluidBlockMolecule
+399,sulfate,Sulfate (ion),295,0,0,1200,true,minechem:fluid.sulfate.name,minechem.fluid.FluidBlockMolecule
+400,noselite,Noselite,295,0,0,1200,true,minechem:fluid.noselite.name,minechem.fluid.FluidBlockMolecule
+401,sodalite,Sodalite,295,0,0,1200,true,minechem:fluid.sodalite.name,minechem.fluid.FluidBlockMolecule
+402,nitrate,Nitrate (ion),295,0,0,1200,true,minechem:fluid.nitrate.name,minechem.fluid.FluidBlockMolecule
+403,carbonate,Carbonate (ion),295,0,0,1200,true,minechem:fluid.carbonate.name,minechem.fluid.FluidBlockMolecule
+404,cyanide,Potassium Cyanide,295,0,10,1000,true,minechem:fluid.cyanide.name,minechem.fluid.FluidBlockMolecule
+405,phosphate,Phosphate (ion),295,0,0,1200,true,minechem:fluid.phosphate.name,minechem.fluid.FluidBlockMolecule
+406,acetate,Acetate (ion),295,0,0,1200,true,minechem:fluid.acetate.name,minechem.fluid.FluidBlockMolecule
+407,chromate,Chromate (ion),295,0,0,1200,true,minechem:fluid.chromate.name,minechem.fluid.FluidBlockMolecule
+408,hydroxide,Hydroxide (ion),295,0,10,1000,true,minechem:fluid.hydroxide.name,minechem.fluid.FluidBlockMolecule
+409,ammonium,Ammonium (ion),295,0,10,1000,true,minechem:fluid.ammonium.name,minechem.fluid.FluidBlockMolecule
+410,hydronium,Hydronium (ion),295,0,10,1000,true,minechem:fluid.hydronium.name,minechem.fluid.FluidBlockMolecule
+411,peroxide,Peroxide (ion),295,0,10,1000,true,minechem:fluid.peroxide.name,minechem.fluid.FluidBlockMolecule
+412,calciumoxide,Calcium Oxide,295,0,0,1200,true,minechem:fluid.calciumOxide.name,minechem.fluid.FluidBlockMolecule
+413,calciumcarbonate,Calcium Carbonate,295,0,0,1200,true,minechem:fluid.calciumCarbonate.name,minechem.fluid.FluidBlockMolecule
+414,magnesiumcarbonate,Magnesium Carbonate,295,0,0,1200,true,minechem:fluid.magnesiumCarbonate.name,minechem.fluid.FluidBlockMolecule
+415,lazurite,Lazurite,295,0,0,1200,true,minechem:fluid.lazurite.name,minechem.fluid.FluidBlockMolecule
+416,isoprene,Isoprene,295,0,0,1200,true,minechem:fluid.isoprene.name,minechem.fluid.FluidBlockMolecule
+417,butene,Butene,295,0,-10,400,true,minechem:fluid.butene.name,minechem.fluid.FluidBlockMolecule
+418,polyisobutylene,Polyisobutylene Rubber,295,0,10,1000,true,minechem:fluid.polyisobutylene.name,minechem.fluid.FluidBlockMolecule
+419,malicacid,Malic Acid,295,0,0,1200,true,minechem:fluid.malicAcid.name,minechem.fluid.FluidBlockMolecule
+420,vinylchloride,Vinyl Chloride Monomer,295,0,-10,400,true,minechem:fluid.vinylChloride.name,minechem.fluid.FluidBlockMolecule
+421,polyvinylchloride,Polyvinyl Chloride,295,0,0,1200,true,minechem:fluid.polyvinylChloride.name,minechem.fluid.FluidBlockMolecule
+422,methamphetamine,Methamphetamine,295,0,0,1200,true,minechem:fluid.methamphetamine.name,minechem.fluid.FluidBlockMolecule
+423,psilocybin,Psilocybin,295,0,0,1200,true,minechem:fluid.psilocybin.name,minechem.fluid.FluidBlockMolecule
+424,iron3oxide,Iron (III) Oxide,295,0,0,1200,true,minechem:fluid.iron3oxide.name,minechem.fluid.FluidBlockMolecule
+425,strontiumnitrate,Strontium Nitrate,295,0,0,1200,true,minechem:fluid.strontiumNitrate.name,minechem.fluid.FluidBlockMolecule
+426,magnetite,Magnetite,295,0,0,1200,true,minechem:fluid.magnetite.name,minechem.fluid.FluidBlockMolecule
+427,magnesiumoxide,Magnesium Oxide,295,0,0,1200,true,minechem:fluid.magnesiumOxide.name,minechem.fluid.FluidBlockMolecule
+428,cucurbitacin,Cucurbitacin,295,0,0,1200,true,minechem:fluid.cucurbitacin.name,minechem.fluid.FluidBlockMolecule
+429,asparticacid,Aspartic Acid,295,0,0,1200,true,minechem:fluid.asparticAcid.name,minechem.fluid.FluidBlockMolecule
+430,hydroxylapatite,Hydroxylapatite,295,0,0,1200,true,minechem:fluid.hydroxylapatite.name,minechem.fluid.FluidBlockMolecule
+431,alinine,Alanine,295,0,0,1200,true,minechem:fluid.alinine.name,minechem.fluid.FluidBlockMolecule
+432,glycine,Glycine,295,0,0,1200,true,minechem:fluid.glycine.name,minechem.fluid.FluidBlockMolecule
+433,serine,Serine,295,0,0,1200,true,minechem:fluid.serine.name,minechem.fluid.FluidBlockMolecule
+434,mescaline,Mescaline,295,0,0,1200,true,minechem:fluid.mescaline.name,minechem.fluid.FluidBlockMolecule
+435,methyl,Methyl (ion),295,0,10,1000,true,minechem:fluid.methyl.name,minechem.fluid.FluidBlockMolecule
+436,methylene,Methylene (ion),295,0,10,1000,true,minechem:fluid.methylene.name,minechem.fluid.FluidBlockMolecule
+437,memethacrylate,Methyl Methacrylate,295,0,10,1000,true,minechem:fluid.memethacrylate.name,minechem.fluid.FluidBlockMolecule
+438,pmma,Poly(methyl methacrylate),295,0,0,1200,true,minechem:fluid.pmma.name,minechem.fluid.FluidBlockMolecule
+439,redpigment,Cobalt(II) Nitrate,295,0,0,1200,true,minechem:fluid.redPigment.name,minechem.fluid.FluidBlockMolecule
+440,orangepigment,Potassium Dichromate,295,0,0,1200,true,minechem:fluid.orangePigment.name,minechem.fluid.FluidBlockMolecule
+441,yellowpigment,Potassium Chromate,295,0,0,1200,true,minechem:fluid.yellowPigment.name,minechem.fluid.FluidBlockMolecule
+442,limepigment,Nickel(II) Chloride,295,0,0,1200,true,minechem:fluid.limePigment.name,minechem.fluid.FluidBlockMolecule
+443,lightbluepigment,Copper(II) Sulfate,295,0,0,1200,true,minechem:fluid.lightbluePigment.name,minechem.fluid.FluidBlockMolecule
+444,purplepigment,Potassium Permanganate,295,0,0,1200,true,minechem:fluid.purplePigment.name,minechem.fluid.FluidBlockMolecule
+445,greenpigment,Zinc Green,295,0,0,1200,true,minechem:fluid.greenPigment.name,minechem.fluid.FluidBlockMolecule
+446,blackpigment,Carbon Black,295,0,-10,400,true,minechem:fluid.blackPigment.name,minechem.fluid.FluidBlockMolecule
+447,whitepigment,Titanium Dioxide,295,0,0,1200,true,minechem:fluid.whitePigment.name,minechem.fluid.FluidBlockMolecule
+448,metasilicate,Metasilicate,295,0,0,1200,true,minechem:fluid.metasilicate.name,minechem.fluid.FluidBlockMolecule
+449,beryl,Beryl,295,0,0,1200,true,minechem:fluid.beryl.name,minechem.fluid.FluidBlockMolecule
+450,ethanol,Ethyl Alcohol,295,0,10,1000,true,minechem:fluid.ethanol.name,minechem.fluid.FluidBlockMolecule
+451,amphetamine,Amphetamine,295,0,10,1000,true,minechem:fluid.amphetamine.name,minechem.fluid.FluidBlockMolecule
+452,theobromine,Theobromine,295,0,0,1200,true,minechem:fluid.theobromine.name,minechem.fluid.FluidBlockMolecule
+453,starch,Starch,295,0,0,1200,true,minechem:fluid.starch.name,minechem.fluid.FluidBlockMolecule
+454,sucrose,Sucrose,295,0,0,1200,true,minechem:fluid.sucrose.name,minechem.fluid.FluidBlockMolecule
+455,pantherine,Pantherine,295,0,0,1200,true,minechem:fluid.pantherine.name,minechem.fluid.FluidBlockMolecule
+456,aluminiumoxide,Aluminium Oxide,295,0,0,1200,true,minechem:fluid.aluminiumOxide.name,minechem.fluid.FluidBlockMolecule
+457,fullrene,Carbon Nanotubes,295,0,0,1200,true,minechem:fluid.fullrene.name,minechem.fluid.FluidBlockMolecule
+458,valine,Valine,295,0,0,1200,true,minechem:fluid.valine.name,minechem.fluid.FluidBlockMolecule
+459,penicillin,Penicillin,295,0,0,1200,true,minechem:fluid.penicillin.name,minechem.fluid.FluidBlockMolecule
+460,testosterone,Testosterone,295,0,10,1000,true,minechem:fluid.testosterone.name,minechem.fluid.FluidBlockMolecule
+461,kaolinite,Kaolinite,295,0,0,1200,true,minechem:fluid.kaolinite.name,minechem.fluid.FluidBlockMolecule
+462,fingolimod,Fingolimod,295,0,0,1200,true,minechem:fluid.fingolimod.name,minechem.fluid.FluidBlockMolecule
+463,arginine,Arginine,295,0,0,1200,true,minechem:fluid.arginine.name,minechem.fluid.FluidBlockMolecule
+464,shikimicacid,Shikimic Acid,295,0,0,1200,true,minechem:fluid.shikimicAcid.name,minechem.fluid.FluidBlockMolecule
+465,glyphosate,Glyphosate,295,0,10,1000,true,minechem:fluid.glyphosate.name,minechem.fluid.FluidBlockMolecule
+466,asprin,Aspirin,295,0,0,1200,true,minechem:fluid.asprin.name,minechem.fluid.FluidBlockMolecule
+467,ddt,DDT,295,0,0,1200,true,minechem:fluid.ddt.name,minechem.fluid.FluidBlockMolecule
+468,dota,DOTA,295,0,0,1200,true,minechem:fluid.dota.name,minechem.fluid.FluidBlockMolecule
+469,mycotoxin,T-2 Mycotoxin,295,0,0,1200,true,minechem:fluid.mycotoxin.name,minechem.fluid.FluidBlockMolecule
+470,salt,Salt,295,0,0,1200,true,minechem:fluid.salt.name,minechem.fluid.FluidBlockMolecule
+471,ammonia,Ammonia,295,0,-10,400,true,minechem:fluid.ammonia.name,minechem.fluid.FluidBlockMolecule
+472,nodularin,Nodularin,295,0,0,1200,true,minechem:fluid.nodularin.name,minechem.fluid.FluidBlockMolecule
+473,tetrodotoxin,Tetrodotoxin,295,0,0,1200,true,minechem:fluid.tetrodotoxin.name,minechem.fluid.FluidBlockMolecule
+474,thc,THC,295,0,0,1200,true,minechem:fluid.thc.name,minechem.fluid.FluidBlockMolecule
+475,buli,Tert-Butyllithium,295,0,0,1200,true,minechem:fluid.buli.name,minechem.fluid.FluidBlockMolecule
+476,plat,Chloroplatinic Acid,295,0,0,1200,true,minechem:fluid.plat.name,minechem.fluid.FluidBlockMolecule
+477,phosgene,Phosgene,295,0,-10,400,true,minechem:fluid.phosgene.name,minechem.fluid.FluidBlockMolecule
+478,aalc,Allyl Alcohol,295,0,10,1000,true,minechem:fluid.aalc.name,minechem.fluid.FluidBlockMolecule
+479,hist,Diphenhydramine,295,0,0,1200,true,minechem:fluid.hist.name,minechem.fluid.FluidBlockMolecule
+480,pal2,Batrachotoxin,295,0,0,1200,true,minechem:fluid.pal2.name,minechem.fluid.FluidBlockMolecule
+481,retinol,Retinol,295,0,0,1200,true,minechem:fluid.retinol.name,minechem.fluid.FluidBlockMolecule
+482,xylitol,Xylitol,295,0,0,1200,true,minechem:fluid.xylitol.name,minechem.fluid.FluidBlockMolecule
+483,weedex,Aminocyclopyrachlor,295,0,0,1200,true,minechem:fluid.weedex.name,minechem.fluid.FluidBlockMolecule
+484,xanax,Alprazolam,295,0,0,1200,true,minechem:fluid.xanax.name,minechem.fluid.FluidBlockMolecule
+485,hcl,Hydrogen Chloride,295,0,10,1000,true,minechem:fluid.hcl.name,minechem.fluid.FluidBlockMolecule
+486,cocaine,Cocaine,295,0,0,1200,true,minechem:fluid.cocaine.name,minechem.fluid.FluidBlockMolecule
+487,cocainehcl,Cocaine Hydrochloride,295,0,0,1200,true,minechem:fluid.cocainehcl.name,minechem.fluid.FluidBlockMolecule
+488,blueorgodye,Guaiazulene,295,0,10,1000,true,minechem:fluid.blueorgodye.name,minechem.fluid.FluidBlockMolecule
+489,redorgodye,Pelargonidin,295,0,0,1200,true,minechem:fluid.redorgodye.name,minechem.fluid.FluidBlockMolecule
+490,purpleorgodye,Delphinidin,295,0,0,1200,true,minechem:fluid.purpleorgodye.name,minechem.fluid.FluidBlockMolecule
+491,olivine,Olivine,295,0,0,1200,true,minechem:fluid.olivine.name,minechem.fluid.FluidBlockMolecule
+492,metblue,Methylene Blue,295,0,0,1200,true,minechem:fluid.metblue.name,minechem.fluid.FluidBlockMolecule
+493,meoh,Methyl Alcohol,295,0,10,1000,true,minechem:fluid.meoh.name,minechem.fluid.FluidBlockMolecule
+494,lcd,Cholesteryl Benzoate,295,0,0,1200,true,minechem:fluid.lcd.name,minechem.fluid.FluidBlockMolecule
+495,radchlor,Radium Chloride,295,0,0,1200,true,minechem:fluid.radchlor.name,minechem.fluid.FluidBlockMolecule
+496,caulerpenyne,Caulerpenyne,295,0,0,1200,true,minechem:fluid.caulerpenyne.name,minechem.fluid.FluidBlockMolecule
+497,latropine,Hyoscyamine,295,0,0,1200,true,minechem:fluid.latropine.name,minechem.fluid.FluidBlockMolecule
+498,gallicacid,Gallic Acid,295,0,0,1200,true,minechem:fluid.gallicacid.name,minechem.fluid.FluidBlockMolecule
+499,glucose,Glucose,295,0,0,1200,true,minechem:fluid.glucose.name,minechem.fluid.FluidBlockMolecule
+500,tannicacid,Tannic Acid,295,0,0,1200,true,minechem:fluid.tannicacid.name,minechem.fluid.FluidBlockMolecule
+501,hperox,Hydrogen Peroxide,295,0,10,1000,true,minechem:fluid.hperox.name,minechem.fluid.FluidBlockMolecule
+502,galliumarsenide,Gallium Arsenide,295,0,0,1200,true,minechem:fluid.galliumarsenide.name,minechem.fluid.FluidBlockMolecule
+503,fibroin,Fibroin,295,0,10,1000,true,minechem:fluid.fibroin.name,minechem.fluid.FluidBlockMolecule
+504,aluminiumphosphate,Aluminium Phosphate,295,0,0,1200,true,minechem:fluid.aluminiumPhosphate.name,minechem.fluid.FluidBlockMolecule
+505,potassiumoxide,Potassium Oxide,295,0,0,1200,true,minechem:fluid.potassiumOxide.name,minechem.fluid.FluidBlockMolecule
+506,sodiumoxide,Sodium Oxide,295,0,0,1200,true,minechem:fluid.sodiumOxide.name,minechem.fluid.FluidBlockMolecule
+507,plagioclaseanorthite,Anorthite,295,0,0,1200,true,minechem:fluid.plagioclaseAnorthite.name,minechem.fluid.FluidBlockMolecule
+508,plagioclasealbite,Albite,295,0,0,1200,true,minechem:fluid.plagioclaseAlbite.name,minechem.fluid.FluidBlockMolecule
+509,orthoclase,Orthoclase,295,0,0,1200,true,minechem:fluid.orthoclase.name,minechem.fluid.FluidBlockMolecule
+510,biotite,Biotite,295,0,0,1200,true,minechem:fluid.biotite.name,minechem.fluid.FluidBlockMolecule
+511,augite,Augite,295,0,0,1200,true,minechem:fluid.augite.name,minechem.fluid.FluidBlockMolecule
+512,talc,Talc,295,0,0,1200,true,minechem:fluid.talc.name,minechem.fluid.FluidBlockMolecule
+513,propane,Propane,295,0,-10,400,true,minechem:fluid.propane.name,minechem.fluid.FluidBlockMolecule
+514,peridot,Peridot,295,0,0,1200,true,minechem:fluid.peridot.name,minechem.fluid.FluidBlockMolecule
+515,topaz,Topaz,295,0,0,1200,true,minechem:fluid.topaz.name,minechem.fluid.FluidBlockMolecule
+516,zoisite,Zoisite,295,0,0,1200,true,minechem:fluid.zoisite.name,minechem.fluid.FluidBlockMolecule
+517,cysteine,Cysteine,295,0,0,1200,true,minechem:fluid.cysteine.name,minechem.fluid.FluidBlockMolecule
+518,threonine,Threonine,295,0,0,1200,true,minechem:fluid.threonine.name,minechem.fluid.FluidBlockMolecule
+519,lysine,Lysine,295,0,0,1200,true,minechem:fluid.lysine.name,minechem.fluid.FluidBlockMolecule
+520,methionine,Methionine,295,0,0,1200,true,minechem:fluid.methionine.name,minechem.fluid.FluidBlockMolecule
+521,tyrosine,Tyrosine,295,0,0,1200,true,minechem:fluid.tyrosine.name,minechem.fluid.FluidBlockMolecule
+522,histidine,Histidine,295,0,0,1200,true,minechem:fluid.histidine.name,minechem.fluid.FluidBlockMolecule
+523,phenylalanine,Phenylalanine,295,0,0,1200,true,minechem:fluid.phenylalanine.name,minechem.fluid.FluidBlockMolecule
+524,glutamine,Glutamine,295,0,0,1200,true,minechem:fluid.glutamine.name,minechem.fluid.FluidBlockMolecule
+525,proline,Proline,295,0,0,1200,true,minechem:fluid.proline.name,minechem.fluid.FluidBlockMolecule
+526,leucine,Leucine,295,0,0,1200,true,minechem:fluid.leucine.name,minechem.fluid.FluidBlockMolecule
+527,tryptophan,Tryptophan,295,0,0,1200,true,minechem:fluid.tryptophan.name,minechem.fluid.FluidBlockMolecule
+528,aspartate,Aspartate,295,0,0,1200,true,minechem:fluid.aspartate.name,minechem.fluid.FluidBlockMolecule
+529,isoleucine,Isoleucine,295,0,0,1200,true,minechem:fluid.isoleucine.name,minechem.fluid.FluidBlockMolecule
+530,glutamates,Glutamic Acid,295,0,0,1200,true,minechem:fluid.glutamates.name,minechem.fluid.FluidBlockMolecule
+531,asparagine,Asparagine,295,0,0,1200,true,minechem:fluid.asparagine.name,minechem.fluid.FluidBlockMolecule
+532,keratin,Keratin,295,0,0,1200,true,minechem:fluid.keratin.name,minechem.fluid.FluidBlockMolecule
+533,asbestos,Asbestos,295,0,0,1200,true,minechem:fluid.asbestos.name,minechem.fluid.FluidBlockMolecule
+534,lithiumhydroxide,Lithium Hydroxide,295,0,0,1200,true,minechem:fluid.lithiumHydroxide.name,minechem.fluid.FluidBlockMolecule
+535,sodiumhydroxide,Sodium Hydroxide,295,0,0,1200,true,minechem:fluid.sodiumHydroxide.name,minechem.fluid.FluidBlockMolecule
+536,potassiumhydroxide,Potassium Hydroxide,295,0,0,1200,true,minechem:fluid.potassiumHydroxide.name,minechem.fluid.FluidBlockMolecule
+537,rubidiumhydroxide,Rubidium Hydroxide,295,0,0,1200,true,minechem:fluid.rubidiumHydroxide.name,minechem.fluid.FluidBlockMolecule
+538,cesiumhydroxide,Cesium Hydroxide,295,0,0,1200,true,minechem:fluid.cesiumHydroxide.name,minechem.fluid.FluidBlockMolecule
+539,franciumhydroxide,Francium Hydroxide,295,0,0,1200,true,minechem:fluid.franciumHydroxide.name,minechem.fluid.FluidBlockMolecule
+540,hypophosphite,Hypophosphite,295,0,0,1200,true,minechem:fluid.hypophosphite.name,minechem.fluid.FluidBlockMolecule
+541,aluminiumhypophosphite,fluid.aluminiumHypophosphite.name,295,0,0,1200,true,minechem:fluid.aluminiumHypophosphite.name,minechem.fluid.FluidBlockMolecule
+542,omphacite,Omphacite,295,0,0,1200,true,minechem:fluid.omphacite.name,minechem.fluid.FluidBlockMolecule
+543,silicate,Silicate,295,0,0,1200,true,minechem:fluid.silicate.name,minechem.fluid.FluidBlockMolecule
+544,pyrope,Pyrope,295,0,0,1200,true,minechem:fluid.pyrope.name,minechem.fluid.FluidBlockMolecule
+545,almadine,Almandine,295,0,0,1200,true,minechem:fluid.almadine.name,minechem.fluid.FluidBlockMolecule
+546,spessartine,Spessartine,295,0,0,1200,true,minechem:fluid.spessartine.name,minechem.fluid.FluidBlockMolecule
+547,redgarnet,Red Garnet,295,0,0,1200,true,minechem:fluid.redGarnet.name,minechem.fluid.FluidBlockMolecule
+548,forsterite,Forsterite,295,0,0,1200,true,minechem:fluid.forsterite.name,minechem.fluid.FluidBlockMolecule
+549,chromite,Chromite,295,0,0,1200,true,minechem:fluid.chromite.name,minechem.fluid.FluidBlockMolecule
+550,siliconoxide,Silicon Oxide,295,0,0,1200,true,minechem:fluid.siliconOxide.name,minechem.fluid.FluidBlockMolecule
+551,ironoxide,Iron Oxide,295,0,0,1200,true,minechem:fluid.ironOxide.name,minechem.fluid.FluidBlockMolecule
+552,galliumoxide,Gallium Oxide,295,0,0,1200,true,minechem:fluid.galliumOxide.name,minechem.fluid.FluidBlockMolecule
+553,arsenicoxide,Arsenic Oxide,295,0,0,1200,true,minechem:fluid.arsenicOxide.name,minechem.fluid.FluidBlockMolecule
+554,sulfurdioxide,Sulfur Dioxide,295,0,-10,400,true,minechem:fluid.sulfurDioxide.name,minechem.fluid.FluidBlockMolecule
+555,hydrogensulfide,Hydrogen Sulfide,295,0,-10,400,true,minechem:fluid.hydrogenSulfide.name,minechem.fluid.FluidBlockMolecule
+556,sodiumbisulfate,Sodium Bisulfate,295,0,0,1200,true,minechem:fluid.sodiumBisulfate.name,minechem.fluid.FluidBlockMolecule
+557,sodiumsulfate,Sodium Sulfate,295,0,0,1200,true,minechem:fluid.sodiumSulfate.name,minechem.fluid.FluidBlockMolecule
+558,dimethyltryptamine,Dimethyltryptamine,295,0,0,1200,true,minechem:fluid.dimethyltryptamine.name,minechem.fluid.FluidBlockMolecule
+559,xpjuice,Liquid XP,295,10,800,1500,false,null,null
+560,etchacid,fluid.EtchAcid,295,0,1000,1000,true,PneumaticCraft:etchingAcid,pneumaticCraft.common.block.BlockFluidEtchingAcid
+561,plastic,Plastic,423,0,1000,1000,false,null,null
+562,antivenom,Anti-Venom,295,0,1000,2000,false,null,null
+563,beetlejuice,Beetle Juice,295,0,1000,1000,false,null,null
+564,witchery:fluidspirit,fluid.witchery:fluidspirit,295,0,500,2000,true,witchery:spiritflowing,com.emoniph.witchery.blocks.BlockFlowingSpirit
+565,witchery:hollowtears,Hollow Tears,295,0,100,1500,true,witchery:hollowtears,com.emoniph.witchery.blocks.BlockFlowingSpirit
+566,witchery:brew,fluid.witchery:brew,295,0,100,1500,true,witchery:brew,com.emoniph.witchery.brewing.BlockBrew
+567,witchery:brewgas,fluid.witchery:brewgas,295,0,1000,1000,false,null,null
+568,witchery:brewliquid,fluid.witchery:brewliquid,295,0,1000,1000,true,witchery:brewliquid,com.emoniph.witchery.brewing.BlockBrewLiquidEffect
+569,witchery:fluiddisease,fluid.witchery:fluiddisease,295,0,50,3000,true,witchery:disease,com.emoniph.witchery.blocks.BlockDisease
+570,glass,Liquid Glass,295,0,1000,1000,false,null,null
+571,biomass,Biomass,295,0,1000,1000,false,null,null
+572,bioethanol,Ethanol,295,0,1000,1000,false,null,null
+573,seedoil,Seed Oil,295,0,1000,1000,false,null,null
+574,juice,Fruit Juice,295,0,1000,1000,false,null,null
+575,ice,Crushed Ice,295,0,1000,1000,false,null,null
+576,potionawkward,Awkward Potion,295,0,1000,1000,false,null,null
+577,potionvision,Potion of Night Vision (3:00),295,0,1000,1000,false,null,null
+578,potionvisionlong,Potion of Night Vision (8:00),295,0,1000,1000,false,null,null
+579,potioninvisible,Potion of Invisibility (3:00),295,0,1000,1000,false,null,null
+580,potioninvisiblelong,Potion of Invisibility (8:00),295,0,1000,1000,false,null,null
+581,potionregen,Potion of Regeneration (0:45),295,0,1000,1000,false,null,null
+582,potionregenii,Potion of Regeneration II (2:00),295,0,1000,1000,false,null,null
+583,potionregenlong,Potion of Regeneration (2:00),295,0,1000,1000,false,null,null
+584,potionfast,Potion of Swiftness (3:00),295,0,1000,1000,false,null,null
+585,potionfastlong,Potion of Swiftness (8:00),295,0,1000,1000,false,null,null
+586,potionfastii,Potion of Swiftness II (1:30),295,0,1000,1000,false,null,null
+587,potionweakness,Potion of Weakness (1:30),295,0,1000,1000,false,null,null
+588,potionweaknesslong,Potion of Weakness (4:00),295,0,1000,1000,false,null,null
+589,potionstrength,Potion of Strength (3:00),295,0,1000,1000,false,null,null
+590,potionstrengthlong,Potion of Strength (8:00),295,0,1000,1000,false,null,null
+591,potionstrengthii,Potion of Strength II (1:30),295,0,1000,1000,false,null,null
+592,potionfireresist,Potion of Fire Resistance (3:00),295,0,1000,1000,false,null,null
+593,potionfireresistlong,Potion of Fire Resistance (8:00),295,0,1000,1000,false,null,null
+594,potionslowness,Potion of Slowness (1:30),295,0,1000,1000,false,null,null
+595,potionslownesslong,Potion of Slowness (4:00),295,0,1000,1000,false,null,null
+596,potionpoison,Potion of Poison (0:45),295,0,1000,1000,false,null,null
+597,potionpoisonii,Potion of Poison II (0:22),295,0,1000,1000,false,null,null
+598,potionpoisonlong,Potion of Poison (2:00),295,0,1000,1000,false,null,null
+599,potionharm,Potion of Harming,295,0,1000,1000,false,null,null
+600,potionharmii,Potion of Harming II,295,0,1000,1000,false,null,null
+601,potionheal,Potion of Healing,295,0,1000,1000,false,null,null
+602,potionhealii,Potion of Healing II,295,0,1000,1000,false,null,null
+603,potionwaterbreathe,Potion of Water Breathing (3:00),295,0,1000,1000,false,null,null
+604,potionwaterbreathelong,Potion of Water Breathing (8:00),295,0,1000,1000,false,null,null
+605,potionhaste,Potion of Haste (1:30),295,0,1000,1000,false,null,null
+606,potionhasteii,Potion of Haste II (0:45),295,0,1000,1000,false,null,null
+607,potionhasteiii,Potion of Haste III (0:25),295,0,1000,1000,false,null,null
+608,potionhastelong,Potion of Haste (3:00),295,0,1000,1000,false,null,null
+609,potionhasteverylong,Potion of Haste (6:00),295,0,1000,1000,false,null,null
+610,potionfatigue,Potion of Dullness (1:30),295,0,1000,1000,false,null,null
+611,potionfatigueii,Potion of Dullness II (0:45),295,0,1000,1000,false,null,null
+612,potionfatigueiii,Potion of Dullness III (0:25),295,0,1000,1000,false,null,null
+613,potionfatiguelong,Potion of Dullness (3:00),295,0,1000,1000,false,null,null
+614,potionfatigueverylong,Potion of Dullness (6:00),295,0,1000,1000,false,null,null
+615,potionjump,Potion of Leaping (1:00),295,0,1000,1000,false,null,null
+616,potionjumpii,Potion of Leaping II (0:30),295,0,1000,1000,false,null,null
+617,potionjumpiii,Potion of Leaping III (0:15),295,0,1000,1000,false,null,null
+618,potionjumplong,Potion of Leaping (2:00),295,0,1000,1000,false,null,null
+619,potionjumpverylong,Potion of Leaping (4:00),295,0,1000,1000,false,null,null
+620,potionnausea,Potion of Nausea (0:30),295,0,1000,1000,false,null,null
+621,potionnausealong,Potion of Nausea (1:00),295,0,1000,1000,false,null,null
+622,potionnauseaverylong,Potion of Nausea (2:00),295,0,1000,1000,false,null,null
+623,potionresistance,Potion of Resistance (1:30),295,0,1000,1000,false,null,null
+624,potionresistanceii,Potion of Resistance II (0:45),295,0,1000,1000,false,null,null
+625,potionresistanceiii,Potion of Resistance III (0:20),295,0,1000,1000,false,null,null
+626,potionresistancelong,Potion of Resistance (3:00),295,0,1000,1000,false,null,null
+627,potionresistanceverylong,Potion of Resistance (6:00),295,0,1000,1000,false,null,null
+628,potionblindness,Potion of Blindness (0:30),295,0,1000,1000,false,null,null
+629,potionblindnesslong,Potion of Blindness (1:00),295,0,1000,1000,false,null,null
+630,potionblindnessverylong,Potion of Blindness (2:00),295,0,1000,1000,false,null,null
+631,potionhunger,Potion of Hunger (1:00),295,0,1000,1000,false,null,null
+632,potionhungerii,Potion of Hunger II (0:30),295,0,1000,1000,false,null,null
+633,potionhungeriii,Potion of Hunger III (0:15),295,0,1000,1000,false,null,null
+634,potionhungerlong,Potion of Hunger (2:00),295,0,1000,1000,false,null,null
+635,potionhungerverylong,Potion of Hunger (4:00),295,0,1000,1000,false,null,null
+636,potionhealthboost,Potion of Health Boost (2:00),295,0,1000,1000,false,null,null
+637,potionhealthboostii,Potion of Health Boost II (1:00),295,0,1000,1000,false,null,null
+638,potionhealthboostiii,Potion of Health Boost III (0:30),295,0,1000,1000,false,null,null
+639,potionhealthboostlong,Potion of Health Boost (4:00),295,0,1000,1000,false,null,null
+640,potionhealthboostverylong,Potion of Health Boost (8:00),295,0,1000,1000,false,null,null
+641,potionabsorption,Potion of Absorption (1:00),295,0,1000,1000,false,null,null
+642,potionabsorptionii,Potion of Absorption II (0:30),295,0,1000,1000,false,null,null
+643,potionabsorptioniii,Potion of Absorption III (0:15),295,0,1000,1000,false,null,null
+644,potionabsorptionlong,Potion of Absorption (2:00),295,0,1000,1000,false,null,null
+645,potionabsorptionverylong,Potion of Absorption (4:00),295,0,1000,1000,false,null,null
+646,potionsaturation,Potion of Saturation (0:01),295,0,1000,1000,false,null,null
+647,potionsaturationii,Potion of Saturation II (0:01),295,0,1000,1000,false,null,null
+648,potionsaturationiii,Potion of Saturation III (0:01),295,0,1000,1000,false,null,null
+649,potionwither,Potion of Decay (0:20),295,0,1000,1000,false,null,null
+650,potionwitherii,Potion of Decay II (0:10),295,0,1000,1000,false,null,null
+651,potionwitheriii,Potion of Decay III (0:05),295,0,1000,1000,false,null,null
+652,potionwitherlong,Potion of Decay (0:40),295,0,1000,1000,false,null,null
+653,potionwitherverylong,Potion of Decay (1:20),295,0,1000,1000,false,null,null
+654,potionregeniii,Potion of Regeneration III (0:08),295,0,1000,1000,false,null,null
+655,potionregenverylong,Potion of Regeneration (3:00),295,0,1000,1000,false,null,null
+656,potionfastiii,Potion of Swiftness III (0:08),295,0,1000,1000,false,null,null
+657,potionfastverylong,Potion of Swiftness (16:00),295,0,1000,1000,false,null,null
+658,potionstrengthiii,Potion of Strength III (0:40),295,0,1000,1000,false,null,null
+659,potionstrengthverylong,Potion of Strength (16:00),295,0,1000,1000,false,null,null
+660,potionfireresistverylong,Potion of Fire Resistance (16:00),295,0,1000,1000,false,null,null
+661,potionpoisoniii,Potion of Poison III (0:08),295,0,1000,1000,false,null,null
+662,potionpoisonverylong,Potion of Poison (4:00),295,0,1000,1000,false,null,null
+663,potionharmiii,Potion of Harming III (0:01),295,0,1000,1000,false,null,null
+664,potionhealiii,Potion of Healing III (0:01),295,0,1000,1000,false,null,null
+665,potionvisionverylong,Potion of Night Vision (16:00),295,0,1000,1000,false,null,null
+666,potionweaknessverylong,Potion of Weakness (8:00),295,0,1000,1000,false,null,null
+667,potionslownessverylong,Potion of Slowness (8:00),295,0,1000,1000,false,null,null
+668,potionwaterbreatheverylong,Potion of Water Breathing (16:00),295,0,1000,1000,false,null,null
+669,potionholywater,Potion of Holy Water (0:10),295,0,1000,1000,false,null,null
+670,potionholywaterii,Potion of Holy Water II (0:05),295,0,1000,1000,false,null,null
+671,potionholywaterlong,Potion of Holy Water (0:20),295,0,1000,1000,false,null,null
+672,potionholywaterverylong,Potion of Holy Water (0:40),295,0,1000,1000,false,null,null
+673,potionholywateriii,Potion of Holy Water III (0:03),295,0,1000,1000,false,null,null
+674,potionflight,Potion of Ascension (0:15),295,0,1000,1000,false,null,null
+675,potionflightlong,Potion of Ascension (0:30),295,0,1000,1000,false,null,null
+676,potionflightverylong,Potion of Ascension (1:00),295,0,1000,1000,false,null,null
+677,potionantidote,Potion of Remedy (1:00),295,0,1000,1000,false,null,null
+678,potionantidoteii,Potion of Remedy II (0:45),295,0,1000,1000,false,null,null
+679,potionantidoteiii,Potion of Remedy III (0:30),295,0,1000,1000,false,null,null
+680,potionantidoteiiii,Potion of Remedy IV (0:20),295,0,1000,1000,false,null,null
+681,potionantidotelong,Potion of Remedy (2:00),295,0,1000,1000,false,null,null
+682,potionantidoteverylong,Potion of Remedy (4:00),295,0,1000,1000,false,null,null
+683,potionboom,Potion of Combustion (0:08),295,0,1000,1000,false,null,null
+684,potionboomii,Potion of Combustion II (0:04),295,0,1000,1000,false,null,null
+685,potionboomiii,Potion of Combustion III (0:04),295,0,1000,1000,false,null,null
+686,potionboomlong,Potion of Combustion (0:16),295,0,1000,1000,false,null,null
+687,potionboomverylong,Potion of Combustion (0:32),295,0,1000,1000,false,null,null
+688,potioncryo,Potion of Cryogenics (0:08),295,0,1000,1000,false,null,null
+689,potioncryolong,Potion of Cryogenics (0:16),295,0,1000,1000,false,null,null
+690,potioncryoverylong,Potion of Cryogenics (0:30),295,0,1000,1000,false,null,null
+691,potioneternalflame,Potion of Eternal Flame (0:30),295,0,1000,1000,false,null,null
+692,potioneternalflamelong,Potion of Eternal Flame (1:00),295,0,1000,1000,false,null,null
+693,potioneternalflameverylong,Potion of Eternal Flame (2:00),295,0,1000,1000,false,null,null
+694,potionfireimmunity,Potion of Fire Immunity (0:35),295,0,1000,1000,false,null,null
+695,potionfireimmunitylong,Potion of Fire Immunity (1:10),295,0,1000,1000,false,null,null
+696,potionfireimmunityverylong,Potion of Fire Immunity (2:20),295,0,1000,1000,false,null,null
+697,potionfireimmunityii,Potion of Fire Immunity II (0:15),295,0,1000,1000,false,null,null
+698,potionfireimmunityiii,Potion of Fire Immunity III (0:10),295,0,1000,1000,false,null,null
+699,potionfireimmunityiiii,Potion of Fire Immunity IV (0:05),295,0,1000,1000,false,null,null
+700,potionfireeater,Potion of Fire Eaters (0:45),295,0,1000,1000,false,null,null
+701,potionfireeaterii,Potion of Fire Eaters II (0:30),295,0,1000,1000,false,null,null
+702,potionfireeateriii,Potion of Fire Eaters III (0:15),295,0,1000,1000,false,null,null
+703,potionfireeaterlong,Potion of Fire Eaters (1:30),295,0,1000,1000,false,null,null
+704,potionfireeaterverylong,Potion of Fire Eaters (3:00),295,0,1000,1000,false,null,null
+705,nutrientwater,Nutrient Water,295,0,1000,1000,true,emashercore:nutrientWater,emasher.core.block.BlockNutrientWater
+706,slickwater,Slickwater,295,0,1000,1000,true,eng_toolbox:slickwater,emasher.sockets.BlockSlickwater
+707,molten redstone,fluid.Molten Redstone,295,12,1000,3000,true,ProjRed|Compatibility:projectred.compatibility.liqredstone,mrtjp.projectred.compatibility.tconstruct.LiquidFiniteSubstance
+708,molten conductive redmetal,fluid.Molten Conductive Redmetal,295,12,2000,4000,true,ProjRed|Compatibility:projectred.compatibility.liqcondredmetal,mrtjp.projectred.compatibility.tconstruct.LiquidFiniteSubstance
+709,gaseousaeressentia,Aer Gas,295,7,-4,3000,false,null,null
+710,gaseousterraessentia,Terra Gas,295,7,-4,3000,false,null,null
+711,gaseousignisessentia,Ignis Gas,295,7,-4,3000,false,null,null
+712,gaseousaquaessentia,Aqua Gas,295,7,-4,3000,false,null,null
+713,gaseousordoessentia,Ordo Gas,295,7,-4,3000,false,null,null
+714,gaseousperditioessentia,Perditio Gas,295,7,-4,3000,false,null,null
+715,gaseousvacuosessentia,Vacuos Gas,295,7,-4,3000,false,null,null
+716,gaseousluxessentia,Lux Gas,295,7,-4,3000,false,null,null
+717,gaseoustempestasessentia,Tempestas Gas,295,7,-4,3000,false,null,null
+718,gaseousmotusessentia,Motus Gas,295,7,-4,3000,false,null,null
+719,gaseousgelumessentia,Gelum Gas,295,7,-4,3000,false,null,null
+720,gaseousvitreusessentia,Vitreus Gas,295,7,-4,3000,false,null,null
+721,gaseousvictusessentia,Victus Gas,295,7,-4,3000,false,null,null
+722,gaseousvenenumessentia,Venenum Gas,295,7,-4,3000,false,null,null
+723,gaseouspotentiaessentia,Potentia Gas,295,7,-4,3000,false,null,null
+724,gaseouspermutatioessentia,Permutatio Gas,295,7,-4,3000,false,null,null
+725,gaseousmetallumessentia,Metallum Gas,295,7,-4,3000,false,null,null
+726,gaseousmortuusessentia,Mortuus Gas,295,7,-4,3000,false,null,null
+727,gaseousvolatusessentia,Volatus Gas,295,7,-4,3000,false,null,null
+728,gaseoustenebraeessentia,Tenebrae Gas,295,7,-4,3000,false,null,null
+729,gaseousspiritusessentia,Spiritus Gas,295,7,-4,3000,false,null,null
+730,gaseoussanoessentia,Sano Gas,295,7,-4,3000,false,null,null
+731,gaseousiteressentia,Iter Gas,295,7,-4,3000,false,null,null
+732,gaseousalienisessentia,Alienis Gas,295,7,-4,3000,false,null,null
+733,gaseouspraecantatioessentia,Praecantatio Gas,295,7,-4,3000,false,null,null
+734,gaseousauramessentia,Auram Gas,295,7,-4,3000,false,null,null
+735,gaseousvitiumessentia,Vitium Gas,295,7,-4,3000,false,null,null
+736,gaseouslimusessentia,Limus Gas,295,7,-4,3000,false,null,null
+737,gaseousherbaessentia,Herba Gas,295,7,-4,3000,false,null,null
+738,gaseousarboressentia,Arbor Gas,295,7,-4,3000,false,null,null
+739,gaseousbestiaessentia,Bestia Gas,295,7,-4,3000,false,null,null
+740,gaseouscorpusessentia,Corpus Gas,295,7,-4,3000,false,null,null
+741,gaseousexanimisessentia,Exanimis Gas,295,7,-4,3000,false,null,null
+742,gaseouscognitioessentia,Cognitio Gas,295,7,-4,3000,false,null,null
+743,gaseoussensusessentia,Sensus Gas,295,7,-4,3000,false,null,null
+744,gaseoushumanusessentia,Humanus Gas,295,7,-4,3000,false,null,null
+745,gaseousmessisessentia,Messis Gas,295,7,-4,3000,false,null,null
+746,gaseousperfodioessentia,Perfodio Gas,295,7,-4,3000,false,null,null
+747,gaseousinstrumentumessentia,Instrumentum Gas,295,7,-4,3000,false,null,null
+748,gaseousmetoessentia,Meto Gas,295,7,-4,3000,false,null,null
+749,gaseoustelumessentia,Telum Gas,295,7,-4,3000,false,null,null
+750,gaseoustutamenessentia,Tutamen Gas,295,7,-4,3000,false,null,null
+751,gaseousfamesessentia,Fames Gas,295,7,-4,3000,false,null,null
+752,gaseouslucrumessentia,Lucrum Gas,295,7,-4,3000,false,null,null
+753,gaseousfabricoessentia,Fabrico Gas,295,7,-4,3000,false,null,null
+754,gaseouspannusessentia,Pannus Gas,295,7,-4,3000,false,null,null
+755,gaseousmachinaessentia,Machina Gas,295,7,-4,3000,false,null,null
+756,gaseousvinculumessentia,Vinculum Gas,295,7,-4,3000,false,null,null
+757,gaseousluxuriaessentia,Luxuria Gas,295,7,-4,3000,false,null,null
+758,gaseousinfernusessentia,Infernus Gas,295,7,-4,3000,false,null,null
+759,gaseoussuperbiaessentia,Superbia Gas,295,7,-4,3000,false,null,null
+760,gaseousgulaessentia,Gula Gas,295,7,-4,3000,false,null,null
+761,gaseousinvidiaessentia,Invidia Gas,295,7,-4,3000,false,null,null
+762,gaseousdesidiaessentia,Desidia Gas,295,7,-4,3000,false,null,null
+763,gaseousiraessentia,Ira Gas,295,7,-4,3000,false,null,null
+764,gaseoustempusessentia,Tempus Gas,295,7,-4,3000,false,null,null

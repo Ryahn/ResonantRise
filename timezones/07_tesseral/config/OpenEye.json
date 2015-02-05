@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["3.2.2.0-EXP", "Tesseral", "RR 3-DEV-058"]
+            "value": ["3.2.3.0-RC", "Tesseral", "RR 3-DEV-060"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",

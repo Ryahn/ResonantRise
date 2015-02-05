@@ -1,0 +1,33 @@
+{
+    "data":[
+        {
+            "name":"Iron[4x]",
+            "color":14071681,
+            "ingredient":"fluxedcrystals:seed",
+            "dropMin":1,
+            "dropMax":1,
+            "growthTime":600,
+            "tier":1,
+            "ingredientAmount":4,
+            "powerPerStage":16000,
+            "decorationBlocks":true,
+            "weightedDrop":"ingotIron",
+            "weightedDropChance":1,
+            "refinerAmount":4
+        },
+		{
+            "name":"Iron[16x]",
+            "color":14071681,
+            "ingredient":"fluxedcrystals:seed:23",
+            "dropMin":1,
+            "dropMax":1,
+            "growthTime":150,
+            "tier":1,
+            "ingredientAmount":4,
+            "powerPerStage":64000,
+            "refinerAmount":4
+        }
+		
+		
+    ]
+}
