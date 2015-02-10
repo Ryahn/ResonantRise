@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-062</version>
+        <version>3-DEV-063</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -2602,8 +2602,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Expanding Minecraft thermally - provides new options for automation and processing!" 
              />
 
-        <mod name="The Erebus" version="0.2pre12"  
-             url="packs/ResonantRise/files/3.x/TheErebus-0.2pre12.jar" file="TheErebus-0.2pre12.jar" md5="e528de2c9101f25c2c6c871c14da837d" download="server"
+        <mod name="The Erebus" version="0.2a" 
+             url="packs/ResonantRise/files/3.x/TheErebus-0.2a.jar" file="TheErebus-0.2a.jar" md5="63f54f228fd1aa3f1456e4d89b2d693e" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://minecraft.curseforge.com/mc-mods/220698-the-erebus"
              authors="Dylan4Ever, chylex, ganymedes01, Vadis365, TripleHeadedSheep" 
