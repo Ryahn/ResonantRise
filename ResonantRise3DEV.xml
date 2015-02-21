@@ -1091,14 +1091,6 @@
              description="Framework with various functionalities, but no ingame influence." 
 	         />     
 
-        <!--<mod name="QmuinityLib" version="0.1.78" 
-             url="packs/ResonantRise/files/3.x/QmunityLib-1.7.10-0.1.78-universal.jar" file="QmunityLib-1.7.10-0.1.78-universal.jar" md5="22175855ce90f20f15f1a02ccc39545e" download="server" 
-             type="mods" 
-             website="http://www.curse.com/mc-mods/minecraft/224785-"
-             authors="quetzi,MineMaarten,amadornes,K4Unl" 
-             description="Library for Qmunity mods" 
-             />-->
-
         <!--<mod name="Ruins" version="1.7.10" 
              url="packs/ResonantRise/files/3.x/Ruins-1.7.10.jar" file="Ruins-1.7.10.jar" md5="6d25dd2a47306a4887e50428d99253b7" download="server"
              type="mods" authors="AtomicStryker" website="http://atomicstryker.net/" depends="AtomicStrykerCore,Ruins Libs"
@@ -1621,9 +1613,17 @@ if more then one parent the first parent in the alphabet, unless second parent i
 
         <mod name="BluePower" version="0.2.857" 
              url="packs/ResonantRise/files/3.x/BluePower-1.7.10-0.2.857-universal.jar" file="BluePower-1.7.10-0.2.857-universal.jar" md5="2e650420546d0061ca47a83dc06e32c5" download="server"
-             type="mods" optional="yes" recommended="no"
+             type="mods" optional="yes" recommended="no" depends="QmuinityLib"
              website="http://bluepowermod.com/" donation="http://bluepowermod.com/"
              description="THE POWER OF BLUE!" 
+             />
+
+        <mod name="QmuinityLib" version="0.1.69" 
+             url="packs/ResonantRise/files/3.x/QmunityLib-1.7.10-0.1.69-universal.jar" file="QmunityLib-1.7.10-0.1.69-universal.jar" md5="1ba75f7910f933b038166484e51ecbc3" download="server" 
+             type="mods" optional="yes" recommended="no" depends="BluePower" 
+             website="http://www.curse.com/mc-mods/minecraft/224785-"
+             authors="quetzi,MineMaarten,amadornes,K4Unl" 
+             description="Library for Qmunity mods" 
              />
              
         <mod name="Botania" version="r1.5-163" 
