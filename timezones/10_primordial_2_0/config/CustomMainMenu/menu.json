@@ -1,0 +1,221 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/prim.png",
+            "posX" : -185,
+            "posY" : 30,
+            "width" : 384,
+            "height" : 96,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 40,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 2,
+            "posY" : 40,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -100,
+            "posY" : 70,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 2,
+            "posY" : 70,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -150,
+            "posY" : 132,
+            "width" : 294,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 0,
+            "height" : 0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 150,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		
+                "Era/Mode Discussion":
+        {
+            "text" : "Era/Mode",
+                        "texture" : "custommainmenu:textures/gui/buttonMedium2.png",
+                        "hoverText" : "Era/Mode",
+                        "alignment" : "center",
+            "posX" : -35,
+            "posY" : -30,
+            "width" : 68,
+            "height" : 20,
+                        "action" :
+                        {
+                "type" : "openLink",
+                                "link" : "http://www.resonant-rise.com/topic/4218-resonant-rise-3-mode-and-era-explanations/"
+            }  
+        },
+				
+                "Issues":
+        {
+            "text" : "Issues",
+                        "texture" : "custommainmenu:textures/gui/buttonMedium.png",
+                        "hoverText" : "Issues",
+                        "alignment" : "center",
+            "posX" : -135,
+            "posY" : -30,
+            "width" : 88,
+            "height" : 20,
+                        "action" :
+                        {
+                "type" : "openLink",
+                                "link" : "http://www.resonant-rise.com/support.html/"
+            }  
+		},	
+		                "Forums":
+        {
+            "text" : "Forums",
+                        "texture" : "custommainmenu:textures/gui/buttonMedium.png",
+                        "hoverText" : "Forums",
+                        "alignment" : "center",
+            "posX" : 45,
+            "posY" : -30,
+            "width" : 88,
+            "height" : 20,
+                        "action" :
+                        {
+                "type" : "openLink",
+                                "link" : "http://www.resonant-rise.com/index/"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+		        
+        "Made By":
+        {
+            "text" : "Made By Resonant Rise",
+            "posX" : 2,
+            "posY" : -20,
+            "color" : 16711680,
+            "alignment" : "bottom_left"
+        },
+		        
+        "Primordial":
+        {
+            "text" : "Primordial Era",
+            "posX" : 2,
+            "posY" : -30,
+            "color" : 11587683517323,
+            "alignment" : "bottom_left"
+        },
+		
+		        "Mods":
+        {
+            "text" : "Mod Loaded: #modsactive#",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -256,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : -1000,
+            "posY" : -1000,
+            "color" : 0,
+            "alignment" : "top_center"
+        },
+        
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}

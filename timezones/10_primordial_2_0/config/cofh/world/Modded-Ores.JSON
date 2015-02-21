@@ -1,0 +1,38 @@
+{
+	    "Meteor": {
+        "template": "normal",
+        "block": "meteors:BlockMeteorOre",
+		"material": "stone",
+        "clusterSize": 3,
+        "numClusters": 13,
+        "meanHeight": 44,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	    "DeepIron": {
+        "template": "normal",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 16,
+        "meanHeight": 8,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
