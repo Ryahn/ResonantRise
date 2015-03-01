@@ -1,0 +1,129 @@
+{
+  "books": [
+    {
+      "mod": "AgriCraft",
+      "stack": "AgriCraft:journal 0",
+      "type": "default"
+    },
+    {
+      "mod": "AWWayofTime",
+      "stack": "AWWayofTime:itemBloodMagicBook 0",
+      "type": "default"
+    },
+    {
+      "mod": "Botania",
+      "stack": "Botania:lexicon 0",
+      "type": "switch"
+    },
+    {
+      "mod": "HardcoreQuesting",
+      "stack": "HardcoreQuesting:quest_book 0",
+      "type": "network"
+    },
+    {
+      "mod": "factorization",
+      "stack": "factorization:docbook 0",
+      "type": "default"
+    },
+    {
+      "mod": "Mariculture",
+      "stack": "Mariculture:guide 0",
+      "type": "switch"
+    },
+    {
+      "mod": "Mariculture",
+      "stack": "Mariculture:guide 1",
+      "type": "switch"
+    },
+    {
+      "mod": "Mariculture",
+      "stack": "Mariculture:guide 2",
+      "type": "switch"
+    },
+    {
+      "mod": "Mariculture",
+      "stack": "Mariculture:guide 3",
+      "type": "switch"
+    },
+    {
+      "mod": "Mariculture",
+      "stack": "Mariculture:guide 4",
+      "type": "switch"
+    },
+    {
+      "mod": "OpenBlocks",
+      "stack": "OpenBlocks:infoBook 0",
+      "type": "default"
+    },
+    {
+      "mod": "Steamcraft",
+      "stack": "Steamcraft:book 0",
+      "type": "default"
+    },
+    {
+      "mod": "TConstruct",
+      "stack": "TConstruct:manualBook 0",
+      "type": "default"
+    },
+    {
+      "mod": "TConstruct",
+      "stack": "TConstruct:manualBook 1",
+      "type": "default"
+    },
+    {
+      "mod": "TConstruct",
+      "stack": "TConstruct:manualBook 2",
+      "type": "default"
+    },
+    {
+      "mod": "TConstruct",
+      "stack": "TConstruct:manualBook 3",
+      "type": "default"
+    },
+    {
+      "mod": "Thaumcraft",
+      "stack": "Thaumcraft:ItemThaumonomicon 0",
+      "type": "default"
+    },
+    {
+      "mod": "witchery",
+      "stack": "witchery:ingredient 46",
+      "type": "switch"
+    },
+    {
+      "mod": "witchery",
+      "stack": "witchery:ingredient 47",
+      "type": "switch"
+    },
+    {
+      "mod": "witchery",
+      "stack": "witchery:ingredient 48",
+      "type": "switch"
+    },
+    {
+      "mod": "witchery",
+      "stack": "witchery:ingredient 49",
+      "type": "switch"
+    },
+    {
+      "mod": "witchery",
+      "stack": "witchery:ingredient 81",
+      "type": "switch"
+    },
+    {
+      "mod": "witchery",
+      "stack": "witchery:ingredient 106",
+      "type": "switch"
+    },
+    {
+      "mod": "witchery",
+      "stack": "witchery:ingredient 107",
+      "type": "switch"
+    },
+    {
+      "mod": "witchery",
+      "stack": "witchery:ingredient 127",
+      "type": "switch"
+    }
+  ]
+}

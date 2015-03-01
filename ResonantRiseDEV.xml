@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-062</version>
+        <version>3-DEV-067</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -152,7 +152,7 @@
              />
                     
         <mod name="Eternal" version="RR3" 
-             url="packs/ResonantRise/files/timezones/00_eternity/00_eternity_3-DEV-062.zip" file="00_eternity_3-DEV-062.zip" md5="9381d52dbf746e1339c77492962ab11c" download="server"
+             url="packs/ResonantRise/files/timezones/067/00_eternity_3-DEV-067.zip" file="00_eternity_3-DEV-067.zip" md5="96683f45643f5f311e82134bab11d878" download="server"
              type="extract" extractto="root" optional="no" recommended="yes"
              website="http://resonant-rise.com"
              authors="Velotican, GodNero"
@@ -165,7 +165,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="For low-end machines and beginners of modded Minecraft."
-             depends="Applied Energistics 2,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Trees,BuildCraft,Chisel 2,Dimensional Anchors,Ender Storage,Ender IO,EnhancedPortals 3,Ex Nihilo,Extra Utilities,Foresty,Immibis Core,Iron Chests,Jabba,Mekanism Generators,Mekanism Tools,Mekanism,Malisis Doors,MineFactory Reloaded,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,QuiverBow,Random Things,Redstone Arsenal,Redstone Armory,Redstone Paste,Refined Relocation,Simply Jetpacks,Soul Shards: Reborn,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Thaumcraft 4,Thermal Expansion,Tinkers&apos; Construct,Translocator,ttCore,WR-CBE"
+             depends="Applied Energistics 2,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Trees,BuildCraft,Chisel 2,Dimensional Anchors,Ender Storage,Ender IO,EnhancedPortals 3,Ex Nihilo,Extra Utilities,Foresty,Immibis Core,Iron Chests,Jabba,Mekanism Generators,Mekanism Tools,Mekanism,Malisis Doors,MalisisCore,MineFactory Reloaded,,QuiverBow,Random Things,Redstone Arsenal,Redstone Armory,Redstone Paste,Refined Relocation,Simply Jetpacks,Soul Shards: Reborn,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Thaumcraft 4,Thermal Expansion,Tinkers&apos; Construct,Translocator,ttCore,WR-CBE,Thermal Dynamics,Thermal Smeltery"
              />
 
         <mod name="Mainline" version="RR3" colour="For"
@@ -174,7 +174,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Resonant-Rise for the average player."
-             depends="Advanced Generators,AlchemyPlusPlus,Ancient Warfare 2,Another One Bites The Dust,Applied Energistics 2,AE2 Stuff,Automagy,Brewcraft,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Blood Magic,Botania,Buildcraft,Buildcraft Additions,Calculator,Carpenter&apos;s Blocks,Chisel 2,Chisel Facades,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Dense Ores,Dimensional Anchors,Ender IO,Ender Zoo,Ender Storage,EnhancedPortals 3,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Fluxed Crystals,Forbidden Magic,Forestry,Binnie&apos;s Mods,Funky Locomotion,Gendustry,Greg&apos;s Lighting,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Logistics Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,Malisis Doors,MineFactory Reloaded,OpenBlocks,OpenComponents,OpenComputers,OpenPeripheral Addons,OpenPeripheral Core,OpenPeripheral Integration,PneumaticCraft,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Refined Relocation,Remote IO,Routers Reborn,Sanguimancy,Simply Jetpacks,Soul Shards: Reborn,Steve&apos;s Carts,Steve&apos;s Addons,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,Thaumcraft 4,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,Tubes,The Twilight Forest,ttCore,Witchery,WR-CBE,MachineMuse&apos;s Modular Powersuits,Modular Powersuits Addon,Numina,Slick-Util,Artifice,Galacticraft Core,Galacticraft Planets,Micdoodle8 Core,MineChem,Binnies,AE2 Stuff,Fluxed Crystals,Thaumcraft Mob Aspects"
+             depends="Advanced Generators,AlchemyPlusPlus,Ancient Warfare 2,Another One Bites The Dust,Applied Energistics 2,AE2 Stuff,Automagy,Brewcraft,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Blood Magic,Botania,Buildcraft,Buildcraft Additions,Calculator,Carpenter&apos;s Blocks,Chisel 2,Chisel Facades,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Dense Ores,Dimensional Anchors,Ender IO,Ender Zoo,Ender Storage,EnhancedPortals 3,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Fluxed Crystals,Forbidden Magic,Forestry,Binnie&apos;s Mods,Funky Locomotion,Gendustry,Greg&apos;s Lighting,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Logistics Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,Malisis Doors,MalisisCore,MineFactory Reloaded,OpenBlocks,OpenComponents,OpenComputers,OpenPeripheral Addons,OpenPeripheral Core,OpenPeripheral Integration,PneumaticCraft,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Refined Relocation,Remote IO,Routers Reborn,Sanguimancy,Simply Jetpacks,Soul Shards: Reborn,Steve&apos;s Carts,Steve&apos;s Addons,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,Thaumcraft 4,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,Tubes,The Twilight Forest,ttCore,Witchery,WR-CBE,MachineMuse&apos;s Modular Powersuits,Modular Powersuits Addon,Numina,Slick-Util,Artifice,Galacticraft Core,Galacticraft Planets,Micdoodle8 Core,MineChem,Binnies,AE2 Stuff,Fluxed Crystals,Thaumcraft Mob Aspects,Thermal Dynamics,Thermal Smeltery"
              />
 
         <mod name="Excessive" version="RR3" colour="risk"
@@ -183,7 +183,8 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="WARNING!! Built for massive gaming machines! No garuntees you can run this."
-             depends="Advanced Generators,AetherCraft,AlchemyPlusPlus,Ancient Warfare 2,Antique Atlas,Applied Energistics 2,AE2 Stuff,Extra Cells,Archimedes&apos; Ships,Ars Magica 2,AnimationAPI,Artifacts,Artifice,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Binnie&apos;s Mods,Big Reactors,Big Trees,Blood Magic,Sanguimancy,Botania,Brewcraft,Buildcraft,Buildcraft Additions,Logistics Pipes,Calculator,Carpenter&apos;s Blocks,Dr. Cyano&apos;s Wonderful Wands &amp; Wizarding Armor,Chisel 2,Chisel Facades,ChocoCraft,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Decocraft,Dense Ores,Dimensional Anchors,Electrical Age,Enchanting Plus,Ender IO,EnhancedPortals 3,Engineers Toolbox,Ex Nihilo,Ex Astris,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Flowing Flux,Fluxed Crystals,Falling Meteors,Forestry,Binnie Mods,Gendustry,Magic Bees,Fossils &amp; Archeology Revival,Funky Locomotion,Galacticraft Core,Galacticraft Planets,Micdoodle8 Core,GardenStuff,Greg's Lighting,Hardcore Ender Expansion,Hopper Ducts,Hydraulicraft,K4lib,IndustrialCraft 2,Advanced Machines,Advanced Repulsion Systems,Advanced Solar Panel,IC2 Nuclear Control 2,GraviSuite,Hunger Overhaul,Immibis Core,Immibis' Peripherals,Iridium Mod,Magical Crops,Mekanism,Mekanism Generators,Mekanism Tools,Mine &amp; Blade Battlegear 2 - Warcry,MineChem,MineFactory Reloaded,Mariculture,MachineMuse&apos;s Modular Powersuits,Modular Powersuits Addon,Numina,Slick-Util,OpenComputers,OpenPeripheral Core,OpenPeripheral Addons,OpenPeripheral Integration,Pam&apos;s Harvestcraft,PneumaticCraft,Power Converters,Progressive Automation,Project Blue,Project E,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,QuiverBow,Random Things,Redstone Arsenal,Redstone Armory,Redstone Paste,Refined Relocation,Remote IO,Resonant Induction,RF Tools,Routers Reborn,Simply Jetpacks,Small Boats,Soul Shards: Reborn,Spice of Life,Statues,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Addons,Steve&apos;s Workshop,Super Crafting Frame,TechnoMagi,Thaumcraft 4,Automagy,Forbidden Magic,Magistics,Technomancy,Thaumic Energistics,Thaumcraft Mob Aspects,Thaumic Tinkerer,Thermal Expansion,Tinkers&apos; Construct,ExtraTiC,Tinkers&apos; Mechworks,Translocator,Tubes,Tubes,VeinMiner,Witchery,WR-CBE,ZTones,Torcherino,Tweaks--RRino"
+
+             depends="Advanced Generators,AetherCraft,AlchemyPlusPlus,Ancient Warfare 2,Antique Atlas,Applied Energistics 2,AE2 Stuff,Extra Cells,Archimedes&apos; Ships,Ars Magica 2,AnimationAPI,Artifacts,Artifice,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Binnie&apos;s Mods,Big Reactors,Big Trees,Blood Magic,Sanguimancy,Botania,Brewcraft,Buildcraft,Buildcraft Additions,Logistics Pipes,Calculator,Carpenter&apos;s Blocks,Dr. Cyano&apos;s Wonderful Wands &amp; Wizarding Armor,Chisel 2,Chisel Facades,ChocoCraft,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Decocraft,Dense Ores,Dimensional Anchors,Electrical Age,Enchanting Plus,Ender IO,EnhancedPortals 3,Engineers Toolbox,Ex Nihilo,Ex Astris,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Flowing Flux,Fluxed Crystals,Falling Meteors,Forestry,Binnie Mods,Gendustry,Magic Bees,Fossils &amp; Archeology Revival,Funky Locomotion,Galacticraft Core,Galacticraft Planets,Micdoodle8 Core,GardenStuff,Greg's Lighting,Hardcore Ender Expansion,Hopper Ducts,Hydraulicraft,K4lib,IndustrialCraft 2,Advanced Machines,Advanced Repulsion Systems,Advanced Solar Panel,IC2 Nuclear Control 2,GraviSuite,Hunger Overhaul,Immibis Core,Immibis' Peripherals,Iridium Mod,Magical Crops,Mekanism,Mekanism Generators,Mekanism Tools,MineChem,MineFactory Reloaded,Mariculture,MachineMuse&apos;s Modular Powersuits,Modular Powersuits Addon,Numina,Slick-Util,OpenComputers,OpenPeripheral Core,OpenPeripheral Addons,OpenPeripheral Integration,Pam&apos;s Harvestcraft,PneumaticCraft,Power Converters,Progressive Automation,Project E,,QuiverBow,Random Things,Redstone Arsenal,Redstone Armory,Redstone Paste,Refined Relocation,Remote IO,Resonant Induction,RF Tools,Routers Reborn,Simply Jetpacks,Small Boats,Soul Shards: Reborn,Spice of Life,Statues,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Addons,Steve&apos;s Workshop,Super Crafting Frame,TechnoMagi,Thaumcraft 4,Automagy,Forbidden Magic,Magistics,Technomancy,Thaumic Energistics,Thaumcraft Mob Aspects,Thaumic Tinkerer,Thermal Expansion,Tinkers&apos; Construct,ExtraTiC,Tinkers&apos; Mechworks,Translocator,Tubes,Tubes,VeinMiner,Witchery,WR-CBE,ZTones,Torcherino,Tweaks--RRino,Malisis Doors"
              />
 
     <!-- Era Selections -->
@@ -197,7 +198,7 @@
              /> 
                 
         <mod name="Primordial Era" version="RR3"
-             url="packs/ResonantRise/files/timezones/01_primordial/01_primordial_3-DEV-062.zip" file="01_primordial_3-DEV-062.zip" md5="24755a8f772c87d00ffc935a2b1c4dcf" download="server"
+             url="packs/ResonantRise/files/timezones/067/01_primordial_3-DEV-067.zip" file="01_primordial_3-DEV-067.zip" md5="5668ea8635fb2a793cc8089f6ae49f84" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="DivineAspect"
@@ -215,7 +216,7 @@
              />             
 
         <mod name="Antiquity Era" version="RR3" 
-             url="packs/ResonantRise/files/timezones/02_antiquity/02_antiquity_3-DEV-062.zip" file="02_antiquity_3-DEV-062.zip" md5="64e8b83f3c56ac1faeb657159bf7d149" download="server"
+             url="packs/ResonantRise/files/timezones/067/02_antiquity_3-DEV-067.zip" file="02_antiquity_3-DEV-067.zip" md5="937d6ff1ad273b17bf674fd491fd51e4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
@@ -233,7 +234,7 @@
              />             
 
         <mod name="Medieval Era" version="RR3"
-             url="packs/ResonantRise/files/timezones/03_medieval/03_medieval_3-DEV-062.zip" file="03_medieval_3-DEV-062.zip" md5="cf7f5afd2b52bd1b4c632a3ce534e179" download="server"
+             url="packs/ResonantRise/files/timezones/067/03_medieval_3-DEV-067.zip" file="03_medieval_3-DEV-067.zip" md5="8fc4ea8df32aacf5d42c460fb284421c" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
@@ -247,11 +248,11 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Adds more sharp and pointy impliments."
-             depends="Medieval Era,Advanced Dispensers,Artifacts,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Natura Edition,Botania,Carpenter&apos;s Blocks,Chisel 2,DiseaseCraft,Magical Crops,Mine &amp; Blade Battlegear 2 - Warcry,Thaumcraft 4,Automagy,Forbidden Magic,Thaumic Tinkerer,The Twilight Forest,QuiverBow,QuiverMob,Statues,Steve&apos;s Workshop,Witchery"
+             depends="Medieval Era,Advanced Dispensers,Artifacts,Balkon&apos;s Weapon Mod,BiblioCraft,BiblioWoods Bomes O' Plenty Edition,BiblioWoods Natura Edition,Botania,Carpenter&apos;s Blocks,Chisel 2,DiseaseCraft,Magical Crops,Thaumcraft 4,Automagy,Forbidden Magic,Thaumic Tinkerer,The Twilight Forest,QuiverBow,QuiverMob,Statues,Steve&apos;s Workshop,Witchery"
              />             
 
         <mod name="Discovery Era" version="RR3" 
-             url="packs/ResonantRise/files/timezones/04_discovery/04_discovery_3-DEV-062.zip" file="04_discovery_3-DEV-062.zip" md5="9902b406b188b21622fd825c911bd5bd" download="server"
+             url="packs/ResonantRise/files/timezones/067/04_discovery_3-DEV-067.zip" file="04_discovery_3-DEV-067.zip" md5="22f019f4113ff2e771a353d5874411af" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
@@ -269,25 +270,25 @@
              />             
 
         <mod name="Mechanized Era" version="RR3"
-             url="packs/ResonantRise/files/timezones/05_mechanized/05_mechanized_3-DEV-062.zip" file="05_mechanized_3-DEV-062.zip" md5="c6b7d0414f4e8333275509a419c61d45" download="server"
+             url="packs/ResonantRise/files/timezones/067/05_mechanized_3-DEV-067.zip" file="05_mechanized_3-DEV-067.zip" md5="7728a4fdc639af7a26d3dba6cf03d0ea" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
              description="The Era of the great industrial revolution."
-             depends="Advanced Generators,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Carpenter&apos;s Blocks,Chisel 2,Ender IO,Forestry,Galacticraft Core,Galacticraft Planets,MicDoodle8 Core,MineFactory Reloaded,Pneumaticraft,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,PneumaticCraft,QuiverBow,Thermal Expansion,Remote IO,ZTones,Malisis Doors"
+             depends="Advanced Generators,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Carpenter&apos;s Blocks,Chisel 2,Ender IO,Forestry,Galacticraft Core,Galacticraft Planets,MicDoodle8 Core,MineFactory Reloaded,PneumaticCraft,,PneumaticCraft,QuiverBow,Thermal Expansion,Remote IO,ZTones,Malisis Doors,MalisisCore"
              />
         
         <mod name="   Mechanized Complete" version="RR3" 
-             url="packs/ResonantRise/files/timezones/06_information/06_information_3-DEV-059.zip" file="06_information_3-DEV-059.zip" md5="37b7d1cbcd791351e12019f034332f00" download="server"
+             url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="complete"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Now with more machines!"
-             depends="Mechanized Era,Advanced Generators,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Carpenter&apos;s Blocks,Chisel 2,Ender IO,Forestry,Galacticraft Core,Galacticraft Planets,MicDoodle8 Core,MineFactory Reloaded,Pneumaticraft,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,PneumaticCraft,QuiverBow,Thermal Expansion,Remote IO,ZTones,Malisis Doors,Ender Zoo,Electrical Age,Fluxed Crystals,Greg&apos;s Lighting,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Workshop,RF Tools,IC2 Nuclear Control 2,IndustrialCraft 2,Malisis Doors"    
+             depends="Mechanized Era,Advanced Generators,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Carpenter&apos;s Blocks,Chisel 2,Ender IO,Forestry,Galacticraft Core,Galacticraft Planets,MicDoodle8 Core,MineFactory Reloaded,PneumaticCraft,,PneumaticCraft,QuiverBow,Thermal Expansion,Remote IO,ZTones,Malisis Doors,Ender Zoo,Electrical Age,Fluxed Crystals,Greg&apos;s Lighting,Steve&apos;s Carts,Steve&apos;s Factory Manager,Steve&apos;s Workshop,RF Tools,IC2 Nuclear Control 2,IndustrialCraft 2,Malisis Doors,MalisisCore"    
              />             
         
         <mod name="Information Era" version="RR3"
-             url="packs/ResonantRise/files/timezones/06_information/06_information_3-DEV-062.zip" file="06_information_3-DEV-062.zip" md5="7194d18e1298eb09a6d6b7353f68e46f" download="server"
+             url="packs/ResonantRise/files/timezones/067/06_information_3-DEV-067.zip" file="06_information_3-DEV-067.zip" md5="f3662dffb2a219da85d0ae69d9e3457a" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
@@ -304,23 +305,14 @@
              depends="Information Era,AlchemyPlusPlus,Applied Energistics 2,AE2 Stuff,Extra Cells,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Blood Magic,Botania,Buildcraft,Logistics Pipes,QuiverBow,Carpenter&apos;s Blocks,Chisel 2,Computercraft,Ender IO,EnhancedPortals 3,Extra Utilities,Forestry,Gendustry,Funky Locomotion,OpenComputers,MachineMuse&apos;s Modular Powersuits,Modular Powersuits Addon,Numina,Slick-Util,MineChem,Statues,Steve&apos;s Factory Manager,Steve&apos;s Addons,Steve&apos;s Workshop,Thermal Expansion,Tinkers&apos; Construct,ExtraTiC,Archimedes&apos; Ships,IndustrialCraft 2,Advanced Machines,Advanced Repulsion Systems,Advanced Solar Panel,IC2 Nuclear Control 2,GraviSuite,Galacticraft Core,Galacticraft Planets,MicDoodle8 Core,Immibis Core,Mekanism,Mekanism Generators,Mekanism Tools,OpenPeripheral Core,OpenPeripheral Addons,OpenPeripheral Integration,Power Converters,Steve&apos;s Carts,Thaumcraft 4,Technomancy"
              />             
 
-        <!--<mod name="Tesseral" version="RR3"
-             url="packs/ResonantRise/files/timezones/07_tesseral/07_tesseral_3-DEV-056.zip" file="07_tesseral_3-DEV-056.zip" md5="e403fd29340efdd2fc8026e14617ff34" download="server"
+        <!--<mod name="Piracy" version="RR3"
+             url="insert new file here.zip" md5="md5" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
-             authors="Velotican"
-             description="An era where "
-             depends="Applied Energistics 2,AE2Stuff,AetherCraft,Compact Machines,Enhanced Portals,Extra Cells,Femtocraft,Forestry,Gendustry,JumpPad++,Mekanism,Modular Power Suits,Mystcraft, NoNausea, ProjectE, Super Massive Tech, TechnoMagi, Thermal Dynamics" 
-             />  -->    
-
-        <!--<mod name="   Tesseral Complete" version="RR3"
-             url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" group="mode"
-             website="http://resonant-rise.com"
-             authors="Velotican"
-             description="An era where "
-             depends="Tesseral,Applied Energistics 2,AE2Stuff,AetherCraft,Compact Machines,Enhanced Portals,Extra Cells,Femtocraft,Forestry,Gendustry,JumpPad++,Mekanism,Modular Power Suits,Mystcraft, NoNausea, ProjectE, Super Massive Tech, TechnoMagi, Thermal Dynamics,Advanced Repulsion Systems" 
-             />    -->  
+             authors="Lanse505,Pazival-sama,Exalibur2289,QuantumManiac,ShadowOdysseus,mister_fix_it"
+             description="Piracy"
+             depends="Lockdown,Advanced Generators,Applied Energistics 2,Extra Cells 2,Archimedes&apos; Ships,AutoPackager,Bibliocraft:,Bibliocraft BoP,Bibliocraft Forestry,Bibliocraft Natura,Botania,Buildcraft,LogisticsPipes,Carpenter&apos;s Blocks,Chisel 2,Chicken Chunks,Compact Machines,EnderIO,Ender Zoo,Ex Nihilo,Ex Astris,EnhancedPortals3,Extra Utilities,Falling Meteors,FluxedCrystals,Forestry,Binnie&apos;s Mods,Gendustry,GardenStuff,Hardcore Ender Expansion,HopperDucts,Hunger Overhaul,Magical Crops,Pam&apos;s Parvestcraft,PneumaticCraft,ProgressiveAutomation,ProjectRed,QuiverBow,QuiverMob,Refined Relocation,RFTools,Super Crafting Frame,Steve's Carts,Steve's Workshop,Thaumcraft 4,Automagy,Forbidden Magic,Tinker&apos;s Construct,ExtraTiC,Iguana&apos;s Tinker Tweaks,Tinker&apos;s Mechworks,Thermal Expansion,Redstone Armory,Simply Jetpacks,Torcherino,RR-Tweaksrino,Translocator,Twilight Forest,Veinminer,WR-CBE " 
+             />-->
 
         <!--<mod name="Wasteland" version="RR3"
              url="packs/ResonantRise/files/timezones/08_wasteland/08_wasteland_3-DEV-056.zip" file="08_wasteland_3-DEV-056.zip" md5="bb7c25e175277d2592a1de3317528ba7" download="server"
@@ -331,32 +323,70 @@
              depends="Blood Magic,Engineer’s Toolbox,Flaxbeard’s Steam Power,Fossils and Archeology Revival,MPS,Quiverbow,Quivermobs,Tinker’s Construct,Tinker’s Mechworks,Thaumcraft 4,Thermal Expansion,Wasteland,XthUoth" 
              />-->
 
-        <!--<mod name="   Wasteland Complete" version="RR3"
-              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
+<!-- Era's 2.0 Not for public yet -->
+
+        <mod name="Antiquity 2.0" version="RR3" 
+             url="packs/ResonantRise/files/timezones/067/11_antiquity_2_0_3-DEV-067.zip" file="11_antiquity_2_0_3-DEV-067.zip" md5="a790f8b34e837e5483ccffe825ca03d4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
-             authors="Velotican, DivineAspect, GodNero"
-             description="More mods dosn't mean you will survive longer."
-             depends="Blood Magic,Engineer’s Toolbox,Flaxbeard’s Steam Power,Fossils and Archeology Revival,MPS,Quiverbow,Quivermobs,Tinker’s Construct,Tinker’s Mechworks,Thaumcraft 4,Thermal Expansion,Wasteland,XthUoth,Balkons,Cannibalism,DoggyTalents,Galacticraft (and it’s add ons),Herdcraft,Minechem,Open Blocks,Progressive Automation,Lycanites,Technomancy" 
-             />-->
-             
+             authors="Lanses 505, mister_fix_it, RRbuild Team"
+             description="Adding more antiques to antiquity."
+             depends="Archimedes&apos; Ships,Artifacts,Balkon&apos;s Weapon Mod,Big Trees,Blood Magic,Botania,Brewcraft,Carpenter&apos;s Blocks,Chisel 2,Enchanting PlusCraftHeraldry,ExNihilo,Hardcore Ender Expansion,Magical Crops,Pam&apos;s Harvestcraft,Redstone Paste,Rougelike Dungeons,Soul Shards Reborn,Statues,Tinker&apos;s Construct,Iguana Tinker Tweaks,Twilight Forest,Witchery,More Chisels,Ex Nihilo,Extra TIC,QuiverBow,QuiverMob,Refined Reloaction,Steves Workshop Super Crafting Frame,Reliquary,Gany&apos;s End,Gany&apos;s Nether,Gany&apos;s Surface,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,The Twilight Forest,Malisis Doors,MalisisCore"
+             />
+
+        <!--<mod name="Medieval 2.0" version="RR3" 
+             url="packs/ResonantRise/files/timezones/02_antiquity/02_antiquity_3-DEV-062.zip" file="02_antiquity_3-DEV-062.zip" md5="64e8b83f3c56ac1faeb657159bf7d149" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" group="mode"
+             website="http://resonant-rise.com"
+             authors="Lanses 505, mister_fix_it, RRbuild Team"
+             description="to be added later"
+             depends="AgriCraft,Ancient Warfare 2,Artifacts,Bibliocraft,BibliocraftWoods Biomes o’ Plenty Edition,BibliocraftWoods Natura Edition,Blood Magic,Botania,Brewcraft,Carpenter’s Blocks,Chisel,ChocolateQuest,CraftHeraldry,EnchantingPlus,Gany’s Mods,Gany’s End,Gany’s Nether,Pam’s Harvestcraft,Magical Crops,ProjectE,QuiverBow,Reliquary,Statues,Steve’s Workshop,Thaumcraft,Automagy,Forbidden Magic,Thaumic NEI Plugin,Thaumic Tinkerer,Twilight Forest,Vending Blocks,Witchery"
+             /> -->
+
+        <!--<mod name="Discovery 2.0" version="RR3" 
+             url="packs/ResonantRise/files/timezones/02_antiquity/02_antiquity_3-DEV-062.zip" file="02_antiquity_3-DEV-062.zip" md5="64e8b83f3c56ac1faeb657159bf7d149" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" group="mode"
+             website="http://resonant-rise.com"
+             authors="Lanses 505, mister_fix_it, RRbuild Team"
+             description="Adding more antiques to antiquity."
+             depends="Archimedes Ships,Advanced Generators,Balkon’s Weapons,Buildcraft,Buildcraft Additions,Bibliocraft,BiblioWoods BoP,BiblioWoods Forestry,BiblioWoods Natura,Brewcraft,Carpenter’s Blocks,Chisel,ChocolateQuest,CraftHeraldry,Flaxbeard’s Steam Power,Forestry,Binnie’s Mods,Magic Bees,HardcoreEnderExpansion,Minefactory Reloaded,Steve’s Carts,Steve’s Workshop,Pneumaticcraft,Progressive Automation,QuiverBow,QuiverMobs,Rougelike Dungeons,Runic Dungeons,Thaumcraft,Automagy,Forbidden Magic,Magistics,Thaumic Exploration,Thaumic NEI Plugin,Thaumic Tinkerer,Tinker’s Construct,ExtraTIC,Tinker’s Mechworks"
+             /> -->             
+
+        <!--<mod name="Mechanized 2.0" version="RR3" 
+             url="packs/ResonantRise/files/timezones/02_antiquity/02_antiquity_3-DEV-062.zip" file="02_antiquity_3-DEV-062.zip" md5="64e8b83f3c56ac1faeb657159bf7d149" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" group="mode"
+             website="http://resonant-rise.com"
+             authors="Lanses 505, mister_fix_it, RRbuild Team"
+             description="Adding more antiques to antiquity."
+             depends="Advanced Generators,Bibliocraft,BiblioWoods BoP,BiblioWoods Forestry,BiblioWoods Natura,Buildcraft,Chisel Facades,Logistics Pipes,Carpenter’s Blocks,Chisel   ,ComputerCraft,Computronics,Electrical Age,Forestry,Binnies Mods,Galacticraft Planets,Galacticraft Core,MicDoodle8 Core,Greg’s Lighting,HydrauliCraft,IndustrialCraft 2,IC2 Nuclear Control 2,Advanced Machines,Advanced Solar Panels,Malisis Doors,MalisisCore,MineChem,Minefactory Reloaded,Pam’s Harvestcraft,PneumaticCraft,),Steve’s Mods,Steve’s Carts,Steve’s Factory Manager,Tubes"
+             /> -->
+
+        <!--<mod name="Information 2.0" version="RR3" 
+             url="packs/ResonantRise/files/timezones/02_antiquity/02_antiquity_3-DEV-062.zip" file="02_antiquity_3-DEV-062.zip" md5="64e8b83f3c56ac1faeb657159bf7d149" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" group="mode"
+             website="http://resonant-rise.com"
+             authors="Lanses 505, mister_fix_it, RRbuild Team"
+             description="Adding more antiques to antiquity."
+             depends="Applied Energistics 2,AE2Stuff,ExtraCells,Big Reactors,Buildcraft,Buildcraft Additions,LogisticsPipes,Calculator Mod,Carpenter’s Blocks,Chisel 2,Chisel Facades,Compact Machines,Decocraft,Ender IO,EnderZoo,Enhanced Portals,Extra Utilities,Falling Meteors,Galacticraft,IndustrialCraft 2,Advanced Machines,Advanced Repulsion Systems,Advanced Solar Panels,IC2 Nuclear Control 2,Gravisuite,Mekanism,MineFactory Reloaded,Minechem,OpenComputers,Computronics,PowerConverters,ProjectRed,QuiverBox,QuiverBow,Redstonic,Thermal Expansion,Redstone Armory,Redstone Arsenal,Simply Jetpacks"
+             /> -->
+
 <!-- Yogs Packs-->
 
-        <!--<mod name="== Yogifiers ==" version="RR3" colour="rred"
+        <mod name="== Yogifiers ==" version="RR3" colour="rred"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Please do not select with Sandbox modes."
-             />-->
+             />
              
         <mod name="Project Flux" version="RR3"
-             url="packs/ResonantRise/files/secret/project_flux/200_Project_Flux_3-DEV-062.zip" file="200_Project_Flux_3-DEV-062.zip" md5="831e4fa31423f51d9ad4607c9254cf18" download="server"
+             url="packs/ResonantRise/files/timezones/067/200_Project_Flux_3-DEV-067.zip" file="200_Project_Flux_3-DEV-067.zip" md5="21f945e0e4fc0ccbd153977a27a4b09f" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
-             authors="KirinDave, GodNero, secret, secret"
-             description="Coming Soon!"
-             depends="Advanced Generators,AlchemyPlusPlus,Ancient Warfare 2,Another One Bites The Dust,Applied Energistics 2,AE2 Stuff,Automagy,Brewcraft,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Blood Magic,Botania,Buildcraft,Calculator,Carpenter&apos;s Blocks,Chisel 2,Chisel Facades,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Dense Ores,Dimensional Anchors,Ender IO,Ender Zoo,Ender Storage,EnhancedPortals 3,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Fluxed Crystals,Forbidden Magic,Forestry,Binnie&apos;s Mods,Funky Locomotion,Gendustry,Greg&apos;s Lighting,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Logistics Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,Malisis Doors,MineFactory Reloaded,OpenBlocks,OpenComponents,OpenComputers,OpenPeripheral Addons,OpenPeripheral Core,OpenPeripheral Integration,PneumaticCraft,Project Blue,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Refined Relocation,Remote IO,Routers Reborn,Sanguimancy,Simply Jetpacks,Soul Shards: Reborn,Steve&apos;s Carts,Steve&apos;s Addons,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,Thaumcraft 4,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,Tubes,The Twilight Forest,ttCore,Witchery,WR-CBE,MachineMuse&apos;s Modular Powersuits,Modular Powersuits Addon,Numina,Slick-Util,Artifice,Galacticraft Core,Galacticraft Planets,Micdoodle8 Core,MineChem,Binnies,AE2 Stuff,Fluxed Crystals,Thaumcraft Mob Aspects,Archimedes&apos; Ships,Artifacts,ChocoCraft,Decocraft,Electrical Age,Fossils &amp; Archeology Revival,GardenStuff,Pam&apos;s Harvestcraft,The Erebus" 
+             authors="KirinDave, GodNero, LividCoffee, NanoSounds"
+             description="This is the sub-pack built for Flux Buddies 2.0"
+             depends="Advanced Generators,AlchemyPlusPlus,Ancient Warfare 2,Another One Bites The Dust,Applied Energistics 2,AE2 Stuff,Automagy,Brewcraft,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Blood Magic,Botania,Buildcraft,Calculator,Carpenter&apos;s Blocks,Chisel 2,Chisel Facades,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Dense Ores,Dimensional Anchors,Ender IO,Ender Zoo,Ender Storage,EnhancedPortals 3,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Fluxed Crystals,Forbidden Magic,Forestry,Binnie&apos;s Mods,Funky Locomotion,Gendustry,Greg&apos;s Lighting,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Logistics Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,Malisis Doors,MalisisCore,MineFactory Reloaded,OpenBlocks,OpenComponents,OpenComputers,OpenPeripheral Addons,OpenPeripheral Core,OpenPeripheral Integration,PneumaticCraft,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Refined Relocation,Remote IO,Routers Reborn,Sanguimancy,Simply Jetpacks,Soul Shards: Reborn,Steve&apos;s Carts,Steve&apos;s Addons,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,Thaumcraft 4,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,Tubes,The Twilight Forest,ttCore,Witchery,WR-CBE,MachineMuse&apos;s Modular Powersuits,Modular Powersuits Addon,Numina,Slick-Util,Artifice,Galacticraft Core,Galacticraft Planets,Micdoodle8 Core,MineChem,Binnies,AE2 Stuff,Fluxed Crystals,Thaumcraft Mob Aspects,Archimedes&apos; Ships,Artifacts,ChocoCraft,Decocraft,Electrical Age,Fossils &amp; Archeology Revival,GardenStuff,Pam&apos;s Harvestcraft,The Erebus,Project Blue,Project Red: Base,ProjectRed-Compatibility,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,Project Red: World,Artifice,Metallurgy Core,Metallurgy,Thermal Dynamics,Thermal Smeltery" 
             />
              
 <!-- Era and Sandbox Modifiers (Layer 3) -->
@@ -370,6 +400,33 @@
              />
                 
         <mod name="Hardcore Hunger" version="RR3"
+             url="packs/ResonantRise/files/timezones/067/100_hunger_3-DEV-067.zip" file="100_hunger_3-DEV-067.zip" md5="37893317f66669134d1fc55b5c56b45d" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" group="modifier"
+             website="http://resonant-rise.com"
+             authors="RRDevTeam"
+             description="More food, less returns, and starving equates to death." 
+              depends="Pam&apos;s Harvestcraft,Hunger Overhaul,Spice of Life" 
+             />
+
+        <mod name="Cheaty - incomplete" version="RR3"
+             url="packs/ResonantRise/files/modifiers/100_Hunger/100_hunger_3-DEV-062.zip" file="100_hunger_3-DEV-062.zip" md5="00f0384c78997035261633fa94065d86" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" group="modifier"
+             website="http://resonant-rise.com"
+             authors="RRDevTeam"
+             description="More food, less returns, and starving equates to death." 
+              depends="Pam&apos;s Harvestcraft,Hunger Overhaul,Spice of Life" 
+             />
+
+        <mod name="Easy - incomplete" version="RR3"
+             url="packs/ResonantRise/files/modifiers/100_Hunger/100_hunger_3-DEV-062.zip" file="100_hunger_3-DEV-062.zip" md5="00f0384c78997035261633fa94065d86" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" group="modifier"
+             website="http://resonant-rise.com"
+             authors="RRDevTeam"
+             description="More food, less returns, and starving equates to death." 
+              depends="Pam&apos;s Harvestcraft,Hunger Overhaul,Spice of Life" 
+             />
+
+        <mod name="Hardcore - incomplete" version="RR3"
              url="packs/ResonantRise/files/modifiers/100_Hunger/100_hunger_3-DEV-062.zip" file="100_hunger_3-DEV-062.zip" md5="00f0384c78997035261633fa94065d86" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="modifier"
              website="http://resonant-rise.com"
@@ -398,8 +455,8 @@
              description="Shared classes used in the mods maintained by bspkrs." 
             />
 
-        <mod name="CodeChickenLib" version="1.1.1.106"
-             url="packs/ResonantRise/files/3.x/CodeChickenLib-1.7.10-1.1.1.106-universal.jar" file="CodeChickenLib-1.7.10-1.1.1.106-universal.jar" md5="1c166b1a3078ed59593baa282a12939e" download="server"
+        <mod name="CodeChickenLib" version="1.1.1.110"
+             url="packs/ResonantRise/files/3.x/CodeChickenLib-1.7.10-1.1.1.110-universal.jar" file="CodeChickenLib-1.7.10-1.1.1.110-universal.jar" md5="1f67c18bbbf49dc54169ffa0ad1d6a15" download="server"
              type="dependency"
              website="http://www.minecraftforum.net/topic/909223" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
              authors="ChickenBones"            
@@ -428,16 +485,24 @@
              description="Knowledge system based on &apos;learning as you go&apos;" 
              />
 
-        <mod name="ForgeMultipart" version="1.1.0.314"
-            url="packs/ResonantRise/files/3.x/ForgeMultipart-1.7.10-1.1.0.314-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.314-universal.jar" md5="f09d6bb48f518246af12751087b7734a" download="server"
+        <mod name="ForgeMultipart" version="1.1.1.320" 
+             url="packs/ResonantRise/files/3.x/ForgeMultipart-1.7.10-1.1.1.320-universal.jar" file="ForgeMultipart-1.7.10-1.1.1.320-universal.jar" md5="36a41356f863659268242084b0e1caf8" download="server"
              type="dependency"
              website="https://github.com/Chicken-Bones/ForgeMultipart" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
              authors="ChickenBones"
              description="Open source library for facilitation of multiple functional parts in the one block space." 
              />
 
-        <mod name="MrTJPCore" version="1.0.3.5" 
-             url="packs/ResonantRise/files/3.x/MrTJPCore-1.7.10-1.0.3.5-universal.jar" file="MrTJPCore-1.7.10-1.0.3.5-universal.jar" md5="d83750ddc39b9a744a9bcbadfcb79d14" download="server"
+        <mod name="libsandstone" version="1.0.0" 
+             url="packs/ResonantRise/files/3.x/LibSandstone-1.0.0.jar" file="LibSandstone-1.0.0.jar" md5="1ab495f90923a2d0c67541d1e88ec32f" download="server" 
+             type="dependency" 
+             website="http://www.minecraftforum.net/topic/1596973-" 
+             authors="x3n0ph0b3,TheMike" 
+             description="Sandstone, the foundation for pyramids. Another modding framework." 
+             />
+
+        <mod name="MrTJPCore" version="1.0.5.11" 
+             url="packs/ResonantRise/files/3.x/MrTJPCore-1.7.10-1.0.5.11-universal.jar" file="MrTJPCore-1.7.10-1.0.5.11-universal.jar" md5="a506307ea5275a0a6694c847eca01243" download="server"
              type="dependency" 
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred" donation="http://www.patreon.com/MrTJP"
              authors="Mr_TJP, ChickenBones" 
@@ -464,13 +529,13 @@
              file="AtomicStrykerCore.zip" md5="51cea598fede8030aa76832881ff6774" download="server" 
              type="mods" authors="AtomicStryker" website="http://atomicstryker.net/" description="Core files for AtomicStryker's Mods" />-->
              
-        <mod name="Ruins Libs" version="1.7.10"
+        <!--<mod name="Ruins Libs" version="1.7.10"
              url="packs/ResonantRise/files/deps/ruins_libs_1.7.10.zip" file="ruins_libs_1.7.10.zip" md5="3aa4f4abc26d338f5ae0ca75d0b8b1d2" download="server" 
              type="extract" extractto="root"
              website="http://atomicstryker.net/"
              authors="AtomicStryker"
              description="Data for Ruins." 
-             />
+             />-->
 
 <!-- Eternity Era Mods: Mods Available in all Modes (Alphabetized) -->
     
@@ -482,8 +547,8 @@
               description="Adds some useful information about food/hunger to the HUD" 
               />    
 
-        <mod name="Another One Bites The Dust" version="2.3.6" 
-             url="packs/ResonantRise/files/3.x/AOBD-2.3.6.jar" file="AOBD-2.3.6.jar" md5="8345927d64e1263c4706d922726d13bb" download="server"
+        <mod name="Another One Bites The Dust" version="2.4.0" 
+             url="packs/ResonantRise/files/3.x/AOBD-2.4.0.jar" file="AOBD-2.4.0.jar" md5="f6c5130730e30f9b06d745ea56ea2311" download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528"
              authors="ganymedes01"
@@ -497,12 +562,20 @@
              description="A tweak for vanilla mechanics, creative tab tweaks, and a graphite replacement for ink sacs." 
              />
 
-        <mod name="Asie Lib" version="0.3.8"
-             url="packs/ResonantRise/files/3.x/AsieLib-1.7.10-0.3.8.jar" file="AsieLib-1.7.10-0.3.8.jar" md5="38915d44065a21c742575f2be817b88f" download="server"
+        <mod name="Asie Lib" version="1.7.10-0.3.9" 
+             url="packs/ResonantRise/files/3.x/AsieLib-1.7.10-0.3.9.jar" file="AsieLib-1.7.10-0.3.9.jar" md5="15764802ccdf6f9e27b359642a6ad178" download="server"
              website="http://mc.shinonome.ch/doku.php?id=wiki:statues"
              type="mods"
              authors="Asie"
              description="Statues is a Minecraft mod by AUTOMATIC_MAIDEN which adds statues and showcases. Ported primarily due to the fact that MAIDEN's mods are under the GPLv2." 
+             />
+
+        <mod name="ATChecker" version="1.0.0" 
+             url="packs/ResonantRise/files/3.x/ATLChecker-1.0.0.jar" file="ATLChecker-1.0.0.jar" md5="7ba7109499179e03af7782ddbacf28f9" download="server" 
+             type="mods" 
+             website="https://www.nodecraft.com" 
+             authors="Nodecraft" 
+             description="A server version checker for ATLauncher modpacks" 
              />
 
         <mod name="Backpacks" version="2.0.1" 
@@ -517,24 +590,16 @@
              file="BattleTowers-1.7.10.jar" md5="24450c835cb77125183dcaaf51b4fd03" download="server" depends="AtomicStrykerCore"
              type="mods" website="http://atomicstryker.net/" authors="AtomicStryker" description="Tower Dungeons" />-->
 
-        <mod name="BdLib" version="1.5.1.32" 
-             url="packs/ResonantRise/files/3.x/bdlib-mc1710-1.5.1.32.jar" file="bdlib-mc1710-1.5.1.32.jar" md5="b83e0310e405b82e4531a67be6b3a422" download="server"
+        <mod name="BdLib" version="1.6.5.52" 
+             url="packs/ResonantRise/files/3.x/bdlib-mc1710-1.6.5.52.jar" file="bdlib-mc1710-1.6.5.52.jar" md5="fc29a423f442aeb93dc22b51b6cf023d" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/bdlib/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4"
              authors="bdew"
              description="This is a collection of generic code used by bdew's other mods." 
              />
-            
-        <mod name="Biomes O' Plenty" version="2.1.0.1057" 
-             url="packs/ResonantRise/files/3.x/BiomesOPlenty-1.7.10-2.1.0.1057-universal.jar" file="BiomesOPlenty-1.7.10-2.1.0.1057-universal.jar" md5="79f246f4be944953cb04afa0a90b39c6" download="server"
-             type="mods"
-             website="http://www.minecraftforum.net/topic/1495041-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
-             authors="Forstride,Adubbz,Amnet,ted80"
-             description="Adds 87 new, unique biomes!" 
-             />
 
-        <mod name="CodeChickenCore" version="1.0.4.29"
-             url="packs/ResonantRise/files/3.x/CodeChickenCore-1.7.10-1.0.4.29-universal.jar" file="CodeChickenCore-1.7.10-1.0.4.29-universal.jar" md5="23978d3c16f19d0d2808c4b451d78f87" download="server"
+        <mod name="CodeChickenCore" version="1.0.4.35"
+             url="packs/ResonantRise/files/3.x/CodeChickenCore-1.7.10-1.0.4.35-universal.jar" file="CodeChickenCore-1.7.10-1.0.4.35-universal.jar" md5="0f82aedf717fe0f580b4fd3a6514a6ff" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
              authors="ChickenBones"
@@ -549,16 +614,16 @@
              description="Advanced chunkloading management" 
              />
 
-        <mod name="CoFH Core" version="[1.7.10]3.0.0B9-40" 
-             url="packs/ResonantRise/files/3.x/CoFHCore-[1.7.10]3.0.0B9-40.jar" file="CoFHCore-[1.7.10]3.0.0B9-40.jar" md5="41ab7362ab5ee385abfe4979732b90d9" download="server"
+        <mod name="CoFH Core" version="3.0.0RC2" 
+             url="packs/ResonantRise/files/3.x/CoFHCore-[1.7.10]3.0.0RC2-195.jar" file="CoFHCore-[1.7.10]3.0.0RC2-195.jar" md5="043f4620a7d9819b9f750c3f69207338" download="server"
              type="mods" depends="CoFH Framework Libs"
              website="http://teamcofh.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
              authors="KingLemmingCoFH,Cynycal,Zeldo"
              description="Framework required for all Team CoFH mods." 
              />
 
-        <mod name="CoFH Lib" version="[1.7.10]1.0.0B8-34"
-             url="packs/ResonantRise/files/3.x/CoFHLib-[1.7.10]1.0.0B8-34.jar" file="CoFHLib-[1.7.10]1.0.0B8-34.jar" md5="0edb8f61c9911c43a75c3fdeb00baa28" download="server"
+        <mod name="CoFH Lib" version="[1.7.10]1.0.0B9-112"
+             url="packs/ResonantRise/files/3.x/CoFHLib-[1.7.10]1.0.0B9-112.jar" file="CoFHLib-[1.7.10]1.0.0B9-112.jar" md5="a2cde63e65fe60b7f07392c7754d4be0" download="server"
              type="mods"
              website="http://teamcofh.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
              authors="KingLemmingCoFH,Cynycal,Zeldo"
@@ -589,7 +654,7 @@
              description="Making your wolfs into fun, playful dogs." 
              /> -->
 
-        <mod name="Enchiridion" version="1.2b"
+        <mod name="Enchiridion" version="1.2b" 
              url="packs/ResonantRise/files/3.x/Enchiridion-1.7.X-1.2b.jar" file="Enchiridion-1.7.X-1.2b.jar" md5="22d871bf20810055dd4f4d9d3b023343" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/2049315-"
@@ -597,8 +662,8 @@
              description="Library mod that enables custom books." 
              />
 
-        <mod name="Enchiridion 2" version="2.0" 
-             url="packs/ResonantRise/files/3.x/Enchiridion 2-1.7.10-2.0.jar" file="Enchiridion 2-1.7.10-2.0.jar" md5="e878338a6665bc06f3d7042291f8c17e" download="server" 
+        <mod name="Enchiridion 2" version="2.0c" 
+             url="packs/ResonantRise/files/3.x/Enchiridion 2-1.7.10-2.0c.jar" file="Enchiridion 2-1.7.10-2.0c.jar" md5="27d4ecda75d0565d8cd79c22293fec5b" download="server"
              type="mods" 
              website="http://enchiridion.joshiejack.co.uk" 
              authors="joshie" 
@@ -629,21 +694,27 @@
              description="Technomagi Libs" 
              /> -->
 
-        <mod name="FlatSigns" version="2.1.0.19"
+        <!-- <mod name="EurekaAPI" version="2.1" 
+            url="packs/ResonantRise/files/3.x/Eureka-1.7.10-2.1.jar" file="Eureka-1.7.10-2.1.jar" md5="a8752a4356ebfb8d1ab0bb9ec907bfc7" 
+            download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/222995-eureka" authors="AEnterprise" optional="yes" recommended="no"
+            description="API for some mods" 
+            /> -->
+
+        <!--<mod name="FlatSigns" version="2.1.0.19"
              url="packs/ResonantRise/files/3.x/FlatSigns-1.7.10-universal-2.1.0.19.jar" file="FlatSigns-1.7.10-universal-2.1.0.19.jar" md5="836efa16b25141b15b5db3dd157e155b" download="server"
              type="mods"
              website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
              authors="Myrathi"
              description="Add signs on the ground or ceiling." 
-             />
+             />-->
 
-        <mod name="Finndus Fillies" version="2.1.0.12"
+        <!--<mod name="Finndus Fillies" version="2.1.0.12"
              url="packs/ResonantRise/files/3.x/FinndusFillies-1.7.10-universal-2.1.0.12.jar" file="FinndusFillies-1.7.10-universal-2.1.0.12.jar" md5="6bb5083831f51723209329a291982806" download="server"
              type="mods"
              website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
              authors="Myrathi"
              description="lol horsemeat scandal" 
-             />
+             />-->
              
         <mod name="GrowthCraft [Apples]" version="2.1.0"
              url="packs/ResonantRise/files/3.x/growthcraft-apples-1.7.10-2.1.0.jar" file="growthcraft-apples-1.7.10-2.1.0.jar" md5="9d07164344883e4c0bf500531fabebfd" download="server"
@@ -745,8 +816,8 @@
              website="http://atomicstryker.net/" authors="AtomicStryker" description="This mod randomly imbues spawning Living Things in the World with Diablo-style random Enchantments, making them much harder and much more rewarding to kill." 
              />
 
-        <mod name="IndustrialCraft 2 API" version="2.2.2.667-experimental-api" 
-             url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.667-experimental-api.jar" file="industrialcraft-2-2.2.667-experimental-api.jar" md5="0335cfb38650f8807846d1fa97b6d5b8" download="server"
+        <mod name="IndustrialCraft 2 API" version="2.2.2.677-experimental-api" 
+             url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.677-experimental-api.jar" file="industrialcraft-2-2.2.677-experimental-api.jar" md5="3e99668be2466f1abf77e9ac647525e3" download="server"
              type="mods" 
              website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" 
              authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44" 
@@ -776,13 +847,13 @@
              description="New chests with larger sizes, with in-place upgrade items." 
              />
 
-        <mod name="Iron Chest Minecarts" version="1.0.0" 
+        <!--<mod name="Iron Chest Minecarts" version="1.0.0" 
              url="packs/ResonantRise/files/3.x/IronChestMinecarts-1.0.0.jar" file="IronChestMinecarts-1.0.0.jar" md5="a6bf2ba66bf1ff6224a159ce86e1d390" download="server" 
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/224989-iron-chest-minecarts" 
              authors="ganymedes01"
              description="Iron Chests in Minecrats" 
-             />
+             />-->
 
         <mod name="Jabba" version="1.2.0a"
              url="packs/ResonantRise/files/3.x/Jabba-1.2.0a_1.7.10.jar" file="Jabba-1.2.0a_1.7.10.jar" md5="6ea95432de3a3b592a145ae573be469e" download="server"
@@ -807,30 +878,6 @@
              authors="mDiyo"
              description="Core for Tinkers&apos; Construct" 
              />
-             
-        <mod name="Malisiscore" version="1.7.10-0.10.5-b0" 
-             url="packs/ResonantRise/files/3.x/malisiscore-1.7.10-0.10.5.jar" file="malisiscore-1.7.10-0.10.5.jar" md5="40fdd8c27c2837344e3dd4f56a64a48e" download="server"
-             type="mods" 
-             website="http://minecraft.curseforge.com/mc-mods/223896" donation="http://www.patreon.com/ordinastie"
-             authors="Ordinastie"
-             description="MalisisCore is framework designed to help develop mods." 
-             />
-
-        <mod name="Metallurgy" version="4.0.6.80" 
-             url="packs/ResonantRise/files/3.x/Metallurgy-1.7.10-4.0.6.80.jar" file="Metallurgy-1.7.10-4.0.6.80.jar" md5="e7630fed37ae198fd699679ba486f7ab" download="server"
-             type="mods" depends="Metallurgy Core"
-             website="http://www.minecraftforum.net/topic/744918-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
-             authors="Team Metallurgy"
-             description="The Metallurgy." 
-             />
-
-        <mod name="Metallurgy Core" version="4.0.3.18"
-             url="packs/ResonantRise/files/3.x/MetallurgyCore-1.7.10-4.0.4.18.jar" file="MetallurgyCore-1.7.10-4.0.4.18.jar" md5="ed57a0378a38d39b210f8077c69f38e1" download="server" 
-             type="mods"
-             website="http://www.minecraftforum.net/topic/744918-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
-             authors="Team Metallurgy"
-             description="The Metallurgy coremod." 
-             />
 
         <mod name="MineTweaker" version="3.0.9C"
              url="packs/ResonantRise/files/3.x/MineTweaker3-1.7.10-3.0.9C.jar" file="MineTweaker3-1.7.10-3.0.9C.jar" md5="fa05f1671f4cce65c9497c81e9212cca" download="server" 
@@ -840,8 +887,8 @@
              description="Modpack and server tool enabling the addition and removal of recipes" 
              />
         
-        <mod name="Mod Tweaker 2" version="0.3.0" 
-             url="packs/ResonantRise/files/3.x/ModTweaker 2-0.3.0.jar" file="ModTweaker 2-0.3.0.jar" md5="259de30101bda57df31f56a93daeb895" download="server"
+        <mod name="Mod Tweaker 2" version="0.7.b53" 
+             url="packs/ResonantRise/files/3.x/ModTweaker2-1.7.X-0.7.1.jar" file="ModTweaker2-1.7.X-0.7.1.jar" md5="4bb9bf6dee460c586a72721decf63c58" download="server"
              type="mods" 
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-6-minetweaker-addon" donation="http://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=C6YVNZNXBAY6C"
              authors="joshie"
@@ -868,16 +915,16 @@
              file="Necromancy-1.7.10.jar" md5="3f8ab132c375a00d8df6a3c5d9e5dd33" download="server" type="mods" authors="AtomicStryker" website="http://atomicstryker.net/" description="Sew your own unholy creatures from body parts" 
              />-->
 
-        <mod name="NEI Addons" version="1.12.3.11" 
-             url="packs/ResonantRise/files/3.x/neiaddons-mc1710-1.12.3.11.jar" file="neiaddons-mc1710-1.12.3.11.jar" md5="028c830d178f803963fc1fde06c6256c" download="server"
+        <mod name="NEI Addons" version="1.12.3.13" 
+             url="packs/ResonantRise/files/3.x/neiaddons-mc1710-1.12.3.13.jar" file="neiaddons-mc1710-1.12.3.13.jar" md5="3b9ab1b3d405ae75c87ba963149b2e27" download="server"
              type="mods" 
              website="http://www.minecraftforum.net/topic/1803460-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" 
              authors="bdew" 
              description="Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins." 
              />
 
-        <mod name="NEI Integration" version="1.0.5" 
-             url="packs/ResonantRise/files/3.x/NEIIntegration-MC1.7.10-1.0.5.jar" file="NEIIntegration-MC1.7.10-1.0.5.jar" md5="551ef78a508d9a413a347d6d995402a4" download="server"
+        <mod name="NEI Integration" version="1.0.6" 
+             url="packs/ResonantRise/files/3.x/NEIIntegration-MC1.7.10-1.0.6.jar" file="NEIIntegration-MC1.7.10-1.0.6.jar" md5="aa8a468d5a4f7672f5d9f062d10a2ede" download="server"
              type="mods"
              authors="Tonius" 
              website="http://minecraft.curseforge.com/mc-mods/225251-nei-integration" 
@@ -917,8 +964,8 @@
              description="A very simple mod created to clean up and organize the keybinds gui, organizing mods into their own category and sub menu." 
              />
 
-        <mod name="Not Enough Resources" version="0.1.0.79" 
-             url="packs/ResonantRise/files/3.x/NotEnoughResources-1.7.10-0.1.0.79.jar" file="NotEnoughResources-1.7.10-0.1.0.79.jar" md5="143b2f01457cbe32150353f79d9f7f74" download="server" 
+        <mod name="Not Enough Resources" version="0.1.0.95" 
+             url="packs/ResonantRise/files/3.x/NotEnoughResources-1.7.10-0.1.0.95.jar" file="NotEnoughResources-1.7.10-0.1.0.95.jar" md5="d5418e1f914cddc8b10e1f8536036daa" download="server" 
              type="mods" server="no"
              authors="Way2muchnoise,hilburn" 
              website="http://minecraft.curseforge.com/mc-mods/225815" 
@@ -932,13 +979,13 @@
              description="Introduces mineable yet dangerous ores to the Nether" 
              />
 
-        <mod name="ObsidiPlates" version="3.0.0.18"
+        <!--<mod name="ObsidiPlates" version="3.0.0.18"
              url="packs/ResonantRise/files/3.x/ObsidiPlates-1.7.10-universal-3.0.0.18.jar" file="ObsidiPlates-1.7.10-universal-3.0.0.18.jar" md5="20fc7e4fde83c7be83358a19bfffc4b1" download="server"
              type="mods"
              website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
              authors="Myrathi"
              description="Obsidian into plates" 
-             />
+             />-->
 
         <mod name="OpenEye" version="0.6" 
              url="packs/ResonantRise/files/3.x/OpenEye-0.6-1.7.10-snapshot-141.jar" file="OpenEye-0.6-1.7.10-snapshot-141.jar" md5="e378fa4f496a7e3fa13413b0457476c3" download="server"
@@ -964,30 +1011,6 @@
              description="OpenBlocks is a random collection of ideas - ideas the community have suggested, or ideas we thought &quot;Why hasn&apos;t anyone done that yet?&quot;. There is no theme, it&apos;s quite random. It&apos;s not even just blocks, as the name suggests!" 
              />
 
-        <mod name="Project Red: Base" version="4.5.8.59"
-             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.8.59-Base.jar" file="ProjectRed-1.7.10-4.5.8.59-Base.jar" md5="33a8ed2a2dc324c0266877cb5beb9001" download="server"
-             type="mods"
-             website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
-             authors="Mr_TJP, ChickenBones"
-             description="RedPower2 Clone" 
-             />
-
-        <mod name="Project Red: Compat" version="4.5.8.59"
-             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.8.59-Compat.jar" file="ProjectRed-1.7.10-4.5.8.59-Compat.jar" md5="9a502fdefb8a3ad8334ef2fb9fcbc2d4" download="server"
-             type="mods" depends="Project Red: Base"
-             website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
-             authors="Mr_TJP, ChickenBones"
-             description="RedPower2 Clone" 
-             />
-
-        <mod name="Project Red: World" version="4.5.8.59"
-             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.8.59-World.jar" file="ProjectRed-1.7.10-4.5.8.59-World.jar" md5="d1d8b751a62fb438e3f8482e27a5ea77" download="server"
-             type="mods" depends="Project Red: Base"
-             website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
-             authors="Mr_TJP, ChickenBones"
-             description="RedPower2 Clone" 
-             />
-             
         <!-- <mod name="Resonant Engine" version="3.0.0.193"
              url="packs/ResonantRise/files/3.x/resonant-engine-3.0.0.193-core.jar" file="resonant-engine-3.0.0.193-core.jar" md5="d50aec92671df4777c0d21d94140174a" download="server"
              type="mods"
@@ -1002,7 +1025,7 @@
              website="http://www.curse.com/mc-mods/minecraft/223150-" 
              authors="Ivorius" 
              description="Adds structures to worldgen, handles exporting and importing structures, and provides build tools." 
-         />
+             />
 
         <mod name="IvToolkit" version="1.0.3" 
              url="packs/ResonantRise/files/3.x/IvToolkit-1.0.3.jar" file="IvToolkit-1.0.3.jar" md5="e6d754e61ce215e1d9a74056958a89bd" download="server" 
@@ -1010,32 +1033,40 @@
              website="http://www.minecraftforum.net/topic/563257-152" 
              authors="Ivorius" 
              description="Framework with various functionalities, but no ingame influence." 
-         />     
+             />     
 
-        <mod name="Ruins" version="1.7.10" 
+        <!--<mod name="Ruins" version="1.7.10" 
              url="packs/ResonantRise/files/3.x/Ruins-1.7.10.jar" file="Ruins-1.7.10.jar" md5="6d25dd2a47306a4887e50428d99253b7" download="server"
              type="mods" authors="AtomicStryker" website="http://atomicstryker.net/" depends="AtomicStrykerCore,Ruins Libs"
              description="Ruins is a mod that spawns Structures in your Minecraft worlds upon generation, similar to Villages or Strongholds." 
-             />
+             />-->
 
         
+        <mod name="Random Things" version="2.2.4" 
+             url="packs/ResonantRise/files/3.x/RandomThings-2.2.4.jar" file="RandomThings-2.2.4.jar" md5="45c948a0954aa78bb5c23801aa5d9eb7" download="server"
+             type="mods"
+             website="http://www.minecraftforum.net/topic/1832047-"
+             authors="lumien"
+             description="Random Things packed into one Mod :D" 
+             />
+
         <mod name="Sprinkles_for_Vanilla" version="1.1.1" 
-             url="packs/ResonantRise/files/3.x/sprinklesforvanilla-1.7.10-1.0.5.jar" file="sprinklesforvanilla-1.7.10-1.0.5.jar" md5="8886c878e98779c82708ec4e22a61fd0" download="server" 
+             url="packs/ResonantRise/files/3.x/sprinklesforvanilla-1.7.10-1.0.5.jar" file="sprinklesforvanilla-1.7.10-1.0.5.jar" md5="8886c878e98779c82708ec4e22a61fd0" download="server"
              type="mods" 
              website="http://minecraft.curseforge.com/mc-mods/226309-" 
              description="This mod aims to add a config for vanilla, currently it is quite new so more configs will be coming but I have made sure to include some of the options I think most people will use first." 
              />
 
-        <mod name="Thermal Foundation" version="[1.7.10]1.0.0B3-8"
-             url="packs/ResonantRise/files/3.x/ThermalFoundation-[1.7.10]1.0.0RC1-13.jar" file="ThermalFoundation-[1.7.10]1.0.0RC1-13.jar" md5="f9cd23a62698cb66eaf088128cd48f28" download="server"
+        <mod name="Thermal Foundation" version="1.0.0RC3" 
+             url="packs/ResonantRise/files/3.x/ThermalFoundation-[1.7.10]1.0.0RC3-56.jar" file="ThermalFoundation-[1.7.10]1.0.0RC3-56.jar" md5="4ccfe39e36b52271d4019ca6c6be3897" download="server"
              type="mods"
              website="http://thermalexpansion.wikispaces.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
              authors="KingLemmingCoFH,Cynycal,ZeldoKavira"
              description="Core mod for all TE" 
              />
 
-        <mod name="ttCore" version="MC1.7.10-0.1.0-61" 
-             url="packs/ResonantRise/files/3.x/ttCore-MC1.7.10-0.1.0-61.jar" file="ttCore-MC1.7.10-0.1.0-61.jar" md5="f8d0c7fc96ca022bac4ed441a172f363" download="server"
+        <mod name="ttCore" version="MC1.7.10-0.1.0-65" 
+             url="packs/ResonantRise/files/3.x/ttCore-MC1.7.10-0.1.0-65.jar" file="ttCore-MC1.7.10-0.1.0-65.jar" md5="3f6991137faaef657e1a331baa238ef9" download="server"
              type="mods"
              website="http://www.curse.com/mc-mods/minecraft/226082" 
              authors="tterrag"
@@ -1050,24 +1081,24 @@
              description="Base for all UE mods." 
              /> -->
 
-        <mod name="Voltz Engine" version="1.7.10-0.1.0b89" 
+        <!--<mod name="Voltz Engine" version="1.7.10-0.1.0b89" 
              url="packs/ResonantRise/files/3.x/VoltzEngine-1.7.10-0.1.0b89-dev.jar" file="VoltzEngine-1.7.10-0.1.0b89-dev.jar" md5="0a3672dd52303b7936cd84de83590bc6" download="server" 
              type="mods" 
              website="http://builtbroken.com/" 
              authors="DarkCow" 
              description="Voltz Engine, or Built Broken Modding Lib, is a basic library and engine used to create mods." 
-             />
+             />-->
 
-        <mod name="Waila" version="1.5.8a"
-             url="packs/ResonantRise/files/3.x/Waila-1.5.8a_1.7.10.jar" file="Waila-1.5.8a_1.7.10.jar" md5="3643cd6fec8d92fa05851983eb078439" download="server"
+        <mod name="Waila" version="1.5.9_1.7.10" 
+             url="packs/ResonantRise/files/3.x/Waila-1.5.9_1.7.10.jar" file="Waila-1.5.9_1.7.10.jar" md5="c469c01c60182e4a0ccd558c84bafed5" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/73488-waila/files"
              authors="ProfMobius"
              description="Waila (What Am I Looking At) is a UI improvement mod aimed at providing block information directly ingame, without the need of opening an UI."
              /> 
         
-        <mod name="Waila Harvestability" version="1.1.1"
-             url="packs/ResonantRise/files/3.x/WailaHarvestability-mc1.7.x-1.1.1.jar" file="WailaHarvestability-mc1.7.x-1.1.1.jar" md5="8274d4496728cbff0b40b0f8e2ca4296" download="server"
+        <mod name="Waila Harvestability" version="1.1.2" 
+             url="packs/ResonantRise/files/3.x/WailaHarvestability-mc1.7.x-1.1.2.jar" file="WailaHarvestability-mc1.7.x-1.1.2.jar" md5="44f3356029a6a17e4bf3bd9313e9cbe4" download="server"
              type="mods" server="no"
              website="http://www.minecraftforum.net/topic/2620834-"
              authors="squeek502"
@@ -1123,8 +1154,8 @@
              description="Provides a HUD with your equipped armor/item stats." 
              />
 
-        <mod name="Damage Indicators" version="3.2.0"
-             url="packs/ResonantRise/files/3.x/[1.7.10]DamageIndicatorsMod-3.2.0.jar" file="[1.7.10]DamageIndicatorsMod-3.2.0.jar" md5="68be70b663af88ffabab9cf0cd97bd42" download="server"
+        <mod name="Damage Indicators" version="3.2.3" 
+             url="packs/ResonantRise/files/3.x/[1.7.10]DamageIndicatorsMod-3.2.3.jar" file="[1.7.10]DamageIndicatorsMod-3.2.3.jar" md5="4d7172534ef2348a5aa2c4f130d9f57b" download="server"
              type="mods" optional="yes" selected="no" recommended="no" server="no"
              website="http://www.minecraftforum.net/topic/1536685-" donation="https://dl.dropbox.com/u/74770478/donate.html"
              authors="rich1051414"
@@ -1250,8 +1281,8 @@
              description="The tooltips you've always wanted for your fancy tools!" 
              />    
              
-        <mod name="Voxel Map" version="1.2.3" 
-             url="packs/ResonantRise/files/3.x/mod_voxelMap_1.2.3_for_1.7.10.litemod" file="mod_voxelMap_1.2.3_for_1.7.10.litemod" md5="769d841423007977597ea08dfffe8f02" download="server" 
+        <mod name="Voxel Map" version="1.5.1" 
+             url="packs/ResonantRise/files/3.x/mod_voxelMap_1.5.1_for_1.7.10.litemod" file="mod_voxelMap_1.5.1_for_1.7.10.litemod" md5="233ffab76b5760a0c48691175849eb55" download="server" 
              type="mods" selected="no" optional="yes" recommended="no" server="no" group="minimap"
              website="http://www.liteloader.com/mod/voxelmap" 
              authors="MamiyaOtaru"
@@ -1269,8 +1300,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Mods"
              />
         
-        <mod name="Advanced Generators" version="0.9.6.27" 
-             url="packs/ResonantRise/files/3.x/generators-mc1710-0.9.6.27.jar" file="generators-mc1710-0.9.6.27.jar" md5="58059569b331bfdb8e2f3a4d709ee054" download="server" 
+        <mod name="Advanced Generators" version="0.9.11.48" 
+             url="packs/ResonantRise/files/3.x/generators-mc1710-0.9.11.48.jar" file="generators-mc1710-0.9.11.48.jar" md5="2884eccf96b92f94d7101a71e06add09" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2189255" 
              authors="BDew" 
@@ -1285,13 +1316,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Want to climb walls? Shoot Fireballs, ." 
              />-->
 
-        <mod name="AetherCraft" version="1.4.5.68" 
+        <!--<mod name="AetherCraft" version="1.4.5.68" 
              url="packs/ResonantRise/files/3.x/AetherCraft-1.7.10-1.4.5.68.jar" file="AetherCraft-1.7.10-1.4.5.68.jar" md5="1f4d5474aa7654651b7c2887aae10919" download="server" 
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293204" 
              authors="iconmaster"
              description="Aetheral Alchemy! Turn matter into any other kind of matter!" 
-             />
+             />-->
 
         <!--<mod name="AlchemyPlusPlus" version="1.2.0.73" 
              url="packs/ResonantRise/files/3.x/AlchemyPlusPlus-1.7.10-1.2.0.73.jar" file="AlchemyPlusPlus-1.7.10-1.2.0.73.jar" md5="02d327287515ebbbdd8e53a3521289dc" download="server"
@@ -1325,13 +1356,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="ATG provides an alternative to vanilla terrain generation." 
              /> -->
 
-        <mod name="Antique Atlas" version="4.0.1a" 
+        <!--<mod name="Antique Atlas" version="4.0.1a" 
              url="packs/ResonantRise/files/3.x/antiqueatlas-4.0.1a-1.7.10.jar" file="antiqueatlas-4.0.1a-1.7.10.jar" md5="421a1c2368c4a91bf81186cd2e93ae75" download="server" 
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324"
              authors="Hunternif" 
              description="Ye olde style mapping" 
-             />
+             />-->
 
         <mod name="Applied Energistics 2" version="rv2-beta-8"
              url="packs/ResonantRise/files/3.x/appliedenergistics2-rv2-beta-8.jar" file="appliedenergistics2-rv2-beta-8.jar" md5="0208d8e92085e0cec7e43ac8665733a2" download="server"
@@ -1349,16 +1380,16 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Adds new machines and items that are designed to interact with the AE2 Grid" 
              />-->
              
-        <mod name="AE2 Stuff" version="0.1.0.2" 
-             url="packs/ResonantRise/files/3.x/ae2stuff-mc1710-0.1.1.5.jar" file="ae2stuff-mc1710-0.1.1.5.jar" md5="01af317d43724aa82e34d6c2ce70f550" download="server"
+        <mod name="AE2 Stuff" version="0.1.6.14" 
+             url="packs/ResonantRise/files/3.x/ae2stuff-mc1710-0.1.6.14.jar" file="ae2stuff-mc1710-0.1.6.14.jar" md5="2c51a79c551d6ff5af5e0833ea000023" download="server"
              type="mods" depends="Applied Energistics 2" optional="yes"  recommended="no" colour="appeng"
              authors="bdew" 
              website="http://www.curse.com/mc-mods/minecraft/225194" 
              description="This mods adds various bits and machines to Applied Energistics 2." 
              />
 
-        <mod name="Extra Cells" version="2.2.48" 
-             url="packs/ResonantRise/files/3.x/ExtraCells-1.7.10-2.2.48b74.jar" file="ExtraCells-1.7.10-2.2.48b74.jar" md5="e3ceb5ea173bd05d440189eab138e7b0" download="server"
+        <mod name="Extra Cells" version="2.2.53" 
+             url="packs/ResonantRise/files/3.x/ExtraCells-1.7.10-2.2.53b82.jar" file="ExtraCells-1.7.10-2.2.53b82.jar" md5="784e5dab145f27b7bf520a77946c0f1d" download="server"
              type="mods" depends="Applied Energistics 2" optional="yes"  recommended="no" colour="appeng"
              website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/"
              authors="M3gaFr3ak"
@@ -1389,21 +1420,21 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="This is basically a library used by most my other mods." 
              />
 
-        <mod name="Ars Magica 2" version="1.4.0.006"
+        <!--<mod name="Ars Magica 2" version="1.4.0.006"
              url="packs/ResonantRise/files/3.x/AM2-1.4.0.006.jar" file="AM2-1.4.0.006.jar" md5="5a9fafb3eeb8c3cd08bf5f3862b60ab1" download="server" 
              type="mods" optional="yes" recommended="no" depends="AnimationAPI" colour="risk" 
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292222" 
              authors="Mithion"
              description="Ars Magica is a mod about casting powerful spells, fighting bosses, and having fun with magic!" 
-             />
+             />-->
 
-        <mod name="AnimationAPI" version="1.2.4" 
+        <!--<mod name="AnimationAPI" version="1.2.4" 
              url="packs/ResonantRise/files/3.x/AnimationAPI-1.7.10-1.2.4.jar" file="AnimationAPI-1.7.10-1.2.4.jar" md5="7ec0b391e527461196e86f4e4974f560" download="server" 
              type="mods" optional="yes" recommended="no" depends="Ars Magica 2" colour="risk"
              website="http://www.minecraftforum.net/topic/1850860-" 
              authors="thehippomaster21" 
              description="A supporting mod that allows modders to make animations more easily." 
-             />
+             />-->
 
         <mod name="Artifacts" version="1.1.1" 
              url="packs/ResonantRise/files/3.x/Artifacts-1.1.1.jar" file="Artifacts-1.1.1.jar" md5="c4aca3de43cd28b457a94e4f16490238" download="server"
@@ -1413,25 +1444,25 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Adds randomly generated magic items to treasure loot generation." 
              />
 
-        <mod name="Artifice" version="1.7-1.1.4-304" 
-             url="packs/ResonantRise/files/3.x/ARTIFICE-1.7-1.1.4-304.jar" file="ARTIFICE-1.7-1.1.4-304.jar" md5="a2619772cdf165b0a1880a45fb8dfc71" download="server"
+        <mod name="Artifice" version="1.7.10-1.1.4-327" 
+             url="packs/ResonantRise/files/3.x/Artifice-1.7.10-1.1.4-327.jar" file="Artifice-1.7.10-1.1.4-327.jar" md5="7af6c4f398b1a2a0623abae36e4abd15" download="server"
              type="mods"  optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1860869-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=UKPDHJ4J7RJC6&amp;lc=US&amp;item_name=Shukaro%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" 
              authors="Shukaro" 
              description="Practical solutions"
              />
 
-        <mod name="Atum" version="0.6.34" 
+        <!--<mod name="Atum" version="0.6.34" 
              url="packs/ResonantRise/files/3.x/Atum-1.7.10-0.6.34.jar" file="Atum-1.7.10-0.6.34.jar" md5="08eb6d86134d739f336b9ad221ad0aa6" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288464" 
              authors="Shadowclaimer"
              description="A mystical land of sand, foes, temples, sand, artifacts, and SAND!"
-             />
+             />-->
 
         <mod name="AutoPackager" version="1.5.3" 
              url="packs/ResonantRise/files/3.x/autopackager-1.5.3.jar" file="autopackager-1.5.3.jar" md5="70ccab7f82eb53a35ca5507ff0e2fa41" download="server" 
-             type="mods" 
+             type="mods" optional="yes" recommended="no" 
              website="http://www.curse.com/mc-mods/minecraft/221457-" 
              authors="smbarbour" 
              description="Autocraft recipes made of a single item type" 
@@ -1452,6 +1483,27 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Gives you more options to store all of your stuff." 
              />-->
  
+        <mod name="Realistic World Gen" version="alpha-1.3.01" 
+             url="packs/ResonantRise/files/3.x/RWG-alpha-1.3.01.jar" file="RWG-alpha-1.3.01.jar" md5="1bc2ce6a8e8008e79f19a590b92f3b96" download="server" 
+             type="mods" 
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-" 
+             authors="ted80" 
+             description="Adds a new realistic worldtype" />
+
+        <mod name="Fun World Gen" version="1.0.3" 
+            url="packs/ResonantRise/files/3.x/FWG-1.0.3.jar" file="FWG-1.0.3.jar" md5="31a450fee984d655adbbc30ebeb0ff48" download="server" 
+            type="mods" 
+            website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-" 
+            authors="ted80" 
+            description="Adds fun worldtypes." />
+
+        <mod name="Old World Gen" version="1.0.3" 
+            url="packs/ResonantRise/files/3.x/OWG-1.0.3-1.7.10.jar" file="OWG-1.0.3-1.7.10.jar" md5="df8a428ef3f353bed27fd6915d30b9fb" download="server" 
+            type="mods" 
+            website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-" 
+            authors="ted80" 
+            description="Brings back old school world gernation types." />
+
         <mod name="Better World Generation 4" version="1.2.1" 
              url="packs/ResonantRise/files/3.x/BWG4-1.2.1.jar" file="BWG4-1.2.1.jar" md5="54a94f5d94c792de382a5a939a9c44ac" download="server" 
              type="mods" optional="yes" recommended="no"
@@ -1507,8 +1559,16 @@ if more then one parent the first parent in the alphabet, unless second parent i
              authors="Karob" 
              description="Generates various large trees, giving Minecraft a more dimensional atmosphere." 
              />
+            
+        <mod name="Biomes O' Plenty" version="2.1.0" 
+             url="packs/ResonantRise/files/3.x/BiomesOPlenty-1.7.10-2.1.0.1062-universal.jar" file="BiomesOPlenty-1.7.10-2.1.0.1062-universal.jar" md5="817aeb4819630626a2c2850f52cb73ad" download="server"
+             type="mods" optional="yes" recommended="no"
+             website="http://www.minecraftforum.net/topic/1495041-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+             authors="Forstride,Adubbz,Amnet,ted80"
+             description="Adds 87 new, unique biomes!" 
+             />
 
-        <mod name="Blood Magic" version="1.3.0b-3"
+        <mod name="Blood Magic" version="v1.3.0Beta(1.7.10)" 
              url="packs/ResonantRise/files/3.x/BloodMagic-1.7.10-1.3.0b-3.jar" file="BloodMagic-1.7.10-1.3.0b-3.jar" md5="bd8f686cb9c0a4c09ec107d57ca6a41c" download="server"
              type="mods" optional="yes" recommended="no" colour="rred"
              website="http://www.minecraftforum.net/topic/1899223-"
@@ -1516,23 +1576,31 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Alphonse, not nose piercing." 
              />
 
-        <mod name="Sanguimancy" version="1.1.8-4" colour="rred"
-             url="packs/ResonantRise/files/3.x/Sanguimancy-1.7.10-1.1.8-4.jar" file="Sanguimancy-1.7.10-1.1.8-4.jar" md5="aee0946104962a827de0463f3787c470" download="server"
-             type="mods" optional="yes" recommended="no"
+        <mod name="Sanguimancy" version="1.7.10-1.1.9Pre-21" 
+             url="packs/ResonantRise/files/3.x/Sanguimancy-1.7.10-1.1.9Pre-21.jar" file="Sanguimancy-1.7.10-1.1.9Pre-21.jar" md5="70b26b07ab2d71596618615bbd11e6f1" download="server"
+             type="mods" optional="yes" recommended="no" colour="rred"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2194354" 
              authors="Tombenpotter"
              description="Automation for all your Blood Magic needs!" 
              />
 
-        <!--<mod name="BluePower" version="0.1.766" 
-             url="packs/ResonantRise/files/3.x/BluePower-1.7.10-0.1.766-universal.jar" file="BluePower-1.7.10-0.1.766-universal.jar" md5="7f0e60dcfb30b112912db3e8a4db39ad" download="server" 
-             type="mods" optional="yes" recommended="no"
+        <mod name="BluePower" version="0.2.892" 
+             url="packs/ResonantRise/files/3.x/BluePower-1.7.10-0.2.892-universal.jar" file="BluePower-1.7.10-0.2.892-universal.jar" md5="9b1c7eee5c7accb08e8a5c6ed1a38448" download="server"
+             type="mods" optional="yes" recommended="no" depends="QmuinityLib" group="BPPB, BPPRB, BPPRC, BPPRI, BPPRL, BPPRM, BPPRW"
              website="http://bluepowermod.com/" donation="http://bluepowermod.com/"
              description="THE POWER OF BLUE!" 
-             />-->
+             />
+
+        <mod name="QmuinityLib" version="0.1.92" 
+             url="packs/ResonantRise/files/3.x/QmunityLib-1.7.10-0.1.92-universal.jar" file="QmunityLib-1.7.10-0.1.92-universal.jar" md5="3c5a64cb85888000c9e02ec4c407a6ad" download="server"
+             type="mods" optional="yes" recommended="no" depends="BluePower" 
+             website="http://www.curse.com/mc-mods/minecraft/224785-"
+             authors="quetzi,MineMaarten,amadornes,K4Unl" 
+             description="Library for Qmunity mods" 
+             />
              
-        <mod name="Botania" version="r1.4-155" 
-             url="packs/ResonantRise/files/3.x/Botania r1.4-155.jar" file="Botania r1.4-155.jar" md5="5de52e0eda6e588ea6e9ed35b9d69c1b" download="server"
+        <mod name="Botania" version="r1.5-165" 
+             url="packs/ResonantRise/files/3.x/Botania r1.5-165.jar" file="Botania r1.5-165.jar" md5="5cd983e1df4e8196fa8362f34275525f" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://vazkii.us/mod/Botania/downloads.php"
              authors="Vazkii"
@@ -1547,24 +1615,32 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="One great leap for potionkind!" 
              />
 
-        <mod name="Buildcraft" version="6.3.4"
-             url="packs/ResonantRise/files/3.x/buildcraft-6.3.4.jar" file="buildcraft-6.3.4.jar" md5="6b32c1e386b9d07159c92df4bad6ed20" download="server"
+        <mod name="Buildcraft" version="6.4.0"
+             url="packs/ResonantRise/files/3.x/buildcraft-6.4.0.jar" file="buildcraft-6.4.0.jar" md5="aee0510202d360dbb7cf18017ef60172" download="server"
              type="mods" optional="yes" recommended="no" colour="BC"
              website="http://www.mod-buildcraft.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
              authors="SpaceToad, Krapht, SirSengir, CovertJaguar"
              description="The new and improved BuildCraft c. 2014!" 
              />
 
-        <mod name="Buildcraft Additions" version="1.8.4"
-             url="packs/ResonantRise/files/3.x/BuildcraftAdditions-1.7.10-1.8.4.jar" file="BuildcraftAdditions-1.7.10-1.8.4.jar" md5="85f64848843cbf35fe0df81318b283bb" download="server"
-             type="mods"  recommended="no" optional="yes" depends="EurekaAPI,Buildcraft" colour="BC"
+        <mod name="BuildCraft Compat" version="6.4.0" 
+             url="packs/ResonantRise/files/3.x/buildcraft-compat-6.4.0.jar" file="buildcraft-compat-6.4.0.jar" md5="fe0e3f13155063f0706f71c0e1855c08" download="server"
+             type="mods" recommended="no" optional="yes" depends="Buildcraft" colour="BC" 
+             website="http://www.mod-buildcraft.com/" 
+             authors="asie,BuildCraft Team" 
+             description="Compatibility add-on for BuildCraft" 
+             />
+
+        <mod name="Buildcraft Additions" version="2.0.2" 
+             url="packs/ResonantRise/files/3.x/BuildcraftAdditions-1.7.10-2.0.2.jar" file="BuildcraftAdditions-1.7.10-2.0.2.jar" md5="d47d072be91c411673cfb8419acd33ef" download="server"
+             type="mods" recommended="no" optional="yes" depends="EurekaAPI,Buildcraft" colour="BC"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091746" 
              authors="AEnterprise" 
              description="Addon to BuildCraft" 
              />
 
-        <mod name="Logistics Pipes" version="0.8.3.94"
-             url="packs/ResonantRise/files/3.x/logisticspipes-0.8.3.94.jar" file="logisticspipes-0.8.3.94.jar" md5="09abc9c3d0b29bf1bc658692264f5a39" download="server"
+        <mod name="Logistics Pipes" version="0.8.3.105"
+             url="packs/ResonantRise/files/3.x/logisticspipes-0.8.3.105.jar" file="logisticspipes-0.8.3.105.jar" md5="595dbdb9093a5844ce3e6ce971dd183d" download="server"
              type="mods" optional="yes" recommended="no" depends="Buildcraft" colour="BC"
              website="http://ci.thezorro266.com/job/LogisticsPipes1.7/" donation="http://ci.thezorro266.com/job/LogisticsPipes1.7/"
              authors="thezorro266"
@@ -1579,8 +1655,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="This mod add advanced quarry and more." 
              /> -->
 
-        <mod name="Calculator" version="1.5.2" 
-             url="packs/ResonantRise/files/3.x/Calculator-1.7.10-1.5.2.jar" file="Calculator-1.7.10-1.5.2.jar" md5="4093d549338b93a21a29e597a706a97a" download="server"
+        <mod name="Calculator" version="1.5.99" 
+             url="packs/ResonantRise/files/3.x/Calculator-1.7.10-1.5.99.jar" file="Calculator-1.7.10-1.5.99.jar" md5="c39919b8e86eef768997fc4a09b77d8e" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.curse.com/mc-mods/minecraft/225104" 
              authors="SonarSonic"
@@ -1603,20 +1679,27 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Adds slopes and a variety of vanilla-inspired blocks that support covers, side covers, overlays, dyes and chiseled patterns." 
              />
     
-        <mod name="Dr. Cyano&apos;s Wonderful Wands &amp; Wizarding Armor" version="1.4.2" 
+        <!--<mod name="Dr. Cyano&apos;s Wonderful Wands &amp; Wizarding Armor" version="1.4.2" 
              url="packs/ResonantRise/files/3.x/CyanosWonderfulWands-1.4.2.jar" file="CyanosWonderfulWands-1.4.2.jar" md5="fcb9247384a5e15133479b616d314a51" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2233889-" 
              description="Magical creations by Dr. Cyano" 
-             />
+             />-->
 
-        <mod name="Chisel 2" version="2.3.5.1e7d12f" 
-             url="packs/ResonantRise/files/3.x/Chisel2_DEV-2.3.5.1e7d12f.jar" file="Chisel2_DEV-2.3.5.1e7d12f.jar" md5="8d0405f45853bfc4afabce1ce58d281a" download="server" 
+        <mod name="Chisel 2" version="2.3.7.312a323" 
+             url="packs/ResonantRise/files/3.x/Chisel2_DEV-2.3.7.312a323.jar" file="Chisel2_DEV-2.3.7.312a323.jar" md5="0b2ada73ce5a0a060a1b16d542ab95ed" download="server"
              type="mods" optional="yes" recommended="no" colour="Chisel"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901-"
              authors="TheCricket26, EoD, Pokefenn, asie, AUTOMATIC_MAIDEN"
              description="Adds a chisel item that lets you carve blocks like cobblestone or sandstone. Adds two new blocks to world generation: marble and limestone, which can be be carved and crafted into many various building materials." 
              />
+
+        <mod name="More Chisels" 
+             version="1.7.10-1.0-12" url="packs/ResonantRise/files/3.x/MoreChisels-1.7.10-1.0-12.jar" file="MoreChisels-1.7.10-1.0-12.jar" md5="c1fcb2249c9ff318a6f19519017a9b13" download="server" 
+             type="mods" optional="yes" recommended="no" colour="Chisel" depends="Chisel" 
+             website="http://tehnut.info/" 
+             authors="TehNut" 
+             description="More chisels for Chisel-2" />
 
         <mod name="Chisel Facades" version="1.7.10-2.10-cricket" 
              url="packs/ResonantRise/files/3.x/ChiselFacades-1.7.10-2.10-cricket.jar" file="ChiselFacades-1.7.10-2.10-cricket.jar" md5="c74740b02489dd4c4c655747d8a5092d" download="server"
@@ -1634,13 +1717,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Happiness distilled into avian form." 
              />
 
-        <!-- <mod name="Chocolate Quest" version="BETA2" 
-             url="packs/ResonantRise/files/3.x/chocolateQuest-1.7.10-BETA2.jar" file="chocolateQuest-1.7.10-BETA2.jar" md5="b77d8b2f77f36a74507931f5060a5692" download="server"
+       <mod name="Chocolate Quest" version="1.7.10-1.0" 
+             url="packs/ResonantRise/files/3.x/chocolateQuest-1.7.10-1.0.jar" file="chocolateQuest-1.7.10-1.0.jar" md5="58f875dbd2d4e6655d2933a86e0a160f" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278075-chocolate-quest-mods-for-the-adventurers?page=297" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=alarrizabalaga@gmail.com&amp;lc=US&amp;no_note=0&amp;currency_code=USD&amp;bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest"
              authors="Chocolatin"
              description="Dungeons, Monsters, EPIC LOOT!" 
-             /> -->
+             />
 
         <mod name="Compact Machines" version="1.17" 
              url="packs/ResonantRise/files/3.x/compactmachines-1.7.10-1.17.jar" file="compactmachines-1.7.10-1.17.jar" md5="b2d864d19fe7d5e2e47b6c86b2dc974b" download="server"
@@ -1650,16 +1733,16 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Shrink (most of) your factory into a single block!" 
              />
 
-        <mod name="ComputerCraft" version="1.65" 
-             url="packs/ResonantRise/files/3.x/ComputerCraft1.65.jar" file="ComputerCraft1.65.jar" md5="145d92fa808ce30b245e51420381d167" download="server"  
+        <mod name="ComputerCraft" version="1.73" 
+             url="packs/ResonantRise/files/3.x/ComputerCraft1.73.jar" file="ComputerCraft1.73.jar" md5="3b41b0522374ab549f516709adfdb5d8" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.computercraft.info" donation="http://www.computercraft.info/donate/"
              authors="Daniel Ratcliffe,Aaron Mills"
              description="ComputerCraft adds Computers, Programming and Robotics to Minecraft." 
              />
 
-        <mod name="Computronics" version="1.3.4" 
-             url="packs/ResonantRise/files/3.x/Computronics-1.7.10-1.3.4.jar" file="Computronics-1.7.10-1.3.4.jar" md5="e34058ea2836072e9a8b5fcac95a9508" download="server"
+        <mod name="Computronics" version="1.7.10-1.4.0" 
+             url="packs/ResonantRise/files/3.x/Computronics-1.7.10-1.4.0.jar" file="Computronics-1.7.10-1.4.0.jar" md5="763aef53b8ca1c8d6421a7ac56b60657" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://mc.shinonome.ch/doku.php?id=wiki:computronics" 
              description="Chat boxes, cassette tapes, and cameras. Everything you would need if this was 1985." 
@@ -1673,8 +1756,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Decorate your castle, home, base, or cave with banners!!" 
              />
 
-        <mod name="Decocraft" version="1.10"
-             url="packs/ResonantRise/files/3.x/Decocraft-1.10_1.7.2and1.7.10.jar.zip" file="Decocraft-1.10_1.7.2and1.7.10.jar.zip" md5="b37981a0ddc718e633acefff05c90595" download="server" 
+        <mod name="Decocraft" version="v1.11_1.7.10" 
+             url="packs/ResonantRise/files/3.x/Decocraft-v1.11_1.7.10.jar" file="Decocraft-v1.11_1.7.10.jar" md5="5ef620a47872fbec43f988da1c602a81" download="server" 
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292016"
              authors="RazzleberryFox"
@@ -1705,8 +1788,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="You thought it was safe to go outside again." 
              /> -->
 
-        <mod name="Electrical Age" version="1.9_r45" 
-             url="packs/ResonantRise/files/3.x/ElectricalAge_BETA-1.9_r45_multiplayerUntested (1).jar" file="ElectricalAge_BETA-1.9_r45_multiplayerUntested (1).jar" md5="4ce20c32d106644ae3ec6e376b1382ec" download="server"
+        <mod name="Electrical Age" version="1.9_r46" 
+             url="packs/ResonantRise/files/3.x/ElectricalAge_BETA-1.9_r46.jar" file="ElectricalAge_BETA-1.9_r46.jar" md5="df84be26b5a5c38f26d4d18ff5f2aac7" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://electrical-age.net/" 
              authors="Dolu1990,The ElectricalAge Team" 
@@ -1721,8 +1804,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Replaces the enchanting system with an optional custom one!" 
              />
 
-        <mod name="Ender IO" version="1.7.10-2.2.7.331" 
-             url="packs/ResonantRise/files/3.x/EnderIO-1.7.10-2.2.7.331.jar" file="EnderIO-1.7.10-2.2.7.331.jar" md5="84d6c499a1ca53f760abe26144488c10" download="server"
+        <mod name="Ender IO" version="1.7.10-2.2.8.349" 
+             url="packs/ResonantRise/files/3.x/EnderIO-1.7.10-2.2.8.349.jar" file="EnderIO-1.7.10-2.2.8.349.jar" md5="1b64b4be1570077c5b3bec480cfa7f58" download="server"
              type="mods" optional="yes" recommended="no" colour="EIO"
              website="http://www.minecraftforum.net/topic/1937619-" 
              authors="crazypants" 
@@ -1745,13 +1828,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="EnhancedPortals started out as a mod designed to give you a bit more customization for your Nether portals. You could increase the size, shape, or change it&apos;s colour. EnhancedPortals 3 takes this even further by leaving behind the focus of being a fully functional, boring, Nether portal." 
              />
 
-        <mod name="Engineers Toolbox" version="1.2.0.1" colour="risk"
+        <!--<mod name="Engineers Toolbox" version="1.2.0.1" colour="risk"
              url="packs/ResonantRise/files/3.x/EngineersToolbox-1.2.0.1-BETA.jar" file="EngineersToolbox-1.2.0.1-BETA.jar" md5="d12e3e25963fde2b55280ac6ed19c1dd" download="server" 
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1875953-" 
              authors="Emasher" 
              description="Engineer&apos;s Toolbox adds completely customizable modular machines that allow you to add modules to a base block to create much more complex devices. There are modules that do everything from redstone logic, to killing mobs, to creating infinite water sources, and a whole lot more." 
-             />
+             />-->
 
         <mod name="Ex Nihilo" version="1.37" 
              url="packs/ResonantRise/files/3.x/Ex-Nihilo-1.37.jar" file="Ex-Nihilo-1.37.jar" md5="c8199865ca48ef0b1eaaaef5afe08562" download="server"
@@ -1785,23 +1868,24 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Unquantifably Awesome. Power that munches and crunches better than Gurgi ever could." 
              /> -->
 
-        <mod name="Flaxbeard&apos;s Steam Power Mod" version="0.27.4"
-             url="packs/ResonantRise/files/3.x/FlaxbeardsSteamPower-1.7.10-0.27.4.jar" file="FlaxbeardsSteamPower-1.7.10-0.27.4.jar" md5="cf79e9092f65e5dc4eb833b0b55febe6" download="server"
+        <mod name="Flaxbeard&apos;s Steam Power Mod" version="0.27.5"
+             url="packs/ResonantRise/files/3.x/Steamcraft-0.27.5.jar" file="Steamcraft-0.27.5.jar" md5="9ef9406691629b629fabeeab9044187a" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995"
              authors="Flaxbeard"
              description="Adds various steam powered gadgetry. Comes with shotguns and no warranties" 
              />
 
-        <mod name="Flowing Flux" version="0.2.4" 
-             url="packs/ResonantRise/files/3.x/tnkconduits-0.2.4.jar" file="tnkconduits-0.2.4.jar" md5="3e1abc20f2e260288cbc58f55a02312e" download="server" 
-             type="mods" depends="Thermal Expansion" optional="yes" recommended="no"
-             website="http://www.curse.com/mc-mods/minecraft/225556-" donation="https://www.paypal.com/cgi-bin/webscr?return=http%3a%2f%2fwww.curse.com%2fproject%2f225556&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brock.michael12345%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http%3a%2f%2fwww.curse.com%2fproject%2f225556&amp;lc=US&amp;item_name=Flowing+Flux+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
-             description="Programable and easy-to-use energy movement systems" 
+        <mod name="Flood Lights" version="0.3.8" 
+             url="packs/ResonantRise/files/3.x/FloodLights-1.7.10-0.3.8-53.jar" file="FloodLights-1.7.10-0.3.8-53.jar" md5="c9bb5843524e9b3b56d49b762e9b62c0" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="http://minecraft.curseforge.com/mc-mods/224728" 
+             authors="Keridos" 
+             description="Adds flood lights to Minecraft" 
              />
 
-        <mod name="Fluxed Crystals" version="0.0.4e" 
-             url="packs/ResonantRise/files/3.x/fluxedCrystals-0.0.4e.jar" file="fluxedCrystals-0.0.4e.jar" md5="ab09935ef7190a06901b3586265a1d93" download="server"
+        <mod name="Fluxed Crystals" version="0.0.5c" 
+             url="packs/ResonantRise/files/3.x/fluxedCrystals-0.0.5c.jar" file="fluxedCrystals-0.0.5c.jar" md5="2d78684121dbce611df2c5e096df3519" download="server"
              type="mods" depends="ttCore" optional="yes" recommended="no"
              website="http://www.curse.com/mc-mods/minecraft/226074"
              authors="Tiesti, TheDarkSyte, Jaredlll08" 
@@ -1816,24 +1900,24 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Death Approaches from the skies!" 
              />
 
-        <mod name="Forestry" version="3.3.0.6"
-             url="packs/ResonantRise/files/3.x/forestry_1.7.10-3.3.0.6.jar" file="forestry_1.7.10-3.3.0.6.jar" md5="429dc3284d60d44c6e2a9d36fded157c" download="server"
+        <mod name="Forestry" version="3.4.0.7" 
+             url="packs/ResonantRise/files/3.x/forestry_1.7.10-3.4.0.7.jar" file="forestry_1.7.10-3.4.0.7.jar" md5="33eb57891e8cb693bcde54d00676c15f" download="server"
              type="mods" optional="yes" recommended="no" colour="For"
              website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations"
              authors="SirSengir, MysteriousAges"
              description="Bees, Trees, and Automate-ables." 
              />
         
-        <mod name="Binnie&apos;s Mods" version="2.0-pre5" 
-             url="packs/ResonantRise/files/3.x/binnie-mods-2.0-pre5.jar" file="binnie-mods-2.0-pre5.jar" md5="2c3db79abf37ba0eb1c971524fcadab6" download="server"
+        <mod name="Binnie&apos;s Mods" version="2.0-pre7" 
+             url="packs/ResonantRise/files/3.x/binnie-mods-2.0-pre7.jar" file="binnie-mods-2.0-pre7.jar" md5="2b158fbeed086bae31281e684c6b591c" download="server"
              type="mods" optional="yes" recommended="no" colour="risk"
              website="http://minecraft.curseforge.com/mc-mods/223525-binnies-mods" donation="http://minecraft.curseforge.com/mc-mods/223525-binnies-mods"
              authors="Binnie"
              description="Extra trees, bees, genetics and... botany?" 
              />
         
-        <mod name="Gendustry" version="1.4.3.47" 
-             url="packs/ResonantRise/files/3.x/gendustry-mc1710-1.4.3.47.jar" file="gendustry-mc1710-1.4.3.47.jar" md5="e21dee0bf150162a2080dc4e08a5126c" download="server"
+        <mod name="Gendustry" version="1.4.8.65" 
+             url="packs/ResonantRise/files/3.x/gendustry-mc1710-1.4.8.65.jar" file="gendustry-mc1710-1.4.8.65.jar" md5="929d637df6ab293dc597d10d1204705e" download="server"
              type="mods" optional="yes" recommended="no" colour="For"
              website="http://www.minecraftforum.net/topic/2160265-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4"
              authors="bdew"
@@ -1864,35 +1948,59 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Frames, motors, enhanced pistons, and more!" 
              />
 
-        <mod name="Galacticraft Core" version="3.0.8.258" 
-             url="packs/ResonantRise/files/3.x/GalacticraftCore-1.7-3.0.8.258.jar" file="GalacticraftCore-1.7-3.0.8.258.jar" md5="f49893048683701a8b61cfa1725424d1" download="server"
+        <mod name="Galacticraft Core" version="3.0.8" 
+             url="packs/ResonantRise/files/3.x/GalacticraftCore-1.7-3.0.8.264.jar" file="GalacticraftCore-1.7-3.0.8.264.jar" md5="1fd420789c4aa12b93573a4130a87611" download="server"
              type="mods" depends="Micdoodle8 Core,Galacticraft Planets" optional="yes" recommended="no" colour="GC"
              website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/"
              authors="micdoodle8"
              description="Core for Galacticraft." 
              />
 
-        <mod name="Galacticraft Planets" version="3.0.8.258" 
-             url="packs/ResonantRise/files/3.x/Galacticraft-Planets-1.7-3.0.8.258.jar" file="Galacticraft-Planets-1.7-3.0.8.258.jar" md5="bc0758aec17c03e14b4c3204cef79a24" download="server"
+        <mod name="Galacticraft Planets" version="3.0.8" 
+             url="packs/ResonantRise/files/3.x/Galacticraft-Planets-1.7-3.0.8.264.jar" file="Galacticraft-Planets-1.7-3.0.8.264.jar" md5="aefb24a01fd621ae5079a9f80aaf6819" download="server"
              type="mods" depends="Galacticraft Core,Micdoodle8 Core" optional="yes" recommended="no" colour="GC"
              website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/"
              authors="micdoodle8"
              description="Plaentary addon for Galacticraft." 
              />
 
-        <mod name="Micdoodle8 Core" version="3.0.8.258" 
-             url="packs/ResonantRise/files/3.x/MicdoodleCore-1.7-3.0.8.258.jar" file="MicdoodleCore-1.7-3.0.8.258.jar" md5="da4f1e98a8d3d33c4f44105c51573e7f" download="server"
+        <mod name="Micdoodle8 Core" version="3.0.8.264" 
+             url="packs/ResonantRise/files/3.x/MicdoodleCore-1.7-3.0.8.264.jar" file="MicdoodleCore-1.7-3.0.8.264.jar" md5="723efd0f559ebad4a3b2f8cd4a8b40a5" download="server"
              type="mods" optional="yes" recommended="no" depends="Galacticraft Core,Galacticraft Planets" colour="GC"
              website="http://www.micdoodle8.com/" donation="http://www.micdoodle8.com/"
              authors="micdoodle8"
              description="Provides core features of Micdoodle8&apos;s mods." 
              />
 
-        <mod name="GardenStuff" version="1.2.1" 
-             url="packs/ResonantRise/files/3.x/GardenStuff-1.7.10-1.2.2.jar" file="GardenStuff-1.7.10-1.2.2.jar" md5="aaff533b5b0b9f4ab0bb693be6041203" download="server"
+        <mod name="GardenStuff" version="1.3.2" 
+             url="packs/ResonantRise/files/3.x/GardenStuff-1.7.10-1.3.2.jar" file="GardenStuff-1.7.10-1.3.2.jar" md5="d3a135f7ebc1f4ec2916f9ac9051abb2" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513" donation="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513"
              description="All the containers you could ever want for planting" 
+             />
+
+        <mod name="Gany&apos;s End" version="1.8.8" 
+             url="packs/ResonantRise/files/3.x/Ganys End-1.8.8.jar" file="Ganys End-1.8.8.jar" md5="4ce95053671cd022b58d8eae13153a59" download="server" 
+             type="mods" optional="yes" recommended="no" 
+             website="http://www.minecraftforum.net/topic/1933846-" 
+             authors="ganymedes01,KingPurpleRaptor" 
+             description="This is one of the three mods in the Gany&apos;s Mods collection. Gany&apos;s End adds blocks and functionalities related to the end (duh)." 
+             />
+
+        <mod name="Gany&apos;s Nether" version="1.7.8" 
+             url="packs/ResonantRise/files/3.x/Ganys Nether-1.7.8.jar" file="Ganys Nether-1.7.8.jar" md5="c6a3bbc22758144f7b425c09761d49f1" download="server"
+             type="mods" optional="yes" recommended="no" 
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291095-" 
+             authors="ganymedes01" 
+             description="This is one of the three mods in the Gany&apos;s Mods collection. Gany&apos;s Nether adds new blocks and functionalities related to the Nether (duh). Tired of lurking around the Nether looking for glowstone, nether quartz or soul sand? Why not... plant them? Too many rubbish around? melt it down into useful lava that you can pipe out using Buildcraft pipes!" 
+             />
+
+        <mod name="Gany&apos;s Surface" version="1.9.5" 
+             url="packs/ResonantRise/files/3.x/Ganys Surface-1.9.5.jar" file="Ganys Surface-1.9.5.jar" md5="77b9d85bbb531c0606b28dd450d50e68" download="server" 
+             type="mods" optional="yes" recommended="no" 
+             website="http://www.minecraftforum.net/topic/1933900-" 
+             authors="ganymedes01,KingPurpleRaptor" 
+             description="This is one of the three mods in the Gany&apos;s Mods collection. Gany&apos;s Surface adds blocks and functionalities related to the over world (duh). Poop everywhere! Detect when is raining, make armour out of wood, and have a nice cup of tea in the morning before going mining, just don&apos;t put the milk in first!" 
              />
 
         <mod name="Greg's Lighting" version="1.11.1" 
@@ -1903,8 +2011,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Cheap floodlights! \o/" 
              />
 
-        <mod name="Hardcore Ender Expansion" version="1.6.7"
-             url="packs/ResonantRise/files/3.x/HardcoreEnderExpansion  MC-1.7.10  v1.6.7.jar" file="HardcoreEnderExpansion  MC-1.7.10  v1.6.7.jar" md5="c36d7de2a62c265aade5f61e2678ee0e" download="server"
+        <mod name="Hardcore Ender Expansion" version="1.7.0"
+             url="packs/ResonantRise/files/3.x/HardcoreEnderExpansion  MC-1.7.10  v1.7.jar" file="HardcoreEnderExpansion  MC-1.7.10  v1.7.jar" md5="a4c883d9376aac8ab830e917023e6ab3" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1066990-" donation="http://www.patreon.com/chylex"
              authors="chylex"
@@ -1935,12 +2043,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Required Hydraulicraft libraries" 
              />
 
-        <mod name="ICBM" version="1.7.10-2.3.0b88" 
+        <!--<mod name="ICBM" version="1.7.10-2.3.0b88" 
              url="packs/ResonantRise/files/3.x/ICBM-1.7.10-2.3.0b88-dev.jar" file="ICBM-1.7.10-2.3.0b88-dev.jar" md5="cf387e826aafc29a59e12383b15a112f" download="server" 
              type="mods" optional="yes" recommended="no" 
              website="http://builtbroken.com" 
              authors="DarkGuardsMan, dmodoomsirius " 
-             description="ICBM is a Minecraft Mod that introduces intercontinental ballistic missiles and loads of explosives to Minecraft." />
+             description="ICBM is a Minecraft Mod that introduces intercontinental ballistic missiles and loads of explosives to Minecraft." 
+             />-->
 
         <mod name="Iguana Tinker Tweaks" version="2.1.2" 
              url="packs/ResonantRise/files/3.x/IguanaTinkerTweaks-1.7.10-2.1.2.jar" file="IguanaTinkerTweaks-1.7.10-2.1.2.jar" md5="8cc97ca170f13c0b4182c05f6b402b29" download="server" 
@@ -1950,8 +2059,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Rebalances and adds new features to Tinkers Construct" 
              />
 
-        <mod name="IndustrialCraft 2" version="2.2.667-experimental" 
-             url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.667-experimental.jar" file="industrialcraft-2-2.2.667-experimental.jar" md5="916ff572111a686465b6858f0bd25270" download="server"
+        <mod name="IndustrialCraft 2" version="2.2.677-experimental" 
+            url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.677-experimental.jar" file="industrialcraft-2-2.2.677-experimental.jar" md5="91d50b0626cba2a940aa7571e7c775d8" download="server"
              type="mods" optional="yes" recommended="no" colour="IC2"
              website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" 
              authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44" 
@@ -2002,6 +2111,14 @@ if more then one parent the first parent in the alphabet, unless second parent i
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" 
              authors="SeNtiMeL"
              description="Gravitation Suite adds many highly advanced tools and items to IC2, it also brings out an armored flight suit!" 
+             />
+
+        <mod name="GregTech-Addon" version="5.07" 
+             url="packs/ResonantRise/files/3.x/gregtech_1.7.10-5.07.07.jar" file="gregtech_1.7.10-5.07.07.jar" md5="342555c850df423c47a89a5402cddaff" download="server" 
+             type="mods" depends="IndustrialCraft 2" optional="yes" recommended="no" colour="IC2"
+             website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=7156" 
+             authors="Gregorius Techneticies" 
+             description="This Mod adds the awesome Technology of GregTech-Intergalactical to your World!" 
              />
 
         <!--<mod name="Infinitubes" version="59.0.1"
@@ -2066,24 +2183,24 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Farm your resources!" 
              />   
 
-        <mod name="Mekanism" version="1.7.10-7.1.1.145" 
-             url="packs/ResonantRise/files/3.x/Mekanism-1.7.10-7.1.1.145.jar" file="Mekanism-1.7.10-7.1.1.145.jar" md5="3377e30c6dd392ee505af8bc258afae9" download="server"
+        <mod name="Mekanism" version="7.1.2" 
+             url="packs/ResonantRise/files/3.x/Mekanism-1.7.10-7.1.2.164.jar" file="Mekanism-1.7.10-7.1.2.164.jar" md5="85e98e12a61aad153c552a4e8f760d37" download="server"
              type="mods" depends="Mekanism Tools,Mekanism Generators" optional="yes" recommended="no" colour="Mek"
              website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
              authors="aidancbrady"
              description="Osmium also cures light wounds." 
              />
 
-        <mod name="Mekanism Generators" version="1.7.10-7.1.1.145" 
-             url="packs/ResonantRise/files/3.x/MekanismGenerators-1.7.10-7.1.1.145.jar" file="MekanismGenerators-1.7.10-7.1.1.145.jar" md5="8dd5534dc9a9fa23e1c152d15031f58c" download="server"
+        <mod name="Mekanism Generators" version="7.1.2" 
+             url="packs/ResonantRise/files/3.x/MekanismGenerators-1.7.10-7.1.2.164.jar" file="MekanismGenerators-1.7.10-7.1.2.164.jar" md5="65397e1129e7865cf57a9d1a6a1aa909" download="server"
              type="mods" depends="Mekanism,Mekanism Tools" optional="yes" recommended="no" colour="Mek"
              website="http://universalelectricity.com/mekanism" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY"
              authors="aidancbrady"
              description="Generators module of Mekanism." 
              />
 
-        <mod name="Mekanism Tools" version="1.7.10-7.1.1.145" 
-             url="packs/ResonantRise/files/3.x/MekanismTools-1.7.10-7.1.1.145.jar" file="MekanismTools-1.7.10-7.1.1.145.jar" md5="bd8b5dc26a7a4e7b294de29c1913ffc1" download="server"
+        <mod name="Mekanism Tools" version="7.1.2" 
+             url="packs/ResonantRise/files/3.x/MekanismTools-1.7.10-7.1.2.164.jar" file="MekanismTools-1.7.10-7.1.2.164.jar" md5="f01507be2d261c19c070acec4e9fd666" download="server"
              type="mods" depends="Mekanism,Mekanism Generators" optional="yes" recommended="no" colour="Mek"
              website="http://universalelectricity.com/mekanism" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY"
              authors="aidancbrady"
@@ -2092,30 +2209,38 @@ if more then one parent the first parent in the alphabet, unless second parent i
              
         <mod name="Malisis Doors" version="1.7.10-1.4.3" 
              url="packs/ResonantRise/files/3.x/malisisdoors-1.7.10-1.4.3.jar" file="malisisdoors-1.7.10-1.4.3.jar" md5="9da5ac14c2db77b785dfdae5bfdc1b8a" download="server"
-             type="mods" optional="yes" recommended="no"
+             type="mods" optional="yes" recommended="no" depends="Malisiscore"
+             website="http://minecraft.curseforge.com/mc-mods/223896" donation="http://www.patreon.com/ordinastie"
+             authors="Ordinastie"
+             description="MalisisCore is framework designed to help develop mods." 
+             />
+         
+        <mod name="Malisiscore" version="1.7.10-0.10.5-b0" 
+             url="packs/ResonantRise/files/3.x/malisiscore-1.7.10-0.10.5.jar" file="malisiscore-1.7.10-0.10.5.jar" md5="40fdd8c27c2837344e3dd4f56a64a48e" download="server"
+             type="mods" optional="yes" recommended="no" depends="Malisis Doors"
              website="http://minecraft.curseforge.com/mc-mods/223896" donation="http://www.patreon.com/ordinastie"
              authors="Ordinastie"
              description="MalisisCore is framework designed to help develop mods." 
              />
 
-        <mod name="Mine &amp; Blade Battlegear 2 - Warcry" version="1.0.6.3" colour="risk"
+        <!-- <mod name="Mine &amp; Blade Battlegear 2 - Warcry" version="1.0.6.3" colour="risk"
              url="packs/ResonantRise/files/3.x/1.7.10-MB_Battlegear2-Bullseye-1.0.6.3.jar" file="1.7.10-MB_Battlegear2-Bullseye-1.0.6.3.jar" md5="966e5aaca8d5238145de07d5d44e4822" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1944903" 
              authors="nerd-boy,GotoLink" 
              description="A WIP, opensource combat mod, focusing on groundbreaking features and balanced combat" 
-             />
+             /> -->
              
-        <mod name="MineChem" version="1.7.10-5.0.5.358" 
-             url="packs/ResonantRise/files/3.x/Minechem-1.7.10-5.0.5.358.jar" file="Minechem-1.7.10-5.0.5.358.jar" md5="4ff619564f90cac977a1b668e0bf50e1" download="server"
+        <mod name="MineChem" version="1.7.10-5.0.5.387" 
+             url="packs/ResonantRise/files/3.x/Minechem-1.7.10-5.0.5.387.jar" file="Minechem-1.7.10-5.0.5.387.jar" md5="19ae5a691618fed6aa3c9ff3d459b088" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://universalelectricity.com/minechem" 
              authors="pixlepix" 
              description="Chemical industry in Minecraft!" 
              />
 
-        <mod name="MineFactory Reloaded" version="[1.7.10]2.8.0RC6-6" 
-             url="packs/ResonantRise/files/3.x/MineFactoryReloaded-[1.7.10]2.8.0RC6-6.jar" file="MineFactoryReloaded-[1.7.10]2.8.0RC6-6.jar" md5="64421fe1b3999724df5b3020112fec1c" download="server"
+        <mod name="MineFactory Reloaded" version="[1.7.10]2.8.0RC7-71" 
+             url="packs/ResonantRise/files/3.x/MineFactoryReloaded-[1.7.10]2.8.0RC7-71.jar" file="MineFactoryReloaded-[1.7.10]2.8.0RC7-71.jar" md5="c8a20a297e4d197154576cb238f3081a" download="server"
              type="mods" depends="CoFH Framework" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/2016680-" 
              authors="PowerCrystals,TehKrush,AtomicStryker,Feanorith,skyboy026"
@@ -2130,13 +2255,29 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Automate everything!" 
              />-->
 
-        <!-- <mod name="Mariculture" version="1.2.3d" colour="risk"
-             url="packs/ResonantRise/files/3.x/Mariculture-1.7.10-1.2.3d.jar" file="Mariculture-1.7.10-1.2.3d.jar" md5="487b02bdf035f6586b4c17785fbeee94" download="server" 
+        <mod name="Mariculture Deluxe" version="1.7.10-1.2.4d" 
+             url="packs/ResonantRise/files/3.x/Mariculture-Deluxe-1.7.10-1.2.4d.jar" file="Mariculture-Deluxe-1.7.10-1.2.4d.jar" md5="d0817bae21595e2f72b778312ef67e2e" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/2049315-"
              authors="joshie"
              description="If you're looking for me, look under the sea, because that is where you'll find me." 
-             />  -->  
+             />
+
+        <mod name="Metallurgy" version="4.0.8" 
+             url="packs/ResonantRise/files/3.x/Metallurgy-1.7.10-4.0.8.97.jar" file="Metallurgy-1.7.10-4.0.8.97.jar" md5="741b4e74a161945c11b8c8cff52e0c68" download="server"
+             type="mods" depends="Metallurgy Core" optional="yes" recommended="no"
+             website="http://www.minecraftforum.net/topic/744918-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+             authors="Team Metallurgy"
+             description="The Metallurgy." 
+             />
+
+        <mod name="Metallurgy Core" version="4.0.3.18"
+             url="packs/ResonantRise/files/3.x/MetallurgyCore-1.7.10-4.0.4.18.jar" file="MetallurgyCore-1.7.10-4.0.4.18.jar" md5="ed57a0378a38d39b210f8077c69f38e1" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="http://www.minecraftforum.net/topic/744918-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+             authors="Team Metallurgy"
+             description="The Metallurgy coremod." 
+             />
              
         <!-- <mod name="Modular Forcefield System" version="4.0.0.18"
              url="packs/ResonantRise/files/3.x/mffs-4.0.0.18-core.jar" file="mffs-4.0.0.18-core.jar" md5="4bb3855ad97f872578c27c285537fc1c" download="server"
@@ -2146,13 +2287,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Calclavia's Forcefield System." 
              /> -->
 
-        <mod name="MachineMuse&apos;s Modular Powersuits" version="0.11.0.176" 
+        <!--<mod name="MachineMuse&apos;s Modular Powersuits" version="0.11.0.176" 
              url="packs/ResonantRise/files/3.x/ModularPowersuits-0.11.0.176.jar" file="ModularPowersuits-0.11.0.176.jar" md5="4048d5d778ea9d1e6a4463882a428dea" download="server"
              type="mods" optional="yes" recommended="no" depends="Numina,Slick-Util" colour="MPS"
              website="http://machinemuse.net/" donation="http://machinemuse.net/" 
              authors="MachineMuse" 
              description="A mod which adds modular power armor, power tool, and a tinker table to configure them. Uses UniversalElectricty or IC2 for energy." 
-             />
+             />-->
 
         <!--<mod name="Modular Powersuits Addon" version="901" colour="MPS"
              url="packs/ResonantRise/files/3.x/powersuitaddons-1.7.10-901.jar" file="powersuitaddons-1.7.10-901.jar" md5="88529bf099964a2f6986a5e593785417" download="server" 
@@ -2162,21 +2303,21 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="A mod which expands on Modular Powersuits&apos; module options" 
              />-->
 
-        <mod name="Numina" version="0.4.0.100" 
+        <!--<mod name="Numina" version="0.4.0.100" 
              url="packs/ResonantRise/files/3.x/Numina-0.4.0.100.jar" file="Numina-0.4.0.100.jar" md5="60374cfb594b6ef00b3479e25c0665bf" download="server"
              type="mods" depends="MachineMuse&apos;s Modular Powersuits,Slick-Util" optional="yes" recommended="no"
              website="http://machinemuse.net/" donation="http://machinemuse.net/" 
              authors="MachineMuse" 
              description="A common library of useful functions and utilities for dealing with Minecraft&apos;s source code." 
-             />
+             />-->
 
-        <mod name="Slick-Util" version="3.x" colour="MPS"
+        <!--<mod name="Slick-Util" version="3.x" colour="MPS"
              url="packs/ResonantRise/files/3.x/slick-util.jar" file="slick-util.jar" md5="0b9db0b296b5eb1df8d11eb30dc87b8f" download="server" 
              type="mods" optional="yes" recommended="no" depends="MachineMuse&apos;s Modular Powersuits,Numina"
              website="http://slick.ninjacave.com/slick-util/" 
              authors="NinjaCave" 
              description="Slick-Util is a small library to enable you to load various image, sound and font formats for use with LWJGL." 
-             />
+             />-->
 
         <!--<mod name="OpenComponents" version="0.2.0.20"
              url="packs/ResonantRise/files/3.x/OpenComponents-MC1.7.10-0.2.0.20-universal.jar" file="OpenComponents-MC1.7.10-0.2.0.20-universal.jar" md5="a0a3f57568a28f84f8e4db021d0d6c6f" download="server"
@@ -2186,8 +2327,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="OpenComponents is an addon mod for OpenComputers that adds support for many blocks from other mods via the Adapter block." 
              />-->
 
-        <mod name="OpenComputers" version="1.4.6.30" 
-             url="packs/ResonantRise/files/3.x/OpenComputers-MC1.7.10-1.4.6.30-universal.jar" file="OpenComputers-MC1.7.10-1.4.6.30-universal.jar" md5="896732fab34c70e5155fc86b0d78169a" download="server"
+        <mod name="OpenComputers" version="1.5.2.9" 
+             url="packs/ResonantRise/files/3.x/OpenComputers-MC1.7.10-1.5.2.9-universal.jar" file="OpenComputers-MC1.7.10-1.5.2.9-universal.jar" md5="5231dab54a2c16befe21e4fb4b07c047" download="server"
              type="mods" optional="yes" recommended="no" colour="Open"
              website="http://www.minecraftforum.net/topic/2201440-"
              authors="Sangar"
@@ -2218,15 +2359,29 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="This addons pack extends the OpenPeripheral core with Terminal Glasses, PIMs, Peripheral Proxies and more." 
              />
 
-        <mod name="Pam&apos;s Harvestcraft" version="1.7.10f" 
-             url="packs/ResonantRise/files/3.x/Pams HarvestCraft 1.7.10f.jar" file="Pams HarvestCraft 1.7.10f.jar" md5="677bf59550f658cbbda9b058c0cf2ad0" download="server"
+        <mod name="Ore Dictionary Converter" version="1.6.1" 
+             url="packs/ResonantRise/files/3.x/OreDictionaryConverter-1.6.1.jar" file="OreDictionaryConverter-1.6.1.jar" md5="567efbc90cd6b2de4b512d0910551a66" download="server" type="mods" optional="yes" recommended="no"  
+             website="https://github.com/EXTER7/OreDictionaryConverter" 
+             authors="EXTER" 
+             description="Convert between different versions of the same ore using the Forge Ore Dictionary" 
+             />
+
+        <mod name="Pam&apos;s Harvestcraft" version="1.7.10g" 
+             url="packs/ResonantRise/files/3.x/Pams HarvestCraft 1.7.10g.jar" file="Pams HarvestCraft 1.7.10g.jar" md5="01a3c287c9b43c13bb5e8cf6560bea92" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/402069-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=UMVYJNMULKL2W&amp;lc=US&amp;item_name=Pam%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" 
              authors="MatrexsVigil" 
              description="Expanded food system including tons of new crops!" />
 
-        <mod name="PneumaticCraft" version="1.5.4-56" 
-             url="packs/ResonantRise/files/3.x/PneumaticCraft-1.7.10-1.5.4-56-universal.jar" file="PneumaticCraft-1.7.10-1.5.4-56-universal.jar" md5="f6de809f334e0efb55459a2e1543fa1d" download="server"
+        <mod name="Pistronics 2" version="0.5.1" 
+             url="packs/ResonantRise/files/3.x/1.7.10-Pistronics2-v0.5.1.jar" file="1.7.10-Pistronics2-v0.5.1.jar" md5="3bf2546f6342d86b8f9861ad0cad35c4" download="server" 
+             type="mods" optional="yes" recommended="no" 
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294844-" 
+             authors="Letiu" 
+             description="BETA-VERSION: Adds Pistons, Rotators and more." />
+
+        <mod name="PneumaticCraft" version="1.6.3-65" 
+             url="packs/ResonantRise/files/3.x/PneumaticCraft-1.7.10-1.6.3-65-universal.jar" file="PneumaticCraft-1.7.10-1.6.3-65-universal.jar" md5="806230aec56193ff0daefc76b268bbe7" download="server"
              type="mods" optional="yes" recommended="no" 
              website="http://www.minecraftforum.net/topic/1841226-" 
              authors="MineMaarten" 
@@ -2249,6 +2404,14 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Take control of your power" 
              />
 
+        <mod name="Pressure Pipes" version="1.0.7.62" 
+             url="packs/ResonantRise/files/3.x/pressure-mc1710-1.0.7.62.jar" file="pressure-mc1710-1.0.7.62.jar" md5="1b5935a455c1b9ede4c2ce77d26060a4" download="server"
+             type="mods" optional="yes" recommended="no" 
+             website="https://bdew.net/" 
+             authors="bdew" 
+             description="Limit-less Input/Output pipes, Multi-Block &amp; Free-Form Tanks, Pumps and Canisters" 
+             />
+
         <mod name="Primitive Mobs" version="1.0c" 
              url="packs/ResonantRise/files/3.x/primitivemobs-1.0c-1.7.10.jar" file="primitivemobs-1.0c-1.7.10.jar" md5="6b608a1c1704997865f669e06a158c06" download="server" 
              type="mods" optional="yes" recommended="no"
@@ -2257,17 +2420,17 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Add Various mob types" 
              />
 
-        <mod name="Progressive Automation" version="1.5.6" 
+        <!--<mod name="Progressive Automation" version="1.5.6" 
              url="packs/ResonantRise/files/3.x/ProgressiveAutomation-1.7.10-1.5.6.jar" file="ProgressiveAutomation-1.7.10-1.5.6.jar" md5="7f4177cf975761e8e26bb6c89fa30eca" download="server" 
              type="mods" optional="yes" recommended="no" 
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-" 
              authors="VanHal"
              description="Very simple low-tech automation solutions that can be upgraded." 
-             />
+             />-->
 
         <mod name="Project Blue" version="1.1.2" 
              url="packs/ResonantRise/files/3.x/ProjectBlue-1.1.2-mc1.7.10.jar" file="ProjectBlue-1.1.2-mc1.7.10.jar" md5="747f48bc0b18a52bf9c4d534d17bd590" download="server"
-             type="mods" depends="Project Red: Base" optional="yes" recommended="no"
+             type="mods" depends="Project Red: Base" optional="yes" recommended="no" group="BPPB"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2260994"
              authors="Greg Ewing"
              description="Project Red Control Panels Brought to you by Project Blue" 
@@ -2281,30 +2444,54 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Equivelant Exchange 2 completly rewritten and made for Minecraft for 1.7.10" 
              />
 
-        <mod name="Project Red: Integration" version="4.5.8.59"
-             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.8.59-Integration.jar" file="ProjectRed-1.7.10-4.5.8.59-Integration.jar" md5="03c66d569894cf99e0ea5241dbaf328e" download="server"
-             type="mods" depends="Project Red: Base,Project Red: Mechanical" optional="yes" recommended="no"
-             website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
-             authors="Mr_TJP, ChickenBones"
-             description="RedPower2 Clone" 
-             />
-             
-        <mod name="Project Red: Lighting" version="4.5.8.59"
-             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.8.59-Lighting.jar" file="ProjectRed-1.7.10-4.5.8.59-Lighting.jar" md5="a90db4cb177715a474a6cac46a9ae2db" download="server"
-             type="mods" depends="Project Red: Base" optional="yes" recommended="no"
-             website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
-             authors="Mr_TJP, ChickenBones"
-             description="RedPower2 Clone" 
-             />
-             
-        <mod name="Project Red: Mechanical" version="4.5.8.59"
-             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.8.59-Mechanical_beta.jar" file="ProjectRed-1.7.10-4.5.8.59-Mechanical_beta.jar" md5="ab6bd45d6feed957a7f48f3f132645eb" download="server"
-             type="mods" depends="Project Red: Base,Project Red: Integration" optional="yes" recommended="no"
+        <mod name="Project Red: Base" version="4.5.12.64"
+             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.12.64-Base.jar" file="ProjectRed-1.7.10-4.5.12.64-Base.jar" md5="341732b44e1b4cf1a9aa6d639dfded85" download="server"
+             type="mods" optional="yes" recommended="no" group="BPPRB"
              website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
              authors="Mr_TJP, ChickenBones"
              description="RedPower2 Clone" 
              />
 
+        <mod name="ProjectRed-Compatibility" version="4.5.12.64" 
+             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.12.64-Compat.jar" file="ProjectRed-1.7.10-4.5.12.64-Compat.jar" md5="85d507aa061ab2cc6525337fe63598a8" download="server"
+             type="mods" depends="Project Red: Base" optional="yes" recommended="no" group="BPPRC"
+             website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
+             authors="Mr_TJP, ChickenBones"
+             description="RedPower2 Clone" 
+             />
+
+        <mod name="Project Red: Integration" version="4.5.12.64" 
+             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.12.64-Integration.jar" file="ProjectRed-1.7.10-4.5.12.64-Integration.jar" md5="dd712e1f4307cd27bcb1ce2db297c877" download="server"
+             type="mods" depends="Project Red: Base,Project Red: Mechanical" optional="yes" recommended="no" group="BPPRI"
+             website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
+             authors="Mr_TJP, ChickenBones"
+             description="RedPower2 Clone" 
+             />
+             
+        <mod name="Project Red: Lighting" version="4.5.12.64" 
+             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.12.64-Lighting.jar" file="ProjectRed-1.7.10-4.5.12.64-Lighting.jar" md5="4430907c2250c9f391acd4f06ea2b857" download="server"
+             type="mods" depends="Project Red: Base" optional="yes" recommended="no" group="BPPRL"
+             website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
+             authors="Mr_TJP, ChickenBones"
+             description="RedPower2 Clone" 
+             />
+             
+        <mod name="Project Red: Mechanical" version="4.5.12.64" 
+             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.12.64-Mechanical_beta.jar" file="ProjectRed-1.7.10-4.5.12.64-Mechanical_beta.jar" md5="ca97333550e05d973a5ec2adb39b70db" download="server"
+             type="mods" depends="Project Red: Base,Project Red: Integration" optional="yes" recommended="no" group="BPPRM" 
+             website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
+             authors="Mr_TJP, ChickenBones"
+             description="RedPower2 Clone" 
+             />
+
+        <mod name="Project Red: World" version="4.5.12.64" 
+             url="packs/ResonantRise/files/3.x/ProjectRed-1.7.10-4.5.12.64-World.jar" file="ProjectRed-1.7.10-4.5.12.64-World.jar" md5="c0810623149880ff7226338c1749221d" download="server"
+             type="mods" depends="Project Red: Base" optional="yes" recommended="no" group="BPPRW"
+             website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
+             authors="Mr_TJP, ChickenBones"
+             description="RedPower2 Clone" 
+             />
+             
         <!-- <mod name="Project Zulu" version="1.3f" 
              url="packs/ResonantRise/files/3.x/ProjectZulu-1.7.10-1.3f.jar" file="ProjectZulu-1.7.10-1.3f.jar" md5="59c94ba3385d2e00bf6d30082e4a230f" download="server" 
              type="mods" optional="yes" recommended="no" 
@@ -2314,40 +2501,41 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="This mod aims to create a better overworld by adding unique mobs, blocks, strucutres, and mechanics to each biome." 
              /> -->
 
-        <mod name="QuiverBow" version="b87" 
-             url="packs/ResonantRise/files/3.x/QuiverBow_1.7.10_b87.zip" file="QuiverBow_1.7.10_b87.zip" md5="628b0a156b50cade9b384903b4d53e5d" download="server"
+        <mod name="QuiverBow" version="b93" 
+             url="packs/ResonantRise/files/3.x/QuiverBow_1.7.10_b93b.jar" file="QuiverBow_1.7.10_b93b.jar" md5="78684c57e63e98e5b6c17d6f572e4b39" download="server"
              type="mods" optional="yes" recommended="no" colour="QB"
              website="http://wildwestscifi.net/coding/9889" 
              description="A Logical Extension of Ranged weaponry" 
              />
 
-        <mod name="QuiverMob" version="b8" 
-             url="packs/ResonantRise/files/3.x/QuiverMob_1.7.10_b8.zip" file="QuiverMob_1.7.10_b8.zip" md5="ba872dc3fabb107ebd6439c94cafbdd0" download="server"
+        <mod name="QuiverMob" version="b10" 
+             url="packs/ResonantRise/files/3.x/QuiverMob_1.7.10_b10.zip" file="QuiverMob_1.7.10_b10.zip" md5="dc5016a5865f9b09bb9ee979135a25ea" download="server"
              type="mods" optional="yes" recommended="no" depends="QuiverBow" colour="QB"
              website="http://wildwestscifi.net/coding/9889" 
              description="Skeltons are now packing WHAT!?" 
              />
 
-        <mod name="Random Things" version="2.2.4" 
-             url="packs/ResonantRise/files/3.x/RandomThings-2.2.4.jar" file="RandomThings-2.2.4.jar" md5="45c948a0954aa78bb5c23801aa5d9eb7" download="server"
-             type="mods"
-             website="http://www.minecraftforum.net/topic/1832047-"
-             authors="lumien"
-             description="Random Things packed into one Mod :D" 
+        <mod name="Railcraft" version="9.5.0.0" 
+             url="packs/ResonantRise/files/3.x/Railcraft_1.7.10-9.5.0.0.jar" file="Railcraft_1.7.10-9.5.0.0.jar" md5="074e753f5db0b65fc1f07c6e21dd71ba" download="server" 
+             type="mods" optional="yes" recommended="no" 
+             website="http://railcraft.info/" 
+             donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" 
+             authors="CovertJaguar" 
+             description="Redefine your rails" 
              />
 
-        <mod name="Redstone Armory" version="1.1-15" 
-             url="packs/ResonantRise/files/3.x/RedstoneArmory-1.7.10-1.1-15-universal.jar" file="RedstoneArmory-1.7.10-1.1-15-universal.jar" md5="49413f6a9471f9984b44dfd2b73b04b2" download="server"
+        <mod name="Redstone Armory" version="1.7.10-1.1-22" 
+             url="packs/ResonantRise/files/3.x/RedstoneArmory-1.7.10-1.1-22-universal.jar" file="RedstoneArmory-1.7.10-1.1-22-universal.jar" md5="de2ebbe36d0119d2b675ce49f544a9b5" download="server"
              type="mods" depends="CoFH Framework" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2111983-redstone-armory-enhancing-the-flux-revolution-1-7" 
              authors="TehNut"
              description="Redstone Armory allows for the creation of even stronger Redstone Flux tools." 
              />
 
-        <mod name="Redstone Arsenal" version="[1.7.10]1.1.0RC1-19" 
-             url="packs/ResonantRise/files/3.x/RedstoneArsenal-[1.7.10]1.1.0RC1-19.jar" file="RedstoneArsenal-[1.7.10]1.1.0RC1-19.jar" md5="cd256ba8d098f813346ef152b1eaa107" download="server"
+        <mod name="Redstone Arsenal" version="1.1.0RC2" 
+             url="packs/ResonantRise/files/3.x/RedstoneArsenal-[1.7.10]1.1.0RC2-43.jar" file="RedstoneArsenal-[1.7.10]1.1.0RC2-43.jar" md5="fcb1c96a555ed00d7871eef1fd65d537" download="server"
              type="mods" depends="CoFH Framework" optional="yes" recommended="no"
-             website="http://teamcofh.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
+             website="http://teamcofh.com/" donation="https://www.com.paypal/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
              authors="KingLemmingCoFH,Cynycal,Zeldo"
              description="Redstone Arsenal adds several new items used to create powerful tools." 
              />
@@ -2376,12 +2564,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="The black arts of frames endure." 
              />-->
 
-        <!--<mod name="Xeno&apos;s Reliquary" version="-1.2.164" 
-             url="packs/ResonantRise/files/3.x/Reliquary-1.2.164.jar" file="Reliquary-1.2.164.jar" md5="55e4887e11d3dbc0424037fddb19def5" download="server" 
+        <mod name="Reliquary" version="1.2" 
+             url="packs/ResonantRise/files/3.x/Reliquary-1.2.jar" file="Reliquary-1.2.jar" md5="adf9e55b148508bb64354db31f7de255" download="server" 
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1596973-" 
-             authors="x3n0ph0b3" description="Two words: magical swag. Oh, and a gun." 
-             />-->
+             authors="x3n0ph0b3,TheMike" 
+             description="Two words: magical swag. Oh, and a gun." 
+             />
 
         <!--<mod name="Remote IO" version="1.7.10-1.7.1.B80-universal" 
              url="packs/ResonantRise/files/3.x/RemoteIO-1.7.10-1.7.1.B80-universal.jar" file="RemoteIO-1.7.10-1.7.1.B80-universal.jar" md5="a0e195c9cfd6e9c5359a1fafa151edcf" download="server"
@@ -2399,8 +2588,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Base for all Calclavia team mods." 
              />-->
 
-        <mod name="RF Tools" version="2.21" 
-             url="packs/ResonantRise/files/3.x/rftools-2.21.jar" file="rftools-2.21.jar" md5="1ef0c2a061991f7571e65151520b47c3" download="server"
+        <mod name="RF Tools" version="2.53" 
+             url="packs/ResonantRise/files/3.x/rftools-2.53.jar" file="rftools-2.53.jar" md5="6342736bb67e1ae7cc6270cba7d86f9b" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.curse.com/mc-mods/minecraft/224641-" donation="https://www.paypal.com/cgi-bin/webscr?return=http%3a%2f%2fwww.curse.com%2fproject%2f224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http%3a%2f%2fwww.curse.com%2fproject%2f224641&amp;lc=US&amp;item_name=RFTools+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
              authors="McJly"
@@ -2431,13 +2620,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Simple Recycling is a tiny mod that allows you to smelt undamaged metal tools and armour back into ingots." 
              />-->     
 
-        <mod name="Small Boats" version="10.13.0-14.0" 
+        <!--<mod name="Small Boats" version="10.13.0-14.0" 
              url="packs/ResonantRise/files/3.x/smallboats-1.7.10-10.13.0-14.0.jar" file="smallboats-1.7.10-10.13.0-14.0.jar" md5="712dd674a61c47e0fedef8f6284fda46" download="server"
              type="mods" 
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1442761" 
              authors="Awger"
              description="A small-ish mod that adds larger boats that you can use to travel the world." 
-             />
+             />-->
 
         <mod name="Soul Shards: Reborn" version="RC3" 
              url="packs/ResonantRise/files/3.x/SSR-rc3.jar" file="SSR-rc3.jar" md5="1cdc8d89b42c02dfdf135c75bc6d6b4d" download="server"
@@ -2455,16 +2644,17 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="In short, this mod introduces variants to your default Minecraft mods, such as creepers with fiery explosions, skeletons that shoot poisoned arrows, and zombies that throw other mobs at you. Not only that, but it allows you adjust all vanilla spawn rates and even make jockeys more common!" 
              /> -->
              
-        <mod name="Spice of Life" version="1.2.3" 
+        <!--<mod name="Spice of Life" version="1.2.3" 
              url="packs/ResonantRise/files/3.x/SpiceOfLife-mc1.7.10-1.2.3.jar" file="SpiceOfLife-mc1.7.10-1.2.3.jar" md5="71af351f6f983d56b620d87d91b426f5" download="server"
              type="mods" optional="yes" recommended="no"
              authors="squeek502" 
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809" 
-             description="A mod that encourages dietary variety through diminishing returns." />
+             description="A mod that encourages dietary variety through diminishing returns." 
+             />-->
 
         <mod name="Statues" version="2.1.4" 
              url="packs/ResonantRise/files/3.x/statues-1.7.10-2.1.4.jar" file="statues-1.7.10-2.1.4.jar" md5="083a94e77bd69a0ac454771becb4c7e0" download="server"
-             type="mods"
+             type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/2115090-"
              authors="Asie"
              description="Create statues out of various blocks" 
@@ -2486,8 +2676,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="ComputerCraft, you're no longer the only programmable automation game in town." 
              />
 
-        <mod name="Steve&apos;s Addons" version="0.7.0" 
-             url="packs/ResonantRise/files/3.x/StevesAddons-1.7.10-0.7.0.jar" file="StevesAddons-1.7.10-0.7.0.jar" md5="327485988228b2b7ae9415edeff6d965" download="server"
+        <mod name="Steve&apos;s Addons" version="0.8.3" 
+             url="packs/ResonantRise/files/3.x/StevesAddons-1.7.10-0.8.3.jar" file="StevesAddons-1.7.10-0.8.3.jar" md5="619d6c94976f04f30af9412d5b02b94e" download="server"
              type="mods" optional="yes" recommended="no" depends="Steve&apos;s Factory Manager"
              website="http://www.curse.com/mc-mods/minecraft/226067" 
              authors="hilburn" 
@@ -2517,16 +2707,16 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="High scale technology, with magical style!" 
              /> -->
              
-        <mod name="Thaumcraft 4" version="1.7.10-4.2.3.4" 
-             url="packs/ResonantRise/files/3.x/Thaumcraft-1.7.10-4.2.3.4.jar" file="Thaumcraft-1.7.10-4.2.3.4.jar" md5="5ae79255dc8afdf22f59ef46c096eec8" download="server"
+        <mod name="Thaumcraft 4" version="1.7.10-4.2.3.5" 
+             url="packs/ResonantRise/files/3.x/Thaumcraft-1.7.10-4.2.3.5.jar" file="Thaumcraft-1.7.10-4.2.3.5.jar" md5="17f2e60dabd4961c9a3a2dad3ad6528a" download="server"
              type="mods" optional="yes" recommended="no" colour="TC4"
              authors="azanor"
              website="http://www.curse.com/mc-mods/minecraft/223628-thaumcraft?version=" donation="http://www.curse.com/mc-mods/minecraft/223628-thaumcraft?version="
              description="Become a Thaumaturgist of legend!" 
              />  
 
-        <mod name="Automagy" version="0.18"
-             url="packs/ResonantRise/files/3.x/Automagy-1.7.10-0.18.jar" file="Automagy-1.7.10-0.18.jar" md5="7025efdc0d30b0cd0348f2d52044b921" download="server"
+        <mod name="Automagy" version="1.7.10-0.20.1" 
+             url="packs/ResonantRise/files/3.x/Automagy-1.7.10-0.20.1.jar" file="Automagy-1.7.10-0.20.1.jar" md5="56bd4334c8781cb3e43c96a700a3379d" download="server"
              type="mods" depends="Thaumcraft 4" optional="yes" recommended="no" colour="TC4"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-9" 
              authors="Tuhljin" 
@@ -2549,8 +2739,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Adding some logistics to Thaumcraft!" 
              />
 
-        <mod name="Technomancy" version="0.9.0beta-i" 
-             url="packs/ResonantRise/files/3.x/1.7.10 Technomancy 0.9.0 beta-i.jar" file="1.7.10 Technomancy 0.9.0 beta-i.jar" md5="0b085f1a6ca4077eb4c5dd5bd184ebfd" download="server"
+        <mod name="Technomancy" version="0.9.0" 
+             url="packs/ResonantRise/files/3.x/1.7.10 Technomancy 0.9.0.jar" file="1.7.10 Technomancy 0.9.0.jar" md5="21b1f72df08fadc9839d8f6448936276" download="server"
              type="mods" optional="yes" recommended="no" depends="Thaumcraft 4" colour="TC4"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441" donation="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441"
              authors="Theflogat"
@@ -2573,13 +2763,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Essentia Managment via Applied Energistics, for those who want to force technological order upon their chaotic magics." 
              />     
         
-        <mod name="Thaumcraft Mob Aspects" version="2A"
+        <!--<mod name="Thaumcraft Mob Aspects" version="2A"
              url="packs/ResonantRise/files/3.x/ThaumcraftMobAspects-1.7.2-2A.jar" file="ThaumcraftMobAspects-1.7.2-2A.jar" md5="c5de49474e6a26e1de8b04a8f45c69b7" download="server" 
              type="mods" optional="yes" recommended="no" depends="Thaumcraft 4" colour="TC4"
              website="http://www.curse.com/mc-mods/minecraft/221389-" 
              authors="parker8283" 
              description="Thaumic aspect modded mob support." 
-             />
+             />-->
 
         <mod name="Thaumic Tinkerer" version="2.5-1.7.10-439" 
              url="packs/ResonantRise/files/3.x/ThaumicTinkerer-2.5-1.7.10-439.jar" file="ThaumicTinkerer-2.5-1.7.10-439.jar" md5="06b1afd5f64dc64650de0de65f4ae4b5" download="server"
@@ -2588,16 +2778,32 @@ if more then one parent the first parent in the alphabet, unless second parent i
              authors="Vazkii" 
              description="An addon to Thaumcraft 4, implementing new content. This mod is a spiritual successor to Elemental Tinkerer. Researches that come from this mod are prefixed by [TT]." />  
                                
-        <mod name="Thermal Expansion" version="[1.7.10]4.0.0B8-23" 
-             url="packs/ResonantRise/files/3.x/ThermalExpansion-[1.7.10]4.0.0B8-23.jar" file="ThermalExpansion-[1.7.10]4.0.0B8-23.jar" md5="a4c4a01d1300dc00385b25dce488cca7" download="server"
+        <mod name="Thermal Expansion" version="4.0.0RC2" 
+             url="packs/ResonantRise/files/3.x/ThermalExpansion-[1.7.10]4.0.0RC2-129.jar" file="ThermalExpansion-[1.7.10]4.0.0RC2-129.jar" md5="877b0306b2be5fa51652ea721c9f2a4b" download="server"
              type="mods" depends="Thermal Foundation" optional="yes" recommended="no"
              website="http://thermalexpansion.wikispaces.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
              authors="KingLemmingCoFH,Cynycal,ZeldoKavira"
              description="Expanding Minecraft thermally - provides new options for automation and processing!" 
              />
 
-        <mod name="The Erebus" version="0.2pre12"  
-             url="packs/ResonantRise/files/3.x/TheErebus-0.2pre12.jar" file="TheErebus-0.2pre12.jar" md5="e528de2c9101f25c2c6c871c14da837d" download="server"
+        <mod name="Thermal Dynamics" version="1.0.0RC2" 
+             url="packs/ResonantRise/files/3.x/ThermalDynamics-[1.7.10]1.0.0RC2-77.jar" file="ThermalDynamics-[1.7.10]1.0.0RC2-77.jar" md5="46ae5176f900560fc3ef4e6f50925fec" download="server"
+             type="mods" depends="Thermal Expansion" optional="yes" recommended="no" 
+             website="http://www.teamcofh.com" 
+             authors="Team CoFH" 
+             description="Thermal meets Dynamic - provides options for transporting items, fluids, and Redstone Flux!" 
+             />
+
+        <mod name="Thermal Smeltery" version="1.7.10-1.1.1" 
+             url="packs/ResonantRise/files/3.x/ThermalSmeltery-1.7.10-1.1.1.jar" file="ThermalSmeltery-1.7.10-1.1.1.jar" md5="cfa4df9b1460c3e085b5072386b76d81" download="server" 
+             type="mods" depends="Thermal Expansion" optional="yes" recommended="no"  
+             website="http://www.curse.com/mc-mods/minecraft/227661-" 
+             authors="Drullkus" 
+             description="Thermal Smeltery Description" 
+             />
+
+        <mod name="The Erebus" version="0.2a" 
+             url="packs/ResonantRise/files/3.x/TheErebus-0.2a.jar" file="TheErebus-0.2a.jar" md5="63f54f228fd1aa3f1456e4d89b2d693e" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://minecraft.curseforge.com/mc-mods/220698-the-erebus"
              authors="Dylan4Ever, chylex, ganymedes01, Vadis365, TripleHeadedSheep" 
@@ -2652,6 +2858,14 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Translocates stuff!" 
              />
 
+        <!--<mod name="Transport Terminals" version="1.0c" 
+             url="packs/ResonantRise/files/3.x/Transport-Terminals-1.0c.jar" file="Transport-Terminals-1.0c.jar" md5="013c6f3de54b64e7ef959d2fbef81c31" download="server" 
+             type="mods"  optional="yes" recommended="no"
+             website="http://www.curse.com/mc-mods/minecraft/224779-" 
+             authors="vadis365,ganymedes01" 
+             description="A mod based around teleportation and inter-dimensional transportation" 
+             />-->
+
         <!--<mod name="Tinkers&apos; Steelworks" version="1.0.3" 
              url="packs/ResonantRise/files/3.x/TSteelworks-1.7.10-1.0.3.jar" file="TSteelworks-1.7.10-1.0.3.jar" md5="14ab46fceba18e26bc0ae9071666e906" download="server" 
              type="mods" 
@@ -2676,20 +2890,36 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Honestly no one is even sure anymore." 
              />-->
              
-        <mod name="The Twilight Forest" version="2.3.2"
-             url="packs/ResonantRise/files/3.x/twilightforest-1.7.10-2.3.2.jar" file="twilightforest-1.7.10-2.3.2.jar" md5="c4123a787738ac6a42941112b1cf69af" download="server"
+        <mod name="The Twilight Forest" version="2.3.3" 
+             url="packs/ResonantRise/files/3.x/twilightforest-1.7.10-2.3.3.jar" file="twilightforest-1.7.10-2.3.3.jar" md5="bc461b1af4db2af096bf4b76d24bb5e7" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/561673-"
              authors="Benimatic (Ben Mazur)"
              description="An enchanted forest dimension." 
              />
 
-        <mod name="VeinMiner" version="0.21.2.44" 
-             url="packs/ResonantRise/files/3.x/VeinMiner-1.7.10_0.21.2.44.jar" file="VeinMiner-1.7.10_0.21.2.44.jar" md5="19fc64961e48bf87796328c6152f6862" download="server"
-             type="mods" optional="yes" recommended="no"
-             website="http://www.curse.com/mc-mods/minecraft/veinminer"
-             authors="PortableJim"
-             description="A mod to help mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end." 
+        <mod name="Vein Miner" version="0.23.0" 
+             url="packs/ResonantRise/files/3.x/VeinMiner-1.7.10_0.23.0.50.jar" file="VeinMiner-1.7.10_0.23.0.50.jar" md5="4b9d422bd0578ddad6d60328c2567e85" download="server" 
+             type="mods" optional="yes" recommended="no" 
+             website="http://minecraft.curseforge.com/mc-mods/veinminer/" 
+             authors="portablejim" 
+             description="When a configured block is harvested a chain reaction is initiated to break connected blocks of the same type. Takes durability and health for each block mined." 
+             />
+
+        <mod name="Veinminer Mod Integration" version="1.7.10-0.4.2.unknown" 
+             url="packs/ResonantRise/files/3.x/veinminermodintegration-1.7.10-0.4.2.unknown.jar" file="veinminermodintegration-1.7.10-0.4.2.unknown.jar" md5="31d014551d53b7c309390978d35f9b19" download="server" 
+             type="mods" optional="yes" recommended="no" depends='VeinMiner'
+             website="http://www.curse.com/mc-mods/minecraft/227576-" 
+             authors="Portablejim" 
+             description="Several integration options for Veinminer" 
+             />
+
+        <mod name="Vending Block" version="1.2.0" 
+             url="packs/ResonantRise/files/3.x/vending-1.2.0b.jar" file="vending-1.2.0b.jar" md5="467e7a2713f850d27b340f38043a03b5" download="server" 
+             type="mods" optional="yes" recommended="no" 
+             website="http://www.minecraftforum.net/topic/1747810-" 
+             authors="AUTOMATIC_MAIDEN,kamilx3" 
+             description="Adds a vending block that lets you sell items." 
              />
 
         <mod name="Witchery" version="0.22.0"
@@ -2717,6 +2947,14 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Adds Various craftable decorative blocks and some useful stuff." 
              />
 
+        <mod name="Chisel Tones" version="1.7.10-1.0-1" 
+             url="packs/ResonantRise/files/3.x/ChiselTones-1.7.10-1.0-1.jar" file="ChiselTones-1.7.10-1.0-1.jar" md5="b3d17943aa6469fe6129547b447ad2de" download="server" 
+             type="mods" optional="yes" recommended="no" depends="ZTones"
+             website="http://tehnut.info/" 
+             authors="TehNut" 
+             description="Chisel compatibility for Ztones" 
+             />
+
 <!-- Special Mode Configs -->
 
     <mod name="EiraIRC Client Config" version="RR3"
@@ -2741,7 +2979,16 @@ if more then one parent the first parent in the alphabet, unless second parent i
          authors="sk89q,wizjany,TomyLobo" 
          description="WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer." 
          />         
-             
+          
+    <mod name="TS2" version="RR3" colour="For"
+         url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
+         type="extract" extractto="root" optional="yes" recommended="no" group="mode"
+         website="http://resonant-rise.com"
+         authors="RR Dev Team"
+         description="Resonant-Rise for the average player."
+         depends="Advanced Generators,AlchemyPlusPlus,Ancient Warfare 2,Another One Bites The Dust,Applied Energistics 2,AE2 Stuff,Automagy,Brewcraft,BiblioCraft,BiblioWoods Biomes O' Plenty Edition,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Big Trees,Blood Magic,Botania,Buildcraft,Buildcraft Additions,Calculator,Carpenter&apos;s Blocks,Chisel 2,Chisel Facades,Compact Machines,ComputerCraft,Computronics,CraftHeraldry,Dense Ores,Dimensional Anchors,Ender IO,Ender Zoo,Ender Storage,EnhancedPortals 3,Extra Cells,ExtraTiC,Extra Utilities,Flaxbeard&apos;s Steam Power Mod,Fluxed Crystals,Forbidden Magic,Forestry,Binnie&apos;s Mods,Funky Locomotion,Gendustry,Greg&apos;s Lighting,Immibis Core,Immibis' Peripherals,Iron Chests,Iron Chest Minecarts,Jabba,Logistics Pipes,Magic Bees,Magical Crops,Mekanism,Mekanism Tools,Mekanism Generators,MineFactory Reloaded,OpenBlocks,OpenComponents,OpenComputers,OpenPeripheral Addons,OpenPeripheral Core,OpenPeripheral Integration,PneumaticCraft,QuiverBow,QuiverMob,Random Things,Redstone Armory,Redstone Arsenal,Refined Relocation,Remote IO,Routers Reborn,Sanguimancy,Simply Jetpacks,Soul Shards: Reborn,Steve&apos;s Carts,Steve&apos;s Addons,Steve&apos;s Factory Manager,Steve&apos;s Workshop,Super Crafting Frame,Technomancy,Thaumcraft 4,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,Tinkers&apos; Construct,Tinkers&apos; Mechworks,Translocator,Tubes,The Twilight Forest,ttCore,Witchery,WR-CBE,MachineMuse&apos;s Modular Powersuits,Modular Powersuits Addon,Numina,Slick-Util,Artifice,Galacticraft Core,Galacticraft Planets,Micdoodle8 Core,MineChem,Binnies,AE2 Stuff,Fluxed Crystals,Thaumcraft Mob Aspects,Archimedes&apos; Ships,Hardcore Ender Expansion,IndustrialCraft 2,Advanced Machines,Advanced Repulsion Systems,Advanced Solar Panel,IC2 Nuclear Control 2,GraviSuite,Pam&apos;s Harvestcraft,Power Converters,Pistronics 2,Pressure Pipes,Redstone Paste,RF Tools,Magistics,Transport Terminal,Veinminer,ZTones,Thermal Dynamics,BuildCraft Compat,Gany&apos;s End,Gany&apos;s Nether,Gany&apos;s Surface,Chisel Tones,More Chisels,BluePower,QmuinityLib,Realistic World Gen,Fun World Gen,Old World Gen,Railcraft"
+         />
+   
     </mods>
 
 </version>

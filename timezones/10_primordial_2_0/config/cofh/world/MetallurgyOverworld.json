@@ -1,0 +1,239 @@
+{
+    "Infuscolium": {
+        "template": "normal",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 2},
+        "material": "stone",
+        "clusterSize": 3,
+        "numClusters": 8,
+        "meanHeight": 65,
+        "maxVariance": 180,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "DeepIron": {
+        "template": "normal",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 1},
+        "material": "stone",
+        "clusterSize": 12,
+        "numClusters": 24,
+        "meanHeight": 5,
+        "maxVariance": 13,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Extreme Hills"},
+			{"type": "name", "entry": "DesertHills"},
+			{"type": "name", "entry": "DesertHills"},
+			{"type": "name", "entry": "ForestHills"},
+			{"type": "name", "entry": "TaigaHills"},
+			{"type": "name", "entry": "Mega Taiga"},
+			{"type": "name", "entry": "Mega Taiga Hills"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Prometheum": {
+        "template": "uniform",
+        "block": "Metallurgy:fantasy.ore",
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 16,
+        "meanHeight": 123,
+        "maxVariance": 10,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{"type": "name", "entry": "Extreme Hills"},
+			{"type": "name", "entry": "DesertHills"},
+			{"type": "name", "entry": "ForestHills"},
+			{"type": "name", "entry": "TaigaHills"},
+			{"type": "name", "entry": "Mega Taiga"},
+			{"type": "name", "entry": "Mega Taiga Hills"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Carmot": {
+        "template": "normal",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 6},
+        "material": "minecraft:stone",
+        "clusterSize": 9,
+        "numClusters": 5,
+        "meanHeight": 153,
+        "maxVariance": 18,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{"type": "name", "entry": "Origin Valley"},
+			{"type": "name", "entry": "Sacred Springs"},
+			{"type": "name", "entry": "Magical Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Oureclase": {
+        "template": "normal",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 4},
+        "material": "minecraft:stone",
+        "clusterSize": 7,
+        "numClusters": 9,
+        "meanHeight": 145,
+        "maxVariance": 15,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{"type": "name", "entry": "Taiga"},
+			{"type": "name", "entry": "FrozenOcean"},
+			{"type": "name", "entry": "FrozenRiver"},
+			{"type": "name", "entry": "TaigaHills"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Potash": {
+        "template": "normal",
+        "block": {"name": "Metallurgy:utility.ore", "metadata": 5},
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 5,
+        "meanHeight": 180,
+        "maxVariance": 65,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Steppe"},
+			{"type": "name", "entry": "Prairie"},
+			{"type": "name", "entry": "Thicket"},
+			{"type": "name", "entry": "Seasonal Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Saltpeter": {
+        "template": "normal",
+        "block": {"name": "Metallurgy:utility.ore", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 9,
+        "numClusters": 5,
+        "meanHeight": 175,
+        "maxVariance": 5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{"type": "name", "entry": "Desert"},
+			{"type": "name", "entry": "DesertHills"},
+			{"type": "name", "entry": "Savanna"},
+			{"type": "name", "entry": "Savanna Plateau"},
+			{"type": "name", "entry": "Mesa"},
+			{"type": "name", "entry": "Mesa Plateau"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	    "Phosporite": {
+        "template": "normal",
+        "block": {"name": "Metallurgy:utility.ore", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 9,
+        "numClusters": 5,
+        "meanHeight": 145,
+        "maxVariance": 15,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "dictionary", "entry": "Dead Forest"},
+			{"type": "dictionary", "entry": "Dead Swamp"},
+			{"type": "dictionary", "entry": "Deciduous Forest"},
+			{"type": "dictionary", "entry": "Wasteland"},
+			{"type": "dictionary", "entry": "Volcano"},
+			{"type": "dictionary", "entry": "Quagmire"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	    "Magnesium": {
+        "template": "normal",
+        "block": {"name": "Metallurgy:utility.ore", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 9,
+        "numClusters": 5,
+        "meanHeight": 85,
+        "maxVariance": 5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "dictionary", "entry": "Volcano"},
+			{"type": "dictionary", "entry": "Mountain"},
+			{"type": "dictionary", "entry": "Crag"},
+			{"type": "dictionary", "entry": "Extreme Hills+"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	    "Sulfur": {
+        "template": "normal",
+        "block": "Metallurgy:utility.ore",
+        "material": "minecraft:stone",
+        "clusterSize": 9,
+        "numClusters": 5,
+        "meanHeight": 6,
+        "maxVariance": 9,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Bitumen": {
+        "template": "normal",
+        "block": {"name": "Metallurgy:utility.ore", "metadata": 4},
+        "material": "stone",
+        "clusterSize": 16,
+        "numClusters": 32,
+        "meanHeight": 103,
+        "maxVariance": 22,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "dictionary", "entry": "NETHER"}
+        ],
+        "dimensionRestriction": "none",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
