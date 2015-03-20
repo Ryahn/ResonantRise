@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-069</version>
+        <version>3-DEV-070</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -152,7 +152,7 @@
              />
                     
         <mod name="Eternal" version="RR3" 
-             url="packs/ResonantRise/files/configs/069/00_eternity_3-DEV-069.zip" file="00_eternity_3-DEV-069.zip" md5="e6bba23b0fc4a868135814bf845a9fd2" download="server"
+             url="packs/ResonantRise/files/configs/070/00_eternity_3-DEV-070.zip" file="00_eternity_3-DEV-070.zip" md5="94888e58e7f0d4174f66763c9ae70577" download="server"
              type="extract" extractto="root" optional="no" recommended="yes"
              website="http://resonant-rise.com"
              authors="Velotican, GodNero"
@@ -197,8 +197,8 @@
              description="Please do not select with Sandbox modes."
              /> 
                 
-        <mod name="Primordial Era" version="RR3"
-             url="packs/ResonantRise/files/configs/069/01_primordial_3-DEV-069.zip" file="01_primordial_3-DEV-069.zip" md5="c8767d1ee375aed237ab2f60bea3633b" download="server"
+        <mod name="Primordial Era" version="RR3" 
+             url="packs/ResonantRise/files/configs/070/01_primordial_3-dev-070.zip" file="01_primordial_3-dev-070.zip" md5="969a7470d93b0005178aafdd4bf83920" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="DivineAspect"
@@ -216,7 +216,7 @@
              />             
 
         <mod name="Antiquity Era" version="RR3" 
-             url="packs/ResonantRise/files/configs/069/02_antiquity_3-DEV-069.zip" file="02_antiquity_3-DEV-069.zip" md5="f09a7b4541089aff64aab06e26882ae0" download="server"
+             url="packs/ResonantRise/files/configs/070/02_antiquity_3-dev-070.zip" file="02_antiquity_3-dev-070.zip" md5="d8ccc55d945bc2c4f8dd0c897b03464a" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
@@ -234,7 +234,7 @@
              />             
 
         <mod name="Medieval Era" version="RR3"
-             url="packs/ResonantRise/files/configs/069/03_medieval_3-DEV-069.zip" file="03_medieval_3-DEV-069.zip" md5="e38adc144e0006fb1696b35428dca73f" download="server"
+             url="packs/ResonantRise/files/configs/070/03_medieval_3-dev-070.zip" file="03_medieval_3-dev-070.zip" md5="f3230b7892dd179ff51b38fab30525ad" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
@@ -252,7 +252,7 @@
              />             
 
         <mod name="Discovery Era" version="RR3" 
-             url="packs/ResonantRise/files/configs/069/04_discovery_3-DEV-069.zip" file="04_discovery_3-DEV-069.zip" md5="217cbdece4fbcc6e2e62072b03cec3fb" download="server"
+             url="packs/ResonantRise/files/configs/070/04_discovery_3-dev-070.zip" file="04_discovery_3-dev-070.zip" md5="51e078f3e73b62548ba736918b5105c7" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
@@ -270,7 +270,7 @@
              />             
 
         <mod name="Mechanized Era" version="RR3"
-             url="packs/ResonantRise/files/configs/069/05_mechanized_3-DEV-069.zip" file="05_mechanized_3-DEV-069.zip" md5="fb334abf7e8d67c4422d6c2668bc20a4" download="server"
+             url="packs/ResonantRise/files/configs/070/05_mechanized_3-dev-070.zip" file="05_mechanized_3-dev-070.zip" md5="e9982e8a1d299c7dc9b25bc1f8edae8f" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
@@ -288,7 +288,7 @@
              />             
         
         <mod name="Information Era" version="RR3"
-             url="packs/ResonantRise/files/configs/069/06_information_3-DEV-069.zip" file="06_information_3-DEV-069.zip" md5="9b8d870c1172d0624ceca0e5d43f8fff" download="server"
+             url="packs/ResonantRise/files/configs/070/06_information_3-dev-070.zip" file="06_information_3-dev-070.zip" md5="66740f1984f33c454318f95ad1f276d9" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Velotican, DivineAspect"
@@ -317,7 +317,7 @@
 <!-- Era's RV 3 Not for public yet -->
 
         <mod name="Exodus" version="RR3" 
-             url="packs/ResonantRise/files/configs/069/08_exodus_3-DEV-069.zip" file="08_exodus_3-DEV-069.zip" md5="743bf980fcfb14c0eec3105201125eb5" download="server"
+             url="packs/ResonantRise/files/configs/070/08_exodus_3-dev-070.zip" file="08_exodus_3-dev-070.zip" md5="89f1a20b1cde146a31b4baa5fbad5df9" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="Lanses 505, mister_fix_it, RRbuild Team"
@@ -382,7 +382,7 @@
              />
                 
         <mod name="Hardcore Hunger" version="RR3"
-             url="packs/ResonantRise/files/timezones/067/100_hunger_3-DEV-067.zip" file="100_hunger_3-DEV-067.zip" md5="37893317f66669134d1fc55b5c56b45d" download="server"
+             url="packs/ResonantRise/files/configs/070/100_hunger_3-dev-070.zip" file="100_hunger_3-dev-070.zip" md5="673f1fcb2f441641ce1398ddcafe23b0" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="modifier"
              website="http://resonant-rise.com"
              authors="RRDevTeam"
@@ -390,22 +390,20 @@
               depends="Pam&apos;s Harvestcraft,Hunger Overhaul,Spice of Life" 
              />
 
-        <mod name="Cheaty - incomplete" version="RR3"
-             url="packs/ResonantRise/files/modifiers/100_Hunger/100_hunger_3-DEV-062.zip" file="100_hunger_3-DEV-062.zip" md5="00f0384c78997035261633fa94065d86" download="server"
+        <mod name="Cheaty" version="RR3"
+             url="packs/ResonantRise/files/configs/070/103_cheaty_3-dev-070.zip" file="103_cheaty_3-dev-070.zip" md5="0c30baa73b371c939f60f6503c3681fc" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="modifier"
              website="http://resonant-rise.com"
              authors="RRDevTeam"
-             description="More food, less returns, and starving equates to death." 
-              depends="Pam&apos;s Harvestcraft,Hunger Overhaul,Spice of Life" 
+             description="Sets most configs to the easiest possible settings possible."
              />
 
-        <mod name="Easy - incomplete" version="RR3"
-             url="packs/ResonantRise/files/modifiers/100_Hunger/100_hunger_3-DEV-062.zip" file="100_hunger_3-DEV-062.zip" md5="00f0384c78997035261633fa94065d86" download="server"
+        <mod name="Easy" version="RR3"
+             url="packs/ResonantRise/files/configs/070/104_easy_3-dev-070.zip" file="104_easy_3-dev-070.zip" md5="cf98984b21e41efb60d3aa2726075615" download="server" 
              type="extract" extractto="root" optional="yes" recommended="no" group="modifier"
              website="http://resonant-rise.com"
              authors="RRDevTeam"
-             description="More food, less returns, and starving equates to death." 
-              depends="Pam&apos;s Harvestcraft,Hunger Overhaul,Spice of Life" 
+             description="Modded Minecraft config settings for the casual player."
              />
 
         <mod name="Hardcore - incomplete" version="RR3"
@@ -413,8 +411,7 @@
              type="extract" extractto="root" optional="yes" recommended="no" group="modifier"
              website="http://resonant-rise.com"
              authors="RRDevTeam"
-             description="More food, less returns, and starving equates to death." 
-              depends="Pam&apos;s Harvestcraft,Hunger Overhaul,Spice of Life" 
+             description="Hardcore settings without perma-death, expect harder and changed recipes."
              />
 
 <!-- Core Modset -->             
@@ -597,8 +594,8 @@
              description="Advanced chunkloading management" 
              />
 
-        <mod name="CoFH Core" version="3.0.0RC5" 
-             url="packs/ResonantRise/files/3.x/CoFHCore-[1.7.10]3.0.0RC5-207.jar" file="CoFHCore-[1.7.10]3.0.0RC5-207.jar" md5="2b97a71583f32f90358d0d096688333b" download="server"
+        <mod name="CoFH Core" version="3.0.0RC7" 
+             url="packs/ResonantRise/files/3.x/CoFHCore-[1.7.10]3.0.0RC7-211.jar" file="CoFHCore-[1.7.10]3.0.0RC7-211.jar" md5="45906afa33c3a70d1ea7ee771384f5ff" download="server"
              type="mods" depends="CoFH Framework Libs"
              website="http://teamcofh.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
              authors="KingLemmingCoFH,Cynycal,Zeldo"
@@ -906,8 +903,8 @@
              file="Necromancy-1.7.10.jar" md5="3f8ab132c375a00d8df6a3c5d9e5dd33" download="server" type="mods" authors="AtomicStryker" website="http://atomicstryker.net/" description="Sew your own unholy creatures from body parts" 
              />-->
 
-        <mod name="NEI Addons" version="1.12.3.13" 
-             url="packs/ResonantRise/files/3.x/neiaddons-mc1710-1.12.3.13.jar" file="neiaddons-mc1710-1.12.3.13.jar" md5="3b9ab1b3d405ae75c87ba963149b2e27" download="server"
+        <mod name="NEI Addons" version="1.12.5.17" 
+             url="packs/ResonantRise/files/3.x/neiaddons-mc1710-1.12.5.17.jar" file="neiaddons-mc1710-1.12.5.17.jar" md5="8b2c0bc59a1886a48924614935deb2b8" download="server"
              type="mods" 
              website="http://www.minecraftforum.net/topic/1803460-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" 
              authors="bdew" 
@@ -1049,8 +1046,8 @@
              description="This mod aims to add a config for vanilla, currently it is quite new so more configs will be coming but I have made sure to include some of the options I think most people will use first." 
              />
 
-        <mod name="Thermal Foundation" version="1.0.0RC4" 
-             url="packs/ResonantRise/files/3.x/ThermalFoundation-[1.7.10]1.0.0RC4-58.jar" file="ThermalFoundation-[1.7.10]1.0.0RC4-58.jar" md5="3547c3526964de42b710cc3b6ddbad7d" download="server"
+        <mod name="Thermal Foundation" version="1.0.0RC7" 
+             url="packs/ResonantRise/files/3.x/ThermalFoundation-[1.7.10]1.0.0RC7-62.jar" file="ThermalFoundation-[1.7.10]1.0.0RC7-62.jar" md5="cc66b7c4ea509ae0e18ad2e6c1312a6b" download="server"
              type="mods"
              website="http://thermalexpansion.wikispaces.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
              authors="KingLemmingCoFH,Cynycal,ZeldoKavira"
@@ -1292,8 +1289,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Mods"
              />
         
-        <mod name="Advanced Generators" version="0.9.11.48" 
-             url="packs/ResonantRise/files/3.x/generators-mc1710-0.9.11.48.jar" file="generators-mc1710-0.9.11.48.jar" md5="2884eccf96b92f94d7101a71e06add09" download="server"
+        <mod name="Advanced Generators" version="0.9.11.hotfix1" 
+             url="packs/ResonantRise/files/3.x/generators-mc1710-0.9.11.hotfix1.jar" file="generators-mc1710-0.9.11.hotfix1.jar" md5="e63171231b0fb0a2c398ccab1daa8e39" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2189255" 
              authors="BDew" 
@@ -1356,8 +1353,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Ye olde style mapping" 
              />-->
 
-        <mod name="Applied Energistics 2" version="rv2-beta-10" 
-             url="packs/ResonantRise/files/3.x/appliedenergistics2-rv2-beta-10.jar" file="appliedenergistics2-rv2-beta-10.jar" md5="ecde1254887b2b6ecee34e92da763e33" download="server"
+        <mod name="Applied Energistics 2" version="rv2-beta-11" 
+             url="packs/ResonantRise/files/3.x/appliedenergistics2-rv2-beta-11.jar" file="appliedenergistics2-rv2-beta-11.jar" md5="8152177519a352d7de04e26950312592" download="server"
              type="mods" optional="yes" recommended="no" colour="appeng"
              website="http://ae2.ae-mod.info/" donation="http://ae2.ae-mod.info/"
              authors="AlgorithmX2"
@@ -1648,8 +1645,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="This mod add advanced quarry and more." 
              /> -->
 
-        <mod name="Calculator" version="1.6.2" 
-             url="packs/ResonantRise/files/3.x/Calculator-1.7.10-1.6.2.jar" file="Calculator-1.7.10-1.6.2.jar" md5="43ce8419e4f9fd1286a04be14b7b89b9" download="server"
+        <mod name="Calculator" version="1.6.4" 
+             url="packs/ResonantRise/files/3.x/Calculator-1.7.10-1.6.4.jar" file="Calculator-1.7.10-1.6.4.jar" md5="36fed98c112a2a164e8e273b8958fe0e" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.curse.com/mc-mods/minecraft/225104" 
              authors="SonarSonic"
@@ -1710,13 +1707,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Happiness distilled into avian form." 
              />
 
-       <mod name="Chocolate Quest" version="1.7.10-1.0" 
+       <!--<mod name="Chocolate Quest" version="1.7.10-1.0" 
              url="packs/ResonantRise/files/3.x/chocolateQuest-1.7.10-1.0.jar" file="chocolateQuest-1.7.10-1.0.jar" md5="58f875dbd2d4e6655d2933a86e0a160f" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278075-chocolate-quest-mods-for-the-adventurers?page=297" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=alarrizabalaga@gmail.com&amp;lc=US&amp;no_note=0&amp;currency_code=USD&amp;bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest"
              authors="Chocolatin"
              description="Dungeons, Monsters, EPIC LOOT!" 
-             />
+             />-->
 
         <mod name="Compact Machines" version="1.17" 
              url="packs/ResonantRise/files/3.x/compactmachines-1.7.10-1.17.jar" file="compactmachines-1.7.10-1.17.jar" md5="b2d864d19fe7d5e2e47b6c86b2dc974b" download="server"
@@ -1854,8 +1851,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Unquantifably Awesome. Power that munches and crunches better than Gurgi ever could." 
              /> -->
 
-        <mod name="Flaxbeard&apos;s Steam Power Mod" version="0.28.2"
-             url="packs/ResonantRise/files/3.x/FlaxbeardsSteamPower-1.7.10-0.28.2.jar" file="FlaxbeardsSteamPower-1.7.10-0.28.2.jar" md5="edc69cc52e91daabb423e53fef9286f5" download="server"
+        <mod name="Flaxbeard&apos;s Steam Power Mod" version="0.28.4"
+             url="packs/ResonantRise/files/3.x/FlaxbeardsSteamPower-1.7.10-0.28.4.jar" file="FlaxbeardsSteamPower-1.7.10-0.28.4.jar" md5="d0d62fecdbb58bb618969f5d60f8aef8" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995"
              authors="Flaxbeard"
@@ -1870,8 +1867,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Adds flood lights to Minecraft" 
              />
 
-        <mod name="Fluxed Crystals" version="0.0.5c" 
-             url="packs/ResonantRise/files/3.x/fluxedCrystals-0.0.5c.jar" file="fluxedCrystals-0.0.5c.jar" md5="2d78684121dbce611df2c5e096df3519" download="server"
+        <mod name="Fluxed Crystals" version="0.0.5-e" 
+             url="packs/ResonantRise/files/3.x/fluxedCrystals-0.0.5e.jar" file="fluxedCrystals-0.0.5e.jar" md5="05c0ed3b7247aa7c95656cd25576c28d" download="server"
              type="mods" depends="ttCore" optional="yes" recommended="no"
              website="http://www.curse.com/mc-mods/minecraft/226074"
              authors="Tiesti, TheDarkSyte, Jaredlll08" 
@@ -1902,8 +1899,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Extra trees, bees, genetics and... botany?" 
              />
         
-        <mod name="Gendustry" version="1.4.8.65" 
-             url="packs/ResonantRise/files/3.x/gendustry-mc1710-1.4.8.65.jar" file="gendustry-mc1710-1.4.8.65.jar" md5="929d637df6ab293dc597d10d1204705e" download="server"
+        <mod name="Gendustry" version="1.4.8.hotfix1" 
+             url="packs/ResonantRise/files/3.x/gendustry-mc1710-1.4.8.hotfix1.jar" file="gendustry-mc1710-1.4.8.hotfix1.jar" md5="7f2dd5d4a706fa05de52fc63f7b678a1" download="server"
              type="mods" optional="yes" recommended="no" colour="For"
              website="http://www.minecraftforum.net/topic/2160265-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4"
              authors="bdew"
@@ -1958,8 +1955,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Provides core features of Micdoodle8&apos;s mods." 
              />
 
-        <mod name="GardenStuff" version="1.5.0" 
-             url="packs/ResonantRise/files/3.x/GardenStuff-1.7.10-1.5.0.jar" file="GardenStuff-1.7.10-1.5.0.jar" md5="26e5375b0b9c294249dbeb5a5c19164a" download="server"
+        <mod name="GardenStuff" version="1.5.2" 
+             url="packs/ResonantRise/files/3.x/GardenStuff-1.7.10-1.5.2.jar" file="GardenStuff-1.7.10-1.5.2.jar" md5="0ffb6fdd7716f955e012b3a0741ffdd1" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513" donation="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513"
              authors="jaquadro"
@@ -2515,8 +2512,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Redstone Armory allows for the creation of even stronger Redstone Flux tools." 
              />
 
-        <mod name="Redstone Arsenal" version="1.1.0RC4" 
-             url="packs/ResonantRise/files/3.x/RedstoneArsenal-[1.7.10]1.1.0RC4-54.jar" file="RedstoneArsenal-[1.7.10]1.1.0RC4-54.jar" md5="a6aaabd77cceba99d9b30e61df629940" download="server"
+        <mod name="Redstone Arsenal" version="1.1.0RC7" 
+             url="packs/ResonantRise/files/3.x/RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar" file="RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar" md5="26b3b5feea5f6c43c7f196a149d138a1" download="server"
              type="mods" depends="CoFH Framework" optional="yes" recommended="no"
              website="http://teamcofh.com/" donation="https://www.com.paypal/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
              authors="KingLemmingCoFH,Cynycal,Zeldo"
@@ -2571,8 +2568,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Base for all Calclavia team mods." 
              />-->
 
-        <mod name="RF Tools" version="2.53" 
-             url="packs/ResonantRise/files/3.x/rftools-2.53.jar" file="rftools-2.53.jar" md5="6342736bb67e1ae7cc6270cba7d86f9b" download="server"
+        <mod name="RF Tools" version="2.61" 
+             url="packs/ResonantRise/files/3.x/rftools-2.61.jar" file="rftools-2.61.jar" md5="71065f3f82ffe8bf7a61f1067366abdc" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.curse.com/mc-mods/minecraft/224641-" donation="https://www.paypal.com/cgi-bin/webscr?return=http%3a%2f%2fwww.curse.com%2fproject%2f224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http%3a%2f%2fwww.curse.com%2fproject%2f224641&amp;lc=US&amp;item_name=RFTools+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
              authors="McJly"
@@ -2761,16 +2758,16 @@ if more then one parent the first parent in the alphabet, unless second parent i
              authors="Vazkii" 
              description="An addon to Thaumcraft 4, implementing new content. This mod is a spiritual successor to Elemental Tinkerer. Researches that come from this mod are prefixed by [TT]." />  
                                
-        <mod name="Thermal Expansion" version="4.0.0RC6" 
-             url="packs/ResonantRise/files/3.x/ThermalExpansion-[1.7.10]4.0.0RC6-138.jar" file="ThermalExpansion-[1.7.10]4.0.0RC6-138.jar" md5="c0cc9e51c7b59924b23e75f8b7c469fe" download="server"
+        <mod name="Thermal Expansion" version="4.0.0RC7" 
+             url="packs/ResonantRise/files/3.x/ThermalExpansion-[1.7.10]4.0.0RC7-141.jar" file="ThermalExpansion-[1.7.10]4.0.0RC7-141.jar" md5="a8b05ca4ecb7b15d96c1bc3add84ffb4" download="server"
              type="mods" depends="Thermal Foundation" optional="yes" recommended="no"
              website="http://thermalexpansion.wikispaces.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
              authors="KingLemmingCoFH,Cynycal,ZeldoKavira"
              description="Expanding Minecraft thermally - provides new options for automation and processing!" 
              />
 
-        <mod name="Thermal Dynamics" version="1.0.0RC5" 
-             url="packs/ResonantRise/files/3.x/ThermalDynamics-[1.7.10]1.0.0RC5-94.jar" file="ThermalDynamics-[1.7.10]1.0.0RC5-94.jar" md5="3967bc801182f7f27a4689f67c8b136d" download="server"
+        <mod name="Thermal Dynamics" version="1.0.0RC7" 
+             url="packs/ResonantRise/files/3.x/ThermalDynamics-[1.7.10]1.0.0RC7-98.jar" file="ThermalDynamics-[1.7.10]1.0.0RC7-98.jar" md5="b8cfa57607d3a59b48b2d3243917c2c5" download="server"
              type="mods" depends="Thermal Expansion" optional="yes" recommended="no" 
              website="http://www.teamcofh.com" 
              authors="Team CoFH" 
@@ -2897,13 +2894,13 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="When a configured block is harvested a chain reaction is initiated to break connected blocks of the same type. Takes durability and health for each block mined." 
              />
 
-        <mod name="Veinminer Mod Integration" version="1.7.10-0.4.2.unknown" 
+        <!--<mod name="Veinminer Mod Integration" version="1.7.10-0.4.2.unknown" 
              url="packs/ResonantRise/files/3.x/veinminermodintegration-1.7.10-0.4.2.unknown.jar" file="veinminermodintegration-1.7.10-0.4.2.unknown.jar" md5="31d014551d53b7c309390978d35f9b19" download="server" 
              type="mods" optional="yes" recommended="no" depends='VeinMiner'
              website="http://www.curse.com/mc-mods/minecraft/227576-" 
              authors="Portablejim" 
              description="Several integration options for Veinminer" 
-             />
+             />-->
 
         <!--<mod name="Vending Block" version="1.2.0" 
              url="packs/ResonantRise/files/3.x/vending-1.2.0b.jar" file="vending-1.2.0b.jar" md5="467e7a2713f850d27b340f38043a03b5" download="server" 
@@ -2913,8 +2910,8 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Adds a vending block that lets you sell items." 
              />-->
 
-        <mod name="Witchery" version="1.7.10-0.23.1" 
-             url="packs/ResonantRise/files/3.x/witchery-1.7.10-0.23.1.jar" file="witchery-1.7.10-0.23.1.jar" md5="a8980eb42620a1e65933fa8390294bea" download="server"
+        <mod name="Witchery" version="1.7.10-0.23.2" 
+             url="packs/ResonantRise/files/3.x/witchery-1.7.10-0.23.2.jar" file="witchery-1.7.10-0.23.2.jar" md5="3621961be729885acbdbfebb7f4734ff" download="server"
              type="mods" optional="yes" recommended="no"
              website="https://sites.google.com/site/witcherymod/home"
              authors="Emoniph"
