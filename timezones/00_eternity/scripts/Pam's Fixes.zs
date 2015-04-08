@@ -19,10 +19,6 @@ recipes.addShaped(<harvestcraft:skilletItem>, [[null, Iron, Iron], [null, Iron, 
 <ore:listAllfruit>.add(<Natura:berry>);
 
 #Strawberry
-<ore:cropStrawberry>.add(<MorePlanet:fronos_food>);
-<ore:listAllfruit>.add(<MorePlanet:fronos_food>);
-<ore:listAllberry>.add(<MorePlanet:fronos_food>);
- 
 <ore:cropStrawberry>.add(<magicalcrops:magicalcrops_CropProduce:6>);
 <ore:listAllberry>.add(<magicalcrops:magicalcrops_CropProduce:6>);
 
