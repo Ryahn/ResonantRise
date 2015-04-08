@@ -152,7 +152,7 @@
              />
                     
         <mod name="Eternal" version="RR3" 
-             url="packs/ResonantRise/files/configs/073/00_eternity_3-DEV-073.zip" file="00_eternity_3-DEV-073.zip" md5="832eb8736668631ec88984d03ae01d1e" download="server"
+             url="packs/ResonantRise/files/configs/073/00_eternity_3-DEV-073a.zip" file="00_eternity_3-DEV-073a.zip" md5="0808c22a2125c3e9f0989d409c91f700" download="server"
              type="extract" extractto="root" optional="no" recommended="yes"
              website="http://resonant-rise.com"
              authors="Velotican, GodNero"
