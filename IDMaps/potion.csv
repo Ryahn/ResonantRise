@@ -90,9 +90,12 @@ ID,Unlocalised name,Class
 90,Air Imbued,thaumic.tinkerer.common.potion.DummyPotions
 91,botania.potion.soulCross,vazkii.botania.common.brew.potion.PotionSoulCross
 92,botania.potion.featherFeet,vazkii.botania.common.brew.potion.PotionFeatherfeet
-93,botania.potion.emptiness,vazkii.botania.common.brew.potion.PotionEmptiness
-94,botania.potion.bloodthirst,vazkii.botania.common.brew.potion.PotionBloodthirst
-95,botania.potion.allure,vazkii.botania.common.brew.potion.PotionAllure
+93,Red Curse,pixlepix.auracascade.potions.PotionRedCurse
+94,Orange Curse,pixlepix.auracascade.potions.PotionOrangeCurse
+95,Yellow Curse,pixlepix.auracascade.potions.PotionYellowCurse
+96,Green Curse,pixlepix.auracascade.potions.PotionGreenCurse
+97,Blue Curse,pixlepix.auracascade.potions.PotionBlueCurse
+98,Violet Curse,pixlepix.auracascade.potions.PotionVioletCurse
 100,AddHeart,tombenpotter.sanguimancy.potion.PotionAddHeart
 101,RemoveHeart,tombenpotter.sanguimancy.potion.PotionRemoveHeart
 102,Whirlwind,WayofTime.alchemicalWizardry.common.potion.PotionProjectileProtect
@@ -109,5 +112,3 @@ ID,Unlocalised name,Class
 113,Deafness,WayofTime.alchemicalWizardry.common.potion.PotionDeaf
 114,Demon Cloaking,WayofTime.alchemicalWizardry.common.potion.PotionDemonCloak
 115,Amphibian,WayofTime.alchemicalWizardry.common.potion.PotionAmphibian
-255,potion.paralysis,biomesoplenty.common.potions.PotionParalysis
-256,potion.possession,biomesoplenty.common.potions.PotionPossession
