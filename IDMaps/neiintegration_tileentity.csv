@@ -108,6 +108,7 @@ buildcraft.transport.TileFilteredBuffer,net.minecraft.src.buildcraft.transport.T
 buildcraft.transport.TileGenericPipeCompat,net.minecraft.src.buildcraft.transport.GenericPipe
 buildcraftAdditions.tileEntities.TileBCKinesisPipeStonePlacer,BCKinesisPipeStonePlacer
 buildcraftAdditions.tileEntities.TileBCKinesisPipeWoodPlacer,BCKinesisPipeWoodPlacer
+buildcraftAdditions.tileEntities.TileBackpackStand,TileBackpackStand
 buildcraftAdditions.tileEntities.TileBasicCoil,TileBasicCoil
 buildcraftAdditions.tileEntities.TileBasicDuster,TileBasicDuster
 buildcraftAdditions.tileEntities.TileChargingStation,TileChargingStation
@@ -135,7 +136,6 @@ chylex.hee.tileentity.TileEntityEssenceAltar,HardcoreEnderExpansion:EssenceAltar
 chylex.hee.tileentity.TileEntityExperienceTable,HardcoreEnderExpansion:ExperienceTable
 chylex.hee.tileentity.TileEntityExtractionTable,HardcoreEnderExpansion:EnergyExtractionTable
 chylex.hee.tileentity.TileEntityLaserBeam,HardcoreEnderExpansion:LaserBeam
-chylex.hee.tileentity.TileEntitySoulCharm,HardcoreEnderExpansion:SoulCharm
 chylex.hee.tileentity.TileEntityTransportBeacon,HardcoreEnderExpansion:TransportBeacon
 chylex.hee.tileentity.TileEntityVoidChest,HardcoreEnderExpansion:VoidChest
 ckathode.archimedes.blockitem.TileEntityCrate,archiCrate
@@ -197,26 +197,6 @@ cofh.thermalexpansion.block.strongbox.TileStrongboxCreative,thermalexpansion.Str
 cofh.thermalexpansion.block.tank.TileTank,thermalexpansion.Tank
 cofh.thermalexpansion.block.tank.TileTankCreative,thermalexpansion.TankCreative
 com.aesireanempire.eplus.inventory.TileEnchantTable,eplus:TileEnchantTable
-com.bluepowermod.tile.tier1.TileAlloyFurnace,bluepower.alloyFurnace
-com.bluepowermod.tile.tier1.TileBlockBreaker,bluepower.blockBreaker
-com.bluepowermod.tile.tier1.TileBuffer,bluepower.buffer
-com.bluepowermod.tile.tier1.TileDeployer,bluepower.deployer
-com.bluepowermod.tile.tier1.TileEjector,bluepower.ejector
-com.bluepowermod.tile.tier1.TileFilter,bluepower.filter
-com.bluepowermod.tile.tier1.TileIgniter,bluepower.igniter
-com.bluepowermod.tile.tier1.TileItemDetector,bluepower.itemDetector
-com.bluepowermod.tile.tier1.TileLamp,bluepower.lamp
-com.bluepowermod.tile.tier1.TileProjectTable,bluepower.projectTable
-com.bluepowermod.tile.tier1.TileRelay,bluepower.relay
-com.bluepowermod.tile.tier1.TileTransposer,bluepower.transposer
-com.bluepowermod.tile.tier2.TileCircuitTable,bluepower.circuitTable
-com.bluepowermod.tile.tier2.TileRegulator,bluepower.regulator
-com.bluepowermod.tile.tier2.TileRetriever,bluepower.retriever
-com.bluepowermod.tile.tier2.TileSortingMachine,bluepower.sortingMachine
-com.bluepowermod.tile.tier3.TileCircuitDatabase,bluepower.circuitDatabase
-com.bluepowermod.tile.tier3.TileEngine,bluepower.engine
-com.bluepowermod.tile.tier3.TileManager,bluepower.manager
-com.bluepowermod.tile.tier3.TileSortron,bluepower.sortron
 com.brandon3055.draconicevolution.common.tileentities.TileCKeyStone,draconicevolution:TileCKeyStone
 com.brandon3055.draconicevolution.common.tileentities.TileCustomSpawner,draconicevolution:TileCustomSpawner
 com.brandon3055.draconicevolution.common.tileentities.TileDissEnchanter,draconicevolution:TileDissEnchanter
@@ -234,6 +214,7 @@ com.brandon3055.draconicevolution.common.tileentities.TileTeleporterStand,dracon
 com.brandon3055.draconicevolution.common.tileentities.TileWeatherController,draconicevolution:TileWeatherController
 com.brandon3055.draconicevolution.common.tileentities.energynet.TileEnergyRelay,draconicevolution:TileEnergyRelay
 com.brandon3055.draconicevolution.common.tileentities.energynet.TileEnergyTransceiver,draconicevolution:TileEnergyTransceiver
+com.brandon3055.draconicevolution.common.tileentities.energynet.TileWirelessEnergyTransceiver,draconicevolution:TileWirelessEnergyTransceiver
 com.brandon3055.draconicevolution.common.tileentities.multiblocktiles.TileEnderResurrection,draconicevolution:TileEnderResurrection
 com.brandon3055.draconicevolution.common.tileentities.multiblocktiles.TileEnergyPylon,draconicevolution:TileEnergyPylon
 com.brandon3055.draconicevolution.common.tileentities.multiblocktiles.TileEnergyStorageCore,draconicevolution:TileEnergyStorageCore
@@ -293,6 +274,7 @@ com.emoniph.witchery.blocks.BlockGarlicGarland$TileEntityGarlicGarland,witchery:
 com.emoniph.witchery.blocks.BlockGrassper$TileEntityGrassper,witchery:grassper
 com.emoniph.witchery.blocks.BlockKettle$TileEntityKettle,witchery:kettle
 com.emoniph.witchery.blocks.BlockLeechChest$TileEntityLeechChest,witchery:leechchest
+com.emoniph.witchery.blocks.BlockMirror$TileEntityMirror,witchery:mirrorblock2
 com.emoniph.witchery.blocks.BlockPlacedItem$TileEntityPlacedItem,witchery:placeditem
 com.emoniph.witchery.blocks.BlockPoppetShelf$TileEntityPoppetShelf,witchery:poppetshelf
 com.emoniph.witchery.blocks.BlockRefillingChest$TileEntityRefillingChest,witchery:refillingchest
@@ -317,49 +299,11 @@ com.jaquadro.minecraft.gardencontainers.block.tile.TileEntityWindowBox,GardenCon
 com.jaquadro.minecraft.gardencore.block.tile.TileEntityCompostBin,GardenCore:compost_bin
 com.jaquadro.minecraft.gardencore.block.tile.TileEntityGardenFarmland,GardenCore:garden_farmland
 com.jaquadro.minecraft.gardencore.block.tile.TileEntityGardenSoil,GardenCore:garden_soil
+com.jaquadro.minecraft.gardenstuff.block.tile.TileEntityBloomeryFurnace,GardenStuff:bloomery_furnace
 com.jaquadro.minecraft.gardenstuff.block.tile.TileEntityLantern,GardenStuff:lantern
 com.jaquadro.minecraft.gardenstuff.block.tile.TileEntityLatticeMetal,GardenStuff:lattice
 com.jaquadro.minecraft.gardenstuff.block.tile.TileEntityLatticeWood,GardenStuff:lattice_wood
 com.jaquadro.minecraft.gardentrees.block.tile.TileEntityWoodProxy,GardenTrees:thin_log
-com.mcjty.rftools.blocks.crafter.CrafterBlockTileEntity1,CrafterTileEntity1
-com.mcjty.rftools.blocks.crafter.CrafterBlockTileEntity2,CrafterTileEntity2
-com.mcjty.rftools.blocks.crafter.CrafterBlockTileEntity3,CrafterTileEntity3
-com.mcjty.rftools.blocks.dimletconstruction.BiomeAbsorberTileEntity,BiomeAbsorberTileEntity
-com.mcjty.rftools.blocks.dimletconstruction.DimletWorkbenchTileEntity,DimletWorkbenchTileEntity
-com.mcjty.rftools.blocks.dimletconstruction.LiquidAbsorberTileEntity,LiquidAbsorberTileEntity
-com.mcjty.rftools.blocks.dimletconstruction.MaterialAbsorberTileEntity,MaterialAbsorberTileEntity
-com.mcjty.rftools.blocks.dimletconstruction.TimeAbsorberTileEntity,TimeAbsorberTileEntity
-com.mcjty.rftools.blocks.dimlets.DimensionBuilderTileEntity,DimensionBuilderTileEntity
-com.mcjty.rftools.blocks.dimlets.DimensionEditorTileEntity,DimensionEditorTileEntity
-com.mcjty.rftools.blocks.dimlets.DimensionEnscriberTileEntity,DimensionEnscriberTileEntity
-com.mcjty.rftools.blocks.dimlets.DimensionMonitorTileEntity,DimensionMonitorTileEntity
-com.mcjty.rftools.blocks.dimlets.DimletResearcherTileEntity,DimletResearcherTileEntity
-com.mcjty.rftools.blocks.dimlets.DimletScramblerTileEntity,DimletScramblerTileEntity
-com.mcjty.rftools.blocks.endergen.EnderMonitorTileEntity,EnderMonitorTileEntity
-com.mcjty.rftools.blocks.endergen.EndergenicTileEntity,EndergenicTileEntity
-com.mcjty.rftools.blocks.endergen.PearlInjectorTileEntity,PearlInjectorTileEntity
-com.mcjty.rftools.blocks.environmental.EnvironmentalControllerTileEntity,EnvironmentalControllerTileEntity
-com.mcjty.rftools.blocks.infuser.MachineInfuserTileEntity,MachineInfuserTileEntity
-com.mcjty.rftools.blocks.itemfilter.ItemFilterTileEntity,ItemFilterTileEntity
-com.mcjty.rftools.blocks.logic.CounterTileEntity,CounterTileEntity
-com.mcjty.rftools.blocks.logic.RedstoneReceiverTileEntity,RedstoneReceiverTileEntity
-com.mcjty.rftools.blocks.logic.RedstoneTransmitterTileEntity,RedstoneTransmitterTileEntity
-com.mcjty.rftools.blocks.logic.SequencerTileEntity,SequencerTileEntity
-com.mcjty.rftools.blocks.logic.TimerTileEntity,TimerTileEntity
-com.mcjty.rftools.blocks.monitor.LiquidMonitorBlockTileEntity,LiquidMonitorBlockTileEntity
-com.mcjty.rftools.blocks.monitor.RFMonitorBlockTileEntity,RFMonitorTileEntity
-com.mcjty.rftools.blocks.relay.RelayTileEntity,RelayTileEntity
-com.mcjty.rftools.blocks.screens.ScreenControllerTileEntity,ScreenControllerTileEntity
-com.mcjty.rftools.blocks.screens.ScreenTileEntity,ScreenTileEntity
-com.mcjty.rftools.blocks.shield.ShieldBlockTileEntity,ShieldBlockTileEntity
-com.mcjty.rftools.blocks.shield.ShieldTileEntity,ShieldTileEntity
-com.mcjty.rftools.blocks.shield.ShieldTileEntity2,ShieldTileEntity2
-com.mcjty.rftools.blocks.special.VolcanicCoreTileEntity,VolcanicCoreTileEntity
-com.mcjty.rftools.blocks.special.VolcanicTileEntity,VolcanicTileEntity
-com.mcjty.rftools.blocks.storagemonitor.StorageScannerTileEntity,StorageScannerTileEntity
-com.mcjty.rftools.blocks.teleporter.DialingDeviceTileEntity,DialingDeviceTileEntity
-com.mcjty.rftools.blocks.teleporter.MatterReceiverTileEntity,MatterReceiverTileEntity
-com.mcjty.rftools.blocks.teleporter.MatterTransmitterTileEntity,MatterTransmitterTileEntity
 com.mia.props.TileProps,TileProps
 com.mia.props.entities.TileBed,com.mia.props.entities.TileBed
 com.mia.props.entities.TileCandleStick,com.mia.props.entities.TileCandleStick
@@ -397,18 +341,18 @@ com.rwtema.extrautils.tileentity.enderconstructor.TileEnderConstructor,TileEnder
 com.rwtema.extrautils.tileentity.enderconstructor.TileEnderPillar,TileEnderPillar
 com.rwtema.extrautils.tileentity.enderquarry.TileEntityEnderMarker,TileEntityEnderMarker
 com.rwtema.extrautils.tileentity.enderquarry.TileEntityEnderQuarry,enderQuarry
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorEnder,extrautils:generatorender
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorFood,extrautils:generatorfood
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorFurnace,extrautils:generatorbase
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorFurnaceOverClocked,extrautils:generatoroverclocked
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorFurnaceSurvival,extrautils:generatorstone
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorMagma,extrautils:generatorlava
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorNether,extrautils:generatornether
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorPink,extrautils:generatorpink
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorPotion,extrautils:generatorpotion
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorRedFlux,extrautils:generatorredflux
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorSolar,extrautils:generatorsolar
-com.rwtema.extrautils.tileentity.generator.TileEntityGeneratorTNT,extrautils:generatortnt
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorEnder,extrautils:generatorender
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorFood,extrautils:generatorfood
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorFurnace,extrautils:generatorbase
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorFurnaceOverClocked,extrautils:generatoroverclocked
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorFurnaceSurvival,extrautils:generatorstone
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorMagma,extrautils:generatorlava
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorNether,extrautils:generatornether
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorPink,extrautils:generatorpink
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorPotion,extrautils:generatorpotion
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorRedFlux,extrautils:generatorredflux
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorSolar,extrautils:generatorsolar
+com.rwtema.extrautils.tileentity.generators.TileEntityGeneratorTNT,extrautils:generatortnt
 com.rwtema.extrautils.tileentity.transfernodes.TileEntityFilterPipe,TileEntityFilterPipe
 com.rwtema.extrautils.tileentity.transfernodes.TileEntityRetrievalNodeInventory,TileEntityRetrievalNodeInventory
 com.rwtema.extrautils.tileentity.transfernodes.TileEntityRetrievalNodeLiquid,TileEntityRetrievalNodeLiquid
@@ -558,7 +502,6 @@ extracells.tileentity.TileEntityFluidFiller,tileEntityFluidFiller
 extracells.tileentity.TileEntityFluidInterface,tileEntityFluidInterface
 extracells.tileentity.TileEntityWalrus,tileEntityWalrus
 flaxbeard.steamcraft.block.TileEntityDummyBlock,steamcraft:dummy
-flaxbeard.steamcraft.tile.TileEntityBlockPlacer,steamcraft:blockPlacer
 flaxbeard.steamcraft.tile.TileEntityBoiler,steamcraft:boiler
 flaxbeard.steamcraft.tile.TileEntityChargingPad,steamcraft:chargingPad
 flaxbeard.steamcraft.tile.TileEntityCreativeTank,steamcraft:creativeSteamTank
@@ -593,6 +536,8 @@ fluxedCrystals.tileEntity.TileEntityGlass,glass
 fluxedCrystals.tileEntity.TileEntityPowerBlock,powerBlock
 fluxedCrystals.tileEntity.TileEntityRoughChunk,roughChunk
 fluxedCrystals.tileEntity.TileEntitySeedInfuser,seedInfuser
+fluxedCrystals.tileEntity.solarFlux.TileEntityRedirectionCube,redirectionCube
+fluxedCrystals.tileEntity.solarFlux.TileEntitySolarGenerator,solarGen
 forestry.apiculture.gadgets.TileAlvearyFan,forestry.AlvearyFan
 forestry.apiculture.gadgets.TileAlvearyHeater,forestry.AlvearyHeater
 forestry.apiculture.gadgets.TileAlvearyHygroregulator,forestry.AlvearyHygro
@@ -713,6 +658,7 @@ ic2.core.block.heatgenerator.tileentity.TileEntitySolidHeatGenerator,Solid Heat 
 ic2.core.block.kineticgenerator.tileentity.TileEntityElectricKineticGenerator,Electric Kinetic Generator
 ic2.core.block.kineticgenerator.tileentity.TileEntityManualKineticGenerator,Manual Kinetic Generator
 ic2.core.block.kineticgenerator.tileentity.TileEntitySteamKineticGenerator,Steam Kinetic Generator
+ic2.core.block.kineticgenerator.tileentity.TileEntityWaterKineticGenerator,Water Kinetic Generator
 ic2.core.block.kineticgenerator.tileentity.TileEntityWindKineticGenerator,Wind Kinetic Generator
 ic2.core.block.machine.tileentity.TileEntityAdvMiner,Advanced Miner
 ic2.core.block.machine.tileentity.TileEntityBlastFurnace,Blast Furnace
@@ -814,20 +760,6 @@ jds.bibliocraft.tileentities.TileEntityTypewriter,biblioTypewriterTile
 jds.bibliocraft.tileentities.TileEntityWeaponCase,WeaponCaseTile
 jds.bibliocraft.tileentities.TileEntityWeaponRack,ToolRackTile
 jds.bibliocraft.tileentities.TileEntityWritingDesk,WritingDeskTile
-jds.bibliowood.bopwood.blocks.TEBookcase,BoPBookcaseTile
-jds.bibliowood.bopwood.blocks.TECase0,BoPWeaponCaseTile0
-jds.bibliowood.bopwood.blocks.TEClock,BoPClockTile
-jds.bibliowood.bopwood.blocks.TEDesk,BoPWritingDeskTile
-jds.bibliowood.bopwood.blocks.TEFancySign,BoPFancySignTile
-jds.bibliowood.bopwood.blocks.TEFancyWorkbench,BoPFancyWorkbenchTile
-jds.bibliowood.bopwood.blocks.TELabel,BoPWoodLabelTile
-jds.bibliowood.bopwood.blocks.TEMapFrame,BoPMapFrameTile
-jds.bibliowood.bopwood.blocks.TEPainting,BoPPaintingTile
-jds.bibliowood.bopwood.blocks.TEPotionShelf,BoPPotionShelfTile
-jds.bibliowood.bopwood.blocks.TESeat,BoPSeatTile
-jds.bibliowood.bopwood.blocks.TEShelf,BoPGenericShelfTile
-jds.bibliowood.bopwood.blocks.TETable,BoPTableTile
-jds.bibliowood.bopwood.blocks.TEToolRack,BoPToolRackTile
 jds.bibliowood.forestrywood.blocks.TEBookcase,ForestryBookcaseTile
 jds.bibliowood.forestrywood.blocks.TEBookcase2,ForestryBookcaseTile2
 jds.bibliowood.forestrywood.blocks.TECase0,ForestryWeaponCaseTile0
@@ -919,6 +851,8 @@ li.cil.oc.common.tileentity.Microcontroller,oc:microcontroller
 li.cil.oc.common.tileentity.MotionSensor,oc:motion_sensor
 li.cil.oc.common.tileentity.PowerConverter,oc:power_converter
 li.cil.oc.common.tileentity.PowerDistributor,oc:power_distributor
+li.cil.oc.common.tileentity.Print,oc:print
+li.cil.oc.common.tileentity.Printer,oc:printer
 li.cil.oc.common.tileentity.Raid,oc:raid
 li.cil.oc.common.tileentity.Redstone,oc:redstone
 li.cil.oc.common.tileentity.RobotProxy,oc:robot
@@ -951,10 +885,60 @@ lumien.randomthings.TileEntities.TileEntityWirelessLever,wirelessLever
 magicbees.tileentity.TileEntityEffectJar,magicbees.effectJar
 main.redstonearmory.blocks.BlockInvisiLight$TileInvisibleLight,TileEntityInvisiLight
 mantle.blocks.abstracts.MultiServantLogic,TConstruct.Servants
+mcjty.rftools.blocks.crafter.CrafterBlockTileEntity1,CrafterTileEntity1
+mcjty.rftools.blocks.crafter.CrafterBlockTileEntity2,CrafterTileEntity2
+mcjty.rftools.blocks.crafter.CrafterBlockTileEntity3,CrafterTileEntity3
+mcjty.rftools.blocks.dimletconstruction.BiomeAbsorberTileEntity,BiomeAbsorberTileEntity
+mcjty.rftools.blocks.dimletconstruction.DimletWorkbenchTileEntity,DimletWorkbenchTileEntity
+mcjty.rftools.blocks.dimletconstruction.LiquidAbsorberTileEntity,LiquidAbsorberTileEntity
+mcjty.rftools.blocks.dimletconstruction.MaterialAbsorberTileEntity,MaterialAbsorberTileEntity
+mcjty.rftools.blocks.dimletconstruction.TimeAbsorberTileEntity,TimeAbsorberTileEntity
+mcjty.rftools.blocks.dimlets.DimensionBuilderTileEntity,DimensionBuilderTileEntity
+mcjty.rftools.blocks.dimlets.DimensionEditorTileEntity,DimensionEditorTileEntity
+mcjty.rftools.blocks.dimlets.DimensionEnscriberTileEntity,DimensionEnscriberTileEntity
+mcjty.rftools.blocks.dimlets.DimensionMonitorTileEntity,DimensionMonitorTileEntity
+mcjty.rftools.blocks.dimlets.DimletResearcherTileEntity,DimletResearcherTileEntity
+mcjty.rftools.blocks.dimlets.DimletScramblerTileEntity,DimletScramblerTileEntity
+mcjty.rftools.blocks.dimlets.EnergyExtractorTileEntity,EnergyExtractorTileEntity
+mcjty.rftools.blocks.endergen.EnderMonitorTileEntity,EnderMonitorTileEntity
+mcjty.rftools.blocks.endergen.EndergenicTileEntity,EndergenicTileEntity
+mcjty.rftools.blocks.endergen.PearlInjectorTileEntity,PearlInjectorTileEntity
+mcjty.rftools.blocks.environmental.EnvironmentalControllerTileEntity,EnvironmentalControllerTileEntity
+mcjty.rftools.blocks.infuser.MachineInfuserTileEntity,MachineInfuserTileEntity
+mcjty.rftools.blocks.itemfilter.DimletFilterTileEntity,DimletFilterTileEntity
+mcjty.rftools.blocks.itemfilter.ItemFilterTileEntity,ItemFilterTileEntity
+mcjty.rftools.blocks.logic.CounterTileEntity,CounterTileEntity
+mcjty.rftools.blocks.logic.RedstoneReceiverTileEntity,RedstoneReceiverTileEntity
+mcjty.rftools.blocks.logic.RedstoneTransmitterTileEntity,RedstoneTransmitterTileEntity
+mcjty.rftools.blocks.logic.SequencerTileEntity,SequencerTileEntity
+mcjty.rftools.blocks.logic.TimerTileEntity,TimerTileEntity
+mcjty.rftools.blocks.monitor.LiquidMonitorBlockTileEntity,LiquidMonitorBlockTileEntity
+mcjty.rftools.blocks.monitor.RFMonitorBlockTileEntity,RFMonitorTileEntity
+mcjty.rftools.blocks.relay.RelayTileEntity,RelayTileEntity
+mcjty.rftools.blocks.screens.ScreenControllerTileEntity,ScreenControllerTileEntity
+mcjty.rftools.blocks.screens.ScreenTileEntity,ScreenTileEntity
+mcjty.rftools.blocks.shield.ShieldBlockTileEntity,ShieldBlockTileEntity
+mcjty.rftools.blocks.shield.ShieldTileEntity,ShieldTileEntity
+mcjty.rftools.blocks.shield.ShieldTileEntity2,ShieldTileEntity2
+mcjty.rftools.blocks.shield.ShieldTileEntity3,ShieldTileEntity3
+mcjty.rftools.blocks.spaceprojector.ProxyBlockTileEntity,ProxyBlockTileEntity
+mcjty.rftools.blocks.spaceprojector.SpaceChamberControllerTileEntity,SpaceChamberControllerTileEntity
+mcjty.rftools.blocks.spaceprojector.SpaceProjectorTileEntity,SpaceProjectorTileEntity
+mcjty.rftools.blocks.spawner.MatterBeamerTileEntity,MatterBeamerTileEntity
+mcjty.rftools.blocks.spawner.SpawnerTileEntity,SpawnerTileEntity
+mcjty.rftools.blocks.special.VolcanicCoreTileEntity,VolcanicCoreTileEntity
+mcjty.rftools.blocks.special.VolcanicTileEntity,VolcanicTileEntity
+mcjty.rftools.blocks.storagemonitor.StorageScannerTileEntity,StorageScannerTileEntity
+mcjty.rftools.blocks.teleporter.DialingDeviceTileEntity,DialingDeviceTileEntity
+mcjty.rftools.blocks.teleporter.MatterReceiverTileEntity,MatterReceiverTileEntity
+mcjty.rftools.blocks.teleporter.MatterTransmitterTileEntity,MatterTransmitterTileEntity
 mcp.mobius.betterbarrels.common.blocks.TileEntityBarrel,TileEntityBarrel
 mekanism.common.tile.TileEntityAdvancedBoundingBlock,AdvancedBoundingBlock
 mekanism.common.tile.TileEntityAdvancedFactory,AdvancedSmeltingFactory
+mekanism.common.tile.TileEntityAmbientAccumulator,AmbientAccumulator
 mekanism.common.tile.TileEntityBin,Bin
+mekanism.common.tile.TileEntityBoiler,SteamBoiler
+mekanism.common.tile.TileEntityBoilerValve,BoilerValve
 mekanism.common.tile.TileEntityBoundingBlock,BoundingBlock
 mekanism.common.tile.TileEntityCardboardBox,CardboardBox
 mekanism.common.tile.TileEntityChargepad,Chargepad
@@ -976,22 +960,32 @@ mekanism.common.tile.TileEntityEliteFactory,UltimateSmeltingFactory
 mekanism.common.tile.TileEntityEnergizedSmelter,EnergizedSmelter
 mekanism.common.tile.TileEntityEnergyCube,EnergyCube
 mekanism.common.tile.TileEntityEnrichmentChamber,EnrichmentChamber
+mekanism.common.tile.TileEntityEntangledBlock,EntangledBlock
 mekanism.common.tile.TileEntityFactory,SmeltingFactory
 mekanism.common.tile.TileEntityFluidicPlenisher,FluidicPlenisher
 mekanism.common.tile.TileEntityGasTank,GasTank
+mekanism.common.tile.TileEntityInductionCasing,InductionCasing
+mekanism.common.tile.TileEntityInductionCell,InductionCell
+mekanism.common.tile.TileEntityInductionPort,InductionPort
+mekanism.common.tile.TileEntityInductionProvider,InductionProvider
+mekanism.common.tile.TileEntityLaser,Laser
+mekanism.common.tile.TileEntityLaserAmplifier,LaserAmplifier
+mekanism.common.tile.TileEntityLaserTractorBeam,LaserTractorBeam
 mekanism.common.tile.TileEntityLogisticalSorter,LogisticalSorter
 mekanism.common.tile.TileEntityMetallurgicInfuser,MetallurgicInfuser
 mekanism.common.tile.TileEntityObsidianTNT,ObsidianTNT
+mekanism.common.tile.TileEntityOredictionificator,Oredictionificator
 mekanism.common.tile.TileEntityOsmiumCompressor,OsmiumCompressor
 mekanism.common.tile.TileEntityPRC,PressurizedReactionChamber
 mekanism.common.tile.TileEntityPortableTank,PortableTank
 mekanism.common.tile.TileEntityPrecisionSawmill,PrecisionSawmill
 mekanism.common.tile.TileEntityPurificationChamber,PurificationChamber
 mekanism.common.tile.TileEntityRotaryCondensentrator,RotaryCondensentrator
-mekanism.common.tile.TileEntitySalinationController,SalinationController
-mekanism.common.tile.TileEntitySalinationTank,SalinationTank
-mekanism.common.tile.TileEntitySalinationValve,SalinationValve
 mekanism.common.tile.TileEntitySeismicVibrator,SeismicVibrator
+mekanism.common.tile.TileEntitySolarEvaporationBlock,SalinationTank
+mekanism.common.tile.TileEntitySolarEvaporationController,SalinationController
+mekanism.common.tile.TileEntitySolarEvaporationValve,SalinationValve
+mekanism.common.tile.TileEntitySolarNeutronActivator,SolarNeutronActivator
 mekanism.common.tile.TileEntityTeleporter,MekanismTeleporter
 mekanism.generators.common.tile.TileEntityAdvancedSolarGenerator,AdvancedSolarGenerator
 mekanism.generators.common.tile.TileEntityBioGenerator,BioGenerator
@@ -999,6 +993,13 @@ mekanism.generators.common.tile.TileEntityGasGenerator,GasGenerator
 mekanism.generators.common.tile.TileEntityHeatGenerator,HeatGenerator
 mekanism.generators.common.tile.TileEntitySolarGenerator,SolarGenerator
 mekanism.generators.common.tile.TileEntityWindTurbine,WindTurbine
+mekanism.generators.common.tile.reactor.TileEntityReactorController,ReactorController
+mekanism.generators.common.tile.reactor.TileEntityReactorFrame,ReactorFrame
+mekanism.generators.common.tile.reactor.TileEntityReactorGlass,ReactorGlass
+mekanism.generators.common.tile.reactor.TileEntityReactorLaserFocusMatrix,ReactorLaserFocus
+mekanism.generators.common.tile.reactor.TileEntityReactorLogicAdapter,ReactorLogicAdapter
+mekanism.generators.common.tile.reactor.TileEntityReactorNeutronCapture,ReactorNeutronCapture
+mekanism.generators.common.tile.reactor.TileEntityReactorPort,ReactorPort
 micdoodle8.mods.galacticraft.core.tile.TileEntityAirLock,Air Lock Frame
 micdoodle8.mods.galacticraft.core.tile.TileEntityAirLockController,Air Lock Controller
 micdoodle8.mods.galacticraft.core.tile.TileEntityAluminumWire,Galacticraft Aluminum Wire
@@ -1038,6 +1039,8 @@ micdoodle8.mods.galacticraft.core.tile.TileEntityThruster,Space Station Thruster
 micdoodle8.mods.galacticraft.core.tile.TileEntityTreasureChest,Treasure Chest
 micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityBeamReceiver,Beam Receiver
 micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityBeamReflector,Beam Reflector
+micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityMinerBase,Astro Miner Base
+micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityMinerBaseSingle,Astro Miner Base Builder
 micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityShortRangeTelepad,Short Range Telepad
 micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityTelepadFake,Fake Short Range Telepad
 micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityTreasureChestAsteroids,Asteroids Treasure Chest
@@ -1113,6 +1116,7 @@ moze_intel.projecte.gameObjs.tiles.CollectorMK3Tile,Energy Collector MK3 Tile
 moze_intel.projecte.gameObjs.tiles.CondenserMK2Tile,Condenser MK2 Tile
 moze_intel.projecte.gameObjs.tiles.CondenserTile,Condenser Tile
 moze_intel.projecte.gameObjs.tiles.DMFurnaceTile,DM Furnace Tile
+moze_intel.projecte.gameObjs.tiles.DMPedestalTile,DM Pedestal Tile
 moze_intel.projecte.gameObjs.tiles.InterdictionTile,Interdiction Torch Tile
 moze_intel.projecte.gameObjs.tiles.RMFurnaceTile,RM Furnace Tile
 moze_intel.projecte.gameObjs.tiles.RelayMK1Tile,AM Relay MK1 Tile
@@ -1157,11 +1161,14 @@ net.bdew.generators.modules.powerCapacitor.TilePowerCapacitor,advgenerators.Powe
 net.bdew.generators.modules.pressure.TilePressureInput,advgenerators.PressureInput
 net.bdew.generators.modules.pressure.TilePressureOutput,advgenerators.PressureOutputSelect
 net.bdew.generators.modules.rfOutput.TileRfOutput,advgenerators.RFOutput
+net.bdew.generators.modules.sensor.TileSensor,advgenerators.Sensor
 net.bdew.generators.modules.turbine.TileTurbine,advgenerators.Turbine
 net.bdew.pressure.blocks.drain.TileDrain,pressure.Drain
 net.bdew.pressure.blocks.input.TileInput,pressure.Input
 net.bdew.pressure.blocks.output.TileOutput,pressure.Output
 net.bdew.pressure.blocks.pump.TilePump,pressure.Pump
+net.bdew.pressure.blocks.router.TileRouter,pressure.Router
+net.bdew.pressure.blocks.source.TileCreativeSource,pressure.Creative
 net.bdew.pressure.blocks.source.TileWaterSource,pressure.Water
 net.bdew.pressure.blocks.tank.blocks.TileFluidAutoOutput,pressure.TankFluidAutoOutput
 net.bdew.pressure.blocks.tank.blocks.TileFluidInput,pressure.TankFluidInput
@@ -1173,6 +1180,9 @@ net.bdew.pressure.blocks.tank.blocks.TileTankFilter,pressure.TankFilter
 net.bdew.pressure.blocks.tank.blocks.TileTankIndicator,pressure.TankIndicator
 net.bdew.pressure.blocks.tank.blocks.TileTankInterface,pressure.TankInterface
 net.bdew.pressure.blocks.tank.controller.TileTankController,pressure.TankController
+net.bdew.pressure.blocks.tank.sensor.TileSensor,pressure.Sensor
+net.bdew.pressure.blocks.valves.check.TileCheckValve,pressure.CheckValve
+net.bdew.pressure.blocks.valves.sensor.TilePipeSensor,pressure.PipeSensor
 net.malisis.core.tileentity.MultiBlockTileEntity,MalisisCoreMultiBlockTileEntity
 net.malisis.doors.door.tileentity.CarriageDoorTileEntity,carriageDoorTileEntity
 net.malisis.doors.door.tileentity.CustomDoorTileEntity,customDoorTileEntity
@@ -1291,8 +1301,35 @@ openperipheral.addons.pim.TileEntityPIM,openperipheral_pim
 openperipheral.addons.sensors.TileEntitySensor,openperipheral_sensor
 org.dave.CompactMachines.tileentity.TileEntityInterface,interface
 org.dave.CompactMachines.tileentity.TileEntityMachine,machine
-org.mcupdater.autopackager.TilePackager,AutoPackager
-org.mcupdater.autopackager.TileSortingPackager,SortingAutoPackager
+pixlepix.auracascade.block.tile.AngelSteelTile,auraconsumerBlockangel
+pixlepix.auracascade.block.tile.AuraTile,auraauraNode
+pixlepix.auracascade.block.tile.AuraTileBlack,auraauraNodeblack
+pixlepix.auracascade.block.tile.AuraTileCapacitor,auraauraNodecapacitor
+pixlepix.auracascade.block.tile.AuraTileConserve,auraauraNodeconserve
+pixlepix.auracascade.block.tile.AuraTileOrange,auraauraNodeorange
+pixlepix.auracascade.block.tile.AuraTilePedestal,auraauraNodecraftingPedestal
+pixlepix.auracascade.block.tile.AuraTilePump,auraauraNodepump
+pixlepix.auracascade.block.tile.AuraTilePumpAlt,auraauraNodepumpAlt
+pixlepix.auracascade.block.tile.AuraTilePumpFall,auraauraNodepumpFall
+pixlepix.auracascade.block.tile.AuraTilePumpFallAlt,auraauraNodepumpFallAlt
+pixlepix.auracascade.block.tile.AuraTilePumpLight,auraauraNodepumpLight
+pixlepix.auracascade.block.tile.AuraTilePumpLightAlt,auraauraNodepumpLightAlt
+pixlepix.auracascade.block.tile.AuraTilePumpProjectile,auraauraNodepumpProjectile
+pixlepix.auracascade.block.tile.AuraTilePumpProjectileAlt,auraauraNodepumpProjectileAlt
+pixlepix.auracascade.block.tile.AuraTilePumpRedstone,auraauraNodepumpRedstone
+pixlepix.auracascade.block.tile.AuraTilePumpRedstoneAlt,auraauraNodepumpRedstoneAlt
+pixlepix.auracascade.block.tile.AuraTileRF,auraauraNodeflux
+pixlepix.auracascade.block.tile.CraftingCenterTile,auraauraNodecraftingCenter
+pixlepix.auracascade.block.tile.EnchanterTile,auraconsumerBlockenchant
+pixlepix.auracascade.block.tile.FurnaceTile,auraconsumerBlockfurnace
+pixlepix.auracascade.block.tile.LootTile,auraconsumerBlockloot
+pixlepix.auracascade.block.tile.OreTile,auraconsumerBlockore
+pixlepix.auracascade.block.tile.PlanterTile,auraconsumerBlockplant
+pixlepix.auracascade.block.tile.PotionTile,auraconsumerBlockpotion
+pixlepix.auracascade.block.tile.SpawnTile,auraconsumerBlockmob
+pixlepix.auracascade.block.tile.TileBookshelfCoordinator,aurastorageBookshelfCoordinator
+pixlepix.auracascade.block.tile.TileRitualNether,auraconsumerBlocknether
+pixlepix.auracascade.block.tile.TileStorageBookshelf,aurastorageBookshelf
 pl.asie.computronics.tile.TileCamera,computronics.camera
 pl.asie.computronics.tile.TileChatBox,computronics.chatBox
 pl.asie.computronics.tile.TileCipherBlock,computronics.cipher
@@ -1419,6 +1456,8 @@ shedar.mods.ic2.nuclearcontrol.tileentities.TileEntityInfoPanel,IC2NCInfoPanel
 shedar.mods.ic2.nuclearcontrol.tileentities.TileEntityInfoPanelExtender,IC2NCInfoPanelExtender
 shedar.mods.ic2.nuclearcontrol.tileentities.TileEntityRangeTrigger,IC2NCRangeTrigger
 shedar.mods.ic2.nuclearcontrol.tileentities.TileEntityRemoteThermo,IC2RemoteThermo
+shukaro.artifice.tile.TileEntityAttuned,tileArtificeAttuned
+shukaro.artifice.tile.TileEntityLogic,tileArtificeLogic
 sonar.calculator.mod.tileentity.TileEntityDualOutputSmelting$AlgorithmSeperator,AlgorithmSeperatorIdle
 sonar.calculator.mod.tileentity.TileEntityDualOutputSmelting$ExtractionChamber,ExtractionChamber
 sonar.calculator.mod.tileentity.TileEntityDualOutputSmelting$PrecisionChamber,PrecisionChamber
@@ -1444,10 +1483,12 @@ sonar.calculator.mod.tileentity.machines.TileEntityFlawlessGreenhouse,FlawlessGr
 sonar.calculator.mod.tileentity.machines.TileEntityHealthProcessor,HealthProcessor
 sonar.calculator.mod.tileentity.machines.TileEntityHungerProcessor,HungerProcessor
 sonar.calculator.mod.tileentity.machines.TileEntityPowerCube,PCubeIdle
+sonar.calculator.mod.tileentity.machines.TileEntityStorageChamber,StorageChamber
 sonar.calculator.mod.tileentity.misc.TileEntityBasicLantern,LanternBasic
 sonar.calculator.mod.tileentity.misc.TileEntityCO2Generator,CO2Generator
 sonar.calculator.mod.tileentity.misc.TileEntityGasLantern,Lantern
 sonar.calculator.mod.tileentity.misc.TileEntityScarecrow,Scarecrow
+stevesaddons.tileentities.TileEntityAENode,cable_ae
 stevesaddons.tileentities.TileEntityRFNode,cable_rf
 tconstruct.blocks.logic.DryingRackLogic,Armor.DryingRack
 tconstruct.mechworks.logic.TileEntityLandmine,Landmine
@@ -1565,15 +1606,17 @@ thaumicenergistics.tileentities.TileEssentiaVibrationChamber,thaumicenergistics.
 thaumicenergistics.tileentities.TileGearBox,thaumicenergistics.TileGearBox
 thaumicenergistics.tileentities.TileInfusionProvider,thaumicenergistics.TileInfusionProvider
 thaumicenergistics.tileentities.TileKnowledgeInscriber,thaumicenergistics.TileKnowledgeInscriber
-theflogat.technomancy.common.tiles.TileBMProcessor,TileProcessorBM
 theflogat.technomancy.common.tiles.TileBOProcessor,TileProcessorBO
+theflogat.technomancy.common.tiles.air.TileFakeAirCore,techno:TileFakeAirCore
+theflogat.technomancy.common.tiles.air.TileFakeAirNG,techno:TileFakeAir
+theflogat.technomancy.common.tiles.bm.TileBMProcessor,TileProcessorBM
 theflogat.technomancy.common.tiles.dynamos.TileBloodDynamo,TileBloodDynamo
 theflogat.technomancy.common.tiles.dynamos.TileEssentiaDynamo,TileEssentiaDynamo
 theflogat.technomancy.common.tiles.dynamos.TileFlowerDynamo,TileFlowerDynamo
 theflogat.technomancy.common.tiles.dynamos.TileNodeDynamo,TileNodeDynamo
 theflogat.technomancy.common.tiles.technom.TileCatalyst,techno:TileCatalyst
 theflogat.technomancy.common.tiles.technom.TileCrystal,techno:TileCrystal
-theflogat.technomancy.common.tiles.technom.TileFakeAir,techno:TileFakeAir
+theflogat.technomancy.common.tiles.thaumcraft.machine.TileAdvDeconTable,techno:TileAdvDeconTable
 theflogat.technomancy.common.tiles.thaumcraft.machine.TileBiomeMorpher,TileBiomeMorpher
 theflogat.technomancy.common.tiles.thaumcraft.machine.TileBloodFabricator,TileBloodFabricator
 theflogat.technomancy.common.tiles.thaumcraft.machine.TileCondenser,TileCondenser
@@ -1584,9 +1627,10 @@ theflogat.technomancy.common.tiles.thaumcraft.machine.TileManaFabricator,ManaFab
 theflogat.technomancy.common.tiles.thaumcraft.machine.TileNodeGenerator,TileNodeGenerator
 theflogat.technomancy.common.tiles.thaumcraft.machine.TileReconstructor,TileReconstructor
 theflogat.technomancy.common.tiles.thaumcraft.machine.TileTCProcessor,TileProcessorTC
-theflogat.technomancy.common.tiles.thaumcraft.machine.TileTeslaCoil,TileTeslaCoil
+theflogat.technomancy.common.tiles.thaumcraft.machine.TileWirelessCoil,TileTeslaCoil
 theflogat.technomancy.common.tiles.thaumcraft.storage.TileCreativeJar,TileCreativeJar
 theflogat.technomancy.common.tiles.thaumcraft.storage.TileEssentiaContainer,TileEssentiacontainer
+theflogat.technomancy.common.tiles.thaumcraft.storage.TileEssentiaReservoir,techno:TileEssentiaReservoir
 tmechworks.blocks.logic.AdvancedDrawbridgeLogic,AdvDrawbridge
 tmechworks.blocks.logic.DrawbridgeLogic,Drawbridge
 tmechworks.blocks.logic.DynamoLogic,TMechworks:Dynamo
@@ -1596,6 +1640,7 @@ tmechworks.blocks.logic.SignalTerminalLogic,SignalTerminal
 tombenpotter.sanguimancy.api.tile.TileCamouflage,TileCamouflage
 tombenpotter.sanguimancy.tile.TileAltarDiviner,TileAltarDiviner
 tombenpotter.sanguimancy.tile.TileAltarEmitter,TileAltarEmitter
+tombenpotter.sanguimancy.tile.TileAltarManipulator,TileAltarManipulator
 tombenpotter.sanguimancy.tile.TileBloodCleaner,TileBloodCleaner
 tombenpotter.sanguimancy.tile.TileBloodInterface,TileBloodInterface
 tombenpotter.sanguimancy.tile.TileBloodTank,TileBloodTank
@@ -1610,6 +1655,7 @@ tombenpotter.sanguimancy.tile.TileSimpleSNBranch,TileSimpleSNBranch
 tombenpotter.sanguimancy.tile.TileSimpleSNKnot,TileSimpleSNKnot
 tombenpotter.sanguimancy.tile.TileToggleSNKnot,TileToggleSNKnot
 tuhljin.automagy.tiles.TileEntityAmnesiacStone,tileEntityAmnesiacStone
+tuhljin.automagy.tiles.TileEntityBoiler,tileEntityBoiler
 tuhljin.automagy.tiles.TileEntityEagerChest,tileEntityEagerChest
 tuhljin.automagy.tiles.TileEntityEntitySignal,tileEntityEntitySignal
 tuhljin.automagy.tiles.TileEntityEssentiaLocus,tileEntityEssentiaLocus
@@ -1658,7 +1704,6 @@ twilightforest.tileentity.TileEntityTFSnowQueenSpawner,Snow Queen Spawner
 twilightforest.tileentity.TileEntityTFTowerBossSpawner,Tower Boss Spawner
 twilightforest.tileentity.TileEntityTFTowerBuilder,Tower Builder
 twilightforest.tileentity.TileEntityTFTrophy,TF Trophy
-uk.co.qmunity.lib.tile.TileMultipart,qmunitylib.blocks.multipart
 vazkii.botania.common.block.tile.TileAlfPortal,botania:alfheimPortal
 vazkii.botania.common.block.tile.TileAltar,botania:altar
 vazkii.botania.common.block.tile.TileBifrost,botania:bifrost
@@ -1666,6 +1711,7 @@ vazkii.botania.common.block.tile.TileBrewery,botania:brewery
 vazkii.botania.common.block.tile.TileCraftCrate,botania:craftCrate
 vazkii.botania.common.block.tile.TileEnchanter,botania:enchanter
 vazkii.botania.common.block.tile.TileEnderEye,botania:enderEyeBlock
+vazkii.botania.common.block.tile.TileFakeAir,botania:fakeAir
 vazkii.botania.common.block.tile.TileFloatingFlower,botania:miniIsland
 vazkii.botania.common.block.tile.TileFloatingSpecialFlower,botania:floatingSpecialFlower
 vazkii.botania.common.block.tile.TileForestEye,botania:forestEye
@@ -1688,6 +1734,7 @@ vazkii.botania.common.block.tile.mana.TileManaDetector,botania:manaDetector
 vazkii.botania.common.block.tile.mana.TileManaVoid,botania:manaVoid
 vazkii.botania.common.block.tile.mana.TilePool,botania:pool
 vazkii.botania.common.block.tile.mana.TilePrism,botania:prism
+vazkii.botania.common.block.tile.mana.TilePump,botania:pump
 vazkii.botania.common.block.tile.mana.TileRFGenerator,botania:rfGenerator
 vazkii.botania.common.block.tile.mana.TileSpreader,botania:spreader
 vazkii.botania.common.block.tile.mana.TileTurntable,botania:turntable
@@ -1702,6 +1749,7 @@ vswe.stevescarts.TileEntities.TileEntityActivator,activator
 vswe.stevescarts.TileEntities.TileEntityCargo,cargo
 vswe.stevescarts.TileEntities.TileEntityCartAssembler,assembler
 vswe.stevescarts.TileEntities.TileEntityDetector,detector
+vswe.stevescarts.TileEntities.TileEntityDistributor,distributor
 vswe.stevescarts.TileEntities.TileEntityLiquid,liquid
 vswe.stevescarts.TileEntities.TileEntityUpgrade,upgrade
 vswe.stevesfactory.blocks.TileEntityBUD,TileEntityCableBUDName

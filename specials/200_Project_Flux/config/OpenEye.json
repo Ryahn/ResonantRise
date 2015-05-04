@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["3.2.5.0", "Project Flux", "RR 3-DEV-073"]
+            "value": ["3.2.6.0", "Project Flux", "RR 3-DEV-075"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",

@@ -1,0 +1,17 @@
+ToDo:
+
+Remove:
+OldWorldGen
+Hopper-Ducts
+
+INpure Core:
+Pressure Pipes - Canister 6965
+Gendustry - Gene Sample 6936/6937
+ExtraCells - ME Fluid Pattern [WIP] 6579
+BCA - Iron Canister 5478
+BCA - Gold Canister 5479
+BCA - Diamond Canister 5480
+Mekanisim - Portable Tank 1908:11
+IC2 - Universal Fluid Cell 4112
+Biblio Forestry/BoP/Natura - Support
+TConstruct - Support
