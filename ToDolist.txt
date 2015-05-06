@@ -1,7 +1,7 @@
 ToDo:
 
 Remove:
-OldWorldGen
+Fluxed Crystals
 Hopper-Ducts
 
 INpure Core additions:
