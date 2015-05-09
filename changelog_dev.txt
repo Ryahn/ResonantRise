@@ -1,59 +1,70 @@
 Changelog:
 
 Dev - 076
-Public - 3.2.6.x
+Public - 3.2.6.1
 
 ==Modes==
 n/a
 
 ==New/Updated Non-Optional (Eternity) Mods/Libraries==
+Another One Bites the Dust [2.6.1]
 CoFHLib [1.0.2-160]
 EnderStorage [1.4.7.36]
 Forge [10.13.3.1401-1710ls]
 ForgeMultipart [1.1.2.334]
-Headcrumbs [1.5.1] (new)
-industrialcraft 2 [2.2.719-experimental-api]
+Industrialcraft 2 [2.2.719-experimental-api]
 MrTJPCore [1.0.6.13]
 NotEnoughItems [1.0.4.106]
+WAILA Plugins [0.0.1-15]
 
 ==New/Updated Optional Mods/Libraries==
 
 --Client Only--
-eirairc [2.8.206]
-voxelMap [1.5.13]
+EiraIRC [2.8.214]
+Voxel Map [1.5.13]
 
 --Server Only--
 n/a
 
 --Universal--
-ae2stuff [0.2.1.22]
+AE2stuff [0.2.1.22]
+Applied Energistics 2 [rv2-stable-1]
 AuraCascade [362]
 Botania [r1.6-187]
-appliedenergistics 2 [rv2-stable-1]
+Draconic Evolution [1.0.1a]
 EnderZoo [1.0.11.28]
-industrialcraft 2 [2.2.719-experimental]
-ProjectRed [4.6.0.79-Base]
-ProjectRed [4.6.0.79-Compat]
-ProjectRed [4.6.0.79-Integration]
-ProjectRed [4.6.0.79-Lighting]
-ProjectRed [4.6.0.79-Mechanical_beta]
-ProjectRed [4.6.0.79-World]
+Gany's End [1.9.0]
+Gany's Nether [1.8.0]
+Industrialcraft 2 [2.2.719-experimental]
+K4Lib [0.1.33]
+Mekanisim [8.1.2.229]
+Mekanisim Generators [8.1.2.229]
+Mekanisim Tools [8.1.2.229]
 OpenComputers [1.5.9.21]
+Pistronics 2 [0.5.8]
 PneumaticCraft [1.6.8-72]
-rftools [2.82]
-StevesAddons [0.10.8]
+Project E [1.4.6]
+Project: Red [4.6.0.79-Base]
+Project: Red [4.6.0.79-Compat]
+Project: Red [4.6.0.79-Integration]
+Project: Red [4.6.0.79-Lighting]
+Project: Red [4.6.0.79-Mechanical_beta]
+Project: Red [4.6.0.79-World]
+RFTools [2.83]
+Steves Addons [0.10.8]
 Technomancy [0.10.h]
 ThermalRecycling [0.3.2ALPHA]
 
 ==Removed Mods/Libraries==
 Hopper Ducts - This mod is just bloat, we have many alterneatives that work just as well or better.
-Fluxed Crystals - This has been temporarily been removed at the Mod Authors request. Nothing has gone wrong, but the Developer has noticed and issue with the mod as a whole, and would like us to discontinue distributing the mod for the time being.
+Fluxed Crystals - This has been temporarily been removed at the Mod Authors request. Developer has noticed and issue with the mod as a whole, and would like us to discontinue distributing all versions of the mod untill these issues are fixed.
 
 ==Configs==
 Headcrumbs Entity ID set to 101 as to not overlap with pre-exsisting ID settings
+Turned off Gany's End/Nether/Surface version checkers.
 
 ==Misc.==
-Set The Erebus and Twilight Forest to be selected as either or to limit Block ID overages.
+Set The Erebus and Twilight Forest to be selected as either or to limit Block ID overages. 
 
 -- Dev only --
-n/a
+Headcrumbs [1.5.1] (new)

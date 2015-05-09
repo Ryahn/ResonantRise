@@ -1,9 +1,5 @@
 ToDo:
 
-Remove:
-Fluxed Crystals
-Hopper-Ducts
-
 INpure Core additions:
 Pressure Pipes - Canister 6965
 Gendustry - Gene Sample 6936/6937
