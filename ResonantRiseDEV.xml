@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-076</version>
+        <version>3-DEV-077</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -9,6 +9,23 @@
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
         <!-- ^ Forge ModLoader trigger, load LiteLoader as a FML library -->
     </pack>
+
+    <delete>
+        <folder base="root" target="IDMaps" 
+            />
+        <folder base="root" target="liteconfig" 
+            />
+        <folder base="root" target="modes" 
+            />
+        <folder base="root" target="modifiers" 
+            />
+        <folder base="root" target="scripts" 
+            />
+        <folder base="root" target="specials" 
+            />
+        <folder base="root" target="timezones" 
+            />
+    </delete>
 
 <!-- Backend Java libraries for Forge -->
     <libraries>
@@ -2709,7 +2726,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="Thermal Recycling" 
-             version="0.3.2ALPHA" url="packs/ResonantRise/files/3.x/ThermalRecycling-1.7.10-0.3.2ALPHA.jar" file="ThermalRecycling-1.7.10-0.3.2ALPHA.jar" md5="7694942f58af56a1964f487691e639e6" download="server" 
+             version="0.3.4.1" url="packs/ResonantRise/files/3.x/ThermalRecycling-1.7.10-0.3.4.1.jar" file="ThermalRecycling-1.7.10-0.3.4.1.jar" md5="3547fba47e3bfc6aa7b48d6ec0d2f7ac" download="server"
              type="mods" depends="Thermal Expansion" optional="yes" recommended="no"
              website="https://github.com/OreCruncher/ThermalRecycling/wiki" 
              authors="OreCruncher" 
