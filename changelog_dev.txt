@@ -7,6 +7,7 @@ n/a
 
 ==New/Updated Non-Optional (Eternity) Mods/Libraries==
 AOBD [2.6.2]
+AsieLib [0.4.0]
 bdlib [1.7.2.81]
 neiaddons [1.12.8.28]
 
@@ -19,17 +20,28 @@ n/a
 n/a
 
 --Universal--
+Advanced Generators [0.9.13.68]
 ae2stuff [0.3.0.26]
 AuraCascade [369]
-buildcraft [6.4.15]
-Draconic-Evolution [v1.0.1b]
-fluxedCrystals [1.0.0]
-forestry [3.5.6.15]
-gendustry [1.4.11.85]
-generators [0.9.13.68]
+Botania [r1.6-188]
+Buildcraft [6.4.15]
+Computronics [1.5.0]
+Draconic-Evolution [1.0.1c]
+FluxedCrystals [1.0.0]
+Guide-API [1.0.0-16]
+Forestry [3.5.6.15]
+Gendustry [1.4.11.85]
 HungerOverhaul [1.0.0]
 IguanaTinkerTweaks [2.1.5]
+Industrialcraft 2 [2.2.720-experimental]
+Industrialcraft 2 [2.2.720-experimental-api]
 k4lib [0.1.35]
+OpenBlocks [1.4.3]
+OpenModsLib [0.7.3]
+OpenPeripheralAddons [0.3.1]
+OpenPeripheralCore [1.1.1]
+OpenPeripheralIntegration [0.2.2]
+PneumaticCraft [1.6.9-73]
 pressure [1.1.2.96]
 TConstruct [1.8.5]
 Technomancy [0.10.i]

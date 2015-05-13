@@ -5,4 +5,3 @@ Slot,Display Name,Amount,Damage,Max Damage,Item ID,Unlocalized Name,Item Class,N
 3,Engineering Diary,1,0,0,eureka:engineeringDiary,item.engineeringDiary,eureka.items.ItemEngineeringDiary,
 4,Materials and You: Volume 1,1,0,0,TConstruct:manualBook,item.tconstruct.manual.beginner,tconstruct.tools.items.Manual,
 5,Encyclopedia Aura,1,0,0,aura:lexicon,item.lexicon,pixlepix.auracascade.item.ItemLexicon,{}
-6,Quest Book,1,0,0,HardcoreQuesting:quest_book,item.hqm:quest_book_0,hardcorequesting.items.ItemQuestBook,
