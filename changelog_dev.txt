@@ -1,4 +1,49 @@
 =================
+Build 079/3.2.6.3
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+NEI Addons [1.12.8.30]
+sprinkles_for_vanillia [1.2.2]
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+AE2Stuff [0.3.0.28]
+Botania [r1.6-189]
+Ender IO [2.2.8.381]
+Equivalent Exchange 3 [0.3.505]
+Extra TiC [1.4.4]
+Fluxed Crystals [1.0.1]
+Funky Locomotion [Beta-5c]
+GardenStuff [1.6.2]
+Logistics Pipes [0.8.3.119]
+
+==Removed Mods/Libraries==
+Growthcraft - Forge updates have rended this mod unusable till the mod developer it to work with the new fluid registry
+Brewcraft - Forge updates have rended this mod unusable till the mod developer it to work with the new fluid registry
+RedGearCore - Dependancy of Brewcraft.
+
+==Configs==
+Added More Support To Inpure Core Thanks to EmberQuill
+Adjusted Copper Berry bushes to appear at the same level as Tin Berry bushes, this should reduce bushes spawning above ground.
+
+==Misc.==
+Removed the call for ELN in AS scripts.
+
+-- Dev only --
+Headcrumbs [1.5.1]
+
+=================
 Build 078
 =================
 
@@ -9,6 +54,7 @@ n/a
 AOBD [2.6.2]
 AsieLib [0.4.0]
 bdlib [1.7.2.81]
+Guide-API [1.0.0-16]
 neiaddons [1.12.8.28]
 
 ==New/Updated Optional Mods/Libraries==
@@ -28,7 +74,6 @@ Buildcraft [6.4.15]
 Computronics [1.5.0]
 Draconic-Evolution [1.0.1c]
 FluxedCrystals [1.0.0]
-Guide-API [1.0.0-16]
 Forestry [3.5.6.15]
 Gendustry [1.4.11.85]
 HungerOverhaul [1.0.0]
