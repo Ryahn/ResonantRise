@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-079</version>
+        <version>3-DEV-080</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -1281,7 +1281,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />-->
 
         <mod name="Applied Energistics 2" 
-             version="rv2-stable-1" url="packs/ResonantRise/files/3.x/appliedenergistics2-rv2-stable-1.jar" file="appliedenergistics2-rv2-stable-1.jar" md5="94fc2b34e12573edd54dba4f396a0864" download="server"
+             version="rv2-stable-3" url="packs/ResonantRise/files/3.x/appliedenergistics2-rv2-stable-3.jar" file="appliedenergistics2-rv2-stable-3.jar" md5="7aabc35f996245398abd826c5c5b3e0b" download="server"
              type="mods" optional="yes" recommended="no" colour="appeng"
              website="http://ae2.ae-mod.info/" donation="http://ae2.ae-mod.info/"
              authors="AlgorithmX2"
@@ -2294,7 +2294,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="BETA-VERSION: Adds Pistons, Rotators and more." />
 
         <mod name="PneumaticCraft"
-             version="1.6.9-73" url="packs/ResonantRise/files/3.x/PneumaticCraft-1.7.10-1.6.9-73-universal.jar" file="PneumaticCraft-1.7.10-1.6.9-73-universal.jar" md5="e59adcb9e1adf7ed2cc65584b18b1419" download="server"
+             version="1.7.0-74" url="packs/ResonantRise/files/3.x/PneumaticCraft-1.7.10-1.7.0-74-universal.jar" file="PneumaticCraft-1.7.10-1.7.0-74-universal.jar" md5="59ff01c6eb17689b1407b1bfe2a5f80f" download="server"
              type="mods" optional="yes" recommended="no" 
              website="http://www.minecraftforum.net/topic/1841226-" 
              authors="MineMaarten" 
@@ -2342,7 +2342,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />-->
 
         <mod name="Project E"
-             version="1.4.6" url="packs/ResonantRise/files/3.x/ProjectE-1.7.10-PE1.4.6.jar" file="ProjectE-1.7.10-PE1.4.6.jar" md5="9be17332d98b7295a9b8df8263fe9a5c" download="server"
+             version="PE1.4.7" url="packs/ResonantRise/files/3.x/ProjectE-1.7.10-PE1.4.7.jar" file="ProjectE-1.7.10-PE1.4.7.jar" md5="a892cc81ac63d1aba7be3460aedaa815" download="server"
              type="mods" optional="yes" recommended="no"
              website="https://github.com/MozeIntel/ProjectE" 
              authors="MozeIntel"
@@ -2511,7 +2511,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />-->
 
         <mod name="RF Tools" 
-             version="2.83" url="packs/ResonantRise/files/3.x/rftools-2.83.jar" file="rftools-2.83.jar" md5="681fe5accd37ab727c7e3bd604b940c4" download="server"
+             version="2.90beta2.n332" url="packs/ResonantRise/files/3.x/rftools-2.90beta2.n332.jar" file="rftools-2.90beta2.n332.jar" md5="bd74cdb84eb42613a7a2666150954c8c" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.curse.com/mc-mods/minecraft/224641-" donation="https://www.paypal.com/cgi-bin/webscr?return=http%3a%2f%2fwww.curse.com%2fproject%2f224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http%3a%2f%2fwww.curse.com%2fproject%2f224641&amp;lc=US&amp;item_name=RFTools+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
              authors="McJly"
@@ -2663,7 +2663,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="Technomancy" 
-             version="0.10.i" url="packs/ResonantRise/files/3.x/Technomancy - 0.10.i - 1.7.10.jar" file="Technomancy - 0.10.i - 1.7.10.jar" md5="df06f6874143cc81f876b762b65f002c" download="server"
+             version="1.0" url="packs/ResonantRise/files/3.x/Technomancy - 0.10.k - 1.7.10.jar" file="Technomancy - 0.10.k - 1.7.10.jar" md5="4c4a5c15c084e840ba5139b434775b00" download="server"
              type="mods" optional="yes" recommended="no" depends="Thaumcraft 4" colour="TC4"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441" donation="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441"
              authors="Theflogat"
@@ -2679,7 +2679,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              /> -->
 
         <mod name="Thaumic Energistics"
-             version="0.8.10.1" url="packs/ResonantRise/files/3.x/thaumicenergistics-0.8.10.1.jar" file="thaumicenergistics-0.8.10.1.jar" md5="af0b5bf1cbddcd618f87a5ba725c70b8" download="server"
+             version="0.8.10.2" url="packs/ResonantRise/files/3.x/thaumicenergistics-0.8.10.2.jar" file="thaumicenergistics-0.8.10.2.jar" md5="9ff4e8549b43c9cef13e417ee9aaf07f" download="server"
              type="mods" optional="yes" recommended="no" depends="Thaumcraft 4,Applied Energistics 2" colour="TC4"
              authors="Nividica"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151" donation="https://drive.google.com/uc?export=download&amp;id=0B3XsROkASZNESU53aHQzMUtGTTA"
@@ -2718,7 +2718,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="Thermal Recycling" 
-             version="0.3.4.1" url="packs/ResonantRise/files/3.x/ThermalRecycling-1.7.10-0.3.4.1.jar" file="ThermalRecycling-1.7.10-0.3.4.1.jar" md5="3547fba47e3bfc6aa7b48d6ec0d2f7ac" download="server" 
+             version="0.3.4.2" url="packs/ResonantRise/files/3.x/ThermalRecycling-1.7.10-0.3.4.2.jar" file="ThermalRecycling-1.7.10-0.3.4.2.jar" md5="490111a03aab1cf9a80dea95d0e96ff2" download="server"
              type="mods" depends="Thermal Expansion" optional="yes" recommended="no"
              website="https://github.com/OreCruncher/ThermalRecycling/wiki" 
              authors="OreCruncher" 
