@@ -11,19 +11,20 @@ n/a
 ==New/Updated Optional Mods/Libraries==
 
 --Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
 Applied Energistics 2 [rv2-stable-3]
+Headcrumbs [1.5.1]
 PneumaticCraft [1.7.0-74-universal]
 Project E [PE1.4.7]
 RF Tools [2.90beta2.n332]
 Technomancy [0.10.k]
 Thaumic Energistics [0.8.10.2]
 Thermal Recycling [0.3.4.2]
-
---Server Only--
-n/a
-
---Universal--
-Headcrumbs [1.5.1]
 
 ==Removed Mods/Libraries==
 n/a
@@ -32,7 +33,7 @@ n/a
 Headcrumbs - Statues, Named player heads in NEI, and player heads as dungeon loot disabled. All celebrity mobs will have the prefix "HC:" so they should appear as "HC:GodNero" in game. This is to differentiate HeadCrumbs mods from real players.
 
 ==Misc.==
-Starting now paetrons who donate a certain amount will (while we still have the alloted slots AND they want us to do so) will get them selves added to the Headcrumbs config.
+Starting now paetrons who donate a certain amount will (while we still have the alloted slots AND they want us to do so) will get them selves added to the Headcrumbs config. (this will only go into affect when we publically release the pack with head crumbs)
 
 -- Dev only --
 n/a
