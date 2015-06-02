@@ -1,4 +1,78 @@
 =================
+Build 081/3.2.6.4
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+AOBD [2.6.3]
+bdlib [1.8.0.86]
+Industrialcraft [2-2.2.727-experimental-api]
+MrTJPCore [1.0.8.16]
+NEI Add-Ons [1.12.8.29]
+sprinkles_for_vanilla [1.2.3]
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+tcnodetracker [1.1.1]
+
+--Server Only--
+n/a
+
+--Universal--
+AE2Stuff [0.3.0.30]
+Ancient Warfare [2.4.104-beta]
+AsieLib [0.4.1]
+Automagy [0.24]
+Blood Magic [1.3.3-2]
+Botania [r1.6-190]
+Buildcraft [6.4.16]
+Buildcraft Additions [2.1.2]
+Calculator [1.7.2]
+compactmachines [1.19b]
+Computronics [1.5.1]
+Decocraft [2.0.2]
+Eira IRC [2.8.239]
+Ex-Astris [1.16-36]
+Ex-Nihilo [1.38-40]
+Extra Cells [2.2.70b119]
+Extra TiC [1.4.5]
+Extra Utilities [1.2.5]
+Ganys Surface [1.11.1]
+Gendustry [1.4.11.89]
+Generators [0.9.13.72]
+Hardcore Ender Expansion [1.8.1]
+Industrialcraft [2-2.2.727-experimental]
+Magical Crops [4.0.0_PUBLIC_BETA_3]
+Malisis Core [0.12.2]
+Malisisdoors [1.8.1]
+Mekanisim [8.1.3.231]
+OpenComputers [1.5.12.26]
+pressure [1.2.0.101]
+Project: Red [4.6.2.82]
+RFTools [2.93]
+StevesAddons [0.10.12]
+Technomancy [0.10.I]
+Thaumic Energistics [0.8.10.5]
+
+==Removed Mods/Libraries==
+Torcherino - Outdated an no longer supported by developer.
+Tweaks--RRino - Was designed for use with Torcherino
+
+==Configs==
+ttCore - Increased Crop compatability on sub-pack selections Mainline and Project Flux. Absque Sole and Lite do not need additional support yet.
+
+==Misc.==
+Merged iarspider's #13 pull request into pack, allows better botania and chisel integration. Only effective in exodus atm.
+Dev only - Cleaned up the XML some more, removed commented mods that are no longer in the pack or that will probably never be added back in.
+Dev Only - To any developers who modify the XML, please note there is a developer section in this area you can place mods for testing as well as a section for switches and mods that are ment only for developers/testers.
+
+-- Dev only --
+MineTweakerRecipeMaker [1.1.0.11]
+
+=================
 Build 080
 =================
 
