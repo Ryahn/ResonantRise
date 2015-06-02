@@ -8,7 +8,7 @@
 // Add Botania variants to Chisel
 mods.chisel.Groups.addVariation("andesite", <Botania:stone:0>);
 mods.chisel.Groups.addVariation("diorite", <Botania:stone:2>);
-mods.chisel.Groups.addVariation("granite", <Botania:stone:2>);
+mods.chisel.Groups.addVariation("granite", <Botania:stone:3>);
 
 // Create a new Chisel-able material "basalt"
 mods.chisel.Groups.addGroup("basalt");
