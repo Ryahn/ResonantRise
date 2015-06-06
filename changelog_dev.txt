@@ -1,4 +1,54 @@
 =================
+Build 082
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+EiraIRC [2.8.254]
+
+--Server Only--
+n/a
+
+--Universal--
+Applied Energistics 2 [RV2-Stable-4]
+Aura Cascade [450]
+Automagy [0.24.0]
+bdlib [1.8.1.87]
+Blood Magic [1.3.3-4]
+Botania [r1.6-191]
+Fluxed Crystals [1.0.2]
+Garden Stuff [1.6.3]
+Guide-API [1.0.1-20]
+Mekanism [8.1.4.232]
+Mekanism Generators [8.1.4.232]
+Mekanism Tools [8.1.4.232]
+Pam's HarvestCraft [1.3.0]
+Project E [PE1.5.0]
+Thermal Recycling [0.3.6.3]
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+Cleaned up Scripts, should reduce (NOT ELIMINATE) the chat spam at world load. Thanks in part to @iarspider
+Removed ALL calls to Magical Crops from ttCore's CropConfig.
+
+==Misc.==
+Fluxed Crystals should be working now, all reicipes and broken infusions, you can thank magical crops for the later issue.
+New version of THermal Recycling should help reduce the NPE spam some servers were reporting.
+Moved Magical Crops to Optional Only, and dropped all official Support for it.
+
+-- Dev only --
+Merged iarspider pull requests #17-#20
+
+=================
 Build 081/3.2.6.4
 =================
 
