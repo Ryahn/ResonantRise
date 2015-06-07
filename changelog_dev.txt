@@ -1,4 +1,46 @@
 =================
+Build 083/3.2.6.5
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+Applied Energistics 2 [rv2-stable-5]
+AuraCascade [452]
+Automagy [0.24.2]
+Buildcraft [7.0.6]
+Buildcraft Additions [2.1.4]
+Buildcraft Compat [7.0.5]
+Calculator [1.7.3]
+forestry [3.5.7.16]
+Logistics Pipes [0.10.0.1]
+RFTools [2.93]
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+Project Flux - added Buildcraft Compat, not sure why that wasn't in there.
+
+-- Dev only --
+n/a
+
+=================
 Build 082
 =================
 
