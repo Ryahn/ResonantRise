@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3.2.6.5-RC</version>
+        <version>3.2.6.6-RC</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -637,13 +637,13 @@
              description="Random Things packed into one Mod :D" 
              />
 
-        <mod name="sprinkles_for_vanilla" version="1.2.3" 
+        <!--<mod name="sprinkles_for_vanilla" version="1.2.3" 
              url="packs/ResonantRise/files/3.x/sprinklesforvanilla-1.7.10-1.2.3.jar" file="sprinklesforvanilla-1.7.10-1.2.3.jar" md5="5de03ddc6d7fec2430acf1006def13b5" download="server"
              type="mods" 
              website="http://minecraft.curseforge.com/mc-mods/226309-"
              authors="VikeStep" 
              description="This mod aims to add a config for vanilla, currently it is quite new so more configs will be coming but I have made sure to include some of the options I think most people will use first." 
-             />
+             />-->
 
         <mod name="Thermal Foundation"
              version="1.0.0" url="packs/ResonantRise/files/3.x/ThermalFoundation-[1.7.10]1.0.0-81.jar" file="ThermalFoundation-[1.7.10]1.0.0-81.jar" md5="1442f906d4b9adb1d8540533da6b1b5f" download="server"
