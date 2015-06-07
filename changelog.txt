@@ -1,4 +1,210 @@
 =================
+Build 083/3.2.6.5
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+Applied Energistics 2 [rv2-stable-5]
+AuraCascade [452]
+Automagy [0.24.2]
+Buildcraft [7.0.6]
+Buildcraft Additions [2.1.4]
+Buildcraft Compat [7.0.5]
+Calculator [1.7.3]
+forestry [3.5.7.16]
+Logistics Pipes [0.10.0.1]
+RFTools [2.93]
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+Project Flux - added Buildcraft Compat, not sure why that wasn't in there.
+
+-- Dev only --
+n/a
+
+=================
+Build 082/3.2.6.5
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+EiraIRC [2.8.254]
+
+--Server Only--
+n/a
+
+--Universal--
+Applied Energistics 2 [RV2-Stable-4]
+Aura Cascade [450]
+Automagy [0.24.0]
+bdlib [1.8.1.87]
+Blood Magic [1.3.3-4]
+Botania [r1.6-191]
+Fluxed Crystals [1.0.2]
+Garden Stuff [1.6.3]
+Guide-API [1.0.1-20]
+Mekanism [8.1.4.232]
+Mekanism Generators [8.1.4.232]
+Mekanism Tools [8.1.4.232]
+Pam's HarvestCraft [1.3.0]
+Project E [PE1.5.0]
+Thermal Recycling [0.3.6.3]
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+Cleaned up Scripts, should reduce (NOT ELIMINATE) the chat spam at world load.
+Removed ALL calls to Magical Crops from ttCore's CropConfig.
+
+==Misc.==
+Fluxed Crystals should be working now, all reicipes and broken infusions, you can thank magical crops for the later issue.
+New version of THermal Recycling should help reduce the NPE spam some servers were reporting.
+Moved Magical Crops to Optional Only, and dropped all official Support for it.
+
+-- Dev only --
+n/a
+
+=================
+Build 081/3.2.6.4
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+AOBD [2.6.3]
+bdlib [1.8.0.86]
+Industrialcraft [2-2.2.727-experimental-api]
+MrTJPCore [1.0.8.16]
+NEI Add-Ons [1.12.8.29]
+sprinkles_for_vanilla [1.2.3]
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+tcnodetracker [1.1.1]
+
+--Server Only--
+n/a
+
+--Universal--
+AE2Stuff [0.3.0.30]
+Ancient Warfare [2.4.104-beta]
+AsieLib [0.4.1]
+Automagy [0.24]
+Blood Magic [1.3.3-2]
+Botania [r1.6-190]
+Buildcraft [6.4.16]
+Buildcraft Additions [2.1.2]
+Calculator [1.7.2]
+compactmachines [1.19b]
+Computronics [1.5.1]
+Decocraft [2.0.2]
+Eira IRC [2.8.239]
+Ex-Astris [1.16-36]
+Ex-Nihilo [1.38-40]
+Extra Cells [2.2.70b119]
+Extra TiC [1.4.5]
+Extra Utilities [1.2.5]
+Ganys Surface [1.11.1]
+Gendustry [1.4.11.89]
+Generators [0.9.13.72]
+Hardcore Ender Expansion [1.8.1]
+Industrialcraft [2-2.2.727-experimental]
+Magical Crops [4.0.0_PUBLIC_BETA_3]
+Malisis Core [0.12.2]
+Malisisdoors [1.8.1]
+Mekanisim [8.1.3.231]
+OpenComputers [1.5.12.26]
+pressure [1.2.0.101]
+Project: Red [4.6.2.82]
+RFTools [2.93]
+StevesAddons [0.10.12]
+Technomancy [0.10.I]
+Thaumic Energistics [0.8.10.5]
+
+==Removed Mods/Libraries==
+Torcherino - Outdated an no longer supported by developer.
+Tweaks--RRino - Was designed for use with Torcherino
+
+==Configs==
+ttCore - Increased Crop compatability on sub-pack selections Mainline and Project Flux. Absque Sole and Lite do not need additional support yet.
+
+==Misc.==
+Merged iarspider's #13 pull request into pack, allows better botania and chisel integration. Only effective in exodus atm.
+Dev only - Cleaned up the XML some more, removed commented mods that are no longer in the pack or that will probably never be added back in.
+Dev Only - To any developers who modify the XML, please note there is a developer section in this area you can place mods for testing as well as a section for switches and mods that are ment only for developers/testers.
+
+-- Dev only --
+MineTweakerRecipeMaker [1.1.0.11]
+
+=================
+Build 080
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+Applied Energistics 2 [rv2-stable-3]
+Headcrumbs [1.5.1]
+PneumaticCraft [1.7.0-74-universal]
+Project E [PE1.4.7]
+RF Tools [2.90beta2.n332]
+Technomancy [0.10.k]
+Thaumic Energistics [0.8.10.2]
+Thermal Recycling [0.3.4.2]
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+Headcrumbs - Statues, Named player heads in NEI, and player heads as dungeon loot disabled. All celebrity mobs will have the prefix "HC:" so they should appear as "HC:GodNero" in game. This is to differentiate HeadCrumbs mods from real players.
+
+==Misc.==
+Starting now paetrons who donate a certain amount will (while we still have the alloted slots AND they want us to do so) will get them selves added to the Headcrumbs config. (this will only go into affect when we publically release the pack with head crumbs)
+
+-- Dev only --
+n/a
+
+=================
 Build 079/3.2.6.3
 =================
 
