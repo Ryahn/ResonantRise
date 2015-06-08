@@ -1,4 +1,44 @@
 =================
+Build 085/3.2.6.7
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+AE2 Stuff [0.3.1.33]
+Binnie Mods [2.0-pre9]
+Buildcraft [7.0.8]
+Buildcraft compat [7.0.7]
+Gendustry [1.4.12.92]
+NIE Add-ons [1.12.9.32]
+Technomancy [0.11.0]
+Thermal Recycling [0.3.8.4]
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+Railcraft - Disabled Poor Ores
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 084/3.2.6.6
 =================
 
@@ -74,7 +114,7 @@ Project Flux - added Buildcraft Compat, not sure why that wasn't in there.
 n/a
 
 =================
-Build 082
+Build 082/3.2.6.5
 =================
 
 ==Modes==
@@ -112,7 +152,7 @@ Thermal Recycling [0.3.6.3]
 n/a
 
 ==Configs==
-Cleaned up Scripts, should reduce (NOT ELIMINATE) the chat spam at world load. Thanks in part to @iarspider
+Cleaned up Scripts, should reduce (NOT ELIMINATE) the chat spam at world load.
 Removed ALL calls to Magical Crops from ttCore's CropConfig.
 
 ==Misc.==
@@ -121,7 +161,7 @@ New version of THermal Recycling should help reduce the NPE spam some servers we
 Moved Magical Crops to Optional Only, and dropped all official Support for it.
 
 -- Dev only --
-Merged iarspider pull requests #17-#20
+n/a
 
 =================
 Build 081/3.2.6.4
