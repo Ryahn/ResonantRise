@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3.2.6.7-RC</version>
+        <version>3.2.6.8-RC</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -169,7 +169,7 @@
              />
                     
         <mod name="Eternal" version="RR3" 
-             url="packs/ResonantRise/files/configs/085/00_eternity_3-DEV-085.zip" file="00_eternity_3-DEV-085.zip" md5="1c658e3b3d9e6de341420abc43ebcdec" download="server"
+             url="packs/ResonantRise/files/configs/086/00_eternity_3-DEV-086.zip" file="00_eternity_3-DEV-086.zip" md5="b0ea97281bc7d088d5d0144375315bbd" download="server"
              type="extract" extractto="root" optional="no" recommended="yes"
              website="http://resonant-rise.com"
              authors="Velotican, GodNero"
@@ -177,7 +177,7 @@
              />
 
         <mod name="Lite" version="RR3" colour="lite"
-             url="packs/ResonantRise/files/configs/085/00a_lite_3-DEV-085.zip" file="00a_lite_3-DEV-085.zip" md5="e430e4fca145d44eeb8b266cf0c8e944" download="server"
+             url="packs/ResonantRise/files/configs/086/00a_lite_3-DEV-086.zip" file="00a_lite_3-DEV-086.zip" md5="820098d2586e696bb64555199b2e88a9" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
@@ -186,7 +186,7 @@
              />
 
         <mod name="Mainline" version="RR3" colour="For"
-             url="packs/ResonantRise/files/configs/085/00b_mainline_3-DEV-085.zip" file="00b_mainline_3-DEV-085.zip" md5="4b83d45bbebf99076b89b90b6838dd0b" download="server"
+             url="packs/ResonantRise/files/configs/086/00b_mainline_3-DEV-086.zip" file="00b_mainline_3-DEV-086.zip" md5="e8085949d23aade5ec9af9853e615c41" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
@@ -242,7 +242,7 @@
              />
              
         <mod name="Project Flux" version="RR3"
-             url="packs/ResonantRise/files/configs/085/200_Project_Flux_3-DEV-085.zip" file="200_Project_Flux_3-DEV-085.zip" md5="cca2d0feb1c8df58c7f58672eb170ace" download="server"
+             url="packs/ResonantRise/files/configs/086/200_Project_Flux_3-DEV-086.zip" file="200_Project_Flux_3-DEV-086.zip" md5="0dff04d4a2e0cd0afa049794b6801af5" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="KirinDave, GodNero, LividCoffee, NanoSounds"
@@ -251,7 +251,7 @@
             />
              
         <mod name="Absque Sole" version="RR3"
-             url="packs/ResonantRise/files/configs/085/201_Absque_Sole_3-DEV-085.zip" file="201_Absque_Sole_3-DEV-085.zip" md5="085a695776b15453a6041a15765960dc" download="server"
+             url="packs/ResonantRise/files/configs/086/201_Absque_Sole_3-DEV-086.zip" file="201_Absque_Sole_3-DEV-086.zip" md5="085a695776b15453a6041a15765960dc" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" group="mode"
              website="http://resonant-rise.com"
              authors="KirinDave, GodNero, Lanse505, Mister_Fix_It"
@@ -434,7 +434,7 @@
              />
 
         <mod name="Enchiridion 2"
-             version="2.0.1" url="packs/ResonantRise/files/3.x/Enchiridion 2-1.7.10-2.0.1.jar" file="Enchiridion 2-1.7.10-2.0.1.jar" md5="4567dbb44c7777f3b116ebf3112b7595" download="server" 
+             version="2.0.2" url="packs/ResonantRise/files/3.x/Enchiridion 2-1.7.10-2.0.2.jar" file="Enchiridion 2-1.7.10-2.0.2.jar" md5="3853036ddde7c07a7e4cd5eb2f5596fd" download="server"
              type="mods"
              website="http://enchiridion.joshiejack.co.uk" 
              authors="joshie" 
@@ -471,8 +471,8 @@
              website="http://atomicstryker.net/" authors="AtomicStryker" description="This mod randomly imbues spawning Living Things in the World with Diablo-style random Enchantments, making them much harder and much more rewarding to kill." 
              />
 
-        <mod name="IndustrialCraft 2 API" version="2.2.720-experimental-api" 
-             url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.727-experimental-api.jar" file="industrialcraft-2-2.2.727-experimental-api.jar" md5="9a8691300ce840a2b8cd4e1518687395" download="server"
+        <mod name="IndustrialCraft 2 API" version="2.2.733-experimental-api" 
+             url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.733-experimental-api.jar" file="industrialcraft-2-2.2.733-experimental-api.jar" md5="1f7f2e5c010d23018cf825997f2d6d19" download="server"
              type="mods" 
              website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" 
              authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44" 
@@ -821,8 +821,8 @@
              description="Tracks scanned nodes for Thaumcraft" 
              />
 
-        <mod name="Thaumcraft NEI Plugin" version="1.7.10-1.7" 
-             url="packs/ResonantRise/files/3.x/thaumcraftneiplugin-1.7.10-1.7.jar" file="thaumcraftneiplugin-1.7.10-1.7.jar" md5="2fb73c8ae0ea5da3d0a94d9e5befd07a" download="server"
+        <mod name="Thaumcraft NEI Plugin"
+             version="1.7a" url="packs/ResonantRise/files/3.x/thaumcraftneiplugin-1.7.10-1.7a.jar" file="thaumcraftneiplugin-1.7.10-1.7a.jar" md5="f71559fa64c1996b03e796b660914637" download="server"
              type="mods" optional="yes" recommended="no" depends="Thaumcraft 4" server="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271"
              authors="DjGlannuzz" 
@@ -881,7 +881,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="Applied Energistics 2" 
-             version="rv2-stable-5" url="packs/ResonantRise/files/3.x/appliedenergistics2-rv2-stable-5.jar" file="appliedenergistics2-rv2-stable-5.jar" md5="d4cb5dc2408ba6f902244c1d1ab25db4" download="server"
+             version="rv2-stable-6" url="packs/ResonantRise/files/3.x/appliedenergistics2-rv2-stable-6.jar" file="appliedenergistics2-rv2-stable-6.jar" md5="107d07a87d4c9b7e83e8359f598766bc" download="server"
              type="mods" optional="yes" recommended="no" colour="appeng"
              website="http://ae2.ae-mod.info/" donation="http://ae2.ae-mod.info/"
              authors="AlgorithmX2"
@@ -1112,7 +1112,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="More chisels for Chisel-2" />
 
         <mod name="Chisel Facades" 
-             version="1.7.10-2.10-cricket" url="packs/ResonantRise/files/3.x/ChiselFacades-1.7.10-2.10-cricket.jar" file="ChiselFacades-1.7.10-2.10-cricket.jar" md5="c74740b02489dd4c4c655747d8a5092d" download="server"
+             version="1.7.10-2.11-cricket" url="packs/ResonantRise/files/3.x/ChiselFacades-1.7.10-2.11-cricket.jar" file="ChiselFacades-1.7.10-2.11-cricket.jar" md5="991d3ecd2ddfac7ed015dbf67b18ba81" download="server"
              type="mods" optional="yes" recommended="no" depends="Chisel,Buildcraft" colour="Chisel"
              website="http://www.curse.com/mc-mods/minecraft/222784-chisel-facades#t1:description" 
              authors="Choonster"
@@ -1254,7 +1254,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="Extra Utilities" 
-             version="1.2.5" url="packs/ResonantRise/files/extrautilities-1.2.5.jar" file="extrautilities-1.2.5.jar" md5="dad78af2c138eeca245a8496d4254383" download="server"
+             version="1.2.6" url="packs/ResonantRise/files/3.x/extrautilities-1.2.6.jar" file="extrautilities-1.2.6.jar" md5="b160eaa6e13737f31a7d25b80fc17547" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963" donation="http://www.patreon.com/rwtema"
              authors="RWTema"
@@ -1309,7 +1309,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
             description="Adds fun worldtypes." />
 
         <mod name="Binnie&apos;s Mods" 
-             version="2.0-pre9" url="packs/ResonantRise/files/3.x/binnie-mods-2.0-pre9.jar" file="binnie-mods-2.0-pre9.jar" md5="d5d7b5c2b137517598cefd497b29ccf5" download="server"
+             version="2.0-pre10" url="packs/ResonantRise/files/3.x/binnie-mods-2.0-pre10.jar" file="binnie-mods-2.0-pre10.jar" md5="45068ad73f4769cbcf7a9397a0b79923" download="server"
              type="mods" optional="yes" recommended="no" colour="For"
              website="http://minecraft.curseforge.com/mc-mods/223525-binnies-mods" donation="http://minecraft.curseforge.com/mc-mods/223525-binnies-mods"
              authors="Binnie"
@@ -1333,7 +1333,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="Fossils &amp; Archeology Revival" version="7.1" 
-             url="packs/ResonantRise/files/3.x/Fossils_Archeology_Revival-1.7.10_Build-7.1.jar" file="Fossils_Archeology_Revival-1.7.10_Build-7.1.jar" md5="da60abc2b03b9ba2c68f8abdbb4905f5" download="server" 
+             url="packs/ResonantRise/files/3.x/Fossils_Archeology_Revival-1.7.10_Build-7.2.jar" file="Fossils_Archeology_Revival-1.7.10_Build-7.2.jar" md5="21831eaee7c71fe303401958ea93b180" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288066" 
              authors="Microjunk, Shadowbeast007, tyranno66, 4f6f3b, Cannibal Vox"
@@ -1413,7 +1413,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="IndustrialCraft 2" 
-             version="2.2.727-experimental" url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.727-experimental.jar" file="industrialcraft-2-2.2.727-experimental.jar" md5="5b08a7bef90fe0e7bd574b9a7730f9d4" download="server"
+             version="2.2.733-experimental" url="packs/ResonantRise/files/3.x/industrialcraft-2-2.2.733-experimental.jar" file="industrialcraft-2-2.2.733-experimental.jar" md5="ccc3a7806dc536f3bbf5ef93bca24b41" download="server"
              type="mods" optional="yes" recommended="no" colour="IC2"
              website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" 
              authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44" 
@@ -1611,7 +1611,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="Pam&apos;s Harvestcraft"
-             version="1.7.10i" url="packs/ResonantRise/files/3.x/Pams HarvestCraft 1.7.10i.jar" file="Pams HarvestCraft 1.7.10i.jar" md5="7f0cdf85133ce67c5f27e36397927c4e" download="server"
+             version="1.7.10i" url="packs/ResonantRise/files/3.x/Pams HarvestCraft 1.7.10i.jar" file="Pams HarvestCraft 1.7.10i.jar" md5="28872e2c16dd63ec2feb5bf738b39153" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/402069-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=UMVYJNMULKL2W&amp;lc=US&amp;item_name=Pam%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" 
              authors="MatrexsVigil" 
