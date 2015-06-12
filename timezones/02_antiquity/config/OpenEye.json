@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["3.2.6.4", "Antiquity", "RR 3-DEV-081"]
+            "value": ["3.2.6.8", "Antiquity", "RR 3-DEV-086"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",

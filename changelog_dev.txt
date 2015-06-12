@@ -1,4 +1,47 @@
 =================
+Build 086/3.2.6.8
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+Applieden Ergistics 2 [rv2-stable-6]
+Binnie Mods [2.0-pre10]
+Chisel Facades [2.11-cricket]
+Enchiridion 2 [2.0.2]
+Extra Utilities [1.2.6]
+Fossils Archeology Revival [Build-7.2]
+Industrialcraft 2 [2.2.733-experimental]
+Industrialcraft 2 [2.2.733-experimental-api]
+Pam's Harvest the Nether [1.7.10a]
+Pam's HarvestCraft [1.7.10i]
+Thaumcraft NEI Plugin [1.7a]
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+CoFH - Set vanilla ore generation back to true.
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 085/3.2.6.7
 =================
 
