@@ -1,4 +1,46 @@
 =================
+Build 088
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+Binnie's Mods [2.0-pre11]
+Buildcraft [7.0.9]
+Buildcraft Compat [7.0.8]
+Calculator [1.7.4]
+Enhanced Portals [3.0.12]
+Industrialcraft [2-2.2.736-experimental]
+Industrialcraft [2-2.2.736-experimental-api]
+RFTools [3.01]
+Router Reborn [1.2.0.16]
+ttCore [0.1.1-77]
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+Opis/MapWriter - All confgis deleted, in an attempt to help reduce "Mapwriter" related crashes.
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 087
 =================
 
