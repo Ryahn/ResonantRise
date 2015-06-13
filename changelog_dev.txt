@@ -1,4 +1,37 @@
 =================
+Build 087
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+Forge [10.13.4.1448]
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+Opis/MapWriter - All confgis deleted, in an attempt to help reduce "Mapwriter" related crashes.
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 086/3.2.6.8
 =================
 
