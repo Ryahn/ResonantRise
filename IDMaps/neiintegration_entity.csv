@@ -3,7 +3,7 @@ ID,Name,Class Name
 2,XPOrb,net.minecraft.entity.item.EntityXPOrb
 3,soundEntity,crazypants.enderio.item.darksteel.SoundEntity
 4,rangeEntity,crazypants.enderio.machine.ranged.RangeEntity
-5,FakeChairEntity,com.mia.props.entities.EntityChairMount
+5,FakeChairEntity,com.mia.props.common.entities.EntityChairMount
 6,enderzoo.Enderminy,crazypants.enderzoo.entity.EntityEnderminy
 7,enderzoo.ConcussionCreeper,crazypants.enderzoo.entity.EntityConcussionCreeper
 8,LeashKnot,net.minecraft.entity.EntityLeashKnot
@@ -73,6 +73,7 @@ ID,Name,Class Name
 72,MeteorSummoner,net.meteor.common.entity.EntitySummoner
 73,FallingComet,net.meteor.common.entity.EntityComet
 74,Blizz,cofh.thermalfoundation.entity.monster.EntityBlizz
+89,Celebrity,ganymedes01.headcrumbs.entity.EntityCelebrity
 90,Pig,net.minecraft.entity.passive.EntityPig
 91,Sheep,net.minecraft.entity.passive.EntitySheep
 92,Cow,net.minecraft.entity.passive.EntityCow
@@ -84,7 +85,6 @@ ID,Name,Class Name
 98,Ozelot,net.minecraft.entity.passive.EntityOcelot
 99,VillagerGolem,net.minecraft.entity.monster.EntityIronGolem
 100,EntityHorse,net.minecraft.entity.passive.EntityHorse
-101,Celebrity,ganymedes01.headcrumbs.entity.EntityCelebrity
 105,ClayGolem,com.draco18s.artifacts.entity.EntityClayGolem
 120,Villager,net.minecraft.entity.passive.EntityVillager
 200,EnderCrystal,chylex.hee.entity.block.EntityBlockEnderCrystal
@@ -100,7 +100,7 @@ ID,Name,Class Name
 310,fossil.Velociraptor,mods.fossil.entity.mob.EntityVelociraptor
 311,fossil.TRex,mods.fossil.entity.mob.EntityTRex
 312,fossil.Failuresaurus,mods.fossil.entity.mob.EntityFailuresaurus
-313,fossil.PigBoss,mods.fossil.entity.mob.EntityPigBoss
+313,fossil.PigBoss,mods.fossil.entity.mob.EntityAnu
 314,fossil.Pterosaur,mods.fossil.entity.mob.EntityPterosaur
 315,fossil.Nautilus,mods.fossil.entity.mob.EntityNautilus
 316,fossil.Plesiosaur,mods.fossil.entity.mob.EntityPlesiosaur
@@ -124,6 +124,10 @@ ID,Name,Class Name
 334,fossil.TerrorBird,mods.fossil.entity.mob.EntityTerrorBird
 335,fossil.Allosaurus,mods.fossil.entity.mob.EntityAllosaurus
 336,fossil.Elasmotherium,mods.fossil.entity.mob.EntityElasmotherium
+337,fossil.Confuciusornis,mods.fossil.entity.mob.EntityConfuciusornis
+338,fossil.Ceratosaurus,mods.fossil.entity.mob.EntityCeratosaurus
+339,fossil.Anubite,mods.fossil.entity.mob.EntityAnubite
+340,fossil.SentryPigman,mods.fossil.entity.mob.EntitySentryPigman
 901,primitivemobs.RocketCreeper,net.daveyx0.primitivemobs.entity.monster.EntityRocketCreeper
 902,primitivemobs.FestiveCreeper,net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper
 903,primitivemobs.SupportCreeper,net.daveyx0.primitivemobs.entity.monster.EntitySupportCreeper

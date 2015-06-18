@@ -32,9 +32,9 @@ ID,Name,Localized Name,Temperature,Luminosity,Density,Viscosity,Placeable,Block 
 31,chocolatemilk,Chocolate Milk,300,0,1100,1100,true,MineFactoryReloaded:chocolatemilk.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
 32,mushroomsoup,Mushroom Soup,300,0,1500,1500,true,MineFactoryReloaded:mushroomsoup.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
 33,steam,Steam,673,0,-100,100,true,MineFactoryReloaded:steam.still,powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid
-34,oil,Oil,300,0,800,10000,true,BuildCraft|Energy:blockOil,buildcraft.energy.BlockBuildcraftFluid
-35,fuel,Fuel,300,0,1000,1000,true,BuildCraft|Energy:blockFuel,buildcraft.energy.BlockBuildcraftFluid
-36,redplasma,fluid.redplasma,300,30,10000,10000,true,BuildCraft|Energy:blockRedPlasma,buildcraft.energy.BlockBuildcraftFluid
+34,oil,Oil,300,0,800,10000,true,BuildCraft|Energy:blockOil,buildcraft.core.lib.block.BlockBuildCraftFluid
+35,fuel,Fuel,300,0,1000,1000,true,BuildCraft|Energy:blockFuel,buildcraft.core.lib.block.BlockBuildCraftFluid
+36,redplasma,fluid.redplasma,300,30,10000,10000,true,BuildCraft|Energy:blockRedPlasma,buildcraft.core.lib.block.BlockBuildCraftFluid
 37,fluxgoo,Flux Goo,300,7,8,6000,true,Thaumcraft:blockFluxGoo,thaumcraft.common.blocks.BlockFluxGoo
 38,fluidpure,Purifying Fluid,300,10,1000,1000,true,Thaumcraft:blockFluidPure,thaumcraft.common.blocks.BlockFluidPure
 39,fluiddeath,Liquid Death,300,8,1000,1500,true,Thaumcraft:blockFluidDeath,thaumcraft.common.blocks.BlockFluidDeath
@@ -197,12 +197,12 @@ ID,Name,Localized Name,Temperature,Luminosity,Density,Viscosity,Placeable,Block 
 196,nickel.molten,Molten Nickel,1300,12,3000,6000,true,TConstruct:fluid.molten.nickel,tconstruct.smeltery.blocks.TConstructFluid
 197,lead.molten,Molten Lead,1300,12,3000,6000,true,TConstruct:fluid.molten.lead,tconstruct.smeltery.blocks.TConstructFluid
 198,silver.molten,Molten Silver,1300,12,3000,6000,true,TConstruct:fluid.molten.silver,tconstruct.smeltery.blocks.TConstructFluid
-199,platinum.molten,Molten Shiny,1300,12,3000,6000,true,TConstruct:fluid.molten.shiny,tconstruct.smeltery.blocks.TConstructFluid
+199,platinum.molten,Molten Platinum,1300,12,3000,6000,true,TConstruct:fluid.molten.shiny,tconstruct.smeltery.blocks.TConstructFluid
 200,invar.molten,Molten Invar,1300,12,3000,6000,true,TConstruct:fluid.molten.invar,tconstruct.smeltery.blocks.TConstructFluid
 201,electrum.molten,Molten Electrum,1300,12,3000,6000,true,TConstruct:fluid.molten.electrum,tconstruct.smeltery.blocks.TConstructFluid
 202,lumium.molten,Molten Lumium,1300,12,3000,6000,true,TConstruct:fluid.molten.lumium,tconstruct.smeltery.blocks.TConstructFluid
 203,signalum.molten,Molten Signalum,1300,12,3000,6000,true,TConstruct:fluid.molten.signalum,tconstruct.smeltery.blocks.TConstructFluid
-204,mithril.molten,Molten Mana Infused Metal,1300,12,3000,6000,true,TConstruct:fluid.molten.mithril,tconstruct.smeltery.blocks.TConstructFluid
+204,mithril.molten,Molten Mithril,1300,12,3000,6000,true,TConstruct:fluid.molten.mithril,tconstruct.smeltery.blocks.TConstructFluid
 205,enderium.molten,Molten Enderium,1300,12,3000,6000,true,TConstruct:fluid.molten.enderium,tconstruct.smeltery.blocks.TConstructFluid
 206,blood,Blood,1300,0,3000,6000,true,TConstruct:liquid.blood,tconstruct.smeltery.blocks.BloodBlock
 207,glue,Glue,200,0,6000,6000,true,TConstruct:liquid.glue,tconstruct.smeltery.blocks.GlueFluid
@@ -249,268 +249,141 @@ ID,Name,Localized Name,Temperature,Luminosity,Density,Viscosity,Placeable,Block 
 248,pokefennium.molten,Molten Pokefennium,1300,15,3000,6000,true,ExtraTiC:moltenPokefennium,glassmaker.extratic.metals.MoltenMetalBlock
 249,fairy.molten,Molten Fairy,1300,15,3000,6000,true,ExtraTiC:moltenFairy,glassmaker.extratic.metals.MoltenMetalBlock
 250,red.aurum.molten,Molten RedAurum,1300,15,3000,6000,true,ExtraTiC:moltenRedAurum,glassmaker.extratic.metals.MoltenMetalBlock
-251,dark.steel.molten,Molten Dark Steel,1300,15,3000,6000,true,ExtraTiC:moltenDarkSteel,glassmaker.extratic.metals.MoltenMetalBlock
-252,mutagen,Mutagen,295,0,1000,1000,true,gendustry:fluid.Mutagen,net.bdew.gendustry.fluids.BlockFluid
-253,liquiddna,Liquid DNA,295,0,1000,1000,true,gendustry:fluid.LiquidDNA,net.bdew.gendustry.fluids.BlockFluid
-254,protein,Protein,295,0,1000,1000,true,gendustry:fluid.Protein,net.bdew.gendustry.fluids.BlockFluid
-255,syngas,Syngas,1000,0,-10,1000,true,advgenerators:syngas,net.bdew.generators.blocks.BlockSyngas
-256,grc.applecider0,Apple Cider,300,0,1000,1000,false,null,null
-257,grc.applecider1,Apple Cider,300,0,1000,1000,false,null,null
-258,grc.applecider2,Apple Cider,300,0,1000,1000,false,null,null
-259,grc.applecider3,Apple Cider,300,0,1000,1000,false,null,null
-260,grc.honeymead0,Mead,300,0,1000,1000,false,null,null
-261,grc.honeymead1,Mead,300,0,1000,1000,false,null,null
-262,grc.honeymead2,Mead,300,0,1000,1000,false,null,null
-263,grc.honeymead3,Mead,300,0,1000,1000,false,null,null
-264,grc.grapewine0,Grape Wine,300,0,1000,1000,false,null,null
-265,grc.grapewine1,Grape Wine,300,0,1000,1000,false,null,null
-266,grc.grapewine2,Grape Wine,300,0,1000,1000,false,null,null
-267,grc.grapewine3,Grape Wine,300,0,1000,1000,false,null,null
-268,grc.hopale0,Ale,300,0,1000,1000,false,null,null
-269,grc.hopale1,Ale,300,0,1000,1000,false,null,null
-270,grc.hopale2,Ale,300,0,1000,1000,false,null,null
-271,grc.hopale3,Ale,300,0,1000,1000,false,null,null
-272,grc.hopale4,Ale,300,0,1000,1000,false,null,null
-273,grc.ricesake0,Sake,300,0,1000,1000,false,null,null
-274,grc.ricesake1,Sake,300,0,1000,1000,false,null,null
-275,grc.ricesake2,Sake,300,0,1000,1000,false,null,null
-276,grc.ricesake3,Sake,300,0,1000,1000,false,null,null
-277,endergoo,fluid.enderGoo,220,0,1500,1500,true,HardcoreEnderExpansion:ender_goo,chylex.hee.block.BlockEnderGoo
-278,hydraulicoil,Hydraulic Oil,300,0,10,3000,true,HydCraft:tile.hydraulicOil,k4unl.minecraft.Hydraulicraft.fluids.BlockFluidOil
-279,xpjuice,Liquid XP,300,10,800,1500,false,null,null
-280,etchacid,Etching Acid,300,0,1000,1000,true,PneumaticCraft:etchingAcid,pneumaticCraft.common.block.BlockFluidEtchingAcid
-281,plastic,Plastic,423,0,1000,1000,false,null,null
-282,antivenom,Anti-Venom,300,0,1000,2000,false,null,null
-283,beetlejuice,Beetle Juice,300,0,1000,1000,false,null,null
-284,energeticalloy,Molten Energetic Alloy,1300,12,3000,6000,true,ThermalSmeltery:fluid.molten.EnergeticAlloy,com.drullkus.thermalsmeltery.common.lib.TSmeltFluid
-285,phasedgold,Molten Vibrant Alloy,1300,12,3000,6000,true,ThermalSmeltery:fluid.molten.PhasedGold,com.drullkus.thermalsmeltery.common.lib.TSmeltFluid
-286,conductiveiron,Molten Conductive Iron,1300,12,3000,6000,true,ThermalSmeltery:fluid.molten.ConductiveIron,com.drullkus.thermalsmeltery.common.lib.TSmeltFluid
-287,phasediron,Molten Pulsating Iron,1300,12,3000,6000,true,ThermalSmeltery:fluid.molten.PhasedIron,com.drullkus.thermalsmeltery.common.lib.TSmeltFluid
-288,darksteel,Molten Dark Steel,1300,12,3000,6000,true,ThermalSmeltery:fluid.molten.DarkSteel,com.drullkus.thermalsmeltery.common.lib.TSmeltFluid
-289,witchery:fluidspirit,fluid.witchery:fluidspirit,300,0,500,2000,true,witchery:spiritflowing,com.emoniph.witchery.blocks.BlockFlowingSpirit
-290,witchery:hollowtears,Hollow Tears,300,0,100,1500,true,witchery:hollowtears,com.emoniph.witchery.blocks.BlockFlowingSpirit
-291,witchery:brew,fluid.witchery:brew,300,0,100,1500,true,witchery:brew,com.emoniph.witchery.brewing.BlockBrew
-292,witchery:brewgas,fluid.witchery:brewgas,300,0,1000,1000,false,null,null
-293,witchery:brewliquid,fluid.witchery:brewliquid,300,0,1000,1000,true,witchery:brewliquid,com.emoniph.witchery.brewing.BlockBrewLiquidEffect
-294,witchery:fluiddisease,fluid.witchery:fluiddisease,300,0,50,3000,true,witchery:disease,com.emoniph.witchery.blocks.BlockDisease
-295,potionawkward,Awkward Potion,300,0,1000,1000,false,null,null
-296,potionvision,Potion of Night Vision (3:00),300,0,1000,1000,false,null,null
-297,potionvisionlong,Potion of Night Vision (8:00),300,0,1000,1000,false,null,null
-298,potioninvisible,Potion of Invisibility (3:00),300,0,1000,1000,false,null,null
-299,potioninvisiblelong,Potion of Invisibility (8:00),300,0,1000,1000,false,null,null
-300,potionregen,Potion of Regeneration (0:45),300,0,1000,1000,false,null,null
-301,potionregenii,Potion of Regeneration II (2:00),300,0,1000,1000,false,null,null
-302,potionregenlong,Potion of Regeneration (2:00),300,0,1000,1000,false,null,null
-303,potionfast,Potion of Swiftness (3:00),300,0,1000,1000,false,null,null
-304,potionfastlong,Potion of Swiftness (8:00),300,0,1000,1000,false,null,null
-305,potionfastii,Potion of Swiftness II (1:30),300,0,1000,1000,false,null,null
-306,potionweakness,Potion of Weakness (1:30),300,0,1000,1000,false,null,null
-307,potionweaknesslong,Potion of Weakness (4:00),300,0,1000,1000,false,null,null
-308,potionstrength,Potion of Strength (3:00),300,0,1000,1000,false,null,null
-309,potionstrengthlong,Potion of Strength (8:00),300,0,1000,1000,false,null,null
-310,potionstrengthii,Potion of Strength II (1:30),300,0,1000,1000,false,null,null
-311,potionfireresist,Potion of Fire Resistance (3:00),300,0,1000,1000,false,null,null
-312,potionfireresistlong,Potion of Fire Resistance (8:00),300,0,1000,1000,false,null,null
-313,potionslowness,Potion of Slowness (1:30),300,0,1000,1000,false,null,null
-314,potionslownesslong,Potion of Slowness (4:00),300,0,1000,1000,false,null,null
-315,potionpoison,Potion of Poison (0:45),300,0,1000,1000,false,null,null
-316,potionpoisonii,Potion of Poison II (0:22),300,0,1000,1000,false,null,null
-317,potionpoisonlong,Potion of Poison (2:00),300,0,1000,1000,false,null,null
-318,potionharm,Potion of Harming,300,0,1000,1000,false,null,null
-319,potionharmii,Potion of Harming II,300,0,1000,1000,false,null,null
-320,potionheal,Potion of Healing,300,0,1000,1000,false,null,null
-321,potionhealii,Potion of Healing II,300,0,1000,1000,false,null,null
-322,potionwaterbreathe,Potion of Water Breathing (3:00),300,0,1000,1000,false,null,null
-323,potionwaterbreathelong,Potion of Water Breathing (8:00),300,0,1000,1000,false,null,null
-324,potionhaste,Potion of Haste (1:30),300,0,1000,1000,false,null,null
-325,potionhasteii,Potion of Haste II (0:45),300,0,1000,1000,false,null,null
-326,potionhasteiii,Potion of Haste III (0:25),300,0,1000,1000,false,null,null
-327,potionhastelong,Potion of Haste (3:00),300,0,1000,1000,false,null,null
-328,potionhasteverylong,Potion of Haste (6:00),300,0,1000,1000,false,null,null
-329,potionfatigue,Potion of Dullness (1:30),300,0,1000,1000,false,null,null
-330,potionfatigueii,Potion of Dullness II (0:45),300,0,1000,1000,false,null,null
-331,potionfatigueiii,Potion of Dullness III (0:25),300,0,1000,1000,false,null,null
-332,potionfatiguelong,Potion of Dullness (3:00),300,0,1000,1000,false,null,null
-333,potionfatigueverylong,Potion of Dullness (6:00),300,0,1000,1000,false,null,null
-334,potionjump,Potion of Leaping (1:00),300,0,1000,1000,false,null,null
-335,potionjumpii,Potion of Leaping II (0:30),300,0,1000,1000,false,null,null
-336,potionjumpiii,Potion of Leaping III (0:15),300,0,1000,1000,false,null,null
-337,potionjumplong,Potion of Leaping (2:00),300,0,1000,1000,false,null,null
-338,potionjumpverylong,Potion of Leaping (4:00),300,0,1000,1000,false,null,null
-339,potionnausea,Potion of Nausea (0:30),300,0,1000,1000,false,null,null
-340,potionnausealong,Potion of Nausea (1:00),300,0,1000,1000,false,null,null
-341,potionnauseaverylong,Potion of Nausea (2:00),300,0,1000,1000,false,null,null
-342,potionresistance,Potion of Resistance (1:30),300,0,1000,1000,false,null,null
-343,potionresistanceii,Potion of Resistance II (0:45),300,0,1000,1000,false,null,null
-344,potionresistanceiii,Potion of Resistance III (0:20),300,0,1000,1000,false,null,null
-345,potionresistancelong,Potion of Resistance (3:00),300,0,1000,1000,false,null,null
-346,potionresistanceverylong,Potion of Resistance (6:00),300,0,1000,1000,false,null,null
-347,potionblindness,Potion of Blindness (0:30),300,0,1000,1000,false,null,null
-348,potionblindnesslong,Potion of Blindness (1:00),300,0,1000,1000,false,null,null
-349,potionblindnessverylong,Potion of Blindness (2:00),300,0,1000,1000,false,null,null
-350,potionhunger,Potion of Hunger (1:00),300,0,1000,1000,false,null,null
-351,potionhungerii,Potion of Hunger II (0:30),300,0,1000,1000,false,null,null
-352,potionhungeriii,Potion of Hunger III (0:15),300,0,1000,1000,false,null,null
-353,potionhungerlong,Potion of Hunger (2:00),300,0,1000,1000,false,null,null
-354,potionhungerverylong,Potion of Hunger (4:00),300,0,1000,1000,false,null,null
-355,potionhealthboost,Potion of Health Boost (2:00),300,0,1000,1000,false,null,null
-356,potionhealthboostii,Potion of Health Boost II (1:00),300,0,1000,1000,false,null,null
-357,potionhealthboostiii,Potion of Health Boost III (0:30),300,0,1000,1000,false,null,null
-358,potionhealthboostlong,Potion of Health Boost (4:00),300,0,1000,1000,false,null,null
-359,potionhealthboostverylong,Potion of Health Boost (8:00),300,0,1000,1000,false,null,null
-360,potionabsorption,Potion of Absorption (1:00),300,0,1000,1000,false,null,null
-361,potionabsorptionii,Potion of Absorption II (0:30),300,0,1000,1000,false,null,null
-362,potionabsorptioniii,Potion of Absorption III (0:15),300,0,1000,1000,false,null,null
-363,potionabsorptionlong,Potion of Absorption (2:00),300,0,1000,1000,false,null,null
-364,potionabsorptionverylong,Potion of Absorption (4:00),300,0,1000,1000,false,null,null
-365,potionsaturation,Potion of Saturation (0:01),300,0,1000,1000,false,null,null
-366,potionsaturationii,Potion of Saturation II (0:01),300,0,1000,1000,false,null,null
-367,potionsaturationiii,Potion of Saturation III (0:01),300,0,1000,1000,false,null,null
-368,potionwither,Potion of Decay (0:20),300,0,1000,1000,false,null,null
-369,potionwitherii,Potion of Decay II (0:10),300,0,1000,1000,false,null,null
-370,potionwitheriii,Potion of Decay III (0:05),300,0,1000,1000,false,null,null
-371,potionwitherlong,Potion of Decay (0:40),300,0,1000,1000,false,null,null
-372,potionwitherverylong,Potion of Decay (1:20),300,0,1000,1000,false,null,null
-373,potionregeniii,Potion of Regeneration III (0:08),300,0,1000,1000,false,null,null
-374,potionregenverylong,Potion of Regeneration (3:00),300,0,1000,1000,false,null,null
-375,potionfastiii,Potion of Swiftness III (0:08),300,0,1000,1000,false,null,null
-376,potionfastverylong,Potion of Swiftness (16:00),300,0,1000,1000,false,null,null
-377,potionstrengthiii,Potion of Strength III (0:40),300,0,1000,1000,false,null,null
-378,potionstrengthverylong,Potion of Strength (16:00),300,0,1000,1000,false,null,null
-379,potionfireresistverylong,Potion of Fire Resistance (16:00),300,0,1000,1000,false,null,null
-380,potionpoisoniii,Potion of Poison III (0:08),300,0,1000,1000,false,null,null
-381,potionpoisonverylong,Potion of Poison (4:00),300,0,1000,1000,false,null,null
-382,potionharmiii,Potion of Harming III (0:01),300,0,1000,1000,false,null,null
-383,potionhealiii,Potion of Healing III (0:01),300,0,1000,1000,false,null,null
-384,potionvisionverylong,Potion of Night Vision (16:00),300,0,1000,1000,false,null,null
-385,potionweaknessverylong,Potion of Weakness (8:00),300,0,1000,1000,false,null,null
-386,potionslownessverylong,Potion of Slowness (8:00),300,0,1000,1000,false,null,null
-387,potionwaterbreatheverylong,Potion of Water Breathing (16:00),300,0,1000,1000,false,null,null
-388,potionholywater,Potion of Holy Water (0:10),300,0,1000,1000,false,null,null
-389,potionholywaterii,Potion of Holy Water II (0:05),300,0,1000,1000,false,null,null
-390,potionholywaterlong,Potion of Holy Water (0:20),300,0,1000,1000,false,null,null
-391,potionholywaterverylong,Potion of Holy Water (0:40),300,0,1000,1000,false,null,null
-392,potionholywateriii,Potion of Holy Water III (0:03),300,0,1000,1000,false,null,null
-393,potionflight,Potion of Ascension (0:15),300,0,1000,1000,false,null,null
-394,potionflightlong,Potion of Ascension (0:30),300,0,1000,1000,false,null,null
-395,potionflightverylong,Potion of Ascension (1:00),300,0,1000,1000,false,null,null
-396,potionantidote,Potion of Remedy (1:00),300,0,1000,1000,false,null,null
-397,potionantidoteii,Potion of Remedy II (0:45),300,0,1000,1000,false,null,null
-398,potionantidoteiii,Potion of Remedy III (0:30),300,0,1000,1000,false,null,null
-399,potionantidoteiiii,Potion of Remedy IV (0:20),300,0,1000,1000,false,null,null
-400,potionantidotelong,Potion of Remedy (2:00),300,0,1000,1000,false,null,null
-401,potionantidoteverylong,Potion of Remedy (4:00),300,0,1000,1000,false,null,null
-402,potionboom,Potion of Combustion (0:08),300,0,1000,1000,false,null,null
-403,potionboomii,Potion of Combustion II (0:04),300,0,1000,1000,false,null,null
-404,potionboomiii,Potion of Combustion III (0:04),300,0,1000,1000,false,null,null
-405,potionboomlong,Potion of Combustion (0:16),300,0,1000,1000,false,null,null
-406,potionboomverylong,Potion of Combustion (0:32),300,0,1000,1000,false,null,null
-407,potioncryo,Potion of Cryogenics (0:08),300,0,1000,1000,false,null,null
-408,potioncryolong,Potion of Cryogenics (0:16),300,0,1000,1000,false,null,null
-409,potioncryoverylong,Potion of Cryogenics (0:30),300,0,1000,1000,false,null,null
-410,potioneternalflame,Potion of Eternal Flame (0:30),300,0,1000,1000,false,null,null
-411,potioneternalflamelong,Potion of Eternal Flame (1:00),300,0,1000,1000,false,null,null
-412,potioneternalflameverylong,Potion of Eternal Flame (2:00),300,0,1000,1000,false,null,null
-413,potionfireimmunity,Potion of Fire Immunity (0:35),300,0,1000,1000,false,null,null
-414,potionfireimmunitylong,Potion of Fire Immunity (1:10),300,0,1000,1000,false,null,null
-415,potionfireimmunityverylong,Potion of Fire Immunity (2:20),300,0,1000,1000,false,null,null
-416,potionfireimmunityii,Potion of Fire Immunity II (0:15),300,0,1000,1000,false,null,null
-417,potionfireimmunityiii,Potion of Fire Immunity III (0:10),300,0,1000,1000,false,null,null
-418,potionfireimmunityiiii,Potion of Fire Immunity IV (0:05),300,0,1000,1000,false,null,null
-419,potionfireeater,Potion of Fire Eaters (0:45),300,0,1000,1000,false,null,null
-420,potionfireeaterii,Potion of Fire Eaters II (0:30),300,0,1000,1000,false,null,null
-421,potionfireeateriii,Potion of Fire Eaters III (0:15),300,0,1000,1000,false,null,null
-422,potionfireeaterlong,Potion of Fire Eaters (1:30),300,0,1000,1000,false,null,null
-423,potionfireeaterverylong,Potion of Fire Eaters (3:00),300,0,1000,1000,false,null,null
-424,endium,Molten Endium,300,0,1000,1000,false,null,null
-425,redstone.molten,Liquid Redstone,300,12,1000,3000,true,ProjRed|Compatibility:projectred.compatibility.liqredstone,mrtjp.projectred.compatibility.tconstruct.LiquidFiniteSubstance
-426,redmetal.molten,Molten Conductive Redmetal,300,12,2000,4000,true,ProjRed|Compatibility:projectred.compatibility.liqcondredmetal,mrtjp.projectred.compatibility.tconstruct.LiquidFiniteSubstance
-427,uranium,Molten Uranium,300,0,1000,1000,false,null,null
-428,mithril,Molten Mithril,300,0,1000,1000,false,null,null
-429,draconium,Molten Draconium,300,0,1000,1000,false,null,null
-430,elntungsten,Molten Tungsten,300,0,1000,1000,false,null,null
-431,manganese,Molten Manganese,300,0,1000,1000,false,null,null
-432,eximite,Molten Eximite,300,0,1000,1000,false,null,null
-433,meutoite,Molten Meutoite,300,0,1000,1000,false,null,null
-434,prometheum,Molten Prometheum,300,0,1000,1000,false,null,null
-435,deepiron,Molten DeepIron,300,0,1000,1000,false,null,null
-436,infuscolium,Molten Infuscolium,300,0,1000,1000,false,null,null
-437,oureclase,Molten Oureclase,300,0,1000,1000,false,null,null
-438,astralsilver,Molten AstralSilver,300,0,1000,1000,false,null,null
-439,carmot,Molten Carmot,300,0,1000,1000,false,null,null
-440,rubracium,Molten Rubracium,300,0,1000,1000,false,null,null
-441,orichalcum,Molten Orichalcum,300,0,1000,1000,false,null,null
-442,adamantine,Molten Adamantine,300,0,1000,1000,false,null,null
-443,atlarus,Molten Atlarus,300,0,1000,1000,false,null,null
-444,ignatius,Molten Ignatius,300,0,1000,1000,false,null,null
-445,shadowiron,Molten ShadowIron,300,0,1000,1000,false,null,null
-446,lemurite,Molten Lemurite,300,0,1000,1000,false,null,null
-447,midasium,Molten Midasium,300,0,1000,1000,false,null,null
-448,vyroxeres,Molten Vyroxeres,300,0,1000,1000,false,null,null
-449,ceruclase,Molten Ceruclase,300,0,1000,1000,false,null,null
-450,alduorite,Molten Alduorite,300,0,1000,1000,false,null,null
-451,kalendrite,Molten Kalendrite,300,0,1000,1000,false,null,null
-452,vulcanite,Molten Vulcanite,300,0,1000,1000,false,null,null
-453,sanguinite,Molten Sanguinite,300,0,1000,1000,false,null,null
-454,zinc,Molten Zinc,300,0,1000,1000,false,null,null
-455,heeendium,Molten Endium,300,0,1000,1000,false,null,null
-456,iridium,Molten Iridium,300,0,1000,1000,false,null,null
-457,meteorite,Molten Meteorite,300,0,1000,1000,false,null,null
-458,osmium,Molten Osmium,300,0,1000,1000,false,null,null
-459,manafluid,Mana Condensate,300,0,1000,1000,true,technom:manaFluidBlock,theflogat.technomancy.common.blocks.botania.BlockManaFluid
-460,gaseousaeressentia,Aer Gas,300,7,-4,3000,false,null,null
-461,gaseousterraessentia,Terra Gas,300,7,-4,3000,false,null,null
-462,gaseousignisessentia,Ignis Gas,300,7,-4,3000,false,null,null
-463,gaseousaquaessentia,Aqua Gas,300,7,-4,3000,false,null,null
-464,gaseousordoessentia,Ordo Gas,300,7,-4,3000,false,null,null
-465,gaseousperditioessentia,Perditio Gas,300,7,-4,3000,false,null,null
-466,gaseousvacuosessentia,Vacuos Gas,300,7,-4,3000,false,null,null
-467,gaseousluxessentia,Lux Gas,300,7,-4,3000,false,null,null
-468,gaseoustempestasessentia,Tempestas Gas,300,7,-4,3000,false,null,null
-469,gaseousmotusessentia,Motus Gas,300,7,-4,3000,false,null,null
-470,gaseousgelumessentia,Gelum Gas,300,7,-4,3000,false,null,null
-471,gaseousvitreusessentia,Vitreus Gas,300,7,-4,3000,false,null,null
-472,gaseousvictusessentia,Victus Gas,300,7,-4,3000,false,null,null
-473,gaseousvenenumessentia,Venenum Gas,300,7,-4,3000,false,null,null
-474,gaseouspotentiaessentia,Potentia Gas,300,7,-4,3000,false,null,null
-475,gaseouspermutatioessentia,Permutatio Gas,300,7,-4,3000,false,null,null
-476,gaseousmetallumessentia,Metallum Gas,300,7,-4,3000,false,null,null
-477,gaseousmortuusessentia,Mortuus Gas,300,7,-4,3000,false,null,null
-478,gaseousvolatusessentia,Volatus Gas,300,7,-4,3000,false,null,null
-479,gaseoustenebraeessentia,Tenebrae Gas,300,7,-4,3000,false,null,null
-480,gaseousspiritusessentia,Spiritus Gas,300,7,-4,3000,false,null,null
-481,gaseoussanoessentia,Sano Gas,300,7,-4,3000,false,null,null
-482,gaseousiteressentia,Iter Gas,300,7,-4,3000,false,null,null
-483,gaseousalienisessentia,Alienis Gas,300,7,-4,3000,false,null,null
-484,gaseouspraecantatioessentia,Praecantatio Gas,300,7,-4,3000,false,null,null
-485,gaseousauramessentia,Auram Gas,300,7,-4,3000,false,null,null
-486,gaseousvitiumessentia,Vitium Gas,300,7,-4,3000,false,null,null
-487,gaseouslimusessentia,Limus Gas,300,7,-4,3000,false,null,null
-488,gaseousherbaessentia,Herba Gas,300,7,-4,3000,false,null,null
-489,gaseousarboressentia,Arbor Gas,300,7,-4,3000,false,null,null
-490,gaseousbestiaessentia,Bestia Gas,300,7,-4,3000,false,null,null
-491,gaseouscorpusessentia,Corpus Gas,300,7,-4,3000,false,null,null
-492,gaseousexanimisessentia,Exanimis Gas,300,7,-4,3000,false,null,null
-493,gaseouscognitioessentia,Cognitio Gas,300,7,-4,3000,false,null,null
-494,gaseoussensusessentia,Sensus Gas,300,7,-4,3000,false,null,null
-495,gaseoushumanusessentia,Humanus Gas,300,7,-4,3000,false,null,null
-496,gaseousmessisessentia,Messis Gas,300,7,-4,3000,false,null,null
-497,gaseousperfodioessentia,Perfodio Gas,300,7,-4,3000,false,null,null
-498,gaseousinstrumentumessentia,Instrumentum Gas,300,7,-4,3000,false,null,null
-499,gaseousmetoessentia,Meto Gas,300,7,-4,3000,false,null,null
-500,gaseoustelumessentia,Telum Gas,300,7,-4,3000,false,null,null
-501,gaseoustutamenessentia,Tutamen Gas,300,7,-4,3000,false,null,null
-502,gaseousfamesessentia,Fames Gas,300,7,-4,3000,false,null,null
-503,gaseouslucrumessentia,Lucrum Gas,300,7,-4,3000,false,null,null
-504,gaseousfabricoessentia,Fabrico Gas,300,7,-4,3000,false,null,null
-505,gaseouspannusessentia,Pannus Gas,300,7,-4,3000,false,null,null
-506,gaseousmachinaessentia,Machina Gas,300,7,-4,3000,false,null,null
-507,gaseousvinculumessentia,Vinculum Gas,300,7,-4,3000,false,null,null
-508,gaseousluxuriaessentia,Luxuria Gas,300,7,-4,3000,false,null,null
-509,gaseousinfernusessentia,Infernus Gas,300,7,-4,3000,false,null,null
-510,gaseoussuperbiaessentia,Superbia Gas,300,7,-4,3000,false,null,null
-511,gaseousgulaessentia,Gula Gas,300,7,-4,3000,false,null,null
-512,gaseousinvidiaessentia,Invidia Gas,300,7,-4,3000,false,null,null
-513,gaseousdesidiaessentia,Desidia Gas,300,7,-4,3000,false,null,null
-514,gaseousiraessentia,Ira Gas,300,7,-4,3000,false,null,null
-515,gaseoustempusessentia,Tempus Gas,300,7,-4,3000,false,null,null
+251,potato.soup,Potato Soup,1300,15,3000,6000,true,ExtraTiC:potatoSoup,glassmaker.extratic.metals.MoltenMetalBlock
+252,drulloy.molten,Molten Drulloy,1300,15,3000,6000,true,ExtraTiC:moltenDrulloy,glassmaker.extratic.metals.MoltenMetalBlock
+253,dark.steel.molten,Molten Dark Steel,1300,15,3000,6000,true,ExtraTiC:moltenDarkSteel,glassmaker.extratic.metals.MoltenMetalBlock
+254,conductive.iron.molten,Molten Conductive Iron,1300,15,3000,6000,true,ExtraTiC:moltenConductiveIron,glassmaker.extratic.metals.MoltenMetalBlock
+255,electrical.steel.molten,Molten Electrical Steel,1300,15,3000,6000,true,ExtraTiC:moltenElectricalSteel,glassmaker.extratic.metals.MoltenMetalBlock
+256,energetic.alloy.molten,Molten Energetic Alloy,1300,15,3000,6000,true,ExtraTiC:moltenEnergeticAlloy,glassmaker.extratic.metals.MoltenMetalBlock
+257,phased.gold.molten,Molten Phased Gold,1300,15,3000,6000,true,ExtraTiC:moltenPhasedGold,glassmaker.extratic.metals.MoltenMetalBlock
+258,phased.iron.molten,Molten Phased Iron,1300,15,3000,6000,true,ExtraTiC:moltenPhasedIron,glassmaker.extratic.metals.MoltenMetalBlock
+259,redstone.alloy.molten,Molten Redstone Alloy,1300,15,3000,6000,true,ExtraTiC:moltenRedstoneAlloy,glassmaker.extratic.metals.MoltenMetalBlock
+260,silicon.liquid,Liquid Silicon,1300,15,3000,6000,true,ExtraTiC:liquidSilicon,glassmaker.extratic.metals.MoltenMetalBlock
+261,soularium.molten,Molten Soularium,1300,15,3000,6000,true,ExtraTiC:moltenSoularium,glassmaker.extratic.metals.MoltenMetalBlock
+262,manasteel.molten,Molten Manasteel,1300,15,3000,6000,true,ExtraTiC:moltenManasteel,glassmaker.extratic.metals.MoltenMetalBlock
+263,terrasteel.molten,Molten Terrasteel,1300,15,3000,6000,true,ExtraTiC:moltenTerrasteel,glassmaker.extratic.metals.MoltenMetalBlock
+264,elementium.molten,Molten Elementium,1300,15,3000,6000,true,ExtraTiC:moltenElementium,glassmaker.extratic.metals.MoltenMetalBlock
+265,voidmetal.molten,Molten Voidmetal,1300,15,3000,6000,true,ExtraTiC:moltenVoidmetal,glassmaker.extratic.metals.MoltenMetalBlock
+266,blutonium.molten,Molten Blutonium,1300,15,3000,6000,true,ExtraTiC:moltenblutonium,glassmaker.extratic.metals.MoltenMetalBlock
+267,ludicrite.molten,Molten Ludicrite,1300,15,3000,6000,true,ExtraTiC:moltenLudicrite,glassmaker.extratic.metals.MoltenMetalBlock
+268,bedrockium.molten,Molten Bedrockium,1300,15,3000,6000,true,ExtraTiC:moltenBedrockium,glassmaker.extratic.metals.MoltenMetalBlock
+269,mutagen,Mutagen,295,0,1000,1000,true,gendustry:fluid.Mutagen,net.bdew.gendustry.fluids.BlockFluid
+270,liquiddna,Liquid DNA,295,0,1000,1000,true,gendustry:fluid.LiquidDNA,net.bdew.gendustry.fluids.BlockFluid
+271,protein,Protein,295,0,1000,1000,true,gendustry:fluid.Protein,net.bdew.gendustry.fluids.BlockFluid
+272,syngas,Syngas,1000,0,-10,1000,true,advgenerators:syngas,net.bdew.generators.blocks.BlockSyngas
+273,endergoo,fluid.enderGoo,220,0,1500,1500,true,HardcoreEnderExpansion:ender_goo,chylex.hee.block.BlockEnderGoo
+274,hydraulicoil,Hydraulic Oil,300,0,10,3000,true,HydCraft:tile.hydraulicOil,k4unl.minecraft.Hydraulicraft.fluids.BlockFluidOil
+275,xpjuice,Liquid XP,300,10,800,1500,false,null,null
+276,etchacid,Etching Acid,300,0,1000,1000,true,PneumaticCraft:etchingAcid,pneumaticCraft.common.block.BlockFluidEtchingAcid
+277,plastic,Plastic,423,0,1000,1000,false,null,null
+278,antivenom,Anti-Venom,300,0,1000,2000,false,null,null
+279,beetlejuice,Beetle Juice,300,0,1000,1000,false,null,null
+280,energeticalloy,Molten Energetic Alloy,1300,12,3000,6000,true,ThermalSmeltery:fluid.molten.EnergeticAlloy,com.drullkus.thermalsmeltery.common.lib.TSmeltFluid
+281,phasedgold,Molten Vibrant Alloy,1300,12,3000,6000,true,ThermalSmeltery:fluid.molten.PhasedGold,com.drullkus.thermalsmeltery.common.lib.TSmeltFluid
+282,conductiveiron,Molten Conductive Iron,1300,12,3000,6000,true,ThermalSmeltery:fluid.molten.ConductiveIron,com.drullkus.thermalsmeltery.common.lib.TSmeltFluid
+283,phasediron,Molten Pulsating Iron,1300,12,3000,6000,true,ThermalSmeltery:fluid.molten.PhasedIron,com.drullkus.thermalsmeltery.common.lib.TSmeltFluid
+284,darksteel,Molten Dark Steel,1300,12,3000,6000,true,ThermalSmeltery:fluid.molten.DarkSteel,com.drullkus.thermalsmeltery.common.lib.TSmeltFluid
+285,witchery:fluidspirit,fluid.witchery:fluidspirit,300,0,500,2000,true,witchery:spiritflowing,com.emoniph.witchery.blocks.BlockFlowingSpirit
+286,witchery:hollowtears,Hollow Tears,300,0,100,1500,true,witchery:hollowtears,com.emoniph.witchery.blocks.BlockFlowingSpirit
+287,witchery:brew,fluid.witchery:brew,300,0,100,1500,true,witchery:brew,com.emoniph.witchery.brewing.BlockBrew
+288,witchery:brewgas,fluid.witchery:brewgas,300,0,1000,1000,false,null,null
+289,witchery:brewliquid,fluid.witchery:brewliquid,300,0,1000,1000,true,witchery:brewliquid,com.emoniph.witchery.brewing.BlockBrewLiquidEffect
+290,witchery:fluiddisease,fluid.witchery:fluiddisease,300,0,50,3000,true,witchery:disease,com.emoniph.witchery.blocks.BlockDisease
+291,molten.bedrockiumingots,fluid.molten.bedrockiumIngots,1300,0,3000,6000,false,null,null
+292,molten.unstableingots,fluid.molten.unstableIngots,1300,0,3000,6000,false,null,null
+293,endium,Molten Endium,300,0,1000,1000,false,null,null
+294,redstone.molten,Liquid Redstone,300,12,1000,3000,true,ProjRed|Compatibility:projectred.compatibility.liqredstone,mrtjp.projectred.compatibility.tconstruct.LiquidFiniteSubstance
+295,redmetal.molten,Molten Conductive Redmetal,300,12,2000,4000,true,ProjRed|Compatibility:projectred.compatibility.liqcondredmetal,mrtjp.projectred.compatibility.tconstruct.LiquidFiniteSubstance
+296,quartz,Molten Quartz,300,0,1000,1000,false,null,null
+297,uranium,Molten Uranium,300,0,1000,1000,false,null,null
+298,mithril,Molten Mithril,300,0,1000,1000,false,null,null
+299,aobdyellorium,Molten Yellorium,300,0,1000,1000,false,null,null
+300,draconium,Molten Draconium,300,0,1000,1000,false,null,null
+301,elntungsten,Molten Tungsten,300,0,1000,1000,false,null,null
+302,manganese,Molten Manganese,300,0,1000,1000,false,null,null
+303,eximite,Molten Eximite,300,0,1000,1000,false,null,null
+304,meutoite,Molten Meutoite,300,0,1000,1000,false,null,null
+305,prometheum,Molten Prometheum,300,0,1000,1000,false,null,null
+306,deepiron,Molten DeepIron,300,0,1000,1000,false,null,null
+307,infuscolium,Molten Infuscolium,300,0,1000,1000,false,null,null
+308,oureclase,Molten Oureclase,300,0,1000,1000,false,null,null
+309,astralsilver,Molten AstralSilver,300,0,1000,1000,false,null,null
+310,carmot,Molten Carmot,300,0,1000,1000,false,null,null
+311,rubracium,Molten Rubracium,300,0,1000,1000,false,null,null
+312,orichalcum,Molten Orichalcum,300,0,1000,1000,false,null,null
+313,adamantine,Molten Adamantine,300,0,1000,1000,false,null,null
+314,atlarus,Molten Atlarus,300,0,1000,1000,false,null,null
+315,ignatius,Molten Ignatius,300,0,1000,1000,false,null,null
+316,shadowiron,Molten ShadowIron,300,0,1000,1000,false,null,null
+317,lemurite,Molten Lemurite,300,0,1000,1000,false,null,null
+318,midasium,Molten Midasium,300,0,1000,1000,false,null,null
+319,vyroxeres,Molten Vyroxeres,300,0,1000,1000,false,null,null
+320,ceruclase,Molten Ceruclase,300,0,1000,1000,false,null,null
+321,alduorite,Molten Alduorite,300,0,1000,1000,false,null,null
+322,kalendrite,Molten Kalendrite,300,0,1000,1000,false,null,null
+323,vulcanite,Molten Vulcanite,300,0,1000,1000,false,null,null
+324,sanguinite,Molten Sanguinite,300,0,1000,1000,false,null,null
+325,zinc,Molten Zinc,300,0,1000,1000,false,null,null
+326,heeendium,Molten Endium,300,0,1000,1000,false,null,null
+327,iridium,Molten Iridium,300,0,1000,1000,false,null,null
+328,meteorite,Molten Meteorite,300,0,1000,1000,false,null,null
+329,osmium,Molten Osmium,300,0,1000,1000,false,null,null
+330,manafluid,Mana Condensate,300,0,1000,1000,true,technom:manaFluidBlock,theflogat.technomancy.common.blocks.botania.BlockManaFluid
+331,gaseousaeressentia,Aer Gas,300,7,-4,3000,false,null,null
+332,gaseousterraessentia,Terra Gas,300,7,-4,3000,false,null,null
+333,gaseousignisessentia,Ignis Gas,300,7,-4,3000,false,null,null
+334,gaseousaquaessentia,Aqua Gas,300,7,-4,3000,false,null,null
+335,gaseousordoessentia,Ordo Gas,300,7,-4,3000,false,null,null
+336,gaseousperditioessentia,Perditio Gas,300,7,-4,3000,false,null,null
+337,gaseousvacuosessentia,Vacuos Gas,300,7,-4,3000,false,null,null
+338,gaseousluxessentia,Lux Gas,300,7,-4,3000,false,null,null
+339,gaseoustempestasessentia,Tempestas Gas,300,7,-4,3000,false,null,null
+340,gaseousmotusessentia,Motus Gas,300,7,-4,3000,false,null,null
+341,gaseousgelumessentia,Gelum Gas,300,7,-4,3000,false,null,null
+342,gaseousvitreusessentia,Vitreus Gas,300,7,-4,3000,false,null,null
+343,gaseousvictusessentia,Victus Gas,300,7,-4,3000,false,null,null
+344,gaseousvenenumessentia,Venenum Gas,300,7,-4,3000,false,null,null
+345,gaseouspotentiaessentia,Potentia Gas,300,7,-4,3000,false,null,null
+346,gaseouspermutatioessentia,Permutatio Gas,300,7,-4,3000,false,null,null
+347,gaseousmetallumessentia,Metallum Gas,300,7,-4,3000,false,null,null
+348,gaseousmortuusessentia,Mortuus Gas,300,7,-4,3000,false,null,null
+349,gaseousvolatusessentia,Volatus Gas,300,7,-4,3000,false,null,null
+350,gaseoustenebraeessentia,Tenebrae Gas,300,7,-4,3000,false,null,null
+351,gaseousspiritusessentia,Spiritus Gas,300,7,-4,3000,false,null,null
+352,gaseoussanoessentia,Sano Gas,300,7,-4,3000,false,null,null
+353,gaseousiteressentia,Iter Gas,300,7,-4,3000,false,null,null
+354,gaseousalienisessentia,Alienis Gas,300,7,-4,3000,false,null,null
+355,gaseouspraecantatioessentia,Praecantatio Gas,300,7,-4,3000,false,null,null
+356,gaseousauramessentia,Auram Gas,300,7,-4,3000,false,null,null
+357,gaseousvitiumessentia,Vitium Gas,300,7,-4,3000,false,null,null
+358,gaseouslimusessentia,Limus Gas,300,7,-4,3000,false,null,null
+359,gaseousherbaessentia,Herba Gas,300,7,-4,3000,false,null,null
+360,gaseousarboressentia,Arbor Gas,300,7,-4,3000,false,null,null
+361,gaseousbestiaessentia,Bestia Gas,300,7,-4,3000,false,null,null
+362,gaseouscorpusessentia,Corpus Gas,300,7,-4,3000,false,null,null
+363,gaseousexanimisessentia,Exanimis Gas,300,7,-4,3000,false,null,null
+364,gaseouscognitioessentia,Cognitio Gas,300,7,-4,3000,false,null,null
+365,gaseoussensusessentia,Sensus Gas,300,7,-4,3000,false,null,null
+366,gaseoushumanusessentia,Humanus Gas,300,7,-4,3000,false,null,null
+367,gaseousmessisessentia,Messis Gas,300,7,-4,3000,false,null,null
+368,gaseousperfodioessentia,Perfodio Gas,300,7,-4,3000,false,null,null
+369,gaseousinstrumentumessentia,Instrumentum Gas,300,7,-4,3000,false,null,null
+370,gaseousmetoessentia,Meto Gas,300,7,-4,3000,false,null,null
+371,gaseoustelumessentia,Telum Gas,300,7,-4,3000,false,null,null
+372,gaseoustutamenessentia,Tutamen Gas,300,7,-4,3000,false,null,null
+373,gaseousfamesessentia,Fames Gas,300,7,-4,3000,false,null,null
+374,gaseouslucrumessentia,Lucrum Gas,300,7,-4,3000,false,null,null
+375,gaseousfabricoessentia,Fabrico Gas,300,7,-4,3000,false,null,null
+376,gaseouspannusessentia,Pannus Gas,300,7,-4,3000,false,null,null
+377,gaseousmachinaessentia,Machina Gas,300,7,-4,3000,false,null,null
+378,gaseousvinculumessentia,Vinculum Gas,300,7,-4,3000,false,null,null
+379,gaseousluxuriaessentia,Luxuria Gas,300,7,-4,3000,false,null,null
+380,gaseousinfernusessentia,Infernus Gas,300,7,-4,3000,false,null,null
+381,gaseoussuperbiaessentia,Superbia Gas,300,7,-4,3000,false,null,null
+382,gaseousgulaessentia,Gula Gas,300,7,-4,3000,false,null,null
+383,gaseousinvidiaessentia,Invidia Gas,300,7,-4,3000,false,null,null
+384,gaseousdesidiaessentia,Desidia Gas,300,7,-4,3000,false,null,null
+385,gaseousiraessentia,Ira Gas,300,7,-4,3000,false,null,null
+386,gaseoustempusessentia,Tempus Gas,300,7,-4,3000,false,null,null
+387,fuelgas,Fuel Gas,120,0,-50,5,true,bcadditions:fuelgasBlock,buildcraftAdditions.blocks.FluidBlockBase
+388,plasticgas,Plastic Gas,8,0,-50,5,true,bcadditions:plasticgasBlock,buildcraftAdditions.blocks.FluidBlockBase

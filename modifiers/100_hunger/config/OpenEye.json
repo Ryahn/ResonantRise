@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": ["3.2.6.8", "Hunger", "RR 3-DEV-086"]
+            "value": ["3.2.7.0", "Hunger", "RR 3-DEV-089"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",

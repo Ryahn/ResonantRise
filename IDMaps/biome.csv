@@ -117,15 +117,34 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 115,Spectral Garden,2.0,0.0,0.1,0.1,0.2,"SPOOKY, LUSH, END, FOREST",biomesoplenty.common.biome.end.BiomeGenSpectralGarden
 116,Lush River,0.7,0.8,0.1,-0.5,0.0,"RIVER, PLAINS",biomesoplenty.common.biome.overworld.tech.BiomeGenLushRiver
 117,Dry River,1.0,0.0,0.1,-0.2,0.0,"HOT, DRY, PLAINS, SANDY",biomesoplenty.common.biome.overworld.tech.BiomeGenDryRiver
+118,Twilight Lake,0.66,1.0,0.12,-1.8,0.1,OCEAN,twilightforest.biomes.TFBiomeTwilightLake
+119,Twilight Forest,0.5,0.5,0.12,0.1,0.2,FOREST,twilightforest.biomes.TFBiomeTwilightForest
+120,Dense Twilight Forest,0.7,0.8,0.12,0.2,0.2,"DENSE, FOREST",twilightforest.biomes.TFBiomeTwilightForestVariant
+121,Twilight Highlands,0.4,0.7,0.12,3.5,0.05,"CONIFEROUS, FOREST, MOUNTAIN",twilightforest.biomes.TFBiomeHighlands
+122,Mushroom Forest,0.8,0.8,0.12,0.1,0.2,"MUSHROOM, FOREST",twilightforest.biomes.TFBiomeMushrooms
+123,Twilight Swamp,0.8,0.9,0.12,-0.125,0.125,"WET, SWAMP",twilightforest.biomes.TFBiomeSwamp
+124,Twilight Stream,0.5,1.0,0.12,-0.5,0.0,RIVER,twilightforest.biomes.TFBiomeStream
+125,Snowy Forest,0.125,0.9,0.12,0.2,0.2,"COLD, CONIFEROUS, FOREST, SNOWY",twilightforest.biomes.TFBiomeSnow
 126,Ocean Oil Field,0.5,0.5,0.1,-1.0,0.1,"OCEAN, RIVER",buildcraft.energy.worldgen.BiomeGenOilOcean
 127,Elysian Forest,0.85,0.5,0.1,0.1,0.2,SANDY,erebus.world.biomes.BiomeElysianFields.BiomeElysianForest
+128,Land of Darkness,0.8,0.0,0.1,0.0,0.0,"COLD, SNOWY, WASTELAND",mods.fossil.biome.BiomeBasic
 129,Sunflower Plains,0.8,0.4,0.1,0.125,0.05,PLAINS,net.minecraft.world.biome.BiomeGenPlains
 130,Desert M,2.0,0.0,0.1,0.225,0.25,"HOT, DRY, PLAINS, SANDY",net.minecraft.world.biome.BiomeGenMutated
 131,Extreme Hills M,0.2,0.3,0.1,1.0,0.5,HILLS,net.minecraft.world.biome.BiomeGenHills
 132,Flower Forest,0.7,0.8,0.1,0.1,0.4,"FOREST, HILLS",net.minecraft.world.biome.BiomeGenForest
 133,Taiga M,0.25,0.8,0.1,0.3,0.4,HILLS,net.minecraft.world.biome.BiomeGenMutated
 134,Swampland M,0.8,0.9,0.1,-0.1,0.3,"WET, SWAMP",net.minecraft.world.biome.BiomeGenMutated
+135,Twilight Clearing,0.8,0.4,0.12,0.125,0.05,"SPARSE, PLAINS",twilightforest.biomes.TFBiomeClearing
+136,Oak Savanna,0.9,0.0,0.12,0.2,0.2,"SPARSE, FOREST",twilightforest.biomes.TFBiomeOakSavanna
+137,Firefly Forest,0.5,1.0,0.12,0.125,0.05,"LUSH, FOREST",twilightforest.biomes.TFBiomeFireflyForest
+138,Deep Mushroom Forest,0.8,1.0,0.12,0.125,0.05,"MUSHROOM, FOREST",twilightforest.biomes.TFBiomeDeepMushrooms
+139,Dark Forest Center,0.7,0.8,0.12,0.125,0.05,"DENSE, SPOOKY, MAGICAL, FOREST",twilightforest.biomes.TFBiomeDarkForestCenter
 140,Ice Plains Spikes,0.0,0.5,0.1,0.425,0.45000002,"COLD, HILLS, SNOWY",net.minecraft.world.biome.BiomeGenSnow
+141,Highlands Center,0.3,0.2,0.12,10.5,0.025,"DRY, DEAD, MESA, WASTELAND",twilightforest.biomes.TFBiomeFinalPlateau
+142,Dark Forest,0.7,0.8,0.12,0.125,0.05,"DENSE, SPOOKY, FOREST",twilightforest.biomes.TFBiomeDarkForest
+143,Enchanted Forest,0.5,0.5,0.12,0.1,0.2,"MAGICAL, FOREST",twilightforest.biomes.TFBiomeEnchantedForest
+144,Fire Swamp,1.0,0.4,0.12,0.1,0.2,"HOT, SWAMP, WASTELAND",twilightforest.biomes.TFBiomeFireSwamp
+145,Thornlands,0.3,0.2,0.12,6.0,0.1,"DRY, DEAD, HILLS, WASTELAND",twilightforest.biomes.TFBiomeThornlands
 149,Jungle M,0.95,0.9,0.1,0.2,0.4,"HOT, WET, HILLS",net.minecraft.world.biome.BiomeGenMutated
 151,JungleEdge M,0.95,0.8,0.1,0.2,0.4,"HOT, HILLS",net.minecraft.world.biome.BiomeGenMutated
 155,Birch Forest M,0.6,0.6,0.1,0.2,0.4,HILLS,null
@@ -140,7 +159,6 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 165,Mesa (Bryce),2.0,0.0,0.1,0.1,0.2,"HOT, DRY, PLAINS, SANDY",net.minecraft.world.biome.BiomeGenMesa
 166,Mesa Plateau F M,2.0,0.0,0.1,0.45,0.3,"HOT, DRY, FOREST, SANDY",net.minecraft.world.biome.BiomeGenMesa
 167,Mesa Plateau M,2.0,0.0,0.1,0.45,0.3,"HOT, DRY, PLAINS, SANDY",net.minecraft.world.biome.BiomeGenMesa
-170,BambooForest,0.7,0.8,0.1,0.1,0.2,FOREST,growthcraft.bamboo.BiomeGenBamboo
 185,fwg_default1,0.5,0.5,0.1,0.1,0.2,"HOT, COLD, DENSE, OCEAN, RIVER, FOREST, PLAINS, HILLS",fwg.biomes.BiomeDefault
 186,fwg_default2,0.5,0.5,0.1,0.1,0.2,"HOT, COLD, DENSE, OCEAN, RIVER, FOREST, PLAINS, HILLS",fwg.biomes.BiomeDefault
 187,fwg_default_snow,0.0,0.5,0.1,0.1,0.2,"COLD, DENSE, OCEAN, RIVER, FOREST, PLAINS, HILLS, SNOWY",fwg.biomes.BiomeDefaultSnow

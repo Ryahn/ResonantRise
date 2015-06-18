@@ -104,7 +104,6 @@ ID,Unlocalised name,Class
 107,Ice Cloak,WayofTime.alchemicalWizardry.common.potion.PotionIceCloak
 108,Heavy Heart,WayofTime.alchemicalWizardry.common.potion.PotionHeavyHeart
 109,Fire Fuse,WayofTime.alchemicalWizardry.common.potion.PotionFireFuse
-110,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
 111,Soul Fray,WayofTime.alchemicalWizardry.common.potion.PotionSoulFray
 112,Soul Harden,WayofTime.alchemicalWizardry.common.potion.PotionSoulHarden
 113,Deafness,WayofTime.alchemicalWizardry.common.potion.PotionDeaf
@@ -112,14 +111,9 @@ ID,Unlocalised name,Class
 115,Amphibian,WayofTime.alchemicalWizardry.common.potion.PotionAmphibian
 116,AddHeart,tombenpotter.sanguimancy.potion.PotionAddHeart
 117,RemoveHeart,tombenpotter.sanguimancy.potion.PotionRemoveHeart
-118,potion.brewcraft.angel,redgear.brewcraft.effects.EffectAngel
-119,potion.brewcraft.flight,redgear.brewcraft.effects.EffectFlight
-120,potion.brewcraft.creeper,redgear.brewcraft.effects.EffectCreeper
-121,potion.brewcraft.immunity,redgear.brewcraft.effects.EffectImmunity
-122,potion.brewcraft.frozen,redgear.brewcraft.effects.EffectFrozen
-123,potion.brewcraft.fireproof,redgear.brewcraft.effects.EffectFireproof
-124,potion.brewcraft.flame,redgear.brewcraft.effects.EffectEternalFlame
-125,potion.brewcraft.fireEater,redgear.brewcraft.effects.EffectFireEater
-126,potion.poison,redgear.brewcraft.effects.EffectVanillaThree
-127,potion.wither,redgear.brewcraft.effects.EffectVanillaThree
-128,potion.regeneration,redgear.brewcraft.effects.EffectVanillaThree
+123,Blue Curse,pixlepix.auracascade.potions.PotionBlueCurse
+124,Green Curse,pixlepix.auracascade.potions.PotionGreenCurse
+125,Orange Curse,pixlepix.auracascade.potions.PotionOrangeCurse
+126,Red Curse,pixlepix.auracascade.potions.PotionRedCurse
+127,Violet Curse,pixlepix.auracascade.potions.PotionVioletCurse
+128,Yellow Curse,pixlepix.auracascade.potions.PotionYellowCurse
