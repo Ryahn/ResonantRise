@@ -6,6 +6,41 @@ Build 089
 n/a
 
 ==New/Updated Non-Optional (Eternity) Mods/Libraries==
+CodeChickenLib [1.1.3.138]
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+n/a
+
+
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 089
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
 CodeChickenCore [1.0.7.46]
 Not ENough Items [1.0.5.111]
 
