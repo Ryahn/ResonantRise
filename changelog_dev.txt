@@ -1,5 +1,5 @@
 =================
-Build 089
+Build 090
 =================
 
 ==Modes==
@@ -7,6 +7,9 @@ n/a
 
 ==New/Updated Non-Optional (Eternity) Mods/Libraries==
 CodeChickenLib [1.1.3.138]
+Enchiridion 2 [2.0.2a]
+neiaddons [1.12.10.33]
+Wawla [1.3.0]
 
 ==New/Updated Optional Mods/Libraries==
 
@@ -17,15 +20,27 @@ n/a
 n/a
 
 --Universal--
-n/a
+ae2stuff [0.4.0.38]
+Automagy [0.25]
+bdlib [1.8.2.92]
+binnie mods [2.0-pre12]
+Botania [r1.6-193]
+Ganys End [1.10.0]
+gendustry [1.4.13.97]
+generators [0.9.14.79]
+PneumaticCraft [1.8.2-84]
+pressure [1.2.1.106]
+ProjectBlue [1.1.4]
+StevesAddons [0.10.13]
+ThermalRecycling [0.3.9.7]
+twilightforest [2.3.7]
 
 ==Removed Mods/Libraries==
 n/a
 
 ==Configs==
-n/a
-
-
+Added Some Exerimental Fluxed-Crystals Seeds for testing.
+Tweaked the Drops of Infernal Mobs, the no longer drop food, tools, or weapons. They do however now drop high end materials in Ingot/Dust/Nugget Forms depending on the mobs rarity and the materials rarity/difficulty to make. Just Thermal Foundation for the time being I plan on adding Metallurgy later. This file is universal and will work on ALL sub sets ;)
 
 ==Misc.==
 n/a
