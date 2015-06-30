@@ -72,18 +72,38 @@
             "seed":"ThaumicTinkerer:infusedSeeds",
             "block":"ThaumicTinkerer:infusedGrainBlock"
         },
-// #### End Mainline ####
-// #### Project Flux ####
+// ---- Gany's Nether ----
+        {
+            "seed":"ganysnether:quarzBerrySeeds",
+            "block":"ganysnether:quarzBerryBush",
+            "meta":7
+        },
+        {
+            "seed":"ganysnether:ghostSeeds",
+            "block":"ganysnether:spectreWheat",
+            "meta":7
+        },
+        {
+            "seed":"ganysnether:hellBushSeeds",
+            "block":"ganysnether:hellBush",
+            "meta":7
+        },
+// ---- Gany's Surface ----
+        {
+            "seed":"ganyssurface:camelliaSeeds",
+            "block":"ganyssurface:camelliaCrop",
+            "meta":7
+        },
+        {
+            "seed":"ganyssurface:beetrootSeeds",
+            "block":"ganyssurface:beetrootBlock",
+            "meta":7
+        },
 // ---- Calculator ----
         {
             "seed":"Calculator:BroccoliPlant",
             "block":"Calculator:BroccoliPlant"
-        },
-// ---- The Erebus ----
-       {
-           "seed":"erebus:cabbageCrop",
-           "block":"erebus:cabbageCrop"
-       }
+        }
 // #### End Project Flux ####
 //============================ 
 // Add Seeds Above this Block.

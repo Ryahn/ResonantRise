@@ -1,4 +1,46 @@
 =================
+Build 091/3.2.7.0
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+Aura Cascade [486]
+Buildcraft [7.0.12]
+Fluxed Cryustals 2 [1.0.1]
+Grimoire Of Gaia 3 [1.1.1]
+Immersive Engineering [0.2.4]
+RF Tools [3.11Beta1]
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+Infernal Mods - has been made optional as such is no longer automatically selected
+Summer Mod Cleaning:
+	Special sub-packs have been affected - After talking with both groups of youtubers that had us build these packs there were many many changes.
+		Project Flux - Removed: Electrical Age, Erebus, and Sanguimancy. Added Armoa1997 Core/Dimension, AuraCascade, Dark Managerie, Draconic Evolution, Fluxed Crystals 2 (replaces Fluxed Crystals), Gany's Surface/Nether/End, Grimoire of Gaia 3, Hardcore Ender Expansion, Immersive Engineering, More Chisels, Statues, Ztones, Chisel Tones.
+		Absque Sole - Removed: QuiverMob, Logistics Pipes. Added: Blood Magic, Compact Machines, Cosmetic Armor, Dark Managerie, Grimoire of Gaia 3, Immersive Engineering, Refined Relocation.
+
+-- Dev only --
+n/a
+
+=================
 Build 090
 =================
 
@@ -33,7 +75,6 @@ pressure [1.2.1.106]
 ProjectBlue [1.1.4]
 StevesAddons [0.10.13]
 ThermalRecycling [0.3.9.7]
-twilightforest [2.3.7]
 
 ==Removed Mods/Libraries==
 n/a
@@ -41,6 +82,7 @@ n/a
 ==Configs==
 Added Some Exerimental Fluxed-Crystals Seeds for testing.
 Tweaked the Drops of Infernal Mobs, the no longer drop food, tools, or weapons. They do however now drop high end materials in Ingot/Dust/Nugget Forms depending on the mobs rarity and the materials rarity/difficulty to make. Just Thermal Foundation for the time being I plan on adding Metallurgy later. This file is universal and will work on ALL sub sets ;)
+Ancient Warefare 2 - Compatability with other mods added for food and targeting thanks to @Sandriell
 
 ==Misc.==
 n/a
