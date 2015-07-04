@@ -1,4 +1,41 @@
 =================
+Build 092/3.2.7.1
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+Project Flux - ttCore\cropconfig: removal of Gany's plants to allow for start up.
+
+==Misc.==
+Project Flux - Fixes required to allow for The Yogscast to continue using their server and to allow for players to continue playing along.
+ Removed:
+  All Gany's Mods - These mods change the IDs so much that it breaks the world (this would also explain the same issue reported by various PF server owners). Sanguimancy - This was supposed to be removed anyway. Pam's Harvest The Nether - This mod is causing too many crashes and making a false positive with Thaumcraft Crafting recipies, The mod dev knows the issue exsists, no word if there will ever be a fix for it.
+ Added:
+  The Erebus - Like gany's mods this causes irevacable damage to the server, so much so that clients can not connect.
+
+-- Dev only --
+n/a
+
+=================
 Build 091/3.2.7.0
 =================
 
