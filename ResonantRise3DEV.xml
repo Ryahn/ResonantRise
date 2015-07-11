@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-092</version>
+        <version>3-DEV-093</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -174,7 +174,7 @@
              />
                     
         <mod name="Eternal" version="RR3" 
-             url="packs/ResonantRise/files/configs/091/00_eternity_3-DEV-091.zip" file="00_eternity_3-DEV-091.zip" md5="387628c19daa75512ae62fc757f8822f" download="server"
+             url="packs/ResonantRise/files/configs/093/00_eternity_3-DEV-093.zip" file="00_eternity_3-DEV-093.zip" md5="a07c63592f3938773eccf20affaac952" download="server"
              type="extract" extractto="root" optional="no" recommended="yes"
              website="http://resonant-rise.com"
              authors="Velotican, GodNero"
@@ -196,7 +196,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Resonant-Rise for the average player."
-             depends="Advanced Generators,Applied Energistics 2,AE2 Stuff,Extra Cells,BiblioCraft,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Blood Magic,Botania,Buildcraft,Buildcraft Compat,Buildcraft Additions,Logistics Pipes,Carpenter's Blocks,Chisel 2,More Chisels,Chisel Facades,ComputerCraft,Computronics,CraftHeraldry,Draconic Evolution,Ender IO,Ender Zoo,EnhancedPortals 3,Extra Utilities,Flood Lights,Forestry,Binnie's Mods,Gendustry,Magic Bees,Funky Locomotion,Gany's Surface,Gany's Nether,Gany's End,Immibis Core,Dimensional Anchors,Mekanism,Mekanism Generators,Mekanism Tools,MineFactory Reloaded,Pam's Harvestcraft,Project Red: Base,Project Red: Compatibility,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,Project Red: World,QuiverBow,QuiverMob,Redstone Armory,Redstone Arsenal,Refined Relocation,Router Reborn,Simply Jetpacks,Soul Shards: Reborn,Steve's Factory Manager,Steve's Workshop,Thaumcraft 4,Automagy,Forbidden Magic,Technomancy,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,Thermal Dynamics,Tinkers' Construct,Thermal Smeltery,ExtraTiC,Tinkers' Mechworks,Translocator,Witchery,WR-CBE,ZTones,Chisel Tones,Eureka,Steve's Addons,Fluxed Crystals 2"
+             depends="Advanced Generators,Applied Energistics 2,AE2 Stuff,Extra Cells,BiblioCraft,BiblioWoods Forestry Edition,BiblioWoods Natura Edition,Big Reactors,Blood Magic,Botania,Buildcraft,Buildcraft Compat,Buildcraft Additions,Logistics Pipes,Carpenter's Blocks,Chisel 2,More Chisels,Chisel Facades,ComputerCraft,Computronics,CraftHeraldry,Draconic Evolution,Ender IO,Ender Zoo,EnhancedPortals 3,Extra Utilities,Flood Lights,Forestry,Binnie's Mods,Gendustry,Magic Bees,Funky Locomotion,Gany's Surface,Gany's Nether,Gany's End,Immibis Core,Dimensional Anchors,Mekanism,Mekanism Generators,Mekanism Tools,MineFactory Reloaded,Pam's Harvestcraft,Project Red: Base,Project Red: Compatibility,Project Red: Integration,Project Red: Lighting,Project Red: Mechanical,Project Red: World,QuiverBow,QuiverMob,Redstone Armory,Redstone Arsenal,Refined Relocation,Router Reborn,Simply Jetpacks,Soul Shards: Reborn,Steve's Factory Manager,Steve's Workshop,Thaumcraft 4,Automagy,Forbidden Magic,Technomancy,Thaumic Energistics,Thaumic Tinkerer,Thermal Expansion,Thermal Dynamics,Tinkers' Construct,Thermal Smeltery,ExtraTiC,Tinkers' Mechworks,Translocator,Witchery,WR-CBE,ZTones,Chisel Tones,Eureka,Steve's Addons,Fluxed Crystals 2,Steve's Carts,Chromaticraft,Compacter,Grimoire of Gaia 3,Immersive Engineering,Immersive Integration,Rotarycraft,Reactorcraft,Electricraft,Solar Flux,QuantumFlux,Storage Drawers"
              />
 
     <!-- Era Selections -->
@@ -436,6 +436,14 @@
              website="https://github.com/rwtema/DenseOres"
              authors="RWTema"
              description="Randomly makes ores very dense" 
+             />
+
+        <mod name="DragonAPI" 
+             version="V6f" url="packs/ResonantRise/files/DragonAPI 1.7.10 V6f.jar" file="DragonAPI 1.7.10 V6f.jar" md5="7d50db495c0a9500d0bbe542a20ec2cf" download="server" 
+             type="mods" 
+             website="https://sites.google.com/site/reikasminecraft/dragonapi" donation="https://www.patreon.com/reikasminecraft?ty=h"
+             authors="Reika" 
+             description="DragonAPI is a function library and support mod which is relied upon by all of Reika's mods." 
              />
 
         <mod name="Enchiridion 2"
@@ -750,7 +758,7 @@
              />
         
         <mod name="Journey Map - Fairplay" version="5.0.1" 
-             url="http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2221282/download" file="JourneyMap5.0.1_FairPlay_MC1.7.10.jar" download="direct"
+             url="http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2245166/download" file="journeymap-1.7.10-5.1.0-fairplay.jar" download="direct"
              type="mods" optional="yes" selected="no" recommended="no" server="no" group="minimap"
              website="http://journeymap.techbrew.net/" donation="https://www.patreon.com/techbrew?ty=h"
              authors="techbrew"
@@ -758,11 +766,19 @@
              />
 
         <mod name="Journey Map - Unlimited" version="5.0.1" 
-             url="http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2221283/download" file="JourneyMap5.0.1_Ulimited_MC1.7.10.jar" download="direct"
+             url="http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2245168/download" file="journeymap-1.7.10-5.1.0-unlimited.jar" download="direct"
              type="mods" optional="yes" selected="no" recommended="no" server="no" group="minimap"
              website="http://journeymap.techbrew.net/" donation="https://www.patreon.com/techbrew?ty=h"
              authors="techbrew"
              description="JourneyMap is a client mod for Forge which maps your Minecraft world in real-time as you explore. You can view the map in a web browser or in-game as a Minimap or full-screen." 
+             />
+
+        <mod name="Journey Map - Server" version="5.0.1" 
+             url="http://minecraft.curseforge.com/mc-mods/225341-journeymap-server/files/2232619/download" file="JourneyMapServer1.0.5_MC1.7.10.jar" download="direct"
+             type="mods" optional="yes" selected="no" recommended="no" server="yes" client="no" group="minimap"
+             website="http://www.curse.com/mc-mods/minecraft/225341-journeymap-server" donation="https://www.patreon.com/techbrew?ty=h"
+             authors="techbrew, mysticdrew"
+             description="JourneyMap Server is a server side utility which supports the use of the JourneyMap Client Mod. As of the 1.0 release, the jar file can be used in both Forge servers and Bukkit servers. Allows Server control of Radar and Cave Mapping, as well as, Multi-world Support for Maps and Waypoints. Server owners are encouaged to visit the curse page for Journey Map - Server on our mods spreadsheet provided by ATL."
              />
 
         <mod name="Mobius Core" version="1.2.5" 
@@ -895,6 +911,14 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="A massive expansion to Applied Energistics. Store fluids and more." 
              />
         
+        <mod name="AgriCraft" 
+             version="1.3.1" url="packs/ResonantRise/files/AgriCraft-1.7.10-1.3.1.jar" file="AgriCraft-1.7.10-1.3.1.jar" md5="ed876a66b8b8b113bd4cbec06ca3af7d" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="http://minecraft.curseforge.com/mc-mods/225635-agricraft" 
+             authors="InfinityRaider" 
+             description="Agricultural farming extended" 
+             />
+
         <mod name="Archimedes&apos; Ships" version="1.7.1" 
              url="packs/ResonantRise/files/3.x/ArchimedesShips-1.7.1.jar" file="ArchimedesShips-1.7.1.jar" md5="e81328f9876e69d91a53242be1fc62da" download="server" 
              type="mods" optional="yes" recommended="no"
@@ -1095,6 +1119,14 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Adds a chisel item that lets you carve blocks like cobblestone or sandstone. Adds two new blocks to world generation: marble and limestone, which can be be carved and crafted into many various building materials." 
              />
 
+        <mod name="Chromaticraft" 
+             version="V6f" url="packs/ResonantRise/files/ChromatiCraft 1.7.10 V6f.jar" file="ChromatiCraft 1.7.10 V6f.jar" md5="bf1bcaf946b9ceee93ddda490068c588" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="https://sites.google.com/site/reikasminecraft/chromaticraft" donation="https://www.patreon.com/reikasminecraft?ty=h"
+             authors="Reika" 
+             description="ChromatiCraft is a large exploration-based magic mod centered around harnessing and focusing the power of the 16 colors of crystal energy present in the Minecraft world." 
+             />
+
         <mod name="More Chisels" 
              version="1.7.10-1.0-20" url="packs/ResonantRise/files/3.x/MoreChisels-1.7.10-1.0-20.jar" file="MoreChisels-1.7.10-1.0-20.jar" md5="64d31dc47d70ea74b8a51d20ec7a1a8f" download="server"
              type="mods" optional="yes" recommended="no" colour="Chisel" linked="Chisel 2" depends="Chisel" 
@@ -1124,6 +1156,14 @@ if more then one parent the first parent in the alphabet, unless second parent i
              website="http://www.curse.com/mc-mods/minecraft/224218-compact-machines" 
              authors="Davenonymous" 
              description="Shrink (most of) your factory into a single block!" 
+             />
+
+        <mod name="Compacter" 
+             version="0.1.2.8" url="packs/ResonantRise/files/compacter-0.1.2.8-mc1.7.10.jar" file="compacter-0.1.2.8-mc1.7.10.jar" md5="38d2bde54dfb7f78697da4172936fa2a" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="http://minecraft.curseforge.com/mc-mods/231549-compacter" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/mc-mods/231549-compacter&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http://mine" 
+             authors="bdew" 
+             description="Rapidly compacts items that can be crafted in 2x2 or 3x3 pattern" 
              />
 
         <mod name="ComputerCraft" version="1.73" 
@@ -1428,11 +1468,19 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="Immersive Engineering" 
-             version="0.2.4" url="packs/ResonantRise/files/3.x/ImmersiveEngineering-0.2.4.jar" file="ImmersiveEngineering-0.2.4.jar" md5="70329c0461444a8bab5b9402011bac85" download="server" 
+             version="0.3.3" url="packs/ResonantRise/files/ImmersiveEngineering-0.3.3.jar" file="ImmersiveEngineering-0.3.3.jar" md5="39488ceb6411fefbe1465f9a349133c1" download="server" 
              type="mods" optional="yes" recommended="no"
              website="http://www.curseforge.com/projects/231951/" 
              authors="BluSunrize,Damien A.W. Hazard" 
              description="A retro-futuristic tech mod!" 
+             />
+
+        <mod name="Immersive Integration" 
+             version="0.3.0" url="packs/ResonantRise/files/immersiveintegration-0.3.0.jar" file="immersiveintegration-0.3.0.jar" md5="bb24ac26ed7890aefe9bc269bb14cc11" download="server" 
+             type="mods" linked="Immersive Engineering" depends="Immersive Engineering" optional="yes" recommended="no"
+             website="https://github.com/UnwrittenFun/ImmersiveIntegration" 
+             authors="UnwrittenFun" 
+             description="Adds ME wire connectors to use IE style wires with AE" 
              />
 
         <mod name="IndustrialCraft 2" 
@@ -1815,6 +1863,28 @@ if more then one parent the first parent in the alphabet, unless second parent i
              description="Bringing more RF based tools and machines to the table" 
              />
 
+         <mod name="Rotarycraft" 
+             version="V6f" url="packs/ResonantRise/files/RotaryCraft 1.7.10 V6f.jar" file="RotaryCraft 1.7.10 V6f.jar" md5="e42cf422439e23c7e99c2d83e4f6a591" download="server" type="mods"  optional="yes" recommended="no"
+             website="https://sites.google.com/site/reikasminecraft/rotarycraft" donation="https://www.patreon.com/reikasminecraft?ty=h"
+             authors="Reika" 
+             description="RotaryCraft is a large industrial-style mod, akin to the likes of BuildCraft, IndustrialCraft, ThermalExpansion, and Minefactory Reloaded." 
+             />
+
+        <mod name="Electricraft" 
+             version="V6a" url="packs/ResonantRise/files/ElectriCraft 1.7.10 V6a.jar" file="ElectriCraft 1.7.10 V6a.jar" md5="1c799710daadffa5a285ec33ba5544f9" download="server" 
+             type="mods" optional="yes" recommended="no" linked="Rotarycraft" depends="Rotarycraft"
+             website="https://sites.google.com/site/reikasminecraft/electricraft" donation="https://www.patreon.com/reikasminecraft?ty=h"
+             authors="Reika" 
+             description="ElectriCraft adds a new way to transport and store RotaryCraft power." />
+
+        <mod name="Reactorcraft" 
+             version="V6e" url="packs/ResonantRise/files/ReactorCraft 1.7.10 V6e.jar" file="ReactorCraft 1.7.10 V6e.jar" md5="9435ee83b4919ece3c0a1376bc08c509" download="server" 
+             type="mods" optional="yes" recommended="no" linked="Rotarycraft" depends="Rotarycraft"
+             website="https://sites.google.com/site/reikasminecraft/reactorcraft" donation="https://www.patreon.com/reikasminecraft?ty=h"
+             authors="Reika" 
+             description="ReactorCraft is a mod that adds realistic nuclear reactors, both fission and fusion, to Minecraft." 
+            />
+
         <mod name="Router Reborn" 
              version="1.7.10-1.2.0.16-universal" url="packs/ResonantRise/files/3.x/RouterReborn-1.7.10-1.2.0.16-universal.jar" file="RouterReborn-1.7.10-1.2.0.16-universal.jar" md5="12fb5991f2f260942b5379bac5afac42" download="server"
              type="mods" optional="yes" recommended="no"
@@ -1845,6 +1915,14 @@ if more then one parent the first parent in the alphabet, unless second parent i
              website="http://www.minecraftforum.net/topic/2548594-"
              authors="tonius11"
              description="This is a small mod that adds Redstone Flux-powered jetpacks to the game" 
+             />
+
+        <mod name="Solar Flux" 
+             version="0.8a" url="packs/ResonantRise/files/SolarFlux-1.7.10-0.8a.jar" file="SolarFlux-1.7.10-0.8a.jar" md5="d9a7292ca3210f2faa6c249faa72a12b" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="http://www.curseforge.com/projects/223548/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/mc-mods/223548-solar-flux&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=balzard%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http://mine" 
+             authors="Nauktis" 
+             description="Solar Panels producing Redstone Flux" 
              />
 
         <mod name="Soul Shards: Reborn" version="RC3" 
@@ -2156,10 +2234,42 @@ if more then one parent the first parent in the alphabet, unless second parent i
 
         <mod name="Custom Main Menu" version="1.1" 
              url="packs/ResonantRise/files/3.x/CustomMainMenu-MC1.7.10-1.1.jar" file="CustomMainMenu-MC1.7.10-1.1.jar" md5="cc33db7227bb636731e8b1ee2a8b6c1e" download="server" 
-             type="mods" server="no"
+             type="mods" server="no" optional="yes" recommended="no"
              website="http://www.curse.com/mc-mods/minecraft/226406-" 
              authors="lumien" 
              description="Allows you to edit the mainmenu using json" 
+             />
+
+        <mod name="Default Keyconfig" 
+             version="1.0.4" url="packs/ResonantRise/files/defaultkeys-mc1.7.10-1.0.4.jar" file="defaultkeys-mc1.7.10-1.0.4.jar" md5="329fef9c3c3cdc81d5884526d5432db0" download="server" 
+             type="mods" optional="yes" recommended="no" server="no"
+             website="http://www.curseforge.com/projects/232131/" 
+             authors="BlayTheNinth" 
+             description="A way for modpacks to ship a default key configuration without having to include an options.txt file." 
+             />
+
+        <mod name="Emotes" 
+             version="1.0.1" url="packs/ResonantRise/files/Emotes 1.0.1.jar" file="Emotes 1.0.1.jar" md5="a5224b8fc31c520eea7f51d879e036ff" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="http://www.curseforge.com/projects/231451/" 
+             authors="Vazkii" 
+             description="Wave! Dance! Facepalm! Emotes Mod! Try /emote list for a list of emotes." 
+             />
+
+        <mod name="QuantumFlux" 
+             version="1.7.10-1.2.1" url="packs/ResonantRise/files/QuantumFlux-1.7.10-1.2.1.jar" file="QuantumFlux-1.7.10-1.2.1.jar" md5="7bb789e81084c06354c0b5a804e9bef9" download="server" 
+             type="mods" optional="yes" recommended="no" 
+             website="http://www.curseforge.com/projects/228609/" 
+             authors="Jotato" 
+             description="Wireless Redstone Flux" 
+             />
+
+        <mod name="Storage Drawers" 
+             version="1.5.10" url="packs/ResonantRise/files/StorageDrawers-1.7.10-1.5.10.jar" file="StorageDrawers-1.7.10-1.5.10.jar" md5="71f8ff6323e2fcd5615509639369790f" download="server" 
+             type="mods" optional="yes" recommended="no"
+             website="http://www.jaquadro.com/" 
+             authors="jaquadro" 
+             description="Multi-drawer storage blocks for quick storage and retrieval." 
              />
 
 <!-- This section is for DEV ONLY mods these should NEVER be put into public versions, EVER!. -->

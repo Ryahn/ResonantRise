@@ -1,4 +1,48 @@
 =================
+Build 093
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+DragonAPI [6F]
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+Journey Map Fairplay [5.1.0]
+Journey Map Unlimited [5.1.0]
+
+--Server Only--
+Journey Map Server [1.0.5]
+
+--Universal--
+Chromaticraft [6F]
+Compater [0.1.2.8]
+Electricraft [6F]
+Equivelent Exchange 3 [0.3.507]
+Immersive Engineering [0.3.3]
+Immersive Integration [0.3.0]
+Quantum Flux [1.2.1]
+ReactorCraft [6F]
+RotaryCraft [6F]
+Solar Flux [0.8A]
+Storage Drawers [1.5.10]
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 092/3.2.7.1
 =================
 
