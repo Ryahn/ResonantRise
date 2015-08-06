@@ -1,4 +1,124 @@
 =================
+Build 094
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+Advanced Generators [0.9.14.89]
+AE2 stuff [0.4.2.43]
+AgriCraft [1.4.0-alpha-4]
+Ancient Warfare [2.4.106-beta-FULL]
+AOBD [2.7.1]
+Applied Energistics2 [rv2-stable-10]
+AsieLib [0.4.2]
+AuraCascade [504]
+Automagy [0.26]
+BDlib [1.9.0.94]
+Binnie's Mods [2.0-pre13]
+Biomes O' Plenty [2.1.0.1364]
+Botania [r1.7-201]
+Buildcraft [7.0.13]
+Buildcraft Additions [2.2.0]
+Calculator [1.7.5]
+Chisel 2 [2.4.1.40]
+ChromatiCraft  [V7b]
+CoFHCore-[1.7.10]3.0.3B2-294
+CoFHLib-[1.7.10]1.0.3B2-169
+ComputerCraft [1.74]
+Computronics [1.5.5]
+Dimensional-Anchor [59.0.3]
+DragonAPI [V7b]
+ElectriCraft [V7b]
+Ender Compass [1.0]
+Equivalent Exchange 3 [0.3.507]
+Extra Cells [2.2.73b129]
+Fluxed-Crystals 2 [1.0.3]
+Forbidden Magic [0.57]
+Forestry [3.6.2.19]
+Gendustry [1.5.2.107]
+growthcraft-apples [2.1.0]
+growthcraft-bamboo [2.1.0]
+growthcraft-bees [2.1.0]
+growthcraft-cellar [2.1.0b]
+growthcraft-core [2.1.0a]
+growthcraft-fishtrap [2.1.0a]
+growthcraft-grapes [2.1.0]
+growthcraft-hops [2.1.0]
+growthcraft-rice [2.1.0a]
+HardcoreEnderExpansion  MC-1.7.10  v1.8.2
+IC2NuclearControl-2.2.5a-GoingForTheKill
+ImmersiveEngineering-0.4.0
+immersiveintegration-0.4.0
+immibis-core-59.1.1
+industrialcraft-2-2.2.746-experimental
+industrialcraft-2-2.2.746-experimental-api
+k4lib 0.1.50-universal
+KoreSample 1.3.2
+magicalcrops-4.0.0_PUBLIC_BETA_5
+magicalcropsarmoury-4.0.0_PUBLIC_BETA_4
+magicalcropsdeco-4.0.0_PUBLIC_BETA_4a
+magicbees 2.3.2
+malisiscore 0.12.4
+malisisdoors 1.9.1
+Mekanism 8.1.5.246
+MekanismGenerators 8.1.5.246
+MekanismTools 8.1.5.246
+ModTweaker-2-0.8.3
+Morpheus-1.8-2.0.41
+OpenComputers-1.5.13.28-universal
+OpenPeripheral AIO-4b
+PneumaticCraft 1.9.2-88-universal
+PowerConverters-1.7.10_3.3.0-jenkins.74
+pressure-1.2.1.108
+ProjectE PE1.7.2
+QuantumFlux 1.2.3
+ReactorCraft [V7b]
+RedstoneArsenal-[1.7.10]1.1.1B1-85
+rftools-3.11
+RotaryCraft [V7b]
+RouterReborn 1.2.0.24-universal
+Sanguimancy 1.1.9-31
+ScottsTweaks 1.3.1
+SoulShards-TOW 0.1-RC9-7
+StorageDrawers 1.5.11
+thaumicenergistics-0.8.10.7
+ThaumicTinkerer-2.5 507
+ThermalDynamics-[1.7.10]1.1.0B2-149
+ThermalExpansion-[1.7.10]4.0.2B2-210
+ThermalFoundation-[1.7.10]1.2.0B1-95
+ttCore-0.1.1-78
+WAILAPlugins-0.1.0-16
+Wawla-1.3.1-1.7.10
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+Agricraft - Disabled VIllager, causes crash on startup.
+Electricraft - Removed Ores from Generation.
+Immersive Engineering - Removed Ores from Generation.
+Mekanisim - Voice Server is now disabled by default.
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 093
 =================
 
@@ -952,7 +1072,7 @@ Tinkers' Construct [1.8.4a]
 Technomancy  [0.10.g]
 Territorial Dealings [1.7.10_b9]
 Thaumic Energistics [0.8.9.1b-rv2]
-Thaumic Tinkerer  [2.5-1.7.10-489]
+Thaumic Tinkerer  [2.5 489]
 Thermal Dynamics [1.0.0-122]
 Thermal Expansion [4.0.1-182]
 Thermal Smeltery [1.2.1]
