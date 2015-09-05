@@ -2,7 +2,6 @@
 var ThaumBlock = <Thaumcraft:blockCosmeticSolid:4>;
 var Redstone = <ore:dustRedstone>;
 var Slime = <ore:slimeball>;
-var Resin = <ore:materialResin>;
 
 //Gany's Redstones
 var CStone = <ganyssurface:colouredRedstone>;
@@ -42,18 +41,10 @@ recipes.addShaped(<ganyssurface:colouredRedstone:15> * 9, [[<ore:dustRedstone>, 
 
 //OreDict Tweaks
 ///Slime
-Slime.add(<Eln:Eln.sharedItem:4096>);
 Slime.add(<Pistronics2:Glue>);
 Slime.add(<Pistronics2:Super Glue>);
 Slime.add(<Pistronics2:Redioactive Glue>);
 Slime.add(<Pistronics2:Redioactive Super Glue>);
-
-///Resin
-Resin.add(<minecraft:slime_ball>);
-Resin.add(<Pistronics2:Glue>);
-Resin.add(<Pistronics2:Super Glue>);
-Resin.add(<Pistronics2:Redioactive Glue>);
-Resin.add(<Pistronics2:Redioactive Super Glue>);
 
 //Removal of basic recipe
 recipes.removeShaped(<eplus:tile.advancedEnchantmentTable>);
