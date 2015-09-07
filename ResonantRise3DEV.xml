@@ -2285,7 +2285,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              type="extract" extractto="root" optional="yes" recommended="no"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
-             description="Please do not select with Era modes."
+             description="Use at your own risk."
              />
 
         <mod name="Magical Crops"
@@ -2298,7 +2298,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
 
         <mod name="Magical Crops Armoury"
              version="4.0.0_PUBLIC_BETA_4" url="packs/ResonantRise/files/3.x/magicalcropsarmoury-4.0.0_PUBLIC_BETA_4.jar" file="magicalcropsarmoury-4.0.0_PUBLIC_BETA_4.jar" md5="b3ad067ceeb92ef0216f3a4765a9b9dc" download="server"
-             type="mods" optional="yes" recommended="no" group="rftools" warning="MCrop"
+             type="mods" optional="yes" recommended="no" linked="Magical Crops" depends="Magical Crops" warning="MCrop"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with" donation="http://www.patreon.com/Mark719"
              authors="Mark719"
              description="Farm your resources!" 
@@ -2306,7 +2306,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
 
         <mod name="Magical Crops Decoration"
              version="4.0.0_PUBLIC_BETA_4a" url="packs/ResonantRise/files/3.x/magicalcropsdeco-4.0.0_PUBLIC_BETA_4a.jar" file="magicalcropsdeco-4.0.0_PUBLIC_BETA_4a.jar" md5="ca0cd088abe7ed8d56ac753c4acc1c0f" download="server"
-             type="mods" optional="yes" recommended="no" group="rftools" warning="MCrop"
+             type="mods" optional="yes" recommended="no" linked="Magical Crops" depends="Magical Crops" warning="MCrop"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with" donation="http://www.patreon.com/Mark719"
              authors="Mark719"
              description="Farm your resources!" 
