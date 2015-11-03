@@ -1,4 +1,234 @@
 =================
+Build 095
+=================
+
+==Dependancies (Core)==
+	Baubles
+	CodeChickenLib
+	Commons-Codec
+	Commons-Compress
+	ForgeMultipart
+	ForgeRelocation
+	RelocationFMP
+	libsandstone
+	MrTJPCore
+
+==Lite (Core)==
+	Applied Energistics 2
+		AE2 Stuff
+		Extra Cells
+	Apple Core
+	Another One Bites The Dust
+	Asie Lib
+	Backpacks
+	BdLib
+	Biblio Craft
+		Biblio Natura
+	Big Reactors
+	Blood Magic
+	Chisel 2
+	CodeChickenCore
+	CoFH Core
+	CoFH Lib
+	ComputerCraft
+	Dense Ores
+	Dimensional Anchors
+	Enchiridion 2
+	Ender Compass
+	Ender Core
+	Ender IO
+	Ender Storage
+	Extra Utilities
+	Gany's End
+	Gany's Nether
+	Gany's Surface
+	GrowthCraft AIO
+	Guide-API
+	Immibis Core
+	INPure Core
+	Iron Chests
+	IvToolkit
+		Recurrent Complex
+	JABBA
+	Java 7 Checker
+	Kore Sample
+		Scott's Tweaks
+	LunatriusCore
+	Mantle
+		Natura
+		Tinkers' Construct
+			Tinkers' Mechworks
+			Extra TiC
+	Mine Factory Reloaded
+	Mine Tweaker
+	Mod Tweaker 2
+	Project Red: Base
+		Compatability
+		Integration
+		Lighting
+		Mechanical
+		World
+	NEI Addons
+	NEI Integration
+	Not Enougg Items
+	Not Enough Keys
+	Not Enough Resources
+	Nether Ores
+	OpenEye
+	OpenModsLib
+	OpenBlocks
+	Pam's Harvestcraft
+	Random Things
+	Refined Reloaction
+	Simply Jetpacks
+	Statues
+	Thaumcraft
+		Automagy
+		Forbidden Magic
+		Thaumic Tinkerer
+		Thaumic Energistics
+	Thermal Dynamics
+	Thermal Expansion
+		Smeltery
+		Arsenal
+		Armory
+	Thermal Foundation
+	Translocator
+	Waila
+	Waila Harvestability
+	Waila Plugins
+	WAWLA
+	WR-CBE
+	EiraIRC Client Config
+
+==Mainline (Optional/Recomended)==
+	Advanced Generators
+	Botania
+	Buildcraft
+		Buildcraft Additions
+		Buildcraft Compat
+		Eureka
+		Logistics Pipes
+	Carpenter's Blocks
+	Chisel 2
+		Chisel Facades
+		More Chisel
+	Computronics
+	Draconic Evolution
+	EnderZoo
+	Enhanced Portals 3
+	Forestry
+		BiblioWoods Forestry
+		Binnie's Mods
+		Gendustry
+		Magic Bee's
+	Grimoire of Gaia 3
+	Immersive Engineering
+		Immersive Integration
+	Mekanism
+		Mekanism Tools
+		Mekanism Generators
+	QuiverBow
+	Railcraft
+	Solar Flux
+	Soul SHards: Reborn
+	Steve's Carts
+	Steve's Factory Manager
+		Steve's Addons
+	Steve's Workshop
+	Witchery
+	Ztones
+		Chisel Tones
+
+==Optionals==
+	Ancient Warfare 2
+	Aromacore1997
+		Dim World
+	Aura Cascade
+	Biomes o' Plenty
+		BiblioWoods BoP Ed
+	Calculator
+	Compact Machines
+	Cosmetic Armor
+	Dark Managerie
+	Decocraft
+	Fastcraft
+	Floodlights
+	Garden Stuff
+	HEE
+	Headcrumbs
+	Infernal Mobs
+	Immibis' Peripherals
+	Magical Crops (Cannot be used with Opis/MapWriter)
+		Magical Crops Armoury
+		Magical Crops Decoration
+	Open Computers
+	Open Peripheral AIO 
+	Ore Dictionary Converter
+	Pistronics
+	Pneumaticraft
+	Pressure Pipes
+	Primitive Mobs
+	Project Blue
+	Quiver Mob
+	Redstone Paste
+	Refined Relocation
+	Reliquary
+	RF Tools
+	Router Reborn
+	Sanguimancy
+	Super Crafting Frame
+	Thermal Recycling
+	Iguana Tinker Tweaks
+	Tubes
+	Veinminer
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+	Archimedies' Ships
+	Artifacts
+	Artifice
+	Balkon's
+	Chococraft
+	Ex Nihilio
+		Ex Astris
+	Flaxbeard's
+	Greg's Lighting
+	Hunger Overhaul
+	Industrial Craft 2 (NOT THE API)
+		Add Ons
+	K4Lib
+		Hydraulicraft
+	Lava Monsters
+	Malisis Core
+		Malisis Doors
+	Metallurgy Core
+		Metallurgy
+	Pam's Harvest the Nether
+	Power Converters
+	Primitive Mobs
+	Project E
+	Statues (No Longer Maintained)
+	The Erebus
+
+==Configs==
+Complete Reset to all configs All IDs have been Organized (where allowed) Expect errors in settings, .
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 094
 =================
 
